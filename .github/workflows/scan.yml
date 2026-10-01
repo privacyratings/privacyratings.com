@@ -58,7 +58,9 @@ jobs:
           TESTS: ${{ inputs.tests || 'github,observatory,ssllabs,internetnl,mail,trackers' }}
           ONLY: ${{ inputs.only }}
         run: |
-          args=(--limit "$LIMIT" --tests "$TESTS")
+          # Stop starting new tests at 300 minutes, so the run ends and commits before the
+          # 330-minute job timeout. Unfinished entries are tested first on the next run.
+          args=(--limit "$LIMIT" --tests "$TESTS" --max-minutes 300)
           if [ -n "$ONLY" ]; then args+=(--only "$ONLY"); fi
           node scripts/scan.js "${args[@]}"
       - name: Commit results

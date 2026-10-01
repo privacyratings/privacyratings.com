@@ -9,6 +9,11 @@
 //   node scripts/scan.js --tests observatory     Run only some tests (comma-separated)
 //   node scripts/scan.js --tests mail-dns        Email DNS checks only, without connecting to IMAP, POP3 or SMTP
 //   node scripts/scan.js --tests trackers        Third-party trackers on each website's home page
+//   node scripts/scan.js --max-minutes 300       Stop starting new tests after 300 minutes and save
+//
+// The tests (GitHub, Observatory, SSL Labs, mail, trackers) run side by side, each with its own
+// concurrency, and every result is saved as soon as it is in, so a cancelled or timed-out run
+// keeps its work.
 //
 // Internet.nl ignores --limit and is skipped with --only: each batch request covers up to 5000
 // domains, oldest results first, and at most 2 requests are made in any 7 days, as recorded in
@@ -39,6 +44,11 @@ const KNOWN_TESTS = new Set([...ALL_TESTS, 'mail-dns']);
 const tests = new Set((opt('tests') || ALL_TESTS.join(',')).split(',').map((t) => t.trim()).filter(Boolean));
 const limit = opt('limit') ? Number(opt('limit')) : Infinity;
 const only = opt('only');
+// Stop starting new tests after this many minutes and save what is done, so a long run ends
+// with its results committed instead of being cut off by the job timeout.
+const maxMinutes = opt('max-minutes') ? Number(opt('max-minutes')) : Infinity;
+const deadline = Date.now() + maxMinutes * 60_000;
+const late = () => Date.now() > deadline;
 
 // Fail loudly on typos, instead of silently testing nothing.
 const unknownTests = [...tests].filter((t) => !KNOWN_TESTS.has(t));
@@ -48,6 +58,10 @@ if (unknownTests.length || !tests.size) {
 }
 if (limit !== Infinity && !(Number.isInteger(limit) && limit >= 0)) {
   console.error(`--limit must be a whole number, got ${JSON.stringify(opt('limit'))}`);
+  process.exit(1);
+}
+if (maxMinutes !== Infinity && !(maxMinutes > 0)) {
+  console.error(`--max-minutes must be a positive number, got ${JSON.stringify(opt('max-minutes'))}`);
   process.exit(1);
 }
 if (only !== undefined && !/^[a-z0-9-]+\/[a-z0-9-]+$/.test(only)) {
@@ -131,7 +145,7 @@ async function getJson(url, init = {}, tries = 3) {
 async function pool(items, size, fn) {
   const queue = [...items];
   const workers = Array.from({ length: Math.min(size, queue.length) }, async () => {
-    while (queue.length) await fn(queue.shift());
+    while (queue.length && !late()) await fn(queue.shift());
   });
   await Promise.all(workers);
 }
@@ -183,6 +197,7 @@ async function ssllabs(domain) {
   const started = Date.now();
   while (r.status !== 'READY' && r.status !== 'ERROR') {
     if (Date.now() - started > 20 * 60_000) return { error: 'Timed out', tested_at: now() };
+    if (late()) return null;
     await sleep(r.status === 'IN_PROGRESS' ? 15_000 : 10_000);
     r = await getJson(q(''), { headers });
   }
@@ -193,6 +208,18 @@ async function ssllabs(domain) {
   if (!grades.length) return { error: 'No endpoint could be graded', report, tested_at: now() };
   const worst = grades.sort((a, b) => SSL_ORDER.indexOf(b) - SSL_ORDER.indexOf(a))[0];
   return { grade: worst, endpoints: grades.length, report, tested_at: now() };
+}
+
+// How many assessments SSL Labs lets this client run at once (fewer than its maximum, to leave room).
+async function ssllabsSlots() {
+  const email = process.env.SSLLABS_EMAIL;
+  try {
+    const info = await getJson(email ? 'https://api.ssllabs.com/api/v4/info' : 'https://api.ssllabs.com/api/v3/info', { headers: email ? { email } : {} }, 1);
+    const max = Number(info.maxAssessments) - Number(info.currentAssessments || 0);
+    if (Number.isFinite(max) && max > 1) return Math.min(10, max - 1);
+  } catch {}
+
+  return 3;
 }
 
 // ---------- Internet.nl batch API ----------
@@ -337,7 +364,7 @@ async function internetnlRun(client, targets) {
 
     save();
     if (!active.length) break;
-    if (Date.now() - started + INTERNETNL_POLL > INTERNETNL_WAIT) {
+    if (Date.now() - started + INTERNETNL_POLL > INTERNETNL_WAIT || late()) {
       for (const r of active) console.log(`  internet.nl ${r.kind}: request ${r.request_id} still running, results are collected on a later run.`);
       break;
     }
@@ -413,53 +440,107 @@ async function main() {
   const scanned = (e) => e.domain && byId[e.category].type === 'service';
   const has = (e, t) => byId[e.category].scans.includes(t);
 
-  if (tests.has('github')) {
-    await pool(entries, 4, async ({ e, key }) => {
+  // Which tests each entry still needs. An entry gets a new scanned_at (and moves to the back of
+  // the rotation) only when all of them ran, so a run cut short starts with the rest next time.
+  const pending = new Map(entries.map(({ key }) => [key, new Set()]));
+  const plan = (list, test) => {
+    for (const { key } of list) pending.get(key).add(test);
+    return list;
+  };
+
+  const meta = (e, r) => {
+    if (e.domain) r.domain = e.domain;
+    if (e.mail_domain) r.mail_domain = e.mail_domain;
+    return r;
+  };
+
+  // Save after every test, so results survive a timeout or a cancelled run.
+  const byKey = new Map(entries.map((x) => [x.key, x]));
+  const saved = new Set();
+  const save = (key, test) => {
+    const r = meta(byKey.get(key).e, results.get(key));
+    const left = pending.get(key);
+    if (test) left.delete(test);
+    if (!left.size) {
+      r.scanned_at = now();
+      saved.add(key);
+    }
+    writeScan(key, r);
+  };
+
+  let stopping = false;
+  for (const signal of ['SIGINT', 'SIGTERM']) {
+    process.on(signal, () => {
+      if (stopping) return;
+      stopping = true;
+      console.warn(`Received ${signal}, results so far are saved.`);
+      process.exit(130);
+    });
+  }
+
+  const githubList = plan(entries.filter(({ e }) => tests.has('github') && (e.source || '').startsWith('https://github.com/')), 'github');
+  const observatoryList = plan(entries.filter(({ e }) => tests.has('observatory') && scanned(e) && has(e, 'observatory')), 'observatory');
+  const ssllabsList = plan(entries.filter(({ e }) => tests.has('ssllabs') && scanned(e) && has(e, 'ssllabs')), 'ssllabs');
+  const mailList = plan(entries.filter(({ e }) => (tests.has('mail') || tests.has('mail-dns')) && scanned(e) && has(e, 'mail') && e.mail_domain), 'mail');
+  const trackerList = plan(entries.filter(({ e }) => tests.has('trackers') && /^https:\/\//.test(e.website || '')), 'trackers');
+
+  const runGithub = () =>
+    pool(githubList, 4, async ({ e, key }) => {
       try {
         const g = await github(e);
         if (g) results.get(key).github = g;
       } catch (err) {
         console.warn(`  github ${e.slug}: ${err.message}`);
       }
+
+      save(key, 'github');
     });
-  }
 
-  if (tests.has('observatory')) {
-    // The public API allows one scan per host per minute, so run one at a time.
-    for (const { e, key } of entries.filter(({ e }) => scanned(e) && has(e, 'observatory'))) {
+  // The Observatory API allows one scan per host per minute; every entry is a different host,
+  // so a few run at once.
+  const runObservatory = () =>
+    pool(observatoryList, 4, async ({ e, key }) => {
       const bad = await publicHost(e.domain);
-      if (bad) {
-        console.warn(`  observatory ${e.domain}: skipped, ${bad}`);
-        continue;
+      if (bad) console.warn(`  observatory ${e.domain}: skipped, ${bad}`);
+      else {
+        try {
+          results.get(key).observatory = merge(results.get(key).observatory, await observatory(e.domain));
+          console.log(`  observatory ${e.domain}: ${results.get(key).observatory.grade || results.get(key).observatory.error}`);
+        } catch (err) {
+          console.warn(`  observatory ${e.domain}: ${err.message}`);
+        }
       }
-      try {
-        results.get(key).observatory = merge(results.get(key).observatory, await observatory(e.domain));
-        console.log(`  observatory ${e.domain}: ${results.get(key).observatory.grade || results.get(key).observatory.error}`);
-      } catch (err) {
-        console.warn(`  observatory ${e.domain}: ${err.message}`);
-      }
-    }
-  }
 
-  if (tests.has('ssllabs')) {
-    await pool(entries.filter(({ e }) => scanned(e) && has(e, 'ssllabs')), 3, async ({ e, key }) => {
-      const bad = await publicHost(e.domain);
-      if (bad) {
-        console.warn(`  ssllabs ${e.domain}: skipped, ${bad}`);
-        return;
-      }
-      try {
-        results.get(key).ssllabs = merge(results.get(key).ssllabs, await ssllabs(e.domain));
-        console.log(`  ssllabs ${e.domain}: ${results.get(key).ssllabs.grade || results.get(key).ssllabs.error}`);
-      } catch (err) {
-        console.warn(`  ssllabs ${e.domain}: ${err.message}`);
-      }
+      save(key, 'observatory');
     });
-  }
 
-  if (tests.has('mail') || tests.has('mail-dns')) {
-    // DNS, IMAP, POP3 and SMTP standards for email categories.
-    await pool(entries.filter(({ e }) => scanned(e) && has(e, 'mail') && e.mail_domain), 3, async ({ e, key }) => {
+  // SSL Labs is the slowest test (each new assessment takes minutes), so it runs as many
+  // assessments at once as the API allows for this client.
+  const runSsllabs = async () => {
+    if (!ssllabsList.length) return;
+    const slots = await ssllabsSlots();
+    console.log(`  ssllabs: ${ssllabsList.length} domains, ${slots} at a time`);
+    await pool(ssllabsList, slots, async ({ e, key }) => {
+      const bad = await publicHost(e.domain);
+      if (bad) console.warn(`  ssllabs ${e.domain}: skipped, ${bad}`);
+      else {
+        try {
+          const r = await ssllabs(e.domain);
+          if (!r) return; // Stopped at the time limit; the entry is retried first next run.
+          results.get(key).ssllabs = merge(results.get(key).ssllabs, r);
+          console.log(`  ssllabs ${e.domain}: ${results.get(key).ssllabs.grade || results.get(key).ssllabs.error}`);
+        } catch (err) {
+          console.warn(`  ssllabs ${e.domain}: ${err.message}`);
+        }
+      }
+
+      save(key, 'ssllabs');
+    });
+  };
+
+  // DNS, IMAP, POP3 and SMTP standards for email categories.
+  const runMail = () =>
+    pool(mailList, 3, async ({ e, key }) => {
       try {
         const hosts = { imap: e.imap_host, pop3: e.pop3_host, smtp: e.smtp_host };
         for (const h of [e.mail_domain, ...Object.values(hosts).filter((v) => typeof v === 'string')]) {
@@ -474,12 +555,13 @@ async function main() {
       } catch (err) {
         console.warn(`  mail ${e.mail_domain}: ${err.message}`);
       }
-    });
-  }
 
-  if (tests.has('trackers')) {
-    // Every entry with a website, apps included: the criterion covers the website too.
-    await pool(entries.filter(({ e }) => /^https:\/\//.test(e.website || '')), 6, async ({ e, key }) => {
+      save(key, 'mail');
+    });
+
+  // Every entry with a website, apps included: the criterion covers the website too.
+  const runTrackers = () =>
+    pool(trackerList, 6, async ({ e, key }) => {
       const prev = results.get(key).trackers;
       try {
         // Code hosts and app stores are not the project's own website, so their trackers are not the project's.
@@ -487,33 +569,33 @@ async function main() {
         const own = e.domain && (e.domain === host || e.domain.endsWith('.' + host) || host.endsWith('.' + e.domain));
         if (PLATFORM_HOSTS.test(host) && !own) {
           results.get(key).trackers = { url: e.website, skipped: 'The website is a code host or app store page, not a site run by the project.', tested_at: now() };
-          return;
+        } else {
+          const t = await scanTrackers(e.website);
+          results.get(key).trackers = {
+            url: t.url,
+            found: t.trackers.map(({ name, soft, analytics, seen }) => ({ name, host: seen, ...(soft ? { soft: true } : {}), ...(analytics ? { analytics: true } : {}) })),
+            tested_at: now()
+          };
+          console.log(`  trackers ${e.website}: ${t.trackers.map((x) => x.name).join(', ') || 'none'}`);
         }
-
-        const t = await scanTrackers(e.website);
-        results.get(key).trackers = {
-          url: t.url,
-          found: t.trackers.map(({ name, soft, analytics, seen }) => ({ name, host: seen, ...(soft ? { soft: true } : {}), ...(analytics ? { analytics: true } : {}) })),
-          tested_at: now()
-        };
-        console.log(`  trackers ${e.website}: ${t.trackers.map((x) => x.name).join(', ') || 'none'}`);
       } catch (err) {
         // Keep an earlier result when the site blocks or times out.
         results.get(key).trackers = prev && !prev.error ? { ...prev, last_error: err.message } : { error: err.message, tested_at: now() };
         console.warn(`  trackers ${e.website}: ${err.message}`);
       }
+
+      save(key, 'trackers');
     });
-  }
 
-  for (const { e, key } of entries) {
-    const r = results.get(key);
-    if (e.domain) r.domain = e.domain;
-    if (e.mail_domain) r.mail_domain = e.mail_domain;
-    r.scanned_at = now();
-    writeScan(key, r);
-  }
+  // Each test talks to a different service, so they run side by side.
+  await Promise.all([runGithub(), runObservatory(), runSsllabs(), runMail(), runTrackers()]);
 
-  console.log(`Saved ${entries.length} results to scans/`);
+  // Entries whose only test is Internet.nl (run below, for all entries at once) still move on in the rotation.
+  for (const { key } of entries) if (!pending.get(key).size && !saved.has(key)) save(key);
+
+  const done = entries.filter(({ key }) => !pending.get(key).size).length;
+  if (late()) console.log(`Reached the --max-minutes limit: ${entries.length - done} entries are left for the next run.`);
+  console.log(`Saved ${done} complete results to scans/ (${entries.length} tested)`);
 
   // Runs after the other results are saved, because a batch takes hours.
   if (tests.has('internetnl')) {
