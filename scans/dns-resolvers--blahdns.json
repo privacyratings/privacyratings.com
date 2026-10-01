@@ -1,0 +1,24 @@
+{
+  "domain": "blahdns.com",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=blahdns.com",
+    "tested_at": "2026-09-30T20:17:01.296Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.465Z",
+  "trackers": {
+    "url": "https://blahdns.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:37.885Z"
+  }
+}

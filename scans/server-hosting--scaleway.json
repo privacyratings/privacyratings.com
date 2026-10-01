@@ -1,0 +1,17 @@
+{
+  "domain": "console.scaleway.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.scaleway.com",
+    "tested_at": "2026-09-30T20:13:36.350Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.142Z",
+  "trackers": {
+    "url": "https://www.scaleway.com/en/",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:58.554Z"
+  }
+}

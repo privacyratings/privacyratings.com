@@ -1,0 +1,48 @@
+{
+  "domain": "mailfence.com",
+  "mail": {
+    "dns": {
+      "domain": "mailfence.com",
+      "dnssec": true,
+      "mx": [
+        "smtp1.mailfence.com",
+        "smtp2.mailfence.com"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:42.535Z"
+  },
+  "mail_domain": "mailfence.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailfence.com",
+    "tested_at": "2026-09-30T20:19:26.526Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.480Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailfence.com&hideResults=on",
+    "tested_at": "2026-09-29T18:00:20.670Z"
+  },
+  "trackers": {
+    "url": "https://mailfence.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:46.499Z"
+  }
+}

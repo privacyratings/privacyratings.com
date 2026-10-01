@@ -1,0 +1,32 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.186Z",
+  "trackers": {
+    "url": "https://leantime.io",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Crisp",
+        "host": "client.crisp.chat",
+        "soft": true
+      },
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:13.743Z"
+  }
+}

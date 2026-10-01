@@ -1,0 +1,47 @@
+{
+  "domain": "www.burnerapp.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.burnerapp.com",
+    "tested_at": "2026-09-30T20:12:14.285Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.119Z",
+  "trackers": {
+    "url": "https://www.burnerapp.com",
+    "found": [
+      {
+        "name": "Amplitude",
+        "host": "cdn.amplitude.com"
+      },
+      {
+        "name": "Google Ads",
+        "host": "www.googleadservices.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "googleads.g.doubleclick.net"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Hotjar",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:51.955Z"
+  }
+}

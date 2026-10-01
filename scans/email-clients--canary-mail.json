@@ -1,0 +1,21 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.039Z",
+  "trackers": {
+    "url": "https://canarymail.io",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js-na2.hs-scripts.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:35.844Z"
+  }
+}

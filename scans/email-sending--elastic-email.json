@@ -1,0 +1,28 @@
+{
+  "domain": "elasticemail.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=elasticemail.com",
+    "tested_at": "2026-09-30T20:22:02.630Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.674Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=elasticemail.com&hideResults=on",
+    "tested_at": "2026-09-30T19:39:42.227Z"
+  },
+  "trackers": {
+    "url": "https://elasticemail.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:40.366Z"
+  }
+}

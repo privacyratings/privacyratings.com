@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.181Z",
+  "trackers": {
+    "url": "https://sabre.io/baikal/",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:12.541Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.176Z",
+  "trackers": {
+    "url": "https://www.parallels.com/products/desktop/",
+    "found": [
+      {
+        "name": "Google Ads",
+        "host": "www.googleadservices.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "googleads.g.doubleclick.net"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Hotjar",
+        "host": "script.hotjar.com"
+      },
+      {
+        "name": "Microsoft Ads",
+        "host": "bat.bing.com"
+      },
+      {
+        "name": "Optimizely",
+        "host": "cdn.optimizely.com"
+      },
+      {
+        "name": "X (Twitter) Pixel",
+        "host": "analytics.twitter.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:08.922Z"
+  }
+}

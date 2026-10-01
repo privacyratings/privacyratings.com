@@ -1,0 +1,27 @@
+{
+  "domain": "aquavoice.com",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=aquavoice.com",
+    "tested_at": "2026-09-30T20:10:46.606Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.021Z",
+  "trackers": {
+    "url": "https://aquavoice.com",
+    "found": [
+      {
+        "name": "Cookiebot",
+        "host": "consent.cookiebot.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:33.127Z"
+  }
+}

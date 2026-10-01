@@ -1,0 +1,22 @@
+{
+  "domain": "apps.docusign.com",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=apps.docusign.com",
+    "tested_at": "2026-09-30T20:13:50.566Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.196Z",
+  "trackers": {
+    "url": "https://www.docusign.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:19.675Z"
+  }
+}

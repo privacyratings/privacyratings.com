@@ -1,0 +1,24 @@
+{
+  "domain": "www.granola.ai",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.granola.ai",
+    "tested_at": "2026-09-30T20:10:47.873Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.023Z",
+  "trackers": {
+    "url": "https://www.granola.ai",
+    "found": [
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:33.495Z"
+  }
+}

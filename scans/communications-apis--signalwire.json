@@ -1,0 +1,37 @@
+{
+  "domain": "signalwire.com",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=signalwire.com",
+    "tested_at": "2026-09-30T20:22:42.405Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.678Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=signalwire.com&hideResults=on",
+    "tested_at": "2026-09-30T19:48:55.178Z"
+  },
+  "trackers": {
+    "url": "https://signalwire.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:41.957Z"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.672Z",
+  "trackers": {
+    "url": "https://www.bandisoft.com/bandizip/",
+    "found": [
+      {
+        "name": "Google AdSense",
+        "host": "pagead2.googlesyndication.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:39.236Z"
+  }
+}

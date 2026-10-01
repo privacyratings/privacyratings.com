@@ -1,0 +1,38 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.444Z",
+  "trackers": {
+    "url": "https://www.usebruno.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hsforms.net"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      },
+      {
+        "name": "Reddit Pixel",
+        "host": "www.redditstatic.com"
+      },
+      {
+        "name": "X (Twitter) Pixel",
+        "host": "static.ads-twitter.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:20.783Z"
+  }
+}

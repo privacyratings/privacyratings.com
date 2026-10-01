@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.618Z",
+  "trackers": {
+    "url": "https://beeware.org",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:26.061Z"
+  }
+}

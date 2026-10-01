@@ -1,0 +1,26 @@
+{
+  "domain": "securemail.management",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=securemail.management",
+    "tested_at": "2026-09-30T20:20:28.784Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.494Z",
+  "trackers": {
+    "url": "https://www.n-able.com/products/mail-assure",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:51.158Z"
+  }
+}

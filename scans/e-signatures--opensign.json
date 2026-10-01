@@ -1,0 +1,37 @@
+{
+  "domain": "app.opensignlabs.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.opensignlabs.com",
+    "tested_at": "2026-09-30T20:13:52.369Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.196Z",
+  "trackers": {
+    "url": "https://www.opensignlabs.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Sentry",
+        "host": "browser.sentry-cdn.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:19.750Z"
+  }
+}

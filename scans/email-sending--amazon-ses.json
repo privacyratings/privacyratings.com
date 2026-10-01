@@ -1,0 +1,23 @@
+{
+  "domain": "aws.amazon.com",
+  "observatory": {
+    "grade": "A",
+    "score": 95,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=aws.amazon.com",
+    "tested_at": "2026-09-30T20:22:00.164Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.673Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 12,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=aws.amazon.com&hideResults=on",
+    "tested_at": "2026-09-30T19:39:42.326Z"
+  },
+  "trackers": {
+    "url": "https://aws.amazon.com/ses/",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:39.476Z"
+  }
+}

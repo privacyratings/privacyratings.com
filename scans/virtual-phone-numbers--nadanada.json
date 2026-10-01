@@ -1,0 +1,17 @@
+{
+  "domain": "nadanada.me",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nadanada.me",
+    "tested_at": "2026-09-30T20:16:44.060Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.463Z",
+  "trackers": {
+    "url": "https://nadanada.me",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:35.421Z"
+  }
+}

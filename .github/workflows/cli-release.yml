@@ -1,0 +1,133 @@
+name: CLI release
+
+# Publishing the CLI:
+#   cd cli && npx np
+# np runs the tests, bumps the version, publishes to npm, pushes the vX.Y.Z tag and opens a
+# GitHub release draft. Publishing that release runs this workflow, which builds a standalone
+# binary for every platform, adds SHA256SUMS and the install scripts, and attaches them all.
+#
+# The build jobs only read the repository. The binaries go to a single publish job, which checks
+# them, writes SHA256SUMS from exactly those files, records build provenance
+# (`gh attestation verify <file> --repo privacyratings/privacyratings.com`) and uploads them.
+# No dependency cache is used here, so nothing saved by another workflow can reach a release.
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag to build, like v1.2.0
+        required: true
+
+permissions: {}
+
+concurrency:
+  group: cli-release-${{ github.event.release.tag_name || inputs.tag }}
+  cancel-in-progress: false
+
+env:
+  TAG: ${{ github.event.release.tag_name || inputs.tag }}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions: {}
+    steps:
+      - name: Check the tag
+        run: |
+          if [[ ! "$TAG" =~ ^v[0-9]+\.[0-9]+\.[0-9]+(-[0-9A-Za-z.]+)?$ ]]; then
+            echo "::error::Not a release tag: $TAG"
+            exit 1
+          fi
+
+  binaries:
+    needs: check
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            asset: privacyratings-linux-x64
+          - os: ubuntu-24.04-arm
+            asset: privacyratings-linux-arm64
+          - os: macos-15-intel
+            asset: privacyratings-darwin-x64
+          - os: macos-latest
+            asset: privacyratings-darwin-arm64
+          - os: windows-latest
+            asset: privacyratings-win-x64.exe
+          - os: windows-11-arm
+            asset: privacyratings-win-arm64.exe
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 30
+    env:
+      ASSET: ${{ matrix.asset }}
+    defaults:
+      run:
+        working-directory: cli
+        shell: bash
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          ref: refs/tags/${{ env.TAG }}
+          persist-credentials: false
+      # No `cache:` on purpose (see above). setup-node v5+ caches automatically when package.json
+      # has a packageManager field: set `package-manager-cache: false` when upgrading.
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npm test
+      - run: npm run sea
+      - name: Smoke test
+        run: |
+          "./dist/$ASSET" --version
+          "./dist/$ASSET" --help | head -3
+          "./dist/$ASSET" __selftest
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: ${{ matrix.asset }}
+          path: cli/dist/${{ matrix.asset }}
+          if-no-files-found: error
+          retention-days: 7
+
+  publish:
+    needs: binaries
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      id-token: write
+      attestations: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          ref: refs/tags/${{ env.TAG }}
+          persist-credentials: false
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+        with:
+          pattern: privacyratings-*
+          path: assets
+          merge-multiple: true
+      - name: Write SHA256SUMS
+        run: |
+          cd assets
+          count=$(find . -maxdepth 1 -type f -name 'privacyratings-*' | wc -l)
+          if [ "$count" -ne 6 ]; then echo "::error::Expected 6 binaries, found $count"; exit 1; fi
+          sha256sum privacyratings-* > SHA256SUMS
+          cat SHA256SUMS
+      - uses: actions/attest-build-provenance@977bb373ede98d70efdf65b84cb5f73e068dcc2a # v3.0.0
+        with:
+          subject-path: |
+            assets/privacyratings-*
+            cli/install.sh
+            cli/install.ps1
+      - name: Upload to the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh release upload "$TAG" assets/privacyratings-* assets/SHA256SUMS cli/install.sh cli/install.ps1 --clobber

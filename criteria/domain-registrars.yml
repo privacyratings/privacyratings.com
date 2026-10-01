@@ -1,0 +1,39 @@
+- id: free_whois_privacy
+  title: Free WHOIS privacy
+  weight: 2
+  question: Is registrant data hidden from public WHOIS and RDAP at no extra cost?
+  yes: Free for every supported domain extension.
+  partial: Free for some extensions only, or paid.
+  no: Not offered.
+  why: Public registrant data exposes names, addresses and phone numbers.
+  verify: Link the pricing or privacy documentation.
+
+- id: at_cost_renewals
+  title: Honest renewal pricing
+  weight: 1
+  question: Are renewal prices the same as, or close to, the first-year price?
+  yes: At-cost or flat renewal pricing.
+  partial: Renewals cost somewhat more.
+  no: Large renewal increases.
+  why: Cheap first years with expensive renewals make it costly to keep a domain.
+  verify: Link the pricing page.
+
+- id: two_factor
+  title: Two-factor login
+  weight: 2
+  question: Do accounts support two-factor authentication with an authenticator app or security key?
+  yes: TOTP or security keys.
+  partial: SMS only.
+  no: No two-factor login.
+  why: A hijacked registrar account means a hijacked domain.
+  verify: Link the documentation.
+
+- id: registry_lock
+  title: Transfer and registry lock
+  weight: 1
+  question: Is transfer lock on by default, with registry lock available?
+  yes: Both.
+  partial: Transfer lock only.
+  no: Neither.
+  why: Locks prevent domain theft.
+  verify: Link the documentation.

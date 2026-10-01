@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.654Z",
+  "trackers": {
+    "url": "https://revel.github.io",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:32.450Z"
+  }
+}

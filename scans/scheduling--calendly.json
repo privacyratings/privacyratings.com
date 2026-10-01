@@ -1,0 +1,22 @@
+{
+  "domain": "calendly.com",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=calendly.com",
+    "tested_at": "2026-09-30T20:13:41.837Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.183Z",
+  "trackers": {
+    "url": "https://calendly.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:12.832Z"
+  }
+}

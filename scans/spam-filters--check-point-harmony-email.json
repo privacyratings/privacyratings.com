@@ -1,0 +1,35 @@
+{
+  "domain": "portal.checkpoint.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.checkpoint.com",
+    "tested_at": "2026-09-30T20:19:59.256Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.491Z",
+  "trackers": {
+    "url": "https://www.checkpoint.com/harmony/email-security/",
+    "found": [
+      {
+        "name": "Drift",
+        "host": "js.driftt.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:49.833Z"
+  }
+}

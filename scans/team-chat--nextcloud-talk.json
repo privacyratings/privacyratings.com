@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.100Z",
+  "trackers": {
+    "url": "https://nextcloud.com/talk/",
+    "found": [
+      {
+        "name": "Matomo Cloud",
+        "host": "cdn.matomo.cloud",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:49.565Z"
+  }
+}

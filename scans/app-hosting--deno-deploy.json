@@ -1,0 +1,22 @@
+{
+  "domain": "console.deno.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.deno.com",
+    "tested_at": "2026-09-30T20:21:04.933Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.508Z",
+  "trackers": {
+    "url": "https://deno.com/deploy",
+    "found": [
+      {
+        "name": "PostHog",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:59.361Z"
+  }
+}

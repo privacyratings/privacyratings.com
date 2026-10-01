@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.631Z",
+  "trackers": {
+    "url": "https://falconframework.org",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:28.907Z"
+  }
+}

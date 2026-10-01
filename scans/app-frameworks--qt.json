@@ -1,0 +1,32 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.626Z",
+  "trackers": {
+    "url": "https://www.qt.io",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js-eu1.hsforms.net"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "Sentry",
+        "host": "js.sentry-cdn.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:28.501Z"
+  }
+}

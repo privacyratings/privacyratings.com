@@ -1,0 +1,38 @@
+{
+  "domain": "app.signnow.com",
+  "observatory": {
+    "grade": "F",
+    "score": 10,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.signnow.com",
+    "tested_at": "2026-09-30T20:22:50.470Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.689Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.signnow.com&hideResults=on",
+    "tested_at": "2026-09-30T19:57:56.736Z"
+  },
+  "trackers": {
+    "url": "https://www.signnow.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Intercom",
+        "host": "widget.intercom.io",
+        "soft": true
+      },
+      {
+        "name": "YouTube embed",
+        "host": "www.youtube.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:45.894Z"
+  }
+}

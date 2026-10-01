@@ -1,0 +1,19 @@
+- id: content_retention
+  title: Message content deleted or redacted
+  weight: 3
+  question: Can the text of messages be kept from being stored after delivery?
+  yes: Message bodies are not stored after delivery, or the customer can turn on redaction or deletion for every message without asking.
+  partial: Message bodies are kept for a documented period of 30 days or less, or can be deleted through the API, or redaction is available on request or on some plans.
+  no: Message bodies are kept for more than 30 days or an undocumented period, with no way to delete them.
+  why: Stored texts hold one-time codes, appointments and personal conversations tied to phone numbers.
+  verify: Link the data retention, message redaction or deletion documentation.
+
+- id: eu_data_location
+  title: EU data location
+  weight: 1
+  question: Can messages, call records and logs be processed and stored in the European Union?
+  yes: An EU region, an EU-only service or self-hosting keeps message data in the EU, on every plan.
+  partial: An EU region is offered only on some plans, on request or in beta.
+  no: Message data is processed or stored outside the EU.
+  why: Data kept in the EU stays under the GDPR and out of reach of some foreign surveillance laws.
+  verify: Link the data location, region or data residency documentation.

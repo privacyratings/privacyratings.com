@@ -1,0 +1,32 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.352Z",
+  "trackers": {
+    "url": "https://webextension.org/listing/canvas-fingerprint-blocker.html",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google AdSense",
+        "host": "pagead2.googlesyndication.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:56.781Z"
+  }
+}

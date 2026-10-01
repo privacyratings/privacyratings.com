@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.299Z",
+  "trackers": {
+    "url": "https://vimeo.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:42.414Z"
+  }
+}

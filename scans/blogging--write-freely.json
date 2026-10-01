@@ -1,0 +1,17 @@
+{
+  "domain": "writefreely.org",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=writefreely.org",
+    "tested_at": "2026-09-30T20:19:11.128Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "trackers": {
+    "url": "https://writefreely.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:45.347Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.590Z",
+  "trackers": {
+    "url": "https://www.eufy.com/eufy-local-security",
+    "found": [
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:20.031Z"
+  }
+}

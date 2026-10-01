@@ -1,0 +1,17 @@
+{
+  "domain": "music.amazon.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.amazon.com",
+    "tested_at": "2026-09-30T20:15:41.145Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.300Z",
+  "trackers": {
+    "url": "https://music.amazon.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:43.107Z"
+  }
+}

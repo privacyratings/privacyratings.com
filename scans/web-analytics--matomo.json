@@ -1,0 +1,24 @@
+{
+  "domain": "matomo.org",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=matomo.org",
+    "tested_at": "2026-09-30T20:15:20.744Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.260Z",
+  "trackers": {
+    "url": "https://matomo.org",
+    "found": [
+      {
+        "name": "Matomo Cloud",
+        "host": "cdn.matomo.cloud",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:29.674Z"
+  }
+}

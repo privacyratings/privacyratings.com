@@ -1,0 +1,16 @@
+title: "Pick: "
+labels: [picks]
+body:
+  - type: input
+    id: category
+    attributes:
+      label: Category
+    validations:
+      required: true
+  - type: textarea
+    id: case
+    attributes:
+      label: Which pick should change, and why
+      description: Link evidence, and compare against the published criteria.
+    validations:
+      required: true

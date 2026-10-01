@@ -1,0 +1,30 @@
+{
+  "domain": "brevo.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=brevo.com",
+    "tested_at": "2026-09-30T20:22:00.525Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.673Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 8,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=brevo.com&hideResults=on",
+    "tested_at": "2026-09-30T19:39:42.338Z"
+  },
+  "trackers": {
+    "url": "https://www.brevo.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:39.533Z"
+  }
+}

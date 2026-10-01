@@ -1,0 +1,27 @@
+{
+  "domain": "doodle.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=doodle.com",
+    "tested_at": "2026-09-30T20:21:34.311Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.585Z",
+  "trackers": {
+    "url": "https://doodle.com/en/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:16.368Z"
+  }
+}

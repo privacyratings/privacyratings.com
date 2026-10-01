@@ -1,0 +1,5 @@
+{
+ "Self-hosted version of the Forward Email service, installed with a script that deploys Docker containers. It includes MX, SMTP, IMAP, POP3, CalDAV and CardDAV servers, encrypted SQLite mailboxes, a web interface and optional backups to S3-compatible storage.": "Forward Email 服务的自托管版本，通过部署 Docker 容器的脚本安装。包含 MX、SMTP、IMAP、POP3、CalDAV 和 CardDAV 服务器、加密的 SQLite 邮箱、网页界面，以及可选的备份到兼容 S3 的存储。",
+ "CalDAV calendar, task and CardDAV contacts service included with paid Forward Email plans. It works with any CalDAV or CardDAV app and with Forward Email's own webmail, desktop and mobile apps, and stores data in each alias's encrypted SQLite mailbox.": "Forward Email 付费套餐附带的 CalDAV 日历和任务以及 CardDAV 联系人服务。它适用于任何 CalDAV 或 CardDAV 应用，以及 Forward Email 自己的网页邮箱、桌面和移动应用，并将数据存储在每个别名的加密 SQLite 邮箱中。",
+ "This website re-uses test results provided by the Internet.nl test tool.": "本网站重复使用由 Internet.nl 测试工具提供的测试结果。"
+}

@@ -1,0 +1,23 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.591Z",
+  "trackers": {
+    "url": "https://www.meteoblue.com/en/weather/week/council-bluffs_united-states_4852832",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "securepubads.g.doubleclick.net"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:19.439Z"
+  }
+}

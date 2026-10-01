@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.424Z",
+  "trackers": {
+    "url": "https://www.snaresolutions.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:15.029Z"
+  }
+}

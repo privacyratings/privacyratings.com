@@ -1,0 +1,30 @@
+{
+  "domain": "app.secureframe.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.secureframe.com",
+    "tested_at": "2026-09-30T20:21:01.659Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.504Z",
+  "trackers": {
+    "url": "https://secureframe.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "stats.g.doubleclick.net"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:58.498Z"
+  }
+}

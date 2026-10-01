@@ -1,0 +1,39 @@
+- id: e2ee_default
+  title: End-to-end encrypted by default
+  weight: 3
+  question: Are all chats, including groups, end-to-end encrypted by default?
+  yes: All chats and calls by default.
+  partial: Only some chats, or only when turned on.
+  no: Not end-to-end encrypted.
+  why: Without it, the service can read messages.
+  verify: Link the encryption documentation.
+
+- id: no_phone_number
+  title: No phone number needed
+  weight: 2
+  question: Can an account be created without a phone number?
+  yes: No phone number needed.
+  partial: A phone number is needed but can be hidden from contacts.
+  no: A phone number is needed and visible.
+  why: Phone numbers are tied to real identities.
+  verify: Link the sign-up documentation.
+
+- id: metadata_protection
+  title: Metadata protection
+  weight: 2
+  question: Does the service minimize who-talks-to-whom metadata (for example sealed sender or no user identifiers)?
+  yes: Documented design that hides sender or contact lists from the server.
+  partial: Some metadata protection.
+  no: The server sees who talks to whom.
+  why: Metadata alone can reveal relationships and habits.
+  verify: Link the documentation or design paper.
+
+- id: decentralized
+  title: Decentralized
+  weight: 1
+  question: Can people run their own server or talk peer to peer?
+  yes: Federated or peer to peer.
+  partial: Self-hosting is possible but not federated.
+  no: One central service.
+  why: Decentralized networks cannot be shut down or censored at one point.
+  verify: Link the self-hosting documentation.

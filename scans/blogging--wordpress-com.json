@@ -1,0 +1,39 @@
+{
+  "domain": "wordpress.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wordpress.com",
+    "tested_at": "2026-09-30T20:15:47.202Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.303Z",
+  "trackers": {
+    "url": "https://wordpress.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "ssl.google-analytics.com"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "inline code"
+      },
+      {
+        "name": "Reddit Pixel",
+        "host": "www.redditstatic.com"
+      },
+      {
+        "name": "WordPress.com Stats",
+        "host": "stats.wp.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:44.090Z"
+  }
+}

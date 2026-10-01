@@ -1,0 +1,22 @@
+{
+  "domain": "www.deezer.com",
+  "observatory": {
+    "grade": "F",
+    "score": 10,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.deezer.com",
+    "tested_at": "2026-09-30T20:21:44.257Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.593Z",
+  "trackers": {
+    "url": "https://www.deezer.com/en/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:20.290Z"
+  }
+}

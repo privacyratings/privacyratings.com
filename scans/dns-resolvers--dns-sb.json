@@ -1,0 +1,17 @@
+{
+  "domain": "dns.sb",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.sb",
+    "tested_at": "2026-09-30T20:12:53.682Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.129Z",
+  "trackers": {
+    "url": "https://dns.sb",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:54.271Z"
+  }
+}

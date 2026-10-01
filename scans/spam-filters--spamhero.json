@@ -1,0 +1,38 @@
+{
+  "domain": "www.spamhero.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.spamhero.com",
+    "tested_at": "2026-09-30T20:20:31.217Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.496Z",
+  "trackers": {
+    "url": "https://www.spamhero.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      },
+      {
+        "name": "Reddit Pixel",
+        "host": "www.redditstatic.com"
+      },
+      {
+        "name": "Tawk.to",
+        "host": "embed.tawk.to"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:52.490Z"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.053Z",
+  "trackers": {
+    "url": "https://1blocker.com",
+    "found": [
+      {
+        "name": "Intercom",
+        "host": "widget.intercom.io",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:39.440Z"
+  }
+}

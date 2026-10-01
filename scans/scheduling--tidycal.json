@@ -1,0 +1,27 @@
+{
+  "domain": "tidycal.com",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidycal.com",
+    "tested_at": "2026-09-30T20:21:58.371Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.670Z",
+  "trackers": {
+    "url": "https://tidycal.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:39.162Z"
+  }
+}

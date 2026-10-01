@@ -1,0 +1,20 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.637Z",
+  "trackers": {
+    "url": "https://nicegui.io",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:29.663Z"
+  }
+}

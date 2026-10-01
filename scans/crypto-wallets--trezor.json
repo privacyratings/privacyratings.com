@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.446Z",
+  "trackers": {
+    "url": "https://trezor.io",
+    "found": [
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      },
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:22.448Z"
+  }
+}

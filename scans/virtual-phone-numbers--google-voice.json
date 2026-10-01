@@ -1,0 +1,27 @@
+{
+  "domain": "voice.google.com",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=voice.google.com",
+    "tested_at": "2026-09-30T20:21:22.608Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.582Z",
+  "trackers": {
+    "url": "https://workspace.google.com/products/voice/",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:14.201Z"
+  }
+}

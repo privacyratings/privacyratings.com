@@ -1,0 +1,29 @@
+- id: blocks_by_default
+  title: Effective by default
+  weight: 3
+  question: Does it block ads and trackers with its default settings, without paid tiers?
+  yes: Blocks ads and trackers by default, for free.
+  partial: Needs extra lists or configuration.
+  no: Allows "acceptable ads" by default, or blocking is paid.
+  why: Allowlists paid for by advertisers defeat the purpose.
+  verify: Link the documentation or filter list settings.
+
+- id: no_data_collection
+  title: No browsing data collected
+  weight: 3
+  question: Does it work without sending browsing data to the developer?
+  yes: All filtering happens on the device, with no data sent.
+  partial: Anonymous usage statistics that can be turned off.
+  no: Browsing data is collected.
+  why: An ad blocker sees every page visited.
+  verify: Link the privacy policy or source code.
+
+- id: custom_filters
+  title: Custom filters
+  weight: 1
+  question: Can users add their own filter lists and rules?
+  yes: Yes.
+  partial: Limited.
+  no: No.
+  why: Custom rules handle sites that default lists miss.
+  verify: Link the documentation.

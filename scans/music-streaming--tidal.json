@@ -1,0 +1,16 @@
+{
+  "domain": "tidal.com",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidal.com",
+    "tested_at": "2026-09-30T20:15:44.011Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.302Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:39:43.216Z"
+  }
+}

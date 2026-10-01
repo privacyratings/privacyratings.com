@@ -1,0 +1,48 @@
+{
+  "domain": "simplelogin.io",
+  "mail": {
+    "dns": {
+      "domain": "simplelogin.io",
+      "dnssec": true,
+      "mx": [
+        "mx1.simplelogin.co",
+        "mx2.simplelogin.co"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:45.644Z"
+  },
+  "mail_domain": "simplelogin.io",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=simplelogin.io",
+    "tested_at": "2026-09-30T20:19:42.696Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.482Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=simplelogin.io&hideResults=on",
+    "tested_at": "2026-09-29T18:02:59.120Z"
+  },
+  "trackers": {
+    "url": "https://simplelogin.io",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:47.681Z"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "domain": "umami.is",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=umami.is",
+    "tested_at": "2026-09-30T20:15:34.628Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.265Z",
+  "trackers": {
+    "url": "https://umami.is",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:30.184Z"
+  }
+}

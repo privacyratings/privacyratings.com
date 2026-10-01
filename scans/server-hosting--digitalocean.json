@@ -1,0 +1,27 @@
+{
+  "domain": "www.digitalocean.com",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.digitalocean.com",
+    "tested_at": "2026-09-30T20:17:40.035Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.469Z",
+  "trackers": {
+    "url": "https://www.digitalocean.com",
+    "found": [
+      {
+        "name": "Amplitude",
+        "host": "cdn.amplitude.com"
+      },
+      {
+        "name": "TrustArc",
+        "host": "consent.trustarc.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:39.808Z"
+  }
+}

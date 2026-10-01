@@ -1,0 +1,24 @@
+{
+  "domain": "libretranslate.com",
+  "observatory": {
+    "grade": "F",
+    "score": 10,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=libretranslate.com",
+    "tested_at": "2026-09-30T20:14:04.485Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.204Z",
+  "trackers": {
+    "url": "https://libretranslate.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:22.334Z"
+  }
+}

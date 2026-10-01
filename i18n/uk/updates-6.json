@@ -1,0 +1,13 @@
+{
+ "Android": "Android",
+ "Chromium": "Chromium",
+ "Docker": "Docker",
+ "Firefox": "Firefox",
+ "GitHub": "GitHub",
+ "Linux": "Linux",
+ "iOS": "iOS",
+ "macOS": "macOS",
+ "Web": "Веб",
+ "Browser extension": "Розширення браузера",
+ "Search could not be loaded. Check your connection and try again.": "Не вдалося завантажити пошук. Перевірте з’єднання та спробуйте ще раз."
+}

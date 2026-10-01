@@ -1,0 +1,27 @@
+{
+  "domain": "www.dynadot.com",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.dynadot.com",
+    "tested_at": "2026-09-30T20:17:15.203Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.467Z",
+  "trackers": {
+    "url": "https://www.dynadot.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:38.369Z"
+  }
+}

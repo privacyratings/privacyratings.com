@@ -1,0 +1,9 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.244Z",
+  "trackers": {
+    "url": "https://www.gnu.org/software/emacs/",
+    "found": [],
+    "tested_at": "2026-09-30T13:15:27.542Z",
+    "last_error": "HTTP 503"
+  }
+}

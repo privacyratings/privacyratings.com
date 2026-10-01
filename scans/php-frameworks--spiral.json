@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.650Z",
+  "trackers": {
+    "url": "https://spiral.dev",
+    "found": [
+      {
+        "name": "Google reCAPTCHA",
+        "host": "google.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:31.592Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "domain": "www.cognitoforms.com",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cognitoforms.com",
+    "tested_at": "2026-09-30T20:23:02.190Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.689Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.cognitoforms.com&hideResults=on",
+    "tested_at": "2026-09-30T19:59:13.122Z"
+  },
+  "trackers": {
+    "url": "https://www.cognitoforms.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:46.166Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "domain": "ksuite.infomaniak.com",
+  "mail": {
+    "dns": {
+      "domain": "ik.me",
+      "dnssec": true,
+      "mx": [
+        "mta-gw.infomaniak.ch"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": {
+          "host": "mail.infomaniak.com",
+          "port": 465
+        },
+        "submission": {
+          "host": "mail.infomaniak.com",
+          "port": 587
+        },
+        "imaps": {
+          "host": "mail.infomaniak.com",
+          "port": 993
+        },
+        "imap": {
+          "host": "mail.infomaniak.com",
+          "port": 143
+        },
+        "pop3s": {
+          "host": "mail.infomaniak.com",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T05:26:35.687Z"
+  },
+  "mail_domain": "ik.me",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ksuite.infomaniak.com",
+    "tested_at": "2026-09-30T20:19:02.654Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.477Z",
+  "trackers": {
+    "url": "https://www.infomaniak.com/en/ksuite/service-mail",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:45.342Z"
+  }
+}

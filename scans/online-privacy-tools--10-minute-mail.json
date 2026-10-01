@@ -1,0 +1,40 @@
+{
+  "domain": "10minutemail.com",
+  "observatory": {
+    "grade": "C+",
+    "score": 60,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=10minutemail.com",
+    "tested_at": "2026-09-30T20:16:21.765Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.459Z",
+  "trackers": {
+    "url": "https://10minutemail.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google AdSense",
+        "host": "pagead2.googlesyndication.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "securepubads.g.doubleclick.net"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:31.771Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.321Z",
+  "trackers": {
+    "url": "https://www.biglybt.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:48.392Z"
+  }
+}

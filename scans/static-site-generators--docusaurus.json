@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.608Z",
+  "trackers": {
+    "url": "https://docusaurus.io",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:23.874Z"
+  }
+}

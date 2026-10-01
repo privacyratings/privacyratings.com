@@ -1,0 +1,37 @@
+name: Report a website or tool bug
+description: Something on privacyratings.com, the badges, the API or the command-line tool does not work.
+title: "Bug: "
+labels: [bug]
+body:
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where
+      options:
+        - Website
+        - Command-line tool (privacyratings)
+        - Badges
+        - JSON API or llms.txt
+        - Automated tests (scans)
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Page, command or file
+      placeholder: https://privacyratings.com/vpns/ or privacyratings search vpn
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what you expected
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Browser, operating system or CLI version
+      placeholder: Firefox 142 on Linux, or privacyratings 1.2.0 on macOS
+  - type: markdown
+    attributes:
+      value: For security problems, do not open an issue. Follow [SECURITY.md](https://github.com/privacyratings/privacyratings.com/blob/main/SECURITY.md).

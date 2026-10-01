@@ -1,0 +1,47 @@
+{
+  "domain": "www.gmx.com",
+  "mail": {
+    "dns": {
+      "domain": "gmx.com",
+      "dnssec": true,
+      "mx": [
+        "mx00.gmx.net",
+        "mx01.gmx.net"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": true,
+      "mta_sts": "testing",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:33.956Z"
+  },
+  "mail_domain": "gmx.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gmx.com",
+    "tested_at": "2026-09-30T20:18:58.618Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.476Z",
+  "trackers": {
+    "url": "https://www.gmx.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:43.690Z"
+  }
+}

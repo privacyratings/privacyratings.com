@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.651Z",
+  "trackers": {
+    "url": "https://go-chi.io",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:31.973Z"
+  }
+}

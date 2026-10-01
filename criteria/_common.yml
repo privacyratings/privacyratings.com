@@ -1,0 +1,113 @@
+# Criteria that apply to every category.
+#
+# Fields:
+#   id        Unique key used in rating files. Never rename once published.
+#   title     Short label shown on the site.
+#   weight    1 (nice to have), 2 (important), 3 (essential).
+#   question  The exact question a rating answers.
+#   yes / partial / no   What each answer means. Keep these testable.
+#   why       Why the criterion matters.
+#   verify    How anyone can check the answer.
+#   auto      Set when the answer comes from an automated test, not a person.
+#   services  true = only applies to hosted services with a domain.
+
+- id: open_source
+  title: Open source
+  weight: 3
+  question: Is the source code public under an OSI-approved license?
+  yes: All code needed to run the product is public under an OSI-approved license.
+  partial: Client apps are open but the server is closed, or the license is source-available but not OSI-approved.
+  no: The product is closed source.
+  why: Public code lets anyone check what the software does with your data instead of trusting a privacy policy.
+  verify: Link the source repository and its license file.
+
+- id: no_trackers
+  title: No trackers or telemetry
+  weight: 3
+  question: Are the website and apps free of third-party trackers, with any telemetry off by default?
+  yes: No third-party trackers or analytics, and telemetry is absent or opt-in.
+  partial: No third-party trackers, but first-party telemetry or cookieless privacy-focused analytics (such as Plausible, Simple Analytics or self-hosted Matomo) is on by default.
+  no: Third-party trackers or analytics are present, or telemetry cannot be turned off.
+  why: Trackers and telemetry leak usage data to the vendor and to third parties.
+  verify: Link the privacy policy or telemetry documentation, or a network capture or tracker report (for example Exodus Privacy for Android apps).
+
+- id: no_ads
+  title: No ads or data sales
+  weight: 2
+  question: Is the product funded without advertising, ad targeting or selling user data?
+  yes: Funded by payments, donations or grants. No ads, no data sales, and no sharing of user data with ad networks.
+  partial: No ads based on user data and no data sales, but ads are opt-in or contextual, or the vendor shares website or app data with ad networks to advertise its own product (retargeting).
+  no: Funded by advertising, shows ads based on user data, or sells or shares user data for other companies' advertising.
+  why: When ads pay the bills, collecting data about you is part of the business.
+  verify: Link the pricing page, funding page or privacy policy.
+
+- id: independent_audit
+  title: Independent audit
+  weight: 2
+  question: Has an independent security or privacy audit been published within the last three years?
+  yes: A full report from an independent auditor is public.
+  partial: An audit was done but only a summary is public, or the audit is older than three years.
+  no: No independent audit is public.
+  why: Audits catch problems that the vendor missed or did not disclose.
+  verify: Link the published audit report.
+
+- id: transparency_report
+  title: Transparency report
+  weight: 2
+  services: true
+  question: Does the provider regularly publish how many government and legal requests it receives and how it responds?
+  yes: Publishes a transparency report with request counts and outcomes, updated at least once a year.
+  partial: Publishes a policy on requests or a warrant canary, but no counts.
+  no: Publishes nothing about government requests.
+  why: Jurisdiction alone says little. What a provider actually hands over, and how often, shows how well it protects users under the law it lives with.
+  verify: Link the transparency report or government request policy.
+
+- id: user_notice
+  title: Tells users about requests
+  weight: 1
+  services: true
+  question: Does the provider promise to tell users about requests for their data, unless a court forbids it?
+  yes: A published policy promises notice when legally allowed.
+  partial: Notice is given case by case, with no published policy.
+  no: No notice, or a policy of not notifying.
+  why: Notice gives people the chance to challenge a request.
+  verify: Link the law enforcement or privacy policy.
+
+# Automated tests. These only apply to hosted services with a `domain`.
+# Answers are filled in by scripts/scan.js. Do not set them by hand.
+
+- id: tls
+  title: TLS configuration
+  weight: 2
+  services: true
+  auto: ssllabs
+  question: Does the website pass the Qualys SSL Labs test with a grade of A or better?
+  yes: Grade A+ or A on every endpoint.
+  partial: Grade A- or B on the weakest endpoint.
+  no: Grade C or lower, or the test failed.
+  why: Weak TLS settings can expose traffic and logins to interception.
+  verify: Run https://www.ssllabs.com/ssltest/ on the domain.
+
+- id: security_headers
+  title: Security headers
+  weight: 1
+  services: true
+  auto: observatory
+  question: Does the website pass the Mozilla HTTP Observatory test with a grade of A or better?
+  yes: Grade A+ or A.
+  partial: Grade A-, B+ or B.
+  no: Grade B- or lower, or the test failed.
+  why: Headers such as CSP and HSTS block common attacks against logged-in users.
+  verify: Run https://developer.mozilla.org/en-US/observatory on the domain.
+
+- id: web_standards
+  title: Modern web standards
+  weight: 1
+  services: true
+  auto: internetnl-web
+  question: Does the website score 90% or higher on the Internet.nl website test?
+  yes: Score of 90% or higher.
+  partial: Score between 70% and 89%.
+  no: Score below 70%.
+  why: The test checks IPv6, DNSSEC, HTTPS and security options that protect visitors.
+  verify: Run https://internet.nl/test-site/ on the domain.

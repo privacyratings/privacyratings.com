@@ -1,0 +1,28 @@
+{
+  "domain": "www.textnow.com",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.textnow.com",
+    "tested_at": "2026-09-30T20:12:18.735Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.120Z",
+  "trackers": {
+    "url": "https://www.textnow.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:52.100Z"
+  }
+}

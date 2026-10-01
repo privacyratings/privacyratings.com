@@ -1,0 +1,40 @@
+{
+  "domain": "www.godaddy.com",
+  "mail": {
+    "dns": {
+      "domain": "godaddy.com",
+      "dnssec": false,
+      "mx": [
+        "godaddy-com.mail.protection.outlook.com"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": true,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T20:32:29.151Z"
+  },
+  "mail_domain": "godaddy.com",
+  "observatory": {
+    "grade": "F",
+    "score": 10,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.godaddy.com",
+    "tested_at": "2026-09-30T20:19:49.723Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.485Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:40:47.797Z"
+  }
+}

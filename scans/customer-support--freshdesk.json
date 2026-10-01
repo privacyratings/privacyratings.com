@@ -1,0 +1,31 @@
+{
+  "domain": "www.freshworks.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.freshworks.com",
+    "tested_at": "2026-09-30T20:12:10.275Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.116Z",
+  "trackers": {
+    "url": "https://www.freshworks.com/freshdesk/",
+    "found": [
+      {
+        "name": "LinkedIn Insight",
+        "host": "px.ads.linkedin.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn-ukwest.onetrust.com",
+        "soft": true
+      },
+      {
+        "name": "Optimizely",
+        "host": "cdn.optimizely.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:51.341Z"
+  }
+}

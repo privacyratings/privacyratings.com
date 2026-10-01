@@ -1,0 +1,17 @@
+{
+  "domain": "lumo.proton.me",
+  "observatory": {
+    "grade": "A+",
+    "score": 115,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lumo.proton.me",
+    "tested_at": "2026-09-30T20:14:39.585Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.212Z",
+  "trackers": {
+    "url": "https://proton.me/lumo",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:22.804Z"
+  }
+}

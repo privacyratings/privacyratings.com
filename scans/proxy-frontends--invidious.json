@@ -1,0 +1,17 @@
+{
+  "domain": "invidious.io",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=invidious.io",
+    "tested_at": "2026-09-30T20:15:58.804Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.456Z",
+  "trackers": {
+    "url": "https://invidious.io",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:28.605Z"
+  }
+}

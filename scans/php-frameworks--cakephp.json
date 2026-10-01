@@ -1,0 +1,26 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.647Z",
+  "trackers": {
+    "url": "https://cakephp.org",
+    "found": [
+      {
+        "name": "Facebook SDK",
+        "host": "connect.facebook.net"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:31.113Z"
+  }
+}

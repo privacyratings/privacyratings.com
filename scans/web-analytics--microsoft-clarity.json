@@ -1,0 +1,17 @@
+{
+  "domain": "clarity.microsoft.com",
+  "observatory": {
+    "grade": "D",
+    "score": 35,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=clarity.microsoft.com",
+    "tested_at": "2026-09-30T20:15:26.543Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.260Z",
+  "trackers": {
+    "url": "https://clarity.microsoft.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:29.449Z"
+  }
+}

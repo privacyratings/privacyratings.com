@@ -1,0 +1,16 @@
+{
+  "domain": "hide.me",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hide.me",
+    "tested_at": "2026-09-30T20:12:21.236Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.122Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:38:52.151Z"
+  }
+}

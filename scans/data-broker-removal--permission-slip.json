@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.080Z",
+  "trackers": {
+    "url": "https://joindeleteme.com/permission-slip/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      },
+      {
+        "name": "Zendesk",
+        "host": "static.zdassets.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:45.750Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "domain": "outlook.live.com",
+  "mail": {
+    "dns": {
+      "domain": "outlook.com",
+      "dnssec": true,
+      "mx": [
+        "outlook-com.olc.protection.outlook.com"
+      ],
+      "spf": true,
+      "dmarc": "none",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:39.391Z"
+  },
+  "mail_domain": "outlook.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=outlook.live.com",
+    "tested_at": "2026-09-30T20:21:16.551Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.572Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 8,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=outlook.live.com&hideResults=on",
+    "tested_at": "2026-09-29T18:00:19.211Z"
+  },
+  "trackers": {
+    "url": "https://outlook.live.com/mail/",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:09.852Z"
+  }
+}

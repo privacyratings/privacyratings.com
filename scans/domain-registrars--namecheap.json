@@ -1,0 +1,16 @@
+{
+  "domain": "www.namecheap.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.namecheap.com",
+    "tested_at": "2026-09-30T20:17:29.241Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.468Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:40:38.563Z"
+  }
+}

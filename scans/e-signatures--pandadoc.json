@@ -1,0 +1,22 @@
+{
+  "domain": "app.pandadoc.com",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.pandadoc.com",
+    "tested_at": "2026-09-30T20:22:49.901Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.688Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.pandadoc.com&hideResults=on",
+    "tested_at": "2026-09-30T19:54:53.215Z"
+  },
+  "trackers": {
+    "error": "HTTP 429",
+    "tested_at": "2026-09-30T20:41:45.618Z"
+  }
+}

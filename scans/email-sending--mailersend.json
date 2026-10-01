@@ -1,0 +1,38 @@
+{
+  "domain": "mailersend.com",
+  "observatory": {
+    "grade": "F",
+    "score": 5,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailersend.com",
+    "tested_at": "2026-09-30T20:22:05.717Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.674Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailersend.com&hideResults=on",
+    "tested_at": "2026-09-30T19:39:45.622Z"
+  },
+  "trackers": {
+    "url": "https://www.mailersend.com",
+    "found": [
+      {
+        "name": "Fathom",
+        "host": "cdn.usefathom.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "PostHog",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:39.826Z"
+  }
+}

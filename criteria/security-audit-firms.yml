@@ -1,0 +1,39 @@
+- id: public_reports
+  title: Publishes full reports
+  weight: 3
+  question: Are full audit reports routinely published, with client consent, rather than only summaries or badges?
+  yes: Many full reports are public, listed by the firm or linked from clients.
+  partial: Some reports or summaries are public.
+  no: Reports stay private.
+  why: A public report lets anyone check what was tested, what was found and what was fixed.
+  verify: Link the firm's publications page or public reports.
+
+- id: open_source_work
+  title: Audits open-source projects
+  weight: 2
+  question: Does the firm regularly audit open-source software and non-profit projects?
+  yes: Regular public audits of open-source projects, for example through OSTIF or the Open Technology Fund.
+  partial: Occasional open-source audits.
+  no: Commercial clients only.
+  why: Audits of open-source software protect everyone who uses it.
+  verify: Link public audits of open-source projects.
+
+- id: public_research
+  title: Public research
+  weight: 1
+  question: Does the firm publish security research, advisories or tools?
+  yes: Regular public research, advisories or open-source tools.
+  partial: Occasional publications.
+  no: None.
+  why: Published research shows real expertise and helps defenders.
+  verify: Link the research or advisories page.
+
+- id: no_trackers
+  title: No trackers on website
+  weight: 1
+  question: Is the firm's website free of third-party trackers?
+  yes: No third-party trackers or analytics.
+  partial: Only cookieless or self-hosted analytics.
+  no: Third-party trackers are present.
+  why: A privacy and security firm's own site shows its standards.
+  verify: Run the tracker test or check the privacy policy.

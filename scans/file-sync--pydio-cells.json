@@ -1,0 +1,21 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.585Z",
+  "trackers": {
+    "url": "https://www.pydio.com/en/",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:17.119Z"
+  }
+}

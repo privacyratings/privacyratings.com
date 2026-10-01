@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.404Z",
+  "trackers": {
+    "url": "https://mattermost.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:07.367Z"
+  }
+}

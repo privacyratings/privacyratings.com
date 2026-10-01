@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.621Z",
+  "trackers": {
+    "url": "https://fyne.io",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:26.481Z"
+  }
+}

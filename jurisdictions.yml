@@ -1,0 +1,312 @@
+# Countries and territories where rated companies are based.
+#
+# Entries set `jurisdiction: <code>` using the codes below (ISO 3166-1 alpha-2).
+#
+# eyes          5, 9 or 14 when the country is in the Five, Nine or Fourteen Eyes
+#               signals intelligence sharing arrangements. Omit otherwise.
+# eu            Member of the European Union (GDPR applies).
+# eea           In the European Economic Area but not the EU (GDPR applies).
+# gdpr_like     Has a GDPR-style data protection law outside the EU/EEA (for example UK GDPR, Swiss FADP).
+# cloud_act     "provider" = companies here are directly subject to the US CLOUD Act.
+#               "agreement" = has a CLOUD Act data access agreement in force with the US.
+# the           true when the name needs "the" in a sentence (the United States).
+# notes         Laws and events that matter for privacy. Each note needs a source.
+
+alliances:
+  5:
+    name: Five Eyes
+    members: [US, GB, CA, AU, NZ]
+  9:
+    name: Nine Eyes
+    members: [US, GB, CA, AU, NZ, DK, FR, NL, NO]
+  14:
+    name: Fourteen Eyes
+    members: [US, GB, CA, AU, NZ, DK, FR, NL, NO, BE, DE, IT, ES, SE]
+
+countries:
+  US:
+    the: true
+    name: United States
+    eyes: 5
+    cloud_act: provider
+    notes:
+      - text: >-
+          The CLOUD Act requires US providers to hand over data they control in response to valid US legal
+          process, wherever in the world the data is stored.
+        source: https://www.justice.gov/criminal/cloud-act-resources
+      - text: >-
+          Section 702 of FISA allows intelligence collection targeting non-US persons abroad through US providers,
+          without an individual warrant.
+        source: https://www.eff.org/702-spying
+      - text: >-
+          National Security Letters can demand subscriber records and usually come with gag orders that stop the
+          provider from telling the user.
+        source: https://www.eff.org/issues/national-security-letters
+      - text: >-
+          The Fourth Amendment and the Stored Communications Act generally require a warrant for the content of
+          communications, and code has been recognized as protected speech.
+        source: https://www.eff.org/cases/bernstein-v-us-dept-justice
+
+  GB:
+    the: true
+    name: United Kingdom
+    eyes: 5
+    gdpr_like: true
+    cloud_act: agreement
+    notes:
+      - text: >-
+          The Investigatory Powers Act allows Technical Capability Notices that can require providers to change their
+          systems to enable access, with secrecy obligations.
+        source: https://www.legislation.gov.uk/ukpga/2016/25/contents
+      - text: >-
+          A CLOUD Act data access agreement with the US is in force, so UK authorities can request data directly from
+          US providers for serious crimes.
+        source: https://www.justice.gov/archives/opa/pr/landmark-us-uk-data-access-agreement-enters-force
+
+  GI:
+    name: Gibraltar
+    gdpr_like: true
+    notes:
+      - text: >-
+          British Overseas Territory with its own courts and data protection law. The UK is responsible for its
+          defense and foreign relations.
+        source: https://en.wikipedia.org/wiki/Gibraltar
+
+  CA:
+    name: Canada
+    eyes: 5
+
+  AU:
+    name: Australia
+    eyes: 5
+    cloud_act: agreement
+    notes:
+      - text: >-
+          The Assistance and Access Act allows authorities to issue technical assistance and capability notices to
+          communications providers.
+        source: https://www.legislation.gov.au/C2018A00148/latest/text
+      - text: A CLOUD Act data access agreement with the US is in force.
+        source: https://www.justice.gov/criminal/cloud-act-resources
+
+  NZ:
+    name: New Zealand
+    eyes: 5
+
+  DK:
+    name: Denmark
+    eyes: 9
+    eu: true
+
+  FR:
+    name: France
+    eyes: 9
+    eu: true
+
+  NL:
+    the: true
+    name: Netherlands
+    eyes: 9
+    eu: true
+
+  NO:
+    name: Norway
+    eyes: 9
+    eea: true
+
+  BE:
+    name: Belgium
+    eyes: 14
+    eu: true
+
+  DE:
+    name: Germany
+    eyes: 14
+    eu: true
+    notes:
+      - text: >-
+          German judges can order a mailbox to be seized or monitored in real time. Unencrypted mail is then handed over
+          in plain text. End-to-end encrypted mail stays encrypted.
+        source: https://tuta.com/blog/transparency-report
+      - text: >-
+          A regional court ordered Tutanota (now Tuta) to build a function to monitor a single account under
+          investigation.
+        source: https://techcrunch.com/2020/12/08/german-secure-email-provider-tutanota-forced-to-monitor-an-account-after-regional-court-ruling/
+
+  IT:
+    name: Italy
+    eyes: 14
+    eu: true
+
+  ES:
+    name: Spain
+    eyes: 14
+    eu: true
+
+  SE:
+    name: Sweden
+    eyes: 14
+    eu: true
+    notes:
+      - text: >-
+          VPN services are not covered by the data retention rules in the Electronic Communications Act, according to
+          Mullvad's legal review.
+        source: https://mullvad.net/en/help/swedish-legislation
+
+  CH:
+    name: Switzerland
+    gdpr_like: true
+    notes:
+      - text: >-
+          Outside all Eyes arrangements and outside the EU. Foreign requests must go through Swiss courts, but Swiss
+          orders are still enforced. Proton complied with most of the thousands of Swiss legal orders it received.
+        source: https://proton.me/legal/transparency
+      - text: >-
+          A proposed revision of the surveillance ordinance (VÜPF/OSCPT) would expand user identification and require
+          six months of metadata retention. It was paused for a second consultation after strong opposition, and Proton
+          began moving some infrastructure out of Switzerland.
+        source: https://www.isoc.ch/swiss-surveillance-ordinance-encryption-threat-vupf-oscpt/
+
+  IS:
+    name: Iceland
+    eea: true
+
+  FI:
+    name: Finland
+    eu: true
+
+  AT:
+    name: Austria
+    eu: true
+
+  CZ:
+    name: Czechia
+    eu: true
+
+  LT:
+    name: Lithuania
+    eu: true
+
+  EE:
+    name: Estonia
+    eu: true
+
+  PL:
+    name: Poland
+    eu: true
+
+  RO:
+    name: Romania
+    eu: true
+
+  CY:
+    name: Cyprus
+    eu: true
+
+  LU:
+    name: Luxembourg
+    eu: true
+
+  IE:
+    name: Ireland
+    eu: true
+
+  PT:
+    name: Portugal
+    eu: true
+
+  PA:
+    name: Panama
+
+  VG:
+    the: true
+    name: British Virgin Islands
+
+  SG:
+    name: Singapore
+
+  JP:
+    name: Japan
+
+  SI:
+    name: Slovenia
+    eu: true
+
+  AR:
+    name: Argentina
+
+  CR:
+    name: Costa Rica
+
+  MH:
+    the: true
+    name: Marshall Islands
+
+  CN:
+    name: China
+    notes:
+      - text: >-
+          The National Intelligence Law requires organizations and citizens to support, assist and cooperate with
+          state intelligence work, and to keep that cooperation secret.
+        source: https://www.chinalawtranslate.com/en/national-intelligence-law-of-the-p-r-c-2017/
+
+  BG:
+    name: Bulgaria
+    eu: true
+
+  GR:
+    name: Greece
+    eu: true
+
+  HU:
+    name: Hungary
+    eu: true
+
+  LV:
+    name: Latvia
+    eu: true
+
+  MT:
+    name: Malta
+    eu: true
+
+  SK:
+    name: Slovakia
+    eu: true
+
+  TR:
+    name: Türkiye
+
+  AE:
+    the: true
+    name: United Arab Emirates
+
+  BM:
+    name: Bermuda
+
+  HK:
+    name: Hong Kong
+
+  IL:
+    name: Israel
+
+  IN:
+    name: India
+
+  KR:
+    name: South Korea
+
+  MY:
+    name: Malaysia
+
+  PK:
+    name: Pakistan
+
+  RU:
+    name: Russia
+
+  UA:
+    name: Ukraine
+
+  KY:
+    the: true
+    name: Cayman Islands

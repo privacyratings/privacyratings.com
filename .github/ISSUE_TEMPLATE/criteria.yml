@@ -1,0 +1,41 @@
+name: Criteria change
+description: Propose a new criterion, or a change to an existing one.
+title: "Criteria: "
+labels: [criteria]
+body:
+  - type: markdown
+    attributes:
+      value: Criteria changes stay open for at least 7 days and need two maintainer approvals. See GOVERNANCE.md.
+  - type: input
+    id: scope
+    attributes:
+      label: Category
+      description: A category id, or "all" for a common criterion.
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: The exact yes-or-no question a rating would answer.
+    validations:
+      required: true
+  - type: textarea
+    id: answers
+    attributes:
+      label: What yes, partial and no mean
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters, and how anyone can verify it
+    validations:
+      required: true
+  - type: dropdown
+    id: weight
+    attributes:
+      label: Suggested weight
+      options: ["1 (nice to have)", "2 (important)", "3 (essential)"]
+    validations:
+      required: true

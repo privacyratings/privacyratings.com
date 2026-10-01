@@ -1,0 +1,9 @@
+title: "Idea: "
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idea
+      description: New categories, site features or process changes.
+    validations:
+      required: true

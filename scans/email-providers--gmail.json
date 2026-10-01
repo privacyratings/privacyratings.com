@@ -1,0 +1,60 @@
+{
+  "domain": "mail.google.com",
+  "mail": {
+    "dns": {
+      "domain": "gmail.com",
+      "dnssec": false,
+      "mx": [
+        "alt4.gmail-smtp-in.l.google.com",
+        "gmail-smtp-in.l.google.com",
+        "alt1.gmail-smtp-in.l.google.com",
+        "alt2.gmail-smtp-in.l.google.com",
+        "alt3.gmail-smtp-in.l.google.com"
+      ],
+      "spf": true,
+      "dmarc": "none",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "smtp.gmail.com",
+          "port": 587
+        },
+        "imaps": {
+          "host": "imap.gmail.com",
+          "port": 993
+        },
+        "imap": null,
+        "pop3s": {
+          "host": "pop.gmail.com",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T05:26:36.737Z"
+  },
+  "mail_domain": "gmail.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.google.com",
+    "tested_at": "2026-09-30T20:21:13.476Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.572Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 8,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.google.com&hideResults=on",
+    "tested_at": "2026-09-29T17:53:54.963Z"
+  },
+  "trackers": {
+    "url": "https://accounts.google.com/v3/signin/identifier?continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S303870866:1790800869885086",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:09.915Z"
+  }
+}

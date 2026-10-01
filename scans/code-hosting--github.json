@@ -1,0 +1,17 @@
+{
+  "domain": "github.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 115,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=github.com",
+    "tested_at": "2026-09-30T20:19:44.440Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.482Z",
+  "trackers": {
+    "url": "https://github.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:47.116Z"
+  }
+}

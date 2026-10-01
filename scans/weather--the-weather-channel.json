@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.286Z",
+  "trackers": {
+    "url": "https://weather.com",
+    "found": [
+      {
+        "name": "Google DoubleClick",
+        "host": "securepubads.g.doubleclick.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:34.680Z"
+  }
+}

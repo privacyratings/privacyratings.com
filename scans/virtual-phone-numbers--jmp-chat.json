@@ -1,0 +1,17 @@
+{
+  "domain": "jmp.chat",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=jmp.chat",
+    "tested_at": "2026-09-30T20:16:42.560Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.462Z",
+  "trackers": {
+    "url": "https://jmp.chat",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:34.078Z"
+  }
+}

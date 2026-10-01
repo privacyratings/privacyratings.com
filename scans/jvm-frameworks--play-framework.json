@@ -1,0 +1,20 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.660Z",
+  "trackers": {
+    "url": "https://www.playframework.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:34.556Z"
+  }
+}

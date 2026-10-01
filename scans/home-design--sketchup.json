@@ -1,0 +1,31 @@
+{
+  "domain": "app.sketchup.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.sketchup.com",
+    "tested_at": "2026-09-30T20:21:43.348Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.590Z",
+  "trackers": {
+    "url": "https://sketchup.trimble.com/en",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:18.662Z"
+  }
+}

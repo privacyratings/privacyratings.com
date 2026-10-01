@@ -1,0 +1,48 @@
+{
+  "domain": "mail.yahoo.com",
+  "mail": {
+    "dns": {
+      "domain": "yahoo.com",
+      "dnssec": false,
+      "mx": [
+        "mta6.am0.yahoodns.net",
+        "mta5.am0.yahoodns.net",
+        "mta7.am0.yahoodns.net"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "testing",
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:35.256Z"
+  },
+  "mail_domain": "yahoo.com",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yahoo.com",
+    "tested_at": "2026-09-30T20:19:22.352Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.479Z",
+  "trackers": {
+    "url": "https://mail.yahoo.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:45.471Z"
+  }
+}

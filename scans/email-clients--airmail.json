@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.543Z",
+  "trackers": {
+    "url": "https://airmailapp.com/",
+    "found": [
+      {
+        "name": "Crisp",
+        "host": "client.crisp.chat",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T16:00:50.993Z",
+    "last_error": "HTTP 429"
+  }
+}

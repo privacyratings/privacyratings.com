@@ -1,0 +1,30 @@
+{
+  "domain": "textbelt.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=textbelt.com",
+    "tested_at": "2026-09-30T20:22:46.959Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.679Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=textbelt.com&hideResults=on",
+    "tested_at": "2026-09-30T19:56:28.161Z"
+  },
+  "trackers": {
+    "url": "https://textbelt.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:42.254Z"
+  }
+}

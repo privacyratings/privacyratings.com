@@ -1,0 +1,17 @@
+{
+  "domain": "www.exifremove.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.exifremove.com",
+    "tested_at": "2026-09-30T20:16:28.739Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.460Z",
+  "trackers": {
+    "url": "https://www.exifremove.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:32.432Z"
+  }
+}

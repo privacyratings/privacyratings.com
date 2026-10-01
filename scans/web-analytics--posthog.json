@@ -1,0 +1,17 @@
+{
+  "domain": "posthog.com",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=posthog.com",
+    "tested_at": "2026-09-30T20:15:29.264Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.262Z",
+  "trackers": {
+    "url": "https://posthog.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:29.779Z"
+  }
+}

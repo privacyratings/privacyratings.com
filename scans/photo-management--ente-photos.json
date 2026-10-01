@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.450Z",
+  "trackers": {
+    "url": "https://ente.com",
+    "found": [
+      {
+        "name": "PostHog",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:24.846Z"
+  }
+}

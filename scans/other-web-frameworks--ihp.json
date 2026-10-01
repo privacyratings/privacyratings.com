@@ -1,0 +1,33 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.665Z",
+  "trackers": {
+    "url": "https://ihp.digitallyinduced.com",
+    "found": [
+      {
+        "name": "G2",
+        "host": "images.g2crowd.com"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Reddit Pixel",
+        "host": "www.redditstatic.com"
+      },
+      {
+        "name": "YouTube embed",
+        "host": "www.youtube.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:37.028Z"
+  }
+}

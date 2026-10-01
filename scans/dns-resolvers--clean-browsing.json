@@ -1,0 +1,41 @@
+{
+  "domain": "cleanbrowsing.org",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cleanbrowsing.org",
+    "tested_at": "2026-09-30T20:17:02.458Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.465Z",
+  "trackers": {
+    "url": "https://cleanbrowsing.org",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "LiveChat",
+        "host": "cdn.livechatinc.com"
+      },
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:36.747Z"
+  }
+}

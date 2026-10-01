@@ -1,0 +1,29 @@
+{
+  "domain": "crypton.sh",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=crypton.sh",
+    "tested_at": "2026-09-30T20:16:40.448Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.462Z",
+  "trackers": {
+    "url": "https://crypton.sh",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Trustpilot",
+        "host": "uk.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:34.590Z"
+  }
+}

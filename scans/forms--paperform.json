@@ -1,0 +1,41 @@
+{
+  "domain": "paperform.co",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=paperform.co",
+    "tested_at": "2026-09-30T20:23:08.131Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.690Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=paperform.co&hideResults=on",
+    "tested_at": "2026-09-30T20:06:39.584Z"
+  },
+  "trackers": {
+    "url": "https://paperform.co",
+    "found": [
+      {
+        "name": "G2",
+        "host": "tracking.g2crowd.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Intercom",
+        "host": "widget.intercom.io",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:46.343Z"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.190Z",
+  "trackers": {
+    "url": "https://duplicati.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "PostHog",
+        "host": "inline code"
+      },
+      {
+        "name": "Zendesk",
+        "host": "static.zdassets.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:15.919Z"
+  }
+}

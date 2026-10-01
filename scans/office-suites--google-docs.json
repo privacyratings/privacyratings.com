@@ -1,0 +1,17 @@
+{
+  "domain": "docs.google.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.google.com",
+    "tested_at": "2026-09-30T20:21:38.687Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.587Z",
+  "trackers": {
+    "url": "https://accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-516362598:1790800876850372",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:16.881Z"
+  }
+}

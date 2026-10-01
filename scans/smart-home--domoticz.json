@@ -1,0 +1,20 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.271Z",
+  "trackers": {
+    "url": "https://www.domoticz.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:31.761Z"
+  }
+}

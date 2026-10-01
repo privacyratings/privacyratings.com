@@ -1,0 +1,23 @@
+{
+  "domain": "www.gandi.net",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gandi.net",
+    "tested_at": "2026-09-30T20:17:15.832Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.467Z",
+  "trackers": {
+    "url": "https://www.gandi.net/en",
+    "found": [
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:38.263Z"
+  }
+}

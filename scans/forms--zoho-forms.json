@@ -1,0 +1,23 @@
+{
+  "domain": "forms.zoho.com",
+  "observatory": {
+    "grade": "F",
+    "score": 10,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forms.zoho.com",
+    "tested_at": "2026-09-30T20:23:09.852Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.690Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=forms.zoho.com&hideResults=on",
+    "tested_at": "2026-09-30T20:05:01.235Z"
+  },
+  "trackers": {
+    "url": "https://www.zoho.com/forms/",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:46.458Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "domain": "sendgrid.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sendgrid.com",
+    "tested_at": "2026-09-30T20:22:26.117Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.676Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 9,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sendgrid.com&hideResults=on",
+    "tested_at": "2026-09-30T19:42:49.926Z"
+  },
+  "trackers": {
+    "url": "https://www.twilio.com/en-us/sendgrid",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Segment",
+        "host": "cdn.segment.com"
+      },
+      {
+        "name": "TrustArc",
+        "host": "consent.trustarc.com",
+        "soft": true
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:41.157Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "domain": "www.fastmail.com",
+  "mail": {
+    "dns": {
+      "domain": "fastmail.com",
+      "dnssec": false,
+      "mx": [
+        "in1-smtp.messagingengine.com",
+        "in2-smtp.messagingengine.com"
+      ],
+      "spf": true,
+      "dmarc": "none",
+      "tls_rpt": true,
+      "mta_sts": "testing",
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": {
+          "host": "smtp.fastmail.com",
+          "port": 465
+        },
+        "submission": null,
+        "imaps": {
+          "host": "imap.fastmail.com",
+          "port": 993
+        },
+        "imap": null,
+        "pop3s": {
+          "host": "pop.fastmail.com",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T05:26:37.411Z"
+  },
+  "mail_domain": "fastmail.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.fastmail.com",
+    "tested_at": "2026-09-30T20:19:26.042Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.480Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.fastmail.com&hideResults=on",
+    "tested_at": "2026-09-29T18:06:40.591Z"
+  },
+  "trackers": {
+    "url": "https://www.fastmail.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:46.099Z"
+  }
+}

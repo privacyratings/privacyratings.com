@@ -1,0 +1,17 @@
+{
+  "domain": "www.swisstransfer.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.swisstransfer.com",
+    "tested_at": "2026-09-30T20:15:12.165Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.226Z",
+  "trackers": {
+    "url": "https://www.swisstransfer.com/en",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:25.582Z"
+  }
+}

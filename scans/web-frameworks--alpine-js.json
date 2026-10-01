@@ -1,0 +1,26 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.598Z",
+  "trackers": {
+    "url": "https://alpinejs.dev",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Fathom",
+        "host": "cdn.usefathom.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:21.715Z"
+  }
+}

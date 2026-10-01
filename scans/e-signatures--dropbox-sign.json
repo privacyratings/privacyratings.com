@@ -1,0 +1,22 @@
+{
+  "domain": "app.hellosign.com",
+  "observatory": {
+    "grade": "A",
+    "score": 95,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.hellosign.com",
+    "tested_at": "2026-09-30T20:13:51.250Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.196Z",
+  "trackers": {
+    "url": "https://sign.dropbox.com",
+    "found": [
+      {
+        "name": "Google DoubleClick",
+        "host": "pubads.g.doubleclick.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:19.682Z"
+  }
+}

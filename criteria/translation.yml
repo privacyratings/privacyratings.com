@@ -1,0 +1,19 @@
+- id: offline
+  title: Works offline
+  weight: 3
+  question: Can text be translated on the device, without sending it to a server?
+  yes: Translation runs on the device or on your own server.
+  partial: Offline translation is optional, with online translation by default.
+  no: Online only.
+  why: Translated text is often private, such as messages, contracts and medical letters.
+  verify: Link the documentation.
+
+- id: no_retention
+  title: Text not kept
+  weight: 2
+  question: Is translated text deleted after translation and kept out of model training?
+  yes: Not stored or used for training.
+  partial: Stored or used for training unless you opt out or pay.
+  no: Stored and used for training.
+  why: Stored texts can be read, breached or used to train models.
+  verify: Link the privacy policy.

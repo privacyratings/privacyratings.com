@@ -1,0 +1,17 @@
+{
+  "domain": "quad9.net",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=quad9.net",
+    "tested_at": "2026-09-30T20:17:11.362Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.466Z",
+  "trackers": {
+    "url": "https://quad9.net",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:38.157Z"
+  }
+}

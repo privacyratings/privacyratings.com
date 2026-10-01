@@ -1,0 +1,26 @@
+{
+  "domain": "www.nccgroup.com",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.nccgroup.com",
+    "tested_at": "2026-09-30T20:20:48.460Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.501Z",
+  "trackers": {
+    "url": "https://www.nccgroup.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:56.876Z"
+  }
+}

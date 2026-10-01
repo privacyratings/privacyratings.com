@@ -1,0 +1,17 @@
+{
+  "domain": "m365.cloud.microsoft",
+  "observatory": {
+    "grade": "A+",
+    "score": 115,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
+    "tested_at": "2026-09-30T20:21:49.830Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.668Z",
+  "trackers": {
+    "url": "https://www.microsoft.com/en-us/microsoft-365/visio",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:39.846Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "domain": "dns.he.net",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.he.net",
+    "tested_at": "2026-09-30T20:13:17.396Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.133Z",
+  "trackers": {
+    "url": "https://dns.he.net",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:56.221Z"
+  }
+}

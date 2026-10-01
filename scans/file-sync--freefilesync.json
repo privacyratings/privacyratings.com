@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.190Z",
+  "trackers": {
+    "url": "https://freefilesync.org",
+    "found": [
+      {
+        "name": "Google AdSense",
+        "host": "pagead2.googlesyndication.com"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "securepubads.g.doubleclick.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:16.393Z"
+  }
+}

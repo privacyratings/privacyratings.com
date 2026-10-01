@@ -1,0 +1,26 @@
+{
+  "domain": "wisprflow.ai",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wisprflow.ai",
+    "tested_at": "2026-09-30T20:10:51.105Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.032Z",
+  "trackers": {
+    "url": "https://wisprflow.ai",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "PostHog",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:35.137Z"
+  }
+}

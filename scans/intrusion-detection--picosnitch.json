@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.424Z",
+  "trackers": {
+    "url": "https://elesiuta.github.io/picosnitch/",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:14.131Z"
+  }
+}

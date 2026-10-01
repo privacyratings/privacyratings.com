@@ -1,0 +1,60 @@
+{
+  "domain": "www.signwell.com",
+  "observatory": {
+    "grade": "F",
+    "score": 10,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.signwell.com",
+    "tested_at": "2026-09-30T20:22:51.350Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.689Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.signwell.com&hideResults=on",
+    "tested_at": "2026-09-30T19:56:28.544Z"
+  },
+  "trackers": {
+    "url": "https://www.signwell.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Crazy Egg",
+        "host": "script.crazyegg.com"
+      },
+      {
+        "name": "Fathom",
+        "host": "cdn.usefathom.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Hotjar",
+        "host": "inline code"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:45.822Z"
+  }
+}

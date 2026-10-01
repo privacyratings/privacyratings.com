@@ -1,0 +1,16 @@
+{
+  "domain": "njal.la",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=njal.la",
+    "tested_at": "2026-09-30T20:17:43.788Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.469Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:40:39.796Z"
+  }
+}

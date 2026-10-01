@@ -1,0 +1,28 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.287Z",
+  "trackers": {
+    "url": "https://coldcard.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "YouTube embed",
+        "host": "www.youtube.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:36.356Z"
+  }
+}

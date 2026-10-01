@@ -1,0 +1,19 @@
+- id: local_storage
+  title: Data stays on device
+  weight: 3
+  question: Is cycle data stored only on the device by default?
+  yes: Stored only on the device unless you choose to back it up.
+  partial: Synced to a server but end-to-end encrypted.
+  no: Stored on the vendor's servers in readable form.
+  why: Cycle and pregnancy data can be requested by courts and police in some jurisdictions.
+  verify: Link the privacy policy or documentation.
+
+- id: no_account_needed
+  title: No account needed
+  weight: 2
+  question: Can the app be used without an account?
+  yes: No account needed.
+  partial: Account optional.
+  no: An account is required.
+  why: An account links health data to an identity.
+  verify: Link the app listing or documentation.

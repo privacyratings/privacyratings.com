@@ -1,0 +1,29 @@
+{
+  "domain": "gogs.io",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=gogs.io",
+    "tested_at": "2026-09-29T17:59:44.528Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.589Z",
+  "trackers": {
+    "url": "https://gogs.io/getting-started/introduction",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:18.546Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.179Z",
+  "trackers": {
+    "url": "https://simplenote.com",
+    "found": [
+      {
+        "name": "WordPress.com Stats",
+        "host": "stats.wp.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:11.275Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "domain": "www.icloud.com",
+  "mail": {
+    "dns": {
+      "domain": "icloud.com",
+      "dnssec": false,
+      "mx": [
+        "mx01.mail.icloud.com",
+        "mx02.mail.icloud.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": true,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "smtp.mail.me.com",
+          "port": 587
+        },
+        "imaps": {
+          "host": "imap.mail.me.com",
+          "port": 993
+        },
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:36.241Z"
+  },
+  "mail_domain": "icloud.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 130,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
+    "tested_at": "2026-09-30T20:19:01.730Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.481Z",
+  "trackers": {
+    "url": "https://support.apple.com/en-us/102548",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:46.789Z"
+  }
+}

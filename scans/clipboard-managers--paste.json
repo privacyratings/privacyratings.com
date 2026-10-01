@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.569Z",
+  "trackers": {
+    "url": "https://pasteapp.io",
+    "found": [
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:09.315Z"
+  }
+}

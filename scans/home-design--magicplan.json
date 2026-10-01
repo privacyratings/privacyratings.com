@@ -1,0 +1,35 @@
+{
+  "domain": "cloud.magicplan.app",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cloud.magicplan.app",
+    "tested_at": "2026-09-30T20:10:56.342Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.035Z",
+  "trackers": {
+    "url": "https://magicplan.app",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:34.928Z"
+  }
+}

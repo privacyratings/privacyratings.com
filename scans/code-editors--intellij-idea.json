@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.246Z",
+  "trackers": {
+    "url": "https://www.jetbrains.com/idea/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:27.435Z"
+  }
+}

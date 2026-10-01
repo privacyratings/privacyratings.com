@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.293Z",
+  "trackers": {
+    "url": "https://www.ynab.com",
+    "found": [
+      {
+        "name": "Amplitude",
+        "host": "cdn.amplitude.com"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:38.082Z"
+  }
+}

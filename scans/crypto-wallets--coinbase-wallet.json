@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.592Z",
+  "trackers": {
+    "url": "https://wallet.coinbase.com/",
+    "found": [
+      {
+        "name": "Impact",
+        "host": "app.impact.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:19.526Z"
+  }
+}

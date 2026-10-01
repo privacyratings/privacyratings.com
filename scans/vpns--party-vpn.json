@@ -1,0 +1,17 @@
+{
+  "domain": "partyvpn.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=partyvpn.com",
+    "tested_at": "2026-09-30T20:16:58.034Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.464Z",
+  "trackers": {
+    "url": "https://partyvpn.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:36.476Z"
+  }
+}

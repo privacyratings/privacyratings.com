@@ -1,0 +1,129 @@
+- id: e2ee
+  title: End-to-end encryption
+  weight: 3
+  question: Can mail be end-to-end encrypted so that the provider cannot read message contents?
+  yes: Built in by default between users, and supported for outside recipients (for example OpenPGP or password-protected mail).
+  partial: Supported but not by default, or only with a browser extension or separate app.
+  no: Not supported.
+  why: Without end-to-end encryption, the provider and anyone with access to its servers can read mail.
+  verify: Link the documentation that describes the encryption.
+
+- id: encrypted_storage
+  title: Encrypted mailbox storage
+  weight: 3
+  question: Is stored mail encrypted with a key the provider does not hold?
+  yes: Mailboxes are encrypted at rest with a key derived from the user's password or private key.
+  partial: Encrypted at rest, but with keys the provider holds.
+  no: Stored unencrypted or undocumented.
+  why: Encrypted storage protects mail from breaches, rogue staff and bulk data requests.
+  verify: Link the security or encryption documentation.
+
+- id: open_protocols
+  title: Open protocols
+  weight: 2
+  question: Can any standard app connect over IMAP, POP3, SMTP, CalDAV or CardDAV, without extra software?
+  yes: IMAP and SMTP work with any client on every paid plan.
+  partial: Standard protocols need a bridge app or a higher plan.
+  no: Only the provider's own apps work.
+  why: Open protocols prevent lock-in and let people choose their own apps.
+  verify: Link the IMAP and SMTP setup documentation.
+
+- id: custom_domains
+  title: Custom domains
+  weight: 1
+  question: Can mail be sent and received with your own domain?
+  yes: Supported on affordable plans.
+  partial: Only on business plans.
+  no: Not supported.
+  why: Your own domain makes it possible to switch providers without changing addresses.
+  verify: Link the custom domain documentation.
+
+- id: anonymous_signup
+  title: Sign up without personal data
+  weight: 2
+  question: Can an account be created without a phone number or another email address?
+  yes: No phone number or existing email required.
+  partial: Required only in some cases, such as flagged sign-ups.
+  no: A phone number or other personal data is required.
+  why: Requiring a phone number ties the account to a real identity.
+  verify: Link the sign-up page or documentation.
+
+- id: mail_standards
+  title: Email security standards
+  weight: 2
+  services: true
+  auto: internetnl-mail
+  question: Does the mail domain score 90% or higher on the Internet.nl email test?
+  yes: Score of 90% or higher.
+  partial: Score between 70% and 89%.
+  no: Score below 70%.
+  why: The test checks DMARC, DKIM, SPF, DNSSEC, DANE and STARTTLS, which protect mail from spoofing and interception.
+  verify: Run https://internet.nl/test-mail/ on the mail domain.
+
+- id: imap_standards
+  title: IMAP support
+  weight: 2
+  services: true
+  auto: imap
+  question: Does the IMAP server accept connections over implicit TLS on port 993 and advertise IMAP4rev1 or IMAP4rev2 with IDLE push?
+  yes: Implicit TLS on 993 (RFC 8314), IMAP4rev1 (RFC 3501) or IMAP4rev2 (RFC 9051), and IDLE (RFC 2177) advertised in CAPABILITY.
+  partial: IMAP works, but only with STARTTLS on 143, or without IDLE in the advertised capabilities.
+  no: No IMAP server. Mail can only be read in the provider's own apps or through a local bridge.
+  why: Standard IMAP lets people use any email app and keeps them free to leave. Implicit TLS is the current recommendation for mail access.
+  verify: Connect with `openssl s_client -connect imap.example.com:993` and send `a1 CAPABILITY`.
+
+- id: pop3_standards
+  title: POP3 support
+  weight: 1
+  services: true
+  auto: pop3
+  question: Does the POP3 server accept connections over implicit TLS on port 995 and answer CAPA with UIDL?
+  yes: Implicit TLS on 995 (RFC 8314), CAPA (RFC 2449) and UIDL (RFC 1939).
+  partial: POP3 works, but only with STLS on 110, or without CAPA or UIDL.
+  no: No POP3 server.
+  why: POP3 is the simplest way to download and keep a full local copy of every message.
+  verify: Connect with `openssl s_client -connect pop3.example.com:995` and send `CAPA`.
+
+- id: smtp_standards
+  title: SMTP submission
+  weight: 2
+  services: true
+  auto: smtp
+  question: Does mail submission work over implicit TLS on port 465 with SMTPUTF8, 8BITMIME, PIPELINING and AUTH?
+  yes: Implicit TLS on 465 (RFC 8314) with SMTPUTF8 (RFC 6531), 8BITMIME (RFC 6152), PIPELINING (RFC 2920) and AUTH (RFC 4954) in EHLO.
+  partial: Submission works, but only with STARTTLS on 587, or without one of these extensions.
+  no: No SMTP submission. Mail can only be sent from the provider's own apps or through a local bridge.
+  why: Standard SMTP submission lets any app send mail, and SMTPUTF8 allows international addresses.
+  verify: Connect with `openssl s_client -connect smtp.example.com:465` and send `EHLO example.com`.
+
+- id: transport_security
+  title: Mail transport security
+  weight: 3
+  services: true
+  auto: mail-dns
+  question: Does the mail domain enforce encrypted, authenticated delivery with MTA-STS, DANE, DNSSEC, TLS-RPT and an enforced DMARC policy?
+  yes: SPF, DMARC set to quarantine or reject, MTA-STS in enforce mode (RFC 8461), TLS-RPT (RFC 8460), DNSSEC, and DANE TLSA records on every MX host (RFC 7672).
+  partial: DMARC is enforced and either MTA-STS is enforced or DANE is published, but not everything above.
+  no: DMARC is not enforced, or neither MTA-STS nor DANE is used.
+  why: These records stop attackers from downgrading or intercepting mail in transit, and from spoofing the provider's own domain.
+  verify: Check the TXT records for _mta-sts, _smtp._tls and _dmarc, the TLSA records for _25._tcp on each MX host, and DNSSEC validation.
+
+- id: srs
+  title: Sender Rewriting Scheme
+  weight: 1
+  question: Is the envelope sender rewritten with SRS when mail is forwarded, so forwarded mail keeps passing SPF?
+  yes: SRS is applied to all forwarded mail.
+  partial: SRS is applied only in some cases or on some plans.
+  no: Forwarded mail is not rewritten.
+  why: Without SRS, forwarded mail often fails SPF and lands in spam or is rejected.
+  verify: Link documentation or source code, or check the Return-Path of a forwarded message.
+
+- id: arc
+  title: ARC sealing
+  weight: 1
+  question: Does the provider validate and add ARC (RFC 8617) signatures, so authentication results survive forwarding?
+  yes: ARC chains are validated on inbound mail and ARC seals are added to forwarded mail.
+  partial: Only one of the two.
+  no: ARC is not supported.
+  why: ARC lets receivers trust authentication results after a message is forwarded or modified by a mailing list.
+  verify: Link documentation or source code, or check for ARC-Seal headers on a forwarded message.

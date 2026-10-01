@@ -1,0 +1,56 @@
+{
+  "domain": "riseup.net",
+  "mail": {
+    "dns": {
+      "domain": "riseup.net",
+      "dnssec": true,
+      "mx": [
+        "mx1.riseup.net"
+      ],
+      "spf": true,
+      "dmarc": "none",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": {
+          "host": "mail.riseup.net",
+          "port": 465
+        },
+        "submission": {
+          "host": "mail.riseup.net",
+          "port": 587
+        },
+        "imaps": {
+          "host": "mail.riseup.net",
+          "port": 993
+        },
+        "imap": {
+          "host": "mail.riseup.net",
+          "port": 143
+        },
+        "pop3s": {
+          "host": "mail.riseup.net",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T05:26:36.769Z"
+  },
+  "mail_domain": "riseup.net",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=riseup.net",
+    "tested_at": "2026-09-30T20:19:21.773Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "trackers": {
+    "url": "https://riseup.net",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:45.666Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.292Z",
+  "trackers": {
+    "url": "https://www.quicken.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:37.905Z"
+  }
+}

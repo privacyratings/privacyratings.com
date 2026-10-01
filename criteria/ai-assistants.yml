@@ -1,0 +1,39 @@
+- id: no_training
+  title: No training on your data
+  weight: 3
+  question: Are prompts, chats and files kept out of model training by default?
+  yes: Never used for training, or the model runs entirely on your device.
+  partial: Used for training by default, but you can opt out.
+  no: Used for training with no opt-out.
+  why: Text sent to an AI often contains private, work or health information. Training on it can expose it later.
+  verify: Link the privacy policy or data use documentation.
+
+- id: runs_locally
+  title: Runs locally
+  weight: 2
+  question: Can the assistant run on your own device or server, so prompts never leave it?
+  yes: Runs fully on your own hardware.
+  partial: Can use local models, but defaults to a hosted service.
+  no: Hosted only.
+  why: A local model cannot leak prompts to anyone.
+  verify: Link the documentation.
+
+- id: chat_retention
+  title: Limited chat retention
+  weight: 2
+  question: Are chats deleted by default or on request, with no long-term server copy?
+  yes: Chats are not stored on servers, or are deleted within 30 days of deletion or by default.
+  partial: Chats are kept until you delete them, then removed.
+  no: Chats are kept indefinitely or for review even after deletion.
+  why: Stored chats can be breached, subpoenaed or read by staff.
+  verify: Link the data retention policy.
+
+- id: no_account_needed
+  title: No account needed
+  weight: 1
+  question: Can it be used without an account or personal details?
+  yes: No account or email needed.
+  partial: Limited use without an account.
+  no: An account is required.
+  why: An account ties every prompt to an identity.
+  verify: Link the sign-up page or documentation.

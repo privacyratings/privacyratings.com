@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.097Z",
+  "trackers": {
+    "url": "https://once.com/campfire",
+    "found": [
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:48.843Z"
+  }
+}

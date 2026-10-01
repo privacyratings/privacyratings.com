@@ -1,0 +1,26 @@
+{
+  "domain": "www.phplist.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.phplist.com",
+    "tested_at": "2026-09-30T20:12:07.374Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.114Z",
+  "trackers": {
+    "url": "https://www.phplist.org",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:51.166Z"
+  }
+}

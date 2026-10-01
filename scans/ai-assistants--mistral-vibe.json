@@ -1,0 +1,22 @@
+{
+  "domain": "chat.mistral.ai",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=chat.mistral.ai",
+    "tested_at": "2026-09-30T20:14:50.889Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.213Z",
+  "trackers": {
+    "url": "https://mistral.ai/products/vibe/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:23.274Z"
+  }
+}

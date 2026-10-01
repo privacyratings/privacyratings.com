@@ -1,0 +1,57 @@
+{
+  "domain": "mailjet.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailjet.com",
+    "tested_at": "2026-09-30T20:22:09.104Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.675Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailjet.com&hideResults=on",
+    "tested_at": "2026-09-30T19:39:45.928Z"
+  },
+  "trackers": {
+    "url": "https://www.mailjet.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "inline code"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "Reddit Pixel",
+        "host": "www.redditstatic.com"
+      },
+      {
+        "name": "Segment",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:40.076Z"
+  }
+}

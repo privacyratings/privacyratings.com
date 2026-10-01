@@ -1,0 +1,47 @@
+{
+  "domain": "relay.firefox.com",
+  "mail": {
+    "dns": {
+      "domain": "mozmail.com",
+      "dnssec": false,
+      "mx": [
+        "inbound-smtp.us-west-2.amazonaws.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:44.598Z"
+  },
+  "mail_domain": "mozmail.com",
+  "observatory": {
+    "grade": "C+",
+    "score": 60,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=relay.firefox.com",
+    "tested_at": "2026-09-30T20:19:42.181Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.482Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 8,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=relay.firefox.com&hideResults=on",
+    "tested_at": "2026-09-29T18:06:56.916Z"
+  },
+  "trackers": {
+    "url": "https://relay.firefox.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:46.871Z"
+  }
+}

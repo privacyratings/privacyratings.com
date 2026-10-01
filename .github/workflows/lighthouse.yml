@@ -1,0 +1,66 @@
+name: Lighthouse
+
+# Builds the site and requires a score of 100 in every Lighthouse category
+# on each page type, on mobile and desktop.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lighthouse-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      # Social images are rendered once and reused while the page content is unchanged.
+      - uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+        with:
+          path: .cache/og
+          key: og-${{ hashFiles('scripts/og.js', 'assets/fonts/*') }}-${{ github.sha }}
+          restore-keys: |
+            og-${{ hashFiles('scripts/og.js', 'assets/fonts/*') }}-
+      - run: npm run build
+      - name: Serve the site
+        run: |
+          node scripts/serve.js > serve.log 2>&1 &
+          for _ in $(seq 1 30); do
+            if curl -fsS -o /dev/null http://127.0.0.1:8080/; then exit 0; fi
+            sleep 1
+          done
+          cat serve.log
+          echo "::error::The preview server did not start"
+          exit 1
+      - name: Run Lighthouse
+        run: |
+          mkdir -p reports
+          pages="/ /email-providers/ /email-providers/forward-email/ /criteria/ /jurisdictions/ /jurisdictions/united-states/ /cloud-act/ /alternatives/gmail/ /open-source/password-managers/ /badges/ /compare/email-providers/forward-email-vs-protonmail/ /tests/ /why/ /cli/ /de/ /ar/email-providers/ /ja/private-email/"
+          i=0
+          for p in $pages; do
+            for preset in mobile desktop; do
+              i=$((i+1))
+              extra=()
+              if [ "$preset" = desktop ]; then extra=(--preset=desktop); fi
+              npx --yes lighthouse@13.5.0 "http://localhost:8080$p" "${extra[@]}" --quiet \
+                --chrome-flags="--headless=new --no-sandbox" \
+                --output=json --output-path="reports/$i.json"
+            done
+          done
+      - run: node scripts/lighthouse-check.js reports/*.json

@@ -1,0 +1,17 @@
+{
+  "domain": "pico.sh",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=pico.sh",
+    "tested_at": "2026-09-30T20:18:55.911Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.475Z",
+  "trackers": {
+    "url": "https://pico.sh",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:43.595Z"
+  }
+}

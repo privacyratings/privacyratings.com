@@ -1,0 +1,31 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.639Z",
+  "trackers": {
+    "url": "https://reflex.dev",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "inline code"
+      },
+      {
+        "name": "PostHog",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:30.142Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.173Z",
+  "trackers": {
+    "url": "https://system76.com/pop",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js-na2.hsforms.net"
+      },
+      {
+        "name": "Trustpilot",
+        "host": "ecommplugins-trustboxsettings.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:08.230Z"
+  }
+}

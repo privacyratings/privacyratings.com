@@ -1,0 +1,46 @@
+{
+  "domain": "tuta.com",
+  "mail": {
+    "dns": {
+      "domain": "tuta.com",
+      "dnssec": true,
+      "mx": [
+        "mail.tutanota.de"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:44.354Z"
+  },
+  "mail_domain": "tuta.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 105,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tuta.com",
+    "tested_at": "2026-09-30T20:19:37.619Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.481Z",
+  "ssllabs": {
+    "error": "No endpoint could be graded",
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tuta.com&hideResults=on",
+    "tested_at": "2026-09-29T17:53:53.502Z"
+  },
+  "trackers": {
+    "url": "https://tuta.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:47.697Z"
+  }
+}

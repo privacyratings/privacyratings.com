@@ -1,0 +1,28 @@
+{
+  "domain": "app.formbricks.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.formbricks.com",
+    "tested_at": "2026-09-30T20:13:53.463Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.196Z",
+  "trackers": {
+    "url": "https://formbricks.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "PostHog",
+        "host": "eu.i.posthog.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:20.187Z"
+  }
+}

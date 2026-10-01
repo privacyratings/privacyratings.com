@@ -1,0 +1,17 @@
+{
+  "domain": "browserleaks.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=browserleaks.com",
+    "tested_at": "2026-09-30T20:16:27.250Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.460Z",
+  "trackers": {
+    "url": "https://browserleaks.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:32.105Z"
+  }
+}

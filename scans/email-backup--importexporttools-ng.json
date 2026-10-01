@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.498Z",
+  "trackers": {
+    "url": "https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng/",
+    "found": [
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:53.534Z"
+  }
+}

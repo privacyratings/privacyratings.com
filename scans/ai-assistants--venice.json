@@ -1,0 +1,28 @@
+{
+  "domain": "venice.ai",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=venice.ai",
+    "tested_at": "2026-09-30T20:14:53.135Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.215Z",
+  "trackers": {
+    "url": "https://venice.ai",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:23.377Z"
+  }
+}

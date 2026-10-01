@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.256Z",
+  "trackers": {
+    "url": "https://insomnia.rest",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Segment",
+        "host": "cdn.segment.com"
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:29.005Z"
+  }
+}

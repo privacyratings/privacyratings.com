@@ -1,0 +1,42 @@
+{
+  "domain": "app.trustifi.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.trustifi.com",
+    "tested_at": "2026-09-30T20:20:32.105Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.497Z",
+  "trackers": {
+    "url": "https://trustifi.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js-na2.hsforms.net"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      },
+      {
+        "name": "Matomo Cloud",
+        "host": "cdn.matomo.cloud",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:53.035Z"
+  }
+}

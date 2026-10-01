@@ -1,0 +1,27 @@
+{
+  "domain": "www.zendesk.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.zendesk.com",
+    "tested_at": "2026-09-30T20:12:13.818Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.118Z",
+  "trackers": {
+    "url": "https://www.zendesk.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Zendesk",
+        "host": "static.zdassets.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:51.600Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.007Z",
+  "trackers": {
+    "url": "https://getgreenshot.org",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Cookiebot",
+        "host": "consent.cookiebot.com",
+        "soft": true
+      },
+      {
+        "name": "Google AdSense",
+        "host": "pagead2.googlesyndication.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:31.952Z"
+  }
+}

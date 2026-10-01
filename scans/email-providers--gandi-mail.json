@@ -1,0 +1,48 @@
+{
+  "domain": "webmail.gandi.net",
+  "mail": {
+    "dns": {
+      "domain": "gandi.net",
+      "dnssec": false,
+      "mx": [
+        "mail12.gandi.net",
+        "mail8.gandi.net"
+      ],
+      "spf": true,
+      "dmarc": "none",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T20:31:27.108Z"
+  },
+  "mail_domain": "gandi.net",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=webmail.gandi.net",
+    "tested_at": "2026-09-30T20:19:47.882Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.484Z",
+  "trackers": {
+    "url": "https://www.gandi.net/en/domain/email",
+    "found": [
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:47.583Z"
+  }
+}

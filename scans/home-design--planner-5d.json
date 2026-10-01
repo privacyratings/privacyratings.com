@@ -1,0 +1,28 @@
+{
+  "domain": "planner5d.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=planner5d.com",
+    "tested_at": "2026-09-30T20:10:57.753Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.035Z",
+  "trackers": {
+    "url": "https://planner5d.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:35.855Z"
+  }
+}

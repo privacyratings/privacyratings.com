@@ -1,0 +1,20 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.306Z",
+  "trackers": {
+    "url": "https://newsblur.com",
+    "found": [
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:45.479Z"
+  }
+}

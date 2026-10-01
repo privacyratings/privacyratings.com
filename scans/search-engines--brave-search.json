@@ -1,0 +1,15 @@
+{
+  "domain": "search.brave.com",
+  "scanned_at": "2026-09-30T20:41:47.474Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 12,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=search.brave.com&hideResults=on",
+    "tested_at": "2026-09-29T18:02:59.702Z"
+  },
+  "trackers": {
+    "url": "https://search.brave.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:43.065Z"
+  }
+}

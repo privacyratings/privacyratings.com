@@ -1,0 +1,17 @@
+{
+  "domain": "onedrive.live.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=onedrive.live.com",
+    "tested_at": "2026-09-30T20:15:04.323Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.219Z",
+  "trackers": {
+    "url": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:23.755Z"
+  }
+}

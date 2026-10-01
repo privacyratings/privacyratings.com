@@ -1,0 +1,49 @@
+name: Suggest an app or service
+description: Add something that is not rated yet.
+title: "Suggest: "
+labels: [suggestion]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: See the category list on the home page. Suggest a new one if nothing fits.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source code
+      placeholder: https://github.com/owner/repo
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence for the criteria
+      description: Links to documentation, source code, license files or audits for any criteria you can answer.
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Are you connected to this app or service?
+      options:
+        - "No"
+        - "Yes, I work for it or am paid by it"
+        - "Yes, another connection (explain below)"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

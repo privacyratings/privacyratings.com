@@ -1,0 +1,17 @@
+{
+  "domain": "app.northflank.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.northflank.com",
+    "tested_at": "2026-09-30T20:21:09.927Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.512Z",
+  "trackers": {
+    "url": "https://northflank.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:00.191Z"
+  }
+}

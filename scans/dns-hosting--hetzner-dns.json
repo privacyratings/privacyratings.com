@@ -1,0 +1,17 @@
+{
+  "domain": "console.hetzner.com",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.hetzner.com",
+    "tested_at": "2026-09-30T20:13:15.758Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.133Z",
+  "trackers": {
+    "url": "https://www.hetzner.com/dns/",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:56.379Z"
+  }
+}

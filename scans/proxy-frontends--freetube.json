@@ -1,0 +1,17 @@
+{
+  "domain": "freetubeapp.io",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=freetubeapp.io",
+    "tested_at": "2026-09-29T17:55:04.548Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.455Z",
+  "trackers": {
+    "url": "https://freetubeapp.io",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:28.966Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "domain": "mail.zoho.com",
+  "mail": {
+    "dns": {
+      "domain": "zohomail.com",
+      "dnssec": false,
+      "mx": [
+        "smtpin.zoho.com",
+        "smtpin2.zoho.com",
+        "smtpin3.zoho.com"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:35.947Z"
+  },
+  "mail_domain": "zohomail.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.zoho.com",
+    "tested_at": "2026-09-30T20:19:22.622Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.479Z",
+  "trackers": {
+    "url": "https://www.zoho.com/mail/",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:45.648Z"
+  }
+}

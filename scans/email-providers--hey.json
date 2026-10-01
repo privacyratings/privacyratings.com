@@ -1,0 +1,41 @@
+{
+  "domain": "app.hey.com",
+  "mail": {
+    "dns": {
+      "domain": "hey.com",
+      "dnssec": false,
+      "mx": [
+        "home-mx.app.hey.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:33.425Z"
+  },
+  "mail_domain": "hey.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 120,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.hey.com",
+    "tested_at": "2026-09-30T20:19:01.020Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.476Z",
+  "trackers": {
+    "url": "https://www.hey.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:43.995Z"
+  }
+}

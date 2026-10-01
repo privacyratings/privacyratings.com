@@ -1,0 +1,29 @@
+- id: e2ee
+  title: End-to-end encrypted
+  weight: 3
+  question: Are calls end-to-end encrypted by default?
+  yes: All calls, including group calls, by default.
+  partial: Optional, or only for some calls.
+  no: Not end-to-end encrypted.
+  why: Without end-to-end encryption, the provider can access calls.
+  verify: Link the security documentation.
+
+- id: no_account_needed
+  title: Join without an account
+  weight: 1
+  question: Can people join calls without an account?
+  yes: Guests join from a link with no account.
+  partial: Only the host needs an account.
+  no: Everyone needs an account.
+  why: Accounts tie calls to identities.
+  verify: Link the documentation.
+
+- id: self_hostable
+  title: Self-hostable
+  weight: 1
+  question: Can the server be self-hosted?
+  yes: Officially supported.
+  partial: Possible but limited.
+  no: Hosted only.
+  why: Self-hosting keeps call metadata on your own servers.
+  verify: Link the self-hosting guide.

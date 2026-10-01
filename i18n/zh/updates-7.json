@@ -1,0 +1,8 @@
+{
+ "No app opened, so the text and link were copied.": "未打开任何应用，因此已复制文本和链接。",
+ "Paid email service in Sweden that encrypts mail with OpenPGP and stores it encrypted. New registrations are closed.": "瑞典的付费电子邮件服务，使用 OpenPGP 加密邮件并以加密形式存储。暂停新用户注册。",
+ "Source-available webmail, desktop and mobile client with built-in OpenPGP and no third-party analytics. It works only with Forward Email accounts, not other IMAP and SMTP providers.": "源代码公开的网页邮箱、桌面和移动客户端，内置 OpenPGP，不使用第三方分析。仅支持 Forward Email 账户，不支持其他 IMAP 和 SMTP 服务商。",
+ "Source-available webmail with built-in OpenPGP and no third-party analytics, covered by Cure53's audit. It works only with Forward Email accounts, not other IMAP and SMTP providers.": "源代码公开的网页邮箱，内置 OpenPGP，不使用第三方分析，已包含在 Cure53 的审计范围内。仅支持 Forward Email 账户，不支持其他 IMAP 和 SMTP 服务商。",
+ "No email, no name and no card needed. A stable, flat price, WireGuard on every platform, fully open-source apps, and repeated public audits of both the apps and the server infrastructure.": "无需电子邮件、姓名或银行卡。价格稳定且固定，所有平台均支持 WireGuard，应用完全开源，应用和服务器基础设施都经过多次公开审计。",
+ "Self-hosted journal web app with mood tracking, writing prompts, media uploads, search and writing statistics, run with Docker. Released as beta software.": "使用 Docker 运行的自托管日记网页应用，支持情绪追踪、写作提示、媒体上传、搜索和写作统计。以测试版软件形式发布。"
+}

@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.681Z",
+  "trackers": {
+    "url": "https://netfoundry.io/docs/openziti/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Hotjar",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:43.136Z"
+  }
+}

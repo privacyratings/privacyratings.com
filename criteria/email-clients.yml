@@ -1,0 +1,39 @@
+- id: openpgp
+  title: OpenPGP support
+  weight: 2
+  question: Can the app encrypt and sign mail with OpenPGP, built in or through an official add-on?
+  yes: Built in.
+  partial: Through a separate app or add-on.
+  no: Not supported.
+  why: OpenPGP gives end-to-end encryption with any provider.
+  verify: Link the documentation.
+
+- id: no_cloud_relay
+  title: Connects directly
+  weight: 3
+  question: Does the app connect directly to your mail server, without passing mail or passwords through the vendor's servers?
+  yes: Connects directly. Passwords and mail stay on the device.
+  partial: Connects directly, but optional features (such as push or sync) use vendor servers.
+  no: Mail or credentials pass through vendor servers.
+  why: A client that syncs through the vendor's cloud gives the vendor a copy of every mailbox.
+  verify: Link the documentation or privacy policy that describes how the app connects.
+
+- id: remote_content_blocked
+  title: Blocks remote content
+  weight: 2
+  question: Are remote images and tracking pixels blocked by default?
+  yes: Blocked by default.
+  partial: Can be blocked in settings.
+  no: Cannot be blocked.
+  why: Remote images tell senders when and where a message was opened.
+  verify: Link the documentation or settings screen.
+
+- id: any_provider
+  title: Works with any provider
+  weight: 1
+  question: Does the app work with any standard IMAP and SMTP provider?
+  yes: Any IMAP and SMTP provider.
+  partial: A limited list of providers.
+  no: Only the vendor's own service.
+  why: Apps tied to one provider make switching harder.
+  verify: Link the account setup documentation.

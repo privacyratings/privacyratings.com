@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.591Z",
+  "trackers": {
+    "url": "https://store.google.com/category/nest_cams?hl=en-US",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:19.477Z"
+  }
+}

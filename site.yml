@@ -1,0 +1,14 @@
+# Site settings used by scripts/build.js.
+
+title: Privacy Ratings
+tagline: Open, testable privacy ratings for the apps and services people use every day.
+url: https://privacyratings.com
+# GitHub repository that holds this site. Used for edit links, issues and discussions.
+repo: privacyratings/privacyratings.com
+branch: main
+# Set BASE_PATH=/repo-name when serving from username.github.io/repo-name instead of a custom domain.
+base_path: ''
+# Shown in the footer of every page.
+disclosure: >-
+  Privacy Ratings is backed and maintained by Forward Email, which is also rated here.
+  Every rating is scored by the same public criteria, and every pick explains why it was chosen.

@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.167Z",
+  "trackers": {
+    "url": "https://sailfishos.org",
+    "found": [
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:05.772Z"
+  }
+}

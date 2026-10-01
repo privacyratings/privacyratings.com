@@ -1,0 +1,22 @@
+{
+  "domain": "wetransfer.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 115,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wetransfer.com",
+    "tested_at": "2026-09-30T20:15:14.391Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.227Z",
+  "trackers": {
+    "url": "https://wetransfer.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:25.283Z"
+  }
+}

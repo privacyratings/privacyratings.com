@@ -1,0 +1,17 @@
+{
+  "domain": "riseup.net",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=riseup.net",
+    "tested_at": "2026-09-30T20:12:40.584Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.127Z",
+  "trackers": {
+    "url": "https://riseup.net/en/vpn",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:53.282Z"
+  }
+}

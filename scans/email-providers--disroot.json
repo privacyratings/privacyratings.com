@@ -1,0 +1,56 @@
+{
+  "domain": "disroot.org",
+  "mail": {
+    "dns": {
+      "domain": "disroot.org",
+      "dnssec": true,
+      "mx": [
+        "disroot.org"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "disroot.org",
+          "port": 465
+        },
+        "imaps": {
+          "host": "disroot.org",
+          "port": 993
+        },
+        "imap": null,
+        "pop3s": {
+          "host": "disroot.org",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T05:26:40.324Z"
+  },
+  "mail_domain": "disroot.org",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=disroot.org",
+    "tested_at": "2026-09-30T20:19:22.963Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.479Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=disroot.org&hideResults=on",
+    "tested_at": "2026-09-29T18:00:19.094Z"
+  },
+  "trackers": {
+    "url": "https://disroot.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:45.979Z"
+  }
+}

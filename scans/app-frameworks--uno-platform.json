@@ -1,0 +1,30 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.628Z",
+  "trackers": {
+    "url": "https://platform.uno",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js-na1.hs-scripts.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      },
+      {
+        "name": "X (Twitter) Pixel",
+        "host": "static.ads-twitter.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:28.316Z"
+  }
+}

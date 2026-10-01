@@ -1,0 +1,27 @@
+{
+  "domain": "joindeleteme.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=joindeleteme.com",
+    "tested_at": "2026-09-30T20:11:56.214Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.077Z",
+  "trackers": {
+    "url": "https://joindeleteme.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      },
+      {
+        "name": "Zendesk",
+        "host": "static.zdassets.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:45.667Z"
+  }
+}

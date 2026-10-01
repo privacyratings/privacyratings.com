@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.145Z",
+  "trackers": {
+    "url": "https://www.pingdom.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Optimizely",
+        "host": "cdn.optimizely.com"
+      },
+      {
+        "name": "X (Twitter) Pixel",
+        "host": "static.ads-twitter.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:59.257Z"
+  }
+}

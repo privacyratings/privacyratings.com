@@ -1,0 +1,22 @@
+{
+  "domain": "www.surveymonkey.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.surveymonkey.com",
+    "tested_at": "2026-09-30T20:14:00.722Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.199Z",
+  "trackers": {
+    "url": "https://www.surveymonkey.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:20.291Z"
+  }
+}

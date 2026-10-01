@@ -1,0 +1,54 @@
+{
+  "domain": "mailtrap.io",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailtrap.io",
+    "tested_at": "2026-09-30T20:22:11.345Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.675Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailtrap.io&hideResults=on",
+    "tested_at": "2026-09-30T19:39:46.041Z"
+  },
+  "trackers": {
+    "url": "https://mailtrap.io",
+    "found": [
+      {
+        "name": "Cookiebot",
+        "host": "consentcdn.cookiebot.com",
+        "soft": true
+      },
+      {
+        "name": "Facebook SDK",
+        "host": "connect.facebook.net"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "scripts.clarity.ms"
+      },
+      {
+        "name": "X (Twitter) Pixel",
+        "host": "static.ads-twitter.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:40.553Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "domain": "account.ghost.org",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.ghost.org",
+    "tested_at": "2026-09-30T20:15:45.569Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.302Z",
+  "trackers": {
+    "url": "https://ghost.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:43.609Z"
+  }
+}

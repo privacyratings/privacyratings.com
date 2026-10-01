@@ -1,0 +1,33 @@
+{
+  "domain": "www.kanary.com",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.kanary.com",
+    "tested_at": "2026-09-30T20:11:58.652Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.079Z",
+  "trackers": {
+    "url": "https://www.kanary.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "PostHog",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:46.106Z"
+  }
+}

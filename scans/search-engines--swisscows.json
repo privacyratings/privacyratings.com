@@ -1,0 +1,17 @@
+{
+  "domain": "swisscows.com",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swisscows.com",
+    "tested_at": "2026-09-30T20:21:17.535Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.579Z",
+  "trackers": {
+    "url": "https://swisscows.com/en",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:12.516Z"
+  }
+}

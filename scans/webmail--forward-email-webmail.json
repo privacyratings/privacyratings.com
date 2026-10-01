@@ -1,0 +1,17 @@
+{
+  "domain": "mail.forwardemail.net",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.forwardemail.net",
+    "tested_at": "2026-09-30T20:19:58.397Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.487Z",
+  "trackers": {
+    "url": "https://mail.forwardemail.net",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:48.557Z"
+  }
+}

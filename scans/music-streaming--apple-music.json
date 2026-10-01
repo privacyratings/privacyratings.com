@@ -1,0 +1,17 @@
+{
+  "domain": "music.apple.com",
+  "observatory": {
+    "grade": "A-",
+    "score": 85,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.apple.com",
+    "tested_at": "2026-09-30T20:15:41.710Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.300Z",
+  "trackers": {
+    "url": "https://www.apple.com/apple-music/",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:42.877Z"
+  }
+}

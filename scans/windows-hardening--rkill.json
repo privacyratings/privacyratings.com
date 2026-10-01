@@ -1,0 +1,26 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.436Z",
+  "trackers": {
+    "url": "https://www.bleepingcomputer.com/download/rkill/",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "securepubads.g.doubleclick.net"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:16.952Z"
+  }
+}

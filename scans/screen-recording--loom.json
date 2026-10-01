@@ -1,0 +1,26 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.010Z",
+  "trackers": {
+    "url": "https://www.loom.com",
+    "found": [
+      {
+        "name": "Amplitude",
+        "host": "cdn.amplitude.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:32.233Z"
+  }
+}

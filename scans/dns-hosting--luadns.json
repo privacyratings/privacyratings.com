@@ -1,0 +1,17 @@
+{
+  "domain": "app.luadns.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.luadns.com",
+    "tested_at": "2026-09-30T20:13:17.897Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.134Z",
+  "trackers": {
+    "url": "https://www.luadns.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:56.352Z"
+  }
+}

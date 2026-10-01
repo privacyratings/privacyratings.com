@@ -1,0 +1,19 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.619Z",
+  "trackers": {
+    "url": "https://blackboard.sh/electrobun/",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Mixpanel",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:26.365Z"
+  }
+}

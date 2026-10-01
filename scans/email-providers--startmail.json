@@ -1,0 +1,59 @@
+{
+  "domain": "www.startmail.com",
+  "mail": {
+    "dns": {
+      "domain": "startmail.com",
+      "dnssec": true,
+      "mx": [
+        "mx1.startmail.com",
+        "mx2.startmail.com",
+        "mx3.startmail.com",
+        "mx4.startmail.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": {
+          "host": "smtp.startmail.com",
+          "port": 465
+        },
+        "submission": {
+          "host": "smtp.startmail.com",
+          "port": 465
+        },
+        "imaps": {
+          "host": "imap.startmail.com",
+          "port": 993
+        },
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:43.429Z"
+  },
+  "mail_domain": "startmail.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startmail.com",
+    "tested_at": "2026-09-30T20:19:36.038Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.481Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.startmail.com&hideResults=on",
+    "tested_at": "2026-09-29T18:00:20.881Z"
+  },
+  "trackers": {
+    "url": "https://www.startmail.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:47.034Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "domain": "sparkpost.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sparkpost.com",
+    "tested_at": "2026-09-30T20:22:28.115Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.676Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sparkpost.com&hideResults=on",
+    "tested_at": "2026-09-30T19:47:52.656Z"
+  },
+  "trackers": {
+    "url": "https://bird.com/email-api?sp=true",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:41.456Z"
+  }
+}

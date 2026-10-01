@@ -1,0 +1,20 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.288Z",
+  "trackers": {
+    "url": "https://phoenix.acinq.co",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:35.516Z"
+  }
+}

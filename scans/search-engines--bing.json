@@ -1,0 +1,23 @@
+{
+  "domain": "www.bing.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.bing.com",
+    "tested_at": "2026-09-30T20:18:14.029Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.473Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 14,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.bing.com&hideResults=on",
+    "tested_at": "2026-09-29T18:02:59.430Z"
+  },
+  "trackers": {
+    "url": "https://www.bing.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:42.466Z"
+  }
+}

@@ -1,0 +1,17 @@
+# Awesome Privacy entries that are left out on purpose.
+# The monthly import skips these names. Each needs a reason.
+
+- name: FileSend
+  reason: Service shut down. Its domain no longer resolves.
+- name: Nitter
+  reason: Project archived after legal demands from X Corp. The main instance is offline.
+- name: DTube
+  reason: The original decentralized DTube is deprecated. d.tube is now a closed, ad-funded site.
+- name: GMER
+  reason: Abandoned. The website no longer serves HTTPS.
+- name: SafeKeys V3.0
+  reason: Discontinued. The developer's site no longer offers it.
+- name: Searx
+  reason: Discontinued. Replaced by its fork SearXNG, which is rated.
+- name: Perfect Privacy
+  reason: Service shut down. Its website no longer resolves.

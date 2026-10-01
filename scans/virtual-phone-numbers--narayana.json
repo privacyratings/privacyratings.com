@@ -1,0 +1,17 @@
+{
+  "domain": "narayana.im",
+  "observatory": {
+    "grade": "F",
+    "score": 15,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=narayana.im",
+    "tested_at": "2026-09-30T20:16:46.533Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.463Z",
+  "trackers": {
+    "url": "https://narayana.im",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:37.306Z"
+  }
+}

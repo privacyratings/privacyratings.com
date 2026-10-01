@@ -1,0 +1,39 @@
+- id: port_25
+  title: Mail-friendly (port 25)
+  weight: 1
+  question: Is outbound port 25 open by default, or opened on request?
+  yes: Open by default.
+  partial: Blocked by default but opened on request.
+  no: Always blocked.
+  why: Running a mail server needs outbound port 25.
+  verify: Link the documentation or support policy.
+
+- id: reverse_dns
+  title: Reverse DNS
+  weight: 1
+  question: Can reverse DNS (PTR) records be set for IPv4 and IPv6?
+  yes: Both, self-service.
+  partial: On request, or IPv4 only.
+  no: Not supported.
+  why: Mail servers without matching reverse DNS are rejected as spam.
+  verify: Link the documentation.
+
+- id: ipv6
+  title: IPv6
+  weight: 1
+  question: Is native IPv6 included?
+  yes: Yes, at no extra cost.
+  partial: For an extra fee.
+  no: No.
+  why: IPv6 is required for modern networking and many mail tests.
+  verify: Link the documentation.
+
+- id: anonymous_payment
+  title: Anonymous payment
+  weight: 1
+  question: Can servers be paid for with cryptocurrency or without identity checks?
+  yes: Yes.
+  partial: Only after verification.
+  no: No.
+  why: Payment details tie servers to an identity.
+  verify: Link the payment documentation.

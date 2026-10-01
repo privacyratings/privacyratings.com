@@ -1,0 +1,17 @@
+{
+  "domain": "telegra.ph",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=telegra.ph",
+    "tested_at": "2026-09-30T20:18:59.448Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.476Z",
+  "trackers": {
+    "url": "https://telegra.ph",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:44.187Z"
+  }
+}

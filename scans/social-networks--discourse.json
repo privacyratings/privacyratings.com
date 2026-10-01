@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.448Z",
+  "trackers": {
+    "url": "https://www.discourse.org",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js-eu1.hsforms.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:23.715Z"
+  }
+}

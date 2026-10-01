@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.275Z",
+  "trackers": {
+    "url": "https://frigate.video",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:32.243Z"
+  }
+}

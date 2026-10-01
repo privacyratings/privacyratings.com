@@ -1,0 +1,23 @@
+{
+  "domain": "us.probo.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=us.probo.com",
+    "tested_at": "2026-09-30T20:21:01.124Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.504Z",
+  "trackers": {
+    "url": "https://www.probo.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:58.439Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.535Z",
+  "trackers": {
+    "url": "https://react.dev",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:04.182Z"
+  }
+}

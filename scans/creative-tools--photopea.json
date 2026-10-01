@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.454Z",
+  "trackers": {
+    "url": "https://www.photopea.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:27.475Z"
+  }
+}

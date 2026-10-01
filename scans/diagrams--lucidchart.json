@@ -1,0 +1,16 @@
+{
+  "domain": "lucid.app",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lucid.app",
+    "tested_at": "2026-09-30T20:21:49.145Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.668Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:41:38.185Z"
+  }
+}

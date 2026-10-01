@@ -1,0 +1,23 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.235Z",
+  "trackers": {
+    "url": "https://www.waze.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:26.874Z"
+  }
+}

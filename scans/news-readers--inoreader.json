@@ -1,0 +1,19 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.304Z",
+  "trackers": {
+    "url": "https://www.inoreader.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:44.847Z"
+  }
+}

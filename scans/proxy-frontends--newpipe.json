@@ -1,0 +1,17 @@
+{
+  "domain": "newpipe.net",
+  "observatory": {
+    "grade": "A+",
+    "score": 105,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=newpipe.net",
+    "tested_at": "2026-09-30T20:16:00.479Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.456Z",
+  "trackers": {
+    "url": "https://newpipe.net",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:28.821Z"
+  }
+}

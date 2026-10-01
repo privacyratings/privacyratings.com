@@ -1,0 +1,39 @@
+- id: content_retention
+  title: Message content deleted after delivery
+  weight: 3
+  question: Is the content of sent mail deleted once it has been delivered?
+  yes: Message bodies are not kept after delivery, or are kept only when the sender turns this on.
+  partial: Message bodies are kept by default for a documented period of 30 days or less, or a longer period can be shortened to 30 days or less or turned off.
+  no: Message bodies are kept for more than 30 days or for an undocumented period, with no way to shorten it.
+  why: Every stored copy of a password reset, receipt or newsletter can be breached or handed over later.
+  verify: Link the documentation on message logs, content storage or data retention.
+
+- id: tracking_off_by_default
+  title: Open and click tracking off by default
+  weight: 2
+  question: Are open tracking pixels and click tracking links off unless the sender turns them on?
+  yes: Open and click tracking are not offered, or are off until the sender turns them on.
+  partial: Open or click tracking is on by default, but can be turned off or made anonymous for the account or for each message.
+  no: Open or click tracking is always on.
+  why: Tracking pixels and rewritten links record when, where and on which device each recipient reads mail.
+  verify: Link the tracking settings documentation or API reference.
+
+- id: enforced_tls
+  title: Encrypted delivery can be enforced
+  weight: 2
+  question: Can outbound mail be kept from being delivered without TLS?
+  yes: Outbound delivery honors the recipient domain's MTA-STS or DANE policy, or the sender can require TLS so mail is not sent in plain text.
+  partial: TLS is used when the receiving server offers it, with no way to require it.
+  no: Outbound mail is sent without TLS.
+  why: With opportunistic TLS alone, an attacker on the network can strip encryption and read mail in transit.
+  verify: Link the TLS or delivery security documentation.
+
+- id: eu_data_location
+  title: EU data location
+  weight: 1
+  question: Can message content and delivery logs be processed and stored only in the European Union?
+  yes: An EU region, an EU-only service or self-hosting keeps message data in the EU, on every plan.
+  partial: An EU region is offered only on some plans, on request or in beta.
+  no: Message data is processed or stored outside the EU.
+  why: Data kept in the EU stays under the GDPR and out of reach of some foreign surveillance laws.
+  verify: Link the data location, region or data residency documentation.

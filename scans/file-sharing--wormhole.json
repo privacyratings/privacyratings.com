@@ -1,0 +1,17 @@
+{
+  "domain": "wormhole.app",
+  "observatory": {
+    "grade": "A+",
+    "score": 145,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wormhole.app",
+    "tested_at": "2026-09-30T20:15:14.987Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.227Z",
+  "trackers": {
+    "url": "https://wormhole.app",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:25.854Z"
+  }
+}

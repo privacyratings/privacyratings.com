@@ -1,0 +1,19 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.567Z",
+  "trackers": {
+    "url": "https://clipy-app.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Facebook SDK",
+        "host": "connect.facebook.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:09.031Z"
+  }
+}

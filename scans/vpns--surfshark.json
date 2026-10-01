@@ -1,0 +1,23 @@
+{
+  "domain": "surfshark.com",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=surfshark.com",
+    "tested_at": "2026-09-30T20:12:41.102Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.127Z",
+  "trackers": {
+    "url": "https://surfshark.com",
+    "found": [
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:53.105Z"
+  }
+}

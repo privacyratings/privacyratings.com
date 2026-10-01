@@ -1,0 +1,25 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.159Z",
+  "trackers": {
+    "url": "https://www.zerotier.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:02.324Z"
+  }
+}

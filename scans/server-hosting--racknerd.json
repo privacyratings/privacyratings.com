@@ -1,0 +1,35 @@
+{
+  "domain": "www.racknerd.com",
+  "observatory": {
+    "grade": "F",
+    "score": 0,
+    "tests_passed": 6,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.racknerd.com",
+    "tested_at": "2026-09-30T20:17:45.498Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.470Z",
+  "trackers": {
+    "url": "https://www.racknerd.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Tawk.to",
+        "host": "embed.tawk.to"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:40.239Z"
+  }
+}

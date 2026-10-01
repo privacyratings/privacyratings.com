@@ -1,0 +1,29 @@
+- id: no_search_logs
+  title: No search history logs
+  weight: 3
+  question: Are searches stored without IP addresses or other identifiers?
+  yes: Searches are not stored with identifiers.
+  partial: Identifiers are removed after a short, documented period.
+  no: Searches are tied to identifiers or accounts.
+  why: Search history reveals health, money, politics and more.
+  verify: Link the privacy policy.
+
+- id: no_personalized_ads
+  title: No profile-based ads
+  weight: 2
+  question: Are ads (if any) based only on the current search, not a profile?
+  yes: No ads, or ads based only on the search terms.
+  partial: Profile-based ads can be turned off.
+  no: Ads are based on a profile.
+  why: Profile-based ads need a profile.
+  verify: Link the privacy policy or ad documentation.
+
+- id: no_account_needed
+  title: No account needed
+  weight: 1
+  question: Can every feature be used without an account?
+  yes: No account needed.
+  partial: Some features need an account.
+  no: An account is needed.
+  why: Accounts link searches to an identity.
+  verify: Link the help or settings page.

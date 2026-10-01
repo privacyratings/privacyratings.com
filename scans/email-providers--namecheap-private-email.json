@@ -1,0 +1,56 @@
+{
+  "domain": "privateemail.com",
+  "mail": {
+    "dns": {
+      "domain": "privateemail.com",
+      "dnssec": true,
+      "mx": [
+        "mx1.privateemail.com",
+        "mx2.privateemail.com"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": {
+          "host": "mail.privateemail.com",
+          "port": 587
+        },
+        "submission": {
+          "host": "mail.privateemail.com",
+          "port": 587
+        },
+        "imaps": {
+          "host": "imap.privateemail.com",
+          "port": 993
+        },
+        "imap": {
+          "host": "imap.privateemail.com",
+          "port": 143
+        },
+        "pop3s": {
+          "host": "pop3.privateemail.com",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T20:32:57.758Z"
+  },
+  "mail_domain": "privateemail.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privateemail.com",
+    "tested_at": "2026-09-30T20:19:52.301Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.485Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:40:47.893Z"
+  }
+}

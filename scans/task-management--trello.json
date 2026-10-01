@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.188Z",
+  "trackers": {
+    "url": "https://trello.com",
+    "found": [
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:15.267Z"
+  }
+}

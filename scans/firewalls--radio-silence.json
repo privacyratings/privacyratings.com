@@ -1,0 +1,20 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.147Z",
+  "trackers": {
+    "url": "https://radiosilenceapp.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Simple Analytics",
+        "host": "scripts.simpleanalyticscdn.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:00.508Z"
+  }
+}

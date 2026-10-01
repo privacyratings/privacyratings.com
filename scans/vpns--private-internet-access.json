@@ -1,0 +1,42 @@
+{
+  "domain": "www.privateinternetaccess.com",
+  "observatory": {
+    "grade": "F",
+    "score": 20,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.privateinternetaccess.com",
+    "tested_at": "2026-09-30T20:12:39.497Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.126Z",
+  "trackers": {
+    "url": "https://www.privateinternetaccess.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Trustpilot",
+        "host": "widget.trustpilot.com",
+        "soft": true
+      },
+      {
+        "name": "Zendesk",
+        "host": "static.zdassets.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:52.888Z"
+  }
+}

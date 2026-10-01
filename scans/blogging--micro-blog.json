@@ -1,0 +1,17 @@
+{
+  "domain": "micro.blog",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=micro.blog",
+    "tested_at": "2026-09-30T20:15:46.562Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.303Z",
+  "trackers": {
+    "url": "https://micro.blog",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:43.899Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "domain": "sinch.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sinch.com",
+    "tested_at": "2026-09-30T20:22:43.451Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.678Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sinch.com&hideResults=on",
+    "tested_at": "2026-09-30T19:51:51.885Z"
+  },
+  "trackers": {
+    "url": "https://sinch.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "inline code"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "Reddit Pixel",
+        "host": "www.redditstatic.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:42.000Z"
+  }
+}

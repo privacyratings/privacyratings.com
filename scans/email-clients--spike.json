@@ -1,0 +1,21 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.554Z",
+  "trackers": {
+    "url": "https://www.spikenow.com",
+    "found": [
+      {
+        "name": "Facebook SDK",
+        "host": "connect.facebook.net"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:07.348Z"
+  }
+}

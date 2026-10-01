@@ -1,0 +1,7 @@
+Contact: mailto:security@forwardemail.net
+Contact: https://github.com/privacyratings/privacyratings.com/security/advisories/new
+Encryption: https://forwardemail.net/.well-known/openpgpkey/hu/mxqp8ogw4jfq83a58pn1wy1ccc1cx3f5.asc
+Policy: https://github.com/privacyratings/privacyratings.com/blob/main/SECURITY.md
+Preferred-Languages: en
+Canonical: https://privacyratings.com/.well-known/security.txt
+Expires: 2027-09-30T00:00:00.000Z

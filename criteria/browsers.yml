@@ -1,0 +1,39 @@
+- id: tracker_blocking
+  title: Blocks trackers by default
+  weight: 3
+  question: Are third-party trackers blocked by default, without installing extensions?
+  yes: Blocked by default.
+  partial: Limits cross-site tracking (for example cookie isolation) but does not block tracker requests.
+  no: Not blocked by default.
+  why: Most people never change default settings.
+  verify: Link the documentation, or a test such as https://coveryourtracks.eff.org/.
+
+- id: fingerprinting_protection
+  title: Fingerprinting protection
+  weight: 2
+  question: Does the browser defend against fingerprinting by default?
+  yes: Randomizes or standardizes fingerprinting data by default.
+  partial: Only in a stricter mode that is off by default.
+  no: No protection.
+  why: Fingerprinting tracks people even after cookies are cleared.
+  verify: Link the documentation, or a test such as https://coveryourtracks.eff.org/.
+
+- id: no_google_services
+  title: No calls to big-tech services
+  weight: 2
+  question: Does the browser work without background connections to Google, Microsoft or Apple services?
+  yes: No background connections to big-tech services by default.
+  partial: Some connections remain and can be turned off.
+  no: Background connections are built in and cannot be turned off.
+  why: Background connections share browsing activity and device data.
+  verify: Link documentation or source code that lists removed or disabled services.
+
+- id: security_updates
+  title: Timely security updates
+  weight: 3
+  question: Are security fixes from the upstream engine shipped quickly and automatically?
+  yes: Fixes ship within days and install automatically.
+  partial: Fixes ship quickly but must be installed by hand or through a package manager.
+  no: Fixes often lag weeks behind upstream.
+  why: Browsers are the most attacked software on most devices.
+  verify: Link the release notes or update documentation.

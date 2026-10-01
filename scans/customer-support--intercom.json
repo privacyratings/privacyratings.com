@@ -1,0 +1,22 @@
+{
+  "domain": "www.intercom.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.intercom.com",
+    "tested_at": "2026-09-30T20:12:12.446Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.117Z",
+  "trackers": {
+    "url": "https://www.intercom.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:52.059Z"
+  }
+}

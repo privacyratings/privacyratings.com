@@ -1,0 +1,17 @@
+{
+  "domain": "x41-dsec.de",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=x41-dsec.de",
+    "tested_at": "2026-09-30T20:20:58.062Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.503Z",
+  "trackers": {
+    "url": "https://x41-dsec.de",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:57.890Z"
+  }
+}

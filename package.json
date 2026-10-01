@@ -1,0 +1,29 @@
+{
+  "name": "privacyratings.com",
+  "private": true,
+  "description": "Open, testable privacy ratings. Built from Markdown and YAML, published with GitHub Pages.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/build.js",
+    "scan": "node scripts/scan.js",
+    "check:evidence": "node scripts/check-evidence.js",
+    "new": "node scripts/new.js",
+    "import": "node scripts/import-awesome-privacy.js",
+    "serve": "npm run build && node scripts/serve.js",
+    "test:unit": "node --test test/*.test.js",
+    "test": "npm run validate && npm run test:unit && npm run build && npm run i18n:check",
+    "icons": "node scripts/icons.js",
+    "i18n:check": "node scripts/i18n-check.js"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "esbuild": "0.25.10",
+    "marked": "15.0.12",
+    "upng-js": "2.1.0",
+    "yaml": "2.9.1"
+  }
+}

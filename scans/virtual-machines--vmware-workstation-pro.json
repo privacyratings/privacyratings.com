@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.177Z",
+  "trackers": {
+    "url": "https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:09.598Z"
+  }
+}

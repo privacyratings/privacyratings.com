@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.183Z",
+  "trackers": {
+    "url": "https://easyappointments.org",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:14.062Z"
+  }
+}

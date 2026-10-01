@@ -1,0 +1,32 @@
+{
+  "domain": "hushed.com",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hushed.com",
+    "tested_at": "2026-09-30T20:12:15.302Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.119Z",
+  "trackers": {
+    "url": "https://hushed.com",
+    "found": [
+      {
+        "name": "Cookiebot",
+        "host": "consent.cookiebot.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Zendesk",
+        "host": "static.zdassets.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:51.992Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "domain": "mwmbl.org",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mwmbl.org",
+    "tested_at": "2026-09-30T20:11:07.648Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.057Z",
+  "trackers": {
+    "url": "https://mwmbl.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:41.080Z"
+  }
+}

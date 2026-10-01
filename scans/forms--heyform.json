@@ -1,0 +1,27 @@
+{
+  "domain": "my.heyform.net",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.heyform.net",
+    "tested_at": "2026-09-30T20:13:55.642Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.197Z",
+  "trackers": {
+    "url": "https://heyform.net",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:20.702Z"
+  }
+}

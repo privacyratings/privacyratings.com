@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.049Z",
+  "trackers": {
+    "url": "https://www.firefox.com/en-US/mobile/focus/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:37.884Z"
+  }
+}

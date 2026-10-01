@@ -1,0 +1,16 @@
+{
+  "domain": "www.ecosia.org",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ecosia.org",
+    "tested_at": "2026-09-30T20:11:03.020Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.056Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:38:40.372Z"
+  }
+}

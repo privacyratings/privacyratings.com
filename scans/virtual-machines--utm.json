@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.439Z",
+  "trackers": {
+    "url": "https://mac.getutm.app",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:17.108Z"
+  }
+}

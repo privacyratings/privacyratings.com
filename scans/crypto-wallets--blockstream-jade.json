@@ -1,0 +1,30 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.287Z",
+  "trackers": {
+    "url": "https://blockstream.com/jade/",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Reddit Pixel",
+        "host": "www.redditstatic.com"
+      },
+      {
+        "name": "X (Twitter) Pixel",
+        "host": "static.ads-twitter.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:34.903Z"
+  }
+}

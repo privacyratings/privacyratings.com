@@ -1,0 +1,66 @@
+{
+  "name": "privacyratings",
+  "version": "0.0.0",
+  "description": "Search open, testable privacy ratings for apps and services from your terminal.",
+  "keywords": [
+    "privacy",
+    "security",
+    "ratings",
+    "cli",
+    "tui",
+    "email",
+    "vpn",
+    "browser",
+    "password-manager",
+    "open-source",
+    "alternatives"
+  ],
+  "homepage": "https://privacyratings.com/cli/",
+  "bugs": {
+    "url": "https://github.com/privacyratings/privacyratings.com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/privacyratings/privacyratings.com.git",
+    "directory": "cli"
+  },
+  "license": "MIT",
+  "author": "Forward Email (https://forwardemail.net)",
+  "type": "module",
+  "bin": {
+    "privacyratings": "bin/privacyratings.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "bundle": "node scripts/bundle.mjs",
+    "sea": "node scripts/sea.mjs",
+    "version": "node scripts/version.mjs",
+    "postversion": "git add package.json package-lock.json src/version.js && git commit -m \"v$npm_package_version\" && git tag -a \"v$npm_package_version\" -m \"v$npm_package_version\"",
+    "release": "np"
+  },
+  "dependencies": {
+    "@b9g/termdom": "0.1.9"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "postject": "1.0.0-alpha.6"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "np": {
+    "yarn": false,
+    "testScript": "test",
+    "releaseDraft": true,
+    "message": "v%s"
+  }
+}

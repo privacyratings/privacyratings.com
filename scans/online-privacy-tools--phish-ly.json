@@ -1,0 +1,26 @@
+{
+  "domain": "phish.ly",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=phish.ly",
+    "tested_at": "2026-09-30T20:16:34.104Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.461Z",
+  "trackers": {
+    "url": "https://phish.ly",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:33.140Z"
+  }
+}

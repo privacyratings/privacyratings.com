@@ -1,0 +1,17 @@
+{
+  "domain": "windscribe.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=windscribe.com",
+    "tested_at": "2026-09-30T20:17:00.695Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.465Z",
+  "trackers": {
+    "url": "https://windscribe.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:36.752Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "domain": "admin.typeform.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=admin.typeform.com",
+    "tested_at": "2026-09-30T20:14:02.292Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.200Z",
+  "trackers": {
+    "url": "https://www.typeform.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "PartnerStack",
+        "host": "js.partnerstack.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:20.604Z"
+  }
+}

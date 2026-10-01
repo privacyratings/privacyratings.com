@@ -1,0 +1,21 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.046Z",
+  "trackers": {
+    "url": "https://sparkmailapp.com",
+    "found": [
+      {
+        "name": "Amplitude",
+        "host": "cdn.amplitude.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:36.911Z"
+  }
+}

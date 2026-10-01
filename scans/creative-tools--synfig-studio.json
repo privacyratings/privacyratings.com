@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.344Z",
+  "trackers": {
+    "url": "https://www.synfig.org",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "WordPress.com Stats",
+        "host": "stats.wp.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:53.894Z"
+  }
+}

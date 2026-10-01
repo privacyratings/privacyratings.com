@@ -1,0 +1,53 @@
+{
+  "domain": "mailgun.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailgun.com",
+    "tested_at": "2026-09-30T20:22:06.883Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.675Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailgun.com&hideResults=on",
+    "tested_at": "2026-09-30T19:39:45.819Z"
+  },
+  "trackers": {
+    "url": "https://www.mailgun.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "pubads.g.doubleclick.net"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "Segment",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:40.089Z"
+  }
+}

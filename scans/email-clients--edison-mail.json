@@ -1,0 +1,29 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.550Z",
+  "trackers": {
+    "url": "https://www.edisonmail.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      },
+      {
+        "name": "TikTok Pixel",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:06.645Z"
+  }
+}

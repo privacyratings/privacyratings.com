@@ -1,0 +1,41 @@
+{
+  "domain": "www.shouldiremoveit.com",
+  "observatory": {
+    "grade": "F",
+    "score": 0,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.shouldiremoveit.com",
+    "tested_at": "2026-09-30T20:16:37.070Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.461Z",
+  "trackers": {
+    "url": "https://www.shouldiremoveit.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Facebook SDK",
+        "host": "connect.facebook.net"
+      },
+      {
+        "name": "Google AdSense",
+        "host": "pagead2.googlesyndication.com"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:33.441Z"
+  }
+}

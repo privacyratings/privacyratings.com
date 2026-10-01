@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.562Z",
+  "trackers": {
+    "url": "https://www.flowlauncher.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:08.055Z"
+  }
+}

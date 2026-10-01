@@ -1,0 +1,17 @@
+{
+  "domain": "controld.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=controld.com",
+    "tested_at": "2026-09-30T20:12:44.498Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.128Z",
+  "trackers": {
+    "url": "https://controld.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:53.269Z"
+  }
+}

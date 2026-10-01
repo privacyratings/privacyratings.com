@@ -1,0 +1,33 @@
+{
+  "domain": "mandrillapp.com",
+  "observatory": {
+    "grade": "C+",
+    "score": 60,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mandrillapp.com",
+    "tested_at": "2026-09-30T20:22:05.335Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.674Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mandrillapp.com&hideResults=on",
+    "tested_at": "2026-09-30T19:42:49.217Z"
+  },
+  "trackers": {
+    "url": "https://mailchimp.com/features/transactional-email/",
+    "found": [
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "Optimizely",
+        "host": "cdn.optimizely.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:40.036Z"
+  }
+}

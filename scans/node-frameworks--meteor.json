@@ -1,0 +1,24 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.527Z",
+  "trackers": {
+    "url": "https://www.meteor.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:03.110Z"
+  }
+}

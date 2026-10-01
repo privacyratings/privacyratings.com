@@ -1,0 +1,9 @@
+- id: offline
+  title: Works offline
+  weight: 3
+  question: Does the keyboard work without internet access?
+  yes: Has no internet permission, or makes no network requests.
+  partial: Network features such as suggestions or sync are optional and off by default.
+  no: Sends typing data or requires network access.
+  why: A keyboard sees every password, message and search you type.
+  verify: Link the app permissions, source code or privacy policy.

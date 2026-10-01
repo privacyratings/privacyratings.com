@@ -1,0 +1,32 @@
+{
+  "domain": "postmarkapp.com",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=postmarkapp.com",
+    "tested_at": "2026-09-30T20:22:24.363Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.675Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=postmarkapp.com&hideResults=on",
+    "tested_at": "2026-09-30T19:42:49.518Z"
+  },
+  "trackers": {
+    "url": "https://postmarkapp.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "ssl.google-analytics.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:40.464Z"
+  }
+}

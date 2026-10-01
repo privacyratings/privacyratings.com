@@ -1,0 +1,27 @@
+{
+  "domain": "www.helpscout.com",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.helpscout.com",
+    "tested_at": "2026-09-30T20:12:10.643Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.117Z",
+  "trackers": {
+    "url": "https://www.helpscout.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:51.541Z"
+  }
+}

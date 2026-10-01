@@ -1,0 +1,17 @@
+{
+  "domain": "bitbucket.org",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitbucket.org",
+    "tested_at": "2026-09-30T20:15:15.446Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.240Z",
+  "trackers": {
+    "url": "https://bitbucket.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:26.905Z"
+  }
+}

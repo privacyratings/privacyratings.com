@@ -1,0 +1,17 @@
+{
+  "domain": "kdrive.infomaniak.com",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kdrive.infomaniak.com",
+    "tested_at": "2026-09-30T20:14:57.513Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.218Z",
+  "trackers": {
+    "url": "https://www.infomaniak.com/en/ksuite/kdrive",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:24.701Z"
+  }
+}

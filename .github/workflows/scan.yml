@@ -1,0 +1,93 @@
+name: Scan
+
+# Runs automated security tests and commits the results to scans/.
+# See SCANS.md for the tests, thresholds and optional secrets.
+#
+# Internet.nl allows 2 batch requests per week (website and email are one request each).
+# scripts/scan.js enforces this with scans/internetnl-requests.json, which is committed below
+# even when the run fails, so the daily schedule and manual runs cannot go over the limit.
+# Only the default branch gets the Internet.nl credentials, so every run shares one record.
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Number of entries to test, oldest results first
+        default: '40'
+      only:
+        description: Test one entry, for example vpns/mullvad-vpn
+        default: ''
+      tests:
+        description: Comma-separated tests to run
+        default: github,observatory,ssllabs,internetnl,mail,trackers
+
+permissions: {}
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    permissions:
+      contents: write # commits scans/ back to the branch
+    steps:
+      # The token is not stored in .git/config, so `npm ci` and the scanner cannot push.
+      # Only the commit step below gets push access.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - name: Run tests
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SSLLABS_EMAIL: ${{ secrets.SSLLABS_EMAIL }}
+          INTERNETNL_USERNAME: ${{ github.ref_name == github.event.repository.default_branch && secrets.INTERNETNL_USERNAME || '' }}
+          INTERNETNL_PASSWORD: ${{ github.ref_name == github.event.repository.default_branch && secrets.INTERNETNL_PASSWORD || '' }}
+          INTERNETNL_API: ${{ secrets.INTERNETNL_API }}
+          LIMIT: ${{ inputs.limit || '40' }}
+          TESTS: ${{ inputs.tests || 'github,observatory,ssllabs,internetnl,mail,trackers' }}
+          ONLY: ${{ inputs.only }}
+        run: |
+          args=(--limit "$LIMIT" --tests "$TESTS")
+          if [ -n "$ONLY" ]; then args+=(--only "$ONLY"); fi
+          node scripts/scan.js "${args[@]}"
+      - name: Commit results
+        # Also after a failure or timeout, so recorded Internet.nl requests are never lost.
+        if: always()
+        env:
+          BRANCH: ${{ github.ref_name }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Credentials for this step's git commands only (the same header actions/checkout uses).
+          basic=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
+          echo "::add-mask::$basic"
+          GIT_CONFIG_VALUE_0="AUTHORIZATION: basic $basic"
+          export GIT_CONFIG_COUNT=1 GIT_CONFIG_KEY_0=http.https://github.com/.extraheader GIT_CONFIG_VALUE_0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Only result files. Temporary files from an interrupted write are left out.
+          git add -- 'scans/*.json'
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "Update automated test results"
+          # Someone may push while the scan runs (it takes hours): rebase onto the branch and retry.
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH"; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push attempt $attempt failed, retrying"
+            sleep $((attempt * 15))
+          done
+          echo "::error::Could not push the results"
+          exit 1

@@ -1,0 +1,17 @@
+{
+  "domain": "metager.org",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=metager.org",
+    "tested_at": "2026-09-30T20:11:05.516Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.057Z",
+  "trackers": {
+    "url": "https://metager.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:40.918Z"
+  }
+}

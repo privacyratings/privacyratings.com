@@ -1,0 +1,47 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.395Z",
+  "trackers": {
+    "url": "https://www.fing.com/app/",
+    "found": [
+      {
+        "name": "Cookiebot",
+        "host": "consentcdn.cookiebot.com",
+        "soft": true
+      },
+      {
+        "name": "Facebook SDK",
+        "host": "connect.facebook.net"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "google-analytics.com"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "googleads.g.doubleclick.net"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Microsoft Ads",
+        "host": "bat.bing.com"
+      },
+      {
+        "name": "TikTok Pixel",
+        "host": "analytics.tiktok.com"
+      },
+      {
+        "name": "Trustpilot",
+        "host": "trustpilot.com",
+        "soft": true
+      },
+      {
+        "name": "WordPress.com Stats",
+        "host": "stats.wp.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:04.398Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "domain": "translate.google.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=translate.google.com",
+    "tested_at": "2026-09-30T20:14:03.298Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.203Z",
+  "trackers": {
+    "url": "https://translate.google.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:21.860Z"
+  }
+}

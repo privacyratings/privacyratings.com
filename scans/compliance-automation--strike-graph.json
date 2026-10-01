@@ -1,0 +1,32 @@
+{
+  "domain": "grc.strikegraph.com",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=grc.strikegraph.com",
+    "tested_at": "2026-09-30T20:22:31.469Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.677Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=grc.strikegraph.com&hideResults=on",
+    "tested_at": "2026-09-30T19:46:00.800Z"
+  },
+  "trackers": {
+    "url": "https://www.strikegraph.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js-eu1.hsforms.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:41.717Z"
+  }
+}

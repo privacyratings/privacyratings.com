@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.098Z",
+  "trackers": {
+    "url": "https://discord.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:48.955Z"
+  }
+}

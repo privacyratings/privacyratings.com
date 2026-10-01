@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.193Z",
+  "trackers": {
+    "url": "https://www.wps.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:19.311Z"
+  }
+}

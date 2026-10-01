@@ -1,0 +1,35 @@
+{
+  "domain": "soundcloud.com",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=soundcloud.com",
+    "tested_at": "2026-09-30T20:15:42.630Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.301Z",
+  "trackers": {
+    "url": "https://soundcloud.com",
+    "found": [
+      {
+        "name": "Comscore",
+        "host": "sb.scorecardresearch.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "ssl.google-analytics.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "Quantcast",
+        "host": "secure.quantserve.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:43.412Z"
+  }
+}

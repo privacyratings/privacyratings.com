@@ -1,0 +1,21 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.442Z",
+  "trackers": {
+    "url": "https://vikunja.io",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:19.404Z"
+  }
+}

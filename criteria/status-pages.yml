@@ -1,0 +1,29 @@
+- id: self_hosted
+  title: Runs on your own infrastructure
+  weight: 3
+  question: Can it run entirely on your own infrastructure or repository, without a vendor account?
+  yes: Fully self-hosted or runs in your own repository.
+  partial: Self-hosted with optional vendor services.
+  no: Hosted by the vendor only.
+  why: Status data and visitor logs stay under your control.
+  verify: Link the installation documentation.
+
+- id: no_visitor_tracking
+  title: No visitor tracking
+  weight: 2
+  question: Is the public status page free of third-party trackers and analytics?
+  yes: No third-party trackers.
+  partial: Analytics can be turned off.
+  no: Trackers are always included.
+  why: Status pages are visited by customers during outages.
+  verify: Link the source code or privacy policy.
+
+- id: history
+  title: Public uptime history
+  weight: 1
+  question: Does it publish response times and incident history?
+  yes: Yes.
+  partial: Current status only.
+  no: No.
+  why: History shows reliability over time, not just today.
+  verify: Link a live example.

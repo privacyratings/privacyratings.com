@@ -1,0 +1,31 @@
+{
+  "domain": "app.vanta.com",
+  "observatory": {
+    "grade": "A-",
+    "score": 85,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.vanta.com",
+    "tested_at": "2026-09-30T20:21:03.767Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.504Z",
+  "trackers": {
+    "url": "https://www.vanta.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hsforms.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:59.060Z"
+  }
+}

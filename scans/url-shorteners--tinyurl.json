@@ -1,0 +1,29 @@
+{
+  "domain": "tinyurl.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tinyurl.com",
+    "tested_at": "2026-09-30T20:15:37.225Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.269Z",
+  "trackers": {
+    "url": "https://tinyurl.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:30.967Z"
+  }
+}

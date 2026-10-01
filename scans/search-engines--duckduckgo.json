@@ -1,0 +1,23 @@
+{
+  "domain": "duckduckgo.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
+    "tested_at": "2026-09-30T20:18:10.427Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.472Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=duckduckgo.com&hideResults=on",
+    "tested_at": "2026-09-29T17:48:22.315Z"
+  },
+  "trackers": {
+    "url": "https://duckduckgo.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:41.746Z"
+  }
+}

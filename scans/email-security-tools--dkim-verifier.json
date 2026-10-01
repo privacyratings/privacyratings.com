@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.345Z",
+  "trackers": {
+    "url": "https://addons.thunderbird.net/en-US/thunderbird/addon/dkim-verifier/",
+    "found": [
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:53.145Z"
+  }
+}

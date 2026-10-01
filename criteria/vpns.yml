@@ -1,0 +1,39 @@
+- id: no_logs_audited
+  title: Audited no-logs policy
+  weight: 3
+  question: Has an independent audit confirmed that activity and connection logs are not kept?
+  yes: A public audit report confirms it.
+  partial: A no-logs policy exists but has not been audited.
+  no: Logs are kept, or there is no policy.
+  why: A VPN sees all traffic. Only an audit shows the policy is followed.
+  verify: Link the audit report and the privacy policy.
+
+- id: anonymous_payment
+  title: Anonymous payment
+  weight: 2
+  question: Can an account be created and paid for without an email address, name or card?
+  yes: Accounts need no email, and cash or Monero is accepted.
+  partial: Cryptocurrency is accepted but an email is needed.
+  no: Personal data is required.
+  why: Payment details tie the account to a real identity.
+  verify: Link the payment and sign-up documentation.
+
+- id: open_source_clients
+  title: Open-source apps
+  weight: 2
+  question: Are the apps for every platform open source?
+  yes: All platforms.
+  partial: Some platforms.
+  no: None.
+  why: The VPN app handles all traffic and keys.
+  verify: Link the source repositories.
+
+- id: modern_protocols
+  title: Modern protocols
+  weight: 1
+  question: Is WireGuard (or another modern audited protocol) supported?
+  yes: WireGuard supported.
+  partial: Only OpenVPN or IKEv2.
+  no: Only outdated or proprietary protocols.
+  why: Modern protocols are faster and have smaller, audited codebases.
+  verify: Link the documentation.

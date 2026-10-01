@@ -1,0 +1,34 @@
+{
+  "domain": "tresorit.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 105,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tresorit.com",
+    "tested_at": "2026-09-30T20:18:09.260Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.472Z",
+  "trackers": {
+    "url": "https://tresorit.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Hotjar",
+        "host": "script.hotjar.com"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:41.595Z"
+  }
+}

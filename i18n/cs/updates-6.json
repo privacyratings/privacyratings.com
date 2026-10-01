@@ -1,0 +1,13 @@
+{
+ "Android": "Android",
+ "Chromium": "Chromium",
+ "Docker": "Docker",
+ "Firefox": "Firefox",
+ "GitHub": "GitHub",
+ "Linux": "Linux",
+ "iOS": "iOS",
+ "macOS": "macOS",
+ "Web": "Web",
+ "Browser extension": "Rozšíření prohlížeče",
+ "Search could not be loaded. Check your connection and try again.": "Vyhledávání se nepodařilo načíst. Zkontrolujte připojení a zkuste to znovu."
+}

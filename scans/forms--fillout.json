@@ -1,0 +1,23 @@
+{
+  "domain": "build.fillout.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=build.fillout.com",
+    "tested_at": "2026-09-30T20:23:04.904Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.690Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=build.fillout.com&hideResults=on",
+    "tested_at": "2026-09-30T20:03:16.351Z"
+  },
+  "trackers": {
+    "url": "https://www.fillout.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:46.486Z"
+  }
+}

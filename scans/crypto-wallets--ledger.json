@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.592Z",
+  "trackers": {
+    "url": "https://www.ledger.com/?hp_variant=g4.hero.o",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "Optimizely",
+        "host": "cdn.optimizely.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:19.986Z"
+  }
+}

@@ -1,0 +1,29 @@
+- id: no_cookies
+  title: No cookies
+  weight: 2
+  question: Does it count visitors without cookies or other identifiers stored on the device?
+  yes: No cookies, local storage or fingerprinting.
+  partial: Cookieless mode is available but not the default.
+  no: Uses cookies or persistent identifiers.
+  why: Cookies and identifiers let visitors be followed across visits and sites, and need consent under EU law.
+  verify: Link the documentation or privacy policy.
+
+- id: no_personal_data
+  title: No personal data
+  weight: 3
+  question: Does it avoid storing IP addresses and personal data, and never share data with advertisers?
+  yes: No IP addresses or personal data stored, and no data shared for ads.
+  partial: Personal data is anonymized by default, or stored only in self-hosted setups.
+  no: Stores personal data or shares it for advertising.
+  why: Visitor analytics should count visits, not profile people.
+  verify: Link the data policy.
+
+- id: self_hostable
+  title: Self-hostable
+  weight: 1
+  question: Can the analytics be self-hosted?
+  yes: Officially supported self-hosting.
+  partial: Possible but unsupported or limited.
+  no: Hosted only.
+  why: Self-hosting keeps visitor data on your own servers.
+  verify: Link the self-hosting guide.

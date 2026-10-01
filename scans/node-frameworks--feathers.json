@@ -1,0 +1,20 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.526Z",
+  "trackers": {
+    "url": "https://feathersjs.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:02.987Z"
+  }
+}

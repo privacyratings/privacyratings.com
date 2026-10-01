@@ -1,0 +1,34 @@
+{
+  "domain": "dash.cloudflare.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.cloudflare.com",
+    "tested_at": "2026-09-30T20:17:14.912Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.473Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dash.cloudflare.com&hideResults=on",
+    "tested_at": "2026-09-29T17:50:08.286Z"
+  },
+  "trackers": {
+    "url": "https://www.cloudflare.com/products/dns/",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:42.286Z"
+  }
+}

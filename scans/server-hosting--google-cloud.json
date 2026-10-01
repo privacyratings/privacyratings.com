@@ -1,0 +1,27 @@
+{
+  "domain": "console.cloud.google.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.cloud.google.com",
+    "tested_at": "2026-09-30T20:13:32.468Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.141Z",
+  "trackers": {
+    "url": "https://cloud.google.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:57.378Z"
+  }
+}

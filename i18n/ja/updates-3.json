@@ -1,0 +1,5 @@
+{
+ "Self-hosted version of the Forward Email service, installed with a script that deploys Docker containers. It includes MX, SMTP, IMAP, POP3, CalDAV and CardDAV servers, encrypted SQLite mailboxes, a web interface and optional backups to S3-compatible storage.": "Forward Email サービスのセルフホスト版で、Docker コンテナをデプロイするスクリプトでインストールします。MX、SMTP、IMAP、POP3、CalDAV、CardDAV の各サーバー、暗号化された SQLite メールボックス、ウェブインターフェース、S3 互換ストレージへの任意のバックアップを含みます。",
+ "CalDAV calendar, task and CardDAV contacts service included with paid Forward Email plans. It works with any CalDAV or CardDAV app and with Forward Email's own webmail, desktop and mobile apps, and stores data in each alias's encrypted SQLite mailbox.": "Forward Email の有料プランに含まれる CalDAV カレンダー・タスクおよび CardDAV 連絡先サービスです。あらゆる CalDAV または CardDAV アプリと、Forward Email 独自のウェブメール、デスクトップアプリ、モバイルアプリで利用でき、データは各エイリアスの暗号化された SQLite メールボックスに保存されます。",
+ "This website re-uses test results provided by the Internet.nl test tool.": "このウェブサイトは、Internet.nl テストツールが提供するテスト結果を再利用しています。"
+}

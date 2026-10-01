@@ -1,0 +1,17 @@
+{
+  "domain": "ipleak.net",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ipleak.net",
+    "tested_at": "2026-09-30T20:16:31.180Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.461Z",
+  "trackers": {
+    "url": "https://ipleak.net",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:32.985Z"
+  }
+}

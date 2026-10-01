@@ -1,0 +1,23 @@
+{
+  "domain": "forwardemail.net",
+  "observatory": {
+    "grade": "A+",
+    "score": 125,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
+    "tested_at": "2026-09-30T20:21:49.560Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.677Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=forwardemail.net&hideResults=on",
+    "tested_at": "2026-09-30T19:45:11.497Z"
+  },
+  "trackers": {
+    "url": "https://forwardemail.net/en",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:41.005Z"
+  }
+}

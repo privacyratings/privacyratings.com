@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.443Z",
+  "trackers": {
+    "url": "https://openhabittracker.net",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:20.733Z"
+  }
+}

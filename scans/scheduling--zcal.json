@@ -1,0 +1,28 @@
+{
+  "domain": "zcal.co",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=zcal.co",
+    "tested_at": "2026-09-30T20:21:59.169Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.670Z",
+  "trackers": {
+    "url": "https://zcal.co",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:39.280Z"
+  }
+}

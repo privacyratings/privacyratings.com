@@ -1,0 +1,53 @@
+{
+  "domain": "purelymail.com",
+  "mail": {
+    "dns": {
+      "domain": "purelymail.com",
+      "dnssec": false,
+      "mx": [
+        "mailserver.purelymail.com"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "mailserver.purelymail.com",
+          "port": 465
+        },
+        "imaps": {
+          "host": "mailserver.purelymail.com",
+          "port": 993
+        },
+        "imap": {
+          "host": "mailserver.purelymail.com",
+          "port": 143
+        },
+        "pop3s": {
+          "host": "mailserver.purelymail.com",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T05:26:34.857Z"
+  },
+  "mail_domain": "purelymail.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=purelymail.com",
+    "tested_at": "2026-09-30T20:19:20.870Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "trackers": {
+    "url": "https://purelymail.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:45.268Z"
+  }
+}

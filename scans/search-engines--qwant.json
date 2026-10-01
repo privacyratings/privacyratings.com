@@ -1,0 +1,17 @@
+{
+  "domain": "www.qwant.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.qwant.com",
+    "tested_at": "2026-09-30T20:15:52.988Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.453Z",
+  "trackers": {
+    "url": "https://www.qwant.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:26.963Z"
+  }
+}

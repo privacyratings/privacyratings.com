@@ -1,0 +1,32 @@
+{
+  "domain": "app.mailinblack.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.mailinblack.com",
+    "tested_at": "2026-09-30T20:20:17.680Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.493Z",
+  "trackers": {
+    "url": "https://www.mailinblack.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-analytics.net"
+      },
+      {
+        "name": "Matomo Cloud",
+        "host": "cdn.matomo.cloud",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:50.816Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "domain": "app.improvmx.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.improvmx.com",
+    "tested_at": "2026-09-30T20:11:02.492Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.036Z",
+  "trackers": {
+    "url": "https://improvmx.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Intercom",
+        "host": "widget.intercom.io",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:35.497Z"
+  }
+}

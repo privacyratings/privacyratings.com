@@ -1,0 +1,17 @@
+{
+  "domain": "console.aws.amazon.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 105,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.aws.amazon.com",
+    "tested_at": "2026-09-30T20:13:11.255Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.139Z",
+  "trackers": {
+    "url": "https://aws.amazon.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:57.051Z"
+  }
+}

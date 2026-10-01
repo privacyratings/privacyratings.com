@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.165Z",
+  "trackers": {
+    "url": "https://nmap.org",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:03.602Z"
+  }
+}

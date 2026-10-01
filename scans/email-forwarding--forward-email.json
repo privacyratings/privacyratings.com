@@ -1,0 +1,54 @@
+{
+  "domain": "forwardemail.net",
+  "mail": {
+    "dns": {
+      "domain": "forwardemail.net",
+      "dnssec": true,
+      "mx": [
+        "mx1.forwardemail.net",
+        "mx2.forwardemail.net"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": {
+          "host": "smtp.forwardemail.net",
+          "port": 465
+        },
+        "submission": {
+          "host": "smtp.forwardemail.net",
+          "port": 465
+        },
+        "imaps": {
+          "host": "imap.forwardemail.net",
+          "port": 993
+        },
+        "imap": null,
+        "pop3s": {
+          "host": "pop3.forwardemail.net",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T20:37:01.443Z"
+  },
+  "mail_domain": "forwardemail.net",
+  "observatory": {
+    "grade": "A+",
+    "score": 125,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
+    "tested_at": "2026-09-30T20:20:28.527Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.573Z",
+  "trackers": {
+    "url": "https://forwardemail.net/en",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:09.706Z"
+  }
+}

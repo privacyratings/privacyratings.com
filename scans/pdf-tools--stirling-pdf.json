@@ -1,0 +1,20 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.195Z",
+  "trackers": {
+    "url": "https://www.stirling.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:19.299Z"
+  }
+}

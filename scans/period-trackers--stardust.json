@@ -1,0 +1,23 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.283Z",
+  "trackers": {
+    "url": "https://stardust.app",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "New Relic",
+        "host": "js-agent.newrelic.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:34.225Z"
+  }
+}

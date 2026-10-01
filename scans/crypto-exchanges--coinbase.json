@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.289Z",
+  "trackers": {
+    "url": "https://www.coinbase.com/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T05:25:14.121Z",
+    "last_error": "HTTP 403"
+  }
+}

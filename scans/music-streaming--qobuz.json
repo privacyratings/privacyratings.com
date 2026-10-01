@@ -1,0 +1,22 @@
+{
+  "domain": "play.qobuz.com",
+  "observatory": {
+    "grade": "D",
+    "score": 35,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=play.qobuz.com",
+    "tested_at": "2026-09-30T20:21:45.653Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.594Z",
+  "trackers": {
+    "url": "https://www.qobuz.com/us-en/discover",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:20.835Z"
+  }
+}

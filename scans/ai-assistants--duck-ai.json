@@ -1,0 +1,17 @@
+{
+  "domain": "duck.ai",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duck.ai",
+    "tested_at": "2026-09-30T20:14:07.731Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.208Z",
+  "trackers": {
+    "url": "https://duck.ai",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:22.521Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "domain": "haveibeenpwned.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 115,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=haveibeenpwned.com",
+    "tested_at": "2026-09-30T20:16:30.673Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.460Z",
+  "trackers": {
+    "url": "https://haveibeenpwned.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:32.550Z"
+  }
+}

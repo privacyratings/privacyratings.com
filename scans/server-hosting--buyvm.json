@@ -1,0 +1,35 @@
+{
+  "domain": "my.frantech.ca",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.frantech.ca",
+    "tested_at": "2026-09-30T20:13:28.512Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.140Z",
+  "trackers": {
+    "url": "https://buyvm.net",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Tawk.to",
+        "host": "embed.tawk.to"
+      },
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:57.403Z"
+  }
+}

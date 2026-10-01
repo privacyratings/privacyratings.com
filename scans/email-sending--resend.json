@@ -1,0 +1,28 @@
+{
+  "domain": "resend.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=resend.com",
+    "tested_at": "2026-09-30T20:22:25.292Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.676Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=resend.com&hideResults=on",
+    "tested_at": "2026-09-30T19:42:49.697Z"
+  },
+  "trackers": {
+    "url": "https://resend.com",
+    "found": [
+      {
+        "name": "PostHog",
+        "host": "us.i.posthog.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:40.378Z"
+  }
+}

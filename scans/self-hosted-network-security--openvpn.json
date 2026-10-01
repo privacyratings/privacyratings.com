@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.157Z",
+  "trackers": {
+    "url": "https://openvpn.net/community/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:02.127Z"
+  }
+}

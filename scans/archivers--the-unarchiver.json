@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.003Z",
+  "trackers": {
+    "url": "https://theunarchiver.com",
+    "found": [
+      {
+        "name": "Google Ads",
+        "host": "www.googleadservices.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:31.930Z"
+  }
+}

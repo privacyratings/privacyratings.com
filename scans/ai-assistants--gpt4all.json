@@ -1,0 +1,25 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.209Z",
+  "trackers": {
+    "url": "https://www.nomic.ai/gpt4all",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:22.765Z"
+  }
+}

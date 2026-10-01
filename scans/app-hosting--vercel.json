@@ -1,0 +1,17 @@
+{
+  "domain": "vercel.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=vercel.com",
+    "tested_at": "2026-09-30T20:21:12.593Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.513Z",
+  "trackers": {
+    "url": "https://vercel.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:00.857Z"
+  }
+}

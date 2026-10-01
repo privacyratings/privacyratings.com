@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.430Z",
+  "trackers": {
+    "url": "https://www.bleachbit.org",
+    "found": [
+      {
+        "name": "Google AdSense",
+        "host": "pagead2.googlesyndication.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:15.618Z"
+  }
+}

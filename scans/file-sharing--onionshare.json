@@ -1,0 +1,17 @@
+{
+  "domain": "onionshare.org",
+  "observatory": {
+    "grade": "A+",
+    "score": 120,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=onionshare.org",
+    "tested_at": "2026-09-29T17:59:43.216Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.472Z",
+  "trackers": {
+    "url": "https://onionshare.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:42.097Z"
+  }
+}

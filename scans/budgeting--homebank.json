@@ -1,0 +1,26 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.593Z",
+  "trackers": {
+    "url": "https://www.gethomebank.org/en/index.php",
+    "found": [
+      {
+        "name": "Google AdSense",
+        "host": "pagead2.googlesyndication.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:20.315Z"
+  }
+}

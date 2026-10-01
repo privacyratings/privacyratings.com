@@ -1,0 +1,22 @@
+{
+  "domain": "www.virustotal.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.virustotal.com",
+    "tested_at": "2026-09-30T20:21:22.102Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.580Z",
+  "trackers": {
+    "url": "https://www.virustotal.com/gui/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:12.818Z"
+  }
+}

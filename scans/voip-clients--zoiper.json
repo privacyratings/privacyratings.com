@@ -1,0 +1,36 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.118Z",
+  "trackers": {
+    "url": "https://www.zoiper.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Ads",
+        "host": "www.googleadservices.com"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "google-analytics.com"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "googleads.g.doubleclick.net"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      },
+      {
+        "name": "YouTube embed",
+        "host": "www.youtube.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:52.104Z"
+  }
+}

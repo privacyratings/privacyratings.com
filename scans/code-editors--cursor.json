@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.243Z",
+  "trackers": {
+    "url": "https://cursor.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:27.068Z"
+  }
+}

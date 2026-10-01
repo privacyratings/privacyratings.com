@@ -1,0 +1,13 @@
+{
+ "Android": "Android",
+ "Chromium": "Chromium",
+ "Docker": "Docker",
+ "Firefox": "Firefox",
+ "GitHub": "GitHub",
+ "Linux": "Linux",
+ "iOS": "iOS",
+ "macOS": "macOS",
+ "Web": "웹",
+ "Browser extension": "브라우저 확장 프로그램",
+ "Search could not be loaded. Check your connection and try again.": "검색을 불러올 수 없습니다. 연결을 확인한 후 다시 시도하세요."
+}

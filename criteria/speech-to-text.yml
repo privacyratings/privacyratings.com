@@ -1,0 +1,19 @@
+- id: runs_locally
+  title: Runs on the device
+  weight: 3
+  question: Is speech converted to text on the device, without sending audio to a server?
+  yes: Transcription runs fully on the device or on your own server.
+  partial: Local transcription is available, but cloud processing is the default or needed for some features.
+  no: Audio is sent to the vendor's servers.
+  why: Voice recordings and transcripts hold private conversations, names and health or business details.
+  verify: Link the documentation or privacy policy.
+
+- id: no_training
+  title: No training on recordings
+  weight: 2
+  question: Are recordings and transcripts kept out of model training by default?
+  yes: Never used for training, or processing is entirely local.
+  partial: Used for training by default with an opt-out.
+  no: Used for training with no opt-out.
+  why: Training on recordings can expose what was said.
+  verify: Link the privacy policy.

@@ -1,0 +1,17 @@
+{
+  "domain": "copilot.microsoft.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 100,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=copilot.microsoft.com",
+    "tested_at": "2026-09-30T20:14:41.586Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.213Z",
+  "trackers": {
+    "url": "https://copilot.com/?fromcode=cmmlf487uwy&sessionId=d663a966-834b-40d9-840a-91fbcf779218&",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:23.386Z"
+  }
+}

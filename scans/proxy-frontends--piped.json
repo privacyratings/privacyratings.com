@@ -1,0 +1,17 @@
+{
+  "domain": "piped.video",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=piped.video",
+    "tested_at": "2026-09-30T20:11:46.641Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.062Z",
+  "trackers": {
+    "url": "https://piped.video",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:42.890Z"
+  }
+}

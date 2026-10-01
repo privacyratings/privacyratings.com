@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.590Z",
+  "trackers": {
+    "url": "https://www.arlo.com/en-us",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:18.722Z"
+  }
+}

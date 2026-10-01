@@ -1,0 +1,29 @@
+- id: encrypted_dns
+  title: Encrypted DNS
+  weight: 3
+  question: Are DNS over HTTPS and DNS over TLS supported?
+  yes: Both.
+  partial: One of them.
+  no: Neither.
+  why: Unencrypted DNS shows every site visited to anyone on the network.
+  verify: Link the setup documentation.
+
+- id: no_query_logs
+  title: No query logs
+  weight: 3
+  question: Are queries stored without IP addresses, and is this independently audited?
+  yes: No identifying logs, confirmed by an audit.
+  partial: No identifying logs claimed, but not audited, or logs kept briefly.
+  no: Identifying logs are kept.
+  why: DNS logs are a full browsing history.
+  verify: Link the privacy policy and audit.
+
+- id: dnssec_validation
+  title: DNSSEC validation
+  weight: 1
+  question: Does the resolver validate DNSSEC?
+  yes: Yes.
+  partial: Optional.
+  no: No.
+  why: Validation stops forged DNS answers.
+  verify: Link the documentation or a test.

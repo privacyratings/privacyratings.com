@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.277Z",
+  "trackers": {
+    "url": "https://www.wyze.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:32.756Z"
+  }
+}

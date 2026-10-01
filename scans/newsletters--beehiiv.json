@@ -1,0 +1,36 @@
+{
+  "domain": "www.beehiiv.com",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.beehiiv.com",
+    "tested_at": "2026-09-30T20:12:00.771Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.111Z",
+  "trackers": {
+    "url": "https://www.beehiiv.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:50.992Z"
+  }
+}

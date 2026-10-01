@@ -1,0 +1,65 @@
+{
+  "domain": "www.33mail.com",
+  "mail": {
+    "dns": {
+      "domain": "33mail.com",
+      "dnssec": false,
+      "mx": [
+        "aspmx.l.google.com",
+        "alt1.aspmx.l.google.com",
+        "alt2.aspmx.l.google.com",
+        "aspmx2.googlemail.com",
+        "aspmx3.googlemail.com",
+        "aspmx4.googlemail.com",
+        "aspmx5.googlemail.com"
+      ],
+      "spf": true,
+      "dmarc": null,
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:36.021Z"
+  },
+  "mail_domain": "33mail.com",
+  "observatory": {
+    "grade": "F",
+    "score": 0,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.33mail.com",
+    "tested_at": "2026-09-30T20:19:24.742Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.479Z",
+  "trackers": {
+    "url": "https://www.33mail.com",
+    "found": [
+      {
+        "name": "Cookiebot",
+        "host": "consent.cookiebot.com",
+        "soft": true
+      },
+      {
+        "name": "Facebook SDK",
+        "host": "connect.facebook.net"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:45.691Z"
+  }
+}

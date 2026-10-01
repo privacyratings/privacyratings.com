@@ -1,0 +1,13 @@
+{
+ "Android": "Android",
+ "Chromium": "Chromium",
+ "Docker": "Docker",
+ "Firefox": "Firefox",
+ "GitHub": "GitHub",
+ "Linux": "Linux",
+ "iOS": "iOS",
+ "macOS": "macOS",
+ "Web": "Webb",
+ "Browser extension": "Webbläsartillägg",
+ "Search could not be loaded. Check your connection and try again.": "Sökningen kunde inte läsas in. Kontrollera anslutningen och försök igen."
+}

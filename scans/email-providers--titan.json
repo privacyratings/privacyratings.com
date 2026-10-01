@@ -1,0 +1,55 @@
+{
+  "domain": "app.titan.email",
+  "mail": {
+    "dns": {
+      "domain": "titan.email",
+      "dnssec": false,
+      "mx": [
+        "mx1.titan.email",
+        "mx2.titan.email"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T20:33:59.825Z"
+  },
+  "mail_domain": "titan.email",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.titan.email",
+    "tested_at": "2026-09-30T20:19:53.193Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.486Z",
+  "trackers": {
+    "url": "https://titan.email",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      },
+      {
+        "name": "WordPress.com Stats",
+        "host": "stats.wp.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:49.197Z"
+  }
+}

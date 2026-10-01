@@ -1,0 +1,5 @@
+{
+ "Self-hosted version of the Forward Email service, installed with a script that deploys Docker containers. It includes MX, SMTP, IMAP, POP3, CalDAV and CardDAV servers, encrypted SQLite mailboxes, a web interface and optional backups to S3-compatible storage.": "גרסה באירוח עצמי של שירות Forward Email, המותקנת באמצעות סקריפט שפורס מכולות Docker. היא כוללת שרתי MX, SMTP, IMAP, POP3, CalDAV ו־CardDAV, תיבות דואר SQLite מוצפנות, ממשק ווב וגיבויים אופציונליים לאחסון תואם S3.",
+ "CalDAV calendar, task and CardDAV contacts service included with paid Forward Email plans. It works with any CalDAV or CardDAV app and with Forward Email's own webmail, desktop and mobile apps, and stores data in each alias's encrypted SQLite mailbox.": "שירות יומן ומשימות CalDAV ואנשי קשר CardDAV הכלול בתוכניות בתשלום של Forward Email. הוא עובד עם כל אפליקציית CalDAV או CardDAV ועם דואר הווב ואפליקציות שולחן העבודה והנייד של Forward Email עצמה, ושומר את הנתונים בתיבת הדואר SQLite המוצפנת של כל כינוי.",
+ "This website re-uses test results provided by the Internet.nl test tool.": "אתר זה עושה שימוש חוזר בתוצאות בדיקה שמספק כלי הבדיקה Internet.nl."
+}

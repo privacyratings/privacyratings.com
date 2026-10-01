@@ -1,0 +1,25 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.052Z",
+  "trackers": {
+    "url": "https://www.opera.com",
+    "found": [
+      {
+        "name": "Facebook SDK",
+        "host": "connect.facebook.net"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Microsoft Ads",
+        "host": "bat.bing.com"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:38.669Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "domain": "cp.sync.com",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cp.sync.com",
+    "tested_at": "2026-09-30T20:15:11.429Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.221Z",
+  "trackers": {
+    "url": "https://www.sync.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "no-cache.hubspot.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      },
+      {
+        "name": "Meta Pixel",
+        "host": "www.facebook.com"
+      },
+      {
+        "name": "Reddit Pixel",
+        "host": "www.redditstatic.com"
+      },
+      {
+        "name": "X (Twitter) Pixel",
+        "host": "static.ads-twitter.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:25.200Z"
+  }
+}

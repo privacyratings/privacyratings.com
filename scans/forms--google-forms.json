@@ -1,0 +1,27 @@
+{
+  "domain": "docs.google.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.google.com",
+    "tested_at": "2026-09-30T20:13:54.904Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.197Z",
+  "trackers": {
+    "url": "https://workspace.google.com/products/forms/",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:19.732Z"
+  }
+}

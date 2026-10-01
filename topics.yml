@@ -1,0 +1,293 @@
+# Guides for common searches, such as "private email" or "no-log VPN".
+# Each guide lists rated entries that match its filter, ranked by picks and then score,
+# with an introduction and questions. Lists update automatically when ratings change.
+#
+# slug         Page URL: /<slug>/
+# title        <title> and search result headline
+# h1           Page heading
+# description  Meta description
+# intro        Markdown shown above the list
+# categories   Categories to list entries from
+# require      Criteria that must be answered yes (or the listed answers) to be included
+# limit        Maximum entries listed
+# faq          Questions and answers, also published as FAQPage structured data
+
+- slug: private-email
+  title: "Private email: the most private email services, rated"
+  h1: The most private email services
+  description: "Private email services compared by public evidence: encryption, open source, trackers, ads, audits, jurisdiction and live security tests."
+  categories: [email-providers]
+  require: { no_ads: [yes, partial] }
+  limit: 20
+  intro: |
+    A private email service does not read, sell or advertise against your mail, keeps as little data as possible, and proves it with public code, audits and clear policies. Every service below is scored against the same [public criteria](/criteria/#email-providers), with a link to evidence for every answer and automated tests of its mail and web servers.
+
+    Services funded by advertising are left out of this list. See [all email providers](/email-providers/) for the full comparison, including Gmail and Outlook.com.
+  faq:
+    - q: What is the most private email service?
+      a: The most private services encrypt stored mail, publish their code, have no ads or trackers, and have been independently audited. The list above is ranked by those criteria, with our picks first. Always check the evidence for the features you need.
+    - q: Is Gmail private?
+      a: Gmail scans mail for spam and security, uses account activity across Google services for advertising, and does not encrypt stored mail with a key only you hold. See the full Gmail rating and private alternatives to Gmail.
+    - q: Does jurisdiction matter for private email?
+      a: Jurisdiction decides which laws can compel a provider to hand over data, but what a provider can hand over depends mostly on what it stores and who holds the keys. Each rating shows the country, Eyes alliance membership and whether the CLOUD Act applies.
+
+- slug: secure-email
+  title: "Secure email: encrypted, audited email services compared"
+  h1: The most secure email services
+  description: Secure email services compared on end-to-end encryption, encrypted storage, independent audits, MTA-STS, DANE, DNSSEC and TLS test results.
+  categories: [email-providers]
+  require: { e2ee: [yes, partial] }
+  limit: 20
+  intro: |
+    Secure email protects messages in transit and at rest, supports end-to-end encryption, and hardens its servers against interception. Each service below supports end-to-end encryption, and each page shows automated tests of TLS, MTA-STS, DANE, DNSSEC, SPF and DMARC along with evidence for every answer.
+  faq:
+    - q: What makes an email service secure?
+      a: Look for end-to-end encryption such as OpenPGP, encrypted storage, enforced transport security (MTA-STS or DANE), DNSSEC, strong TLS, two-factor sign-in and a recent independent security audit. The criteria and tests behind each rating are public.
+    - q: Is end-to-end encrypted email possible with any recipient?
+      a: Only when both sides support the same system. OpenPGP works across providers and apps; some services use their own encryption between their own users and password-protected messages for everyone else.
+
+- slug: encrypted-email
+  title: "Encrypted email services compared: OpenPGP and end-to-end encryption"
+  h1: Encrypted email services
+  description: Email services that support end-to-end encryption and encrypted storage, rated with public evidence and security tests.
+  categories: [email-providers, email-clients, webmail]
+  require: { e2ee: [yes], openpgp: [yes] }
+  limit: 30
+  intro: |
+    Encrypted email keeps message contents readable only by the sender and recipients. This list includes email services with end-to-end encryption and email apps with built-in OpenPGP, so you can pair a provider with a client.
+  faq:
+    - q: What is the difference between TLS and end-to-end encryption?
+      a: TLS protects mail between servers and apps, but the provider can still read it. End-to-end encryption means only the people holding the keys can read the message.
+    - q: Do I need a special provider for encrypted email?
+      a: No. OpenPGP works with any provider through an app that supports it, such as the email clients in this list. Some providers also build encryption into their webmail and apps.
+
+- slug: anonymous-email
+  title: "Anonymous email: sign up without a phone number or personal data"
+  h1: Anonymous email services
+  description: Email services and aliases you can sign up for without a phone number or another email address, rated for privacy with evidence.
+  categories: [email-providers, email-forwarding]
+  require: { anonymous_signup: [yes] }
+  limit: 25
+  intro: |
+    These services let you create an account without a phone number or an existing email address. Combine them with a VPN or Tor and anonymous payment for more privacy.
+  faq:
+    - q: Can email be completely anonymous?
+      a: Sign-up can be, but metadata such as IP addresses, recipients and timing can still identify you. Use a VPN or Tor, pay anonymously, and avoid linking the account to your real identity.
+
+- slug: best-email-service
+  title: "Best email services compared by privacy, security and openness"
+  h1: Best email services
+  description: Every email service we rate, ranked by public privacy and security criteria, with evidence, jurisdictions and live mail server tests.
+  categories: [email-providers]
+  limit: 40
+  intro: |
+    The best email service depends on what you need, but privacy and security are easy to compare when every answer links to evidence. This ranking covers every email provider we rate, including mainstream services, scored on the same public criteria.
+  faq:
+    - q: Which email service is the best?
+      a: Our pick is listed first with the reason. For privacy, look for encrypted storage, open source, no ads and independent audits; for reliability, check the live tests of each service's mail servers.
+
+- slug: email-alias
+  title: "Email alias services compared: hide your real address"
+  h1: Email alias and forwarding services
+  description: Email alias and forwarding services compared on privacy, open source, encryption, SRS, ARC and custom domains.
+  categories: [email-forwarding]
+  limit: 20
+  intro: |
+    Email aliases give each site its own address that forwards to your real inbox, so leaks and spam can be traced and switched off. Each service is rated on privacy, openness and correct forwarding (SRS and ARC).
+  faq:
+    - q: Why use an email alias?
+      a: Aliases keep your real address private, show which site leaked or sold your address, and let you turn off an address without changing your inbox.
+
+- slug: most-private-browser
+  title: "Most private browser: browsers rated for tracking and fingerprinting"
+  h1: The most private browsers
+  description: Browsers compared on tracker blocking, fingerprinting protection, telemetry, Google services and security updates, with evidence.
+  categories: [browsers]
+  limit: 20
+  intro: |
+    A private browser blocks trackers, resists fingerprinting, sends no telemetry and gets security updates quickly. Every browser below is scored on those criteria with evidence.
+  faq:
+    - q: What is the most private browser?
+      a: Our picks are listed first with the reasons. Browsers that make every user look alike, such as those built on Tor Browser's protections, resist fingerprinting best.
+    - q: Is Chrome private?
+      a: Chrome sends data to Google, including for its advertising features, and does not block trackers by default. See the Google Chrome rating and its alternatives.
+
+- slug: private-search-engine
+  title: "Private search engines that don't track you, rated"
+  h1: Private search engines
+  description: Search engines compared on search logging, personalized ads, accounts, trackers and jurisdiction, with public evidence.
+  categories: [search-engines]
+  require: { no_search_logs: [yes, partial] }
+  limit: 20
+  intro: |
+    A private search engine does not keep a history of your searches or build an advertising profile. Each engine below states that searches are not logged, with evidence linked on its page.
+  faq:
+    - q: Do private search engines have ads?
+      a: Many show ads based only on the search, not on a profile. That is rated as partial for ads. Some are paid and show no ads.
+
+- slug: secure-messaging-app
+  title: "Secure messaging apps compared: encryption and metadata"
+  h1: Secure messaging apps
+  description: Messaging apps rated on default end-to-end encryption, phone number requirements, metadata protection and open source.
+  categories: [messengers]
+  require: { e2ee_default: [yes] }
+  limit: 25
+  intro: |
+    A secure messenger encrypts every chat end to end by default, collects as little metadata as possible and publishes its code. Every app below encrypts by default; compare phone number requirements and metadata protection on each page.
+  faq:
+    - q: Is WhatsApp secure?
+      a: WhatsApp encrypts messages end to end by default, but it is owned by Meta, requires a phone number and collects metadata. See its full rating and alternatives.
+    - q: Which messenger does not need a phone number?
+      a: Several apps below let you register without a phone number. Check the "No phone number" answer on each rating.
+
+- slug: no-log-vpn
+  title: "No-log VPNs with audited no-logs policies, rated"
+  h1: No-log VPNs
+  description: VPNs compared on audited no-logs policies, anonymous payment, open-source apps and modern protocols, with evidence.
+  categories: [vpns]
+  require: { no_logs_audited: [yes, partial] }
+  limit: 20
+  intro: |
+    Every VPN claims not to keep logs. This list includes only VPNs whose no-logs policy has been checked by an independent audit (yes) or is at least published (partial), with the report linked on each page.
+  faq:
+    - q: Can a VPN see my traffic?
+      a: Yes. A VPN sees where your traffic goes instead of your internet provider, which is why an audited no-logs policy, anonymous payment and open-source apps matter.
+
+- slug: best-password-manager
+  title: "Best password managers rated for privacy and security"
+  h1: Best password managers
+  description: Password managers compared on end-to-end encrypted vaults, open source, audits, self-hosting and export, with evidence.
+  categories: [password-managers]
+  limit: 25
+  intro: |
+    A password manager holds the keys to everything else, so its code, encryption and audits matter more than features. Every password manager below is rated on the same public criteria.
+  faq:
+    - q: Are open-source password managers safer?
+      a: Open source lets anyone check how vaults are encrypted. Combined with independent audits and end-to-end encryption, it is the strongest evidence of security.
+
+- slug: private-cloud-storage
+  title: "Private cloud storage compared: encryption and open source"
+  h1: Private cloud storage
+  description: Cloud storage services compared on open source, trackers, ads, audits and jurisdiction, with evidence for every answer.
+  categories: [cloud-storage]
+  limit: 30
+  intro: |
+    Private cloud storage keeps your files away from advertising and, ideally, encrypts them with keys only you hold. For storage you run yourself, see [file sync and backup](/file-sync/).
+  faq:
+    - q: Is Google Drive private?
+      a: Google Drive does not use file contents for ads, but files are not end-to-end encrypted by default and Google can access them. See Google Drive alternatives.
+
+- slug: private-dns
+  title: "Private DNS resolvers compared: no-log, encrypted DNS"
+  h1: Private DNS resolvers
+  description: DNS resolvers compared on query logging, DNS over HTTPS and TLS, DNSSEC validation and jurisdiction.
+  categories: [dns-resolvers]
+  require: { no_query_logs: [yes, partial] }
+  limit: 20
+  intro: |
+    Your DNS resolver sees every site you visit. These resolvers support encrypted DNS and state that queries are not logged, or only in anonymized form.
+  faq:
+    - q: How do I use a private DNS resolver?
+      a: Most systems and browsers support DNS over HTTPS or TLS. On Android, use the Private DNS setting with the resolver's hostname.
+
+- slug: private-ai-chatbot
+  title: "Private AI chatbots: assistants that don't train on your chats"
+  h1: Private AI assistants
+  description: AI assistants compared on training on your data, local processing, chat retention and accounts, with evidence.
+  categories: [ai-assistants]
+  require: { no_training: [yes] }
+  limit: 20
+  intro: |
+    These AI assistants do not use your prompts and files to train models by default, or run entirely on your own device. Compare chat retention and account requirements on each rating.
+  faq:
+    - q: Does ChatGPT train on my chats?
+      a: See the ChatGPT rating for its current data controls and retention, with links to OpenAI's own documentation.
+    - q: Can I run an AI assistant locally?
+      a: Yes. Local tools download open models and run them on your computer, so prompts never leave it.
+
+- slug: ad-blocker
+  title: "Best ad blockers rated for privacy"
+  h1: Best ad blockers
+  description: Ad and tracker blockers compared on default blocking, data collection, custom filters and open source.
+  categories: [ad-blockers]
+  limit: 20
+  intro: |
+    A good ad blocker blocks trackers by default, collects no data and does not let advertisers pay to be allowed through. Every blocker below is rated on those criteria.
+  faq:
+    - q: What is "Acceptable Ads"?
+      a: A program that lets some ads through by default, with large companies paying to take part. Blockers that use it are rated lower for blocking by default.
+
+- slug: privacy-tools
+  title: "Best privacy tools: our picks in every category"
+  h1: Privacy tools we recommend
+  description: Our picks for private email, browsers, VPNs, password managers, messaging and more, each rated on public criteria with evidence.
+  picks: true
+  intro: |
+    One pick, sometimes two, for each category, chosen by the maintainers and explained on each page. Scores are calculated separately from picks, so you can always see the evidence behind them.
+  faq:
+    - q: How are picks chosen?
+      a: Picks are editorial and explained on each page. They never change scores. Anyone can challenge a pick in GitHub Discussions.
+
+- slug: degoogle
+  title: "De-Google: private alternatives to every Google product"
+  h1: Private alternatives to Google
+  description: Replace Gmail, Chrome, Google Search, Drive, Photos, Docs, Maps and more with private, open-source alternatives, rated with evidence.
+  vendor: google
+  # Curated like the r/degoogle wiki: each Google product with the replacements people use most.
+  # Items are rated entries (category/slug). Google products not listed here get their top-rated
+  # non-Google alternatives automatically.
+  replace:
+    search-engines/google-search: [search-engines/duckduckgo, search-engines/startpage, search-engines/brave-search, search-engines/searxng, search-engines/kagi, search-engines/mojeek]
+    browsers/google-chrome: [browsers/firefox, browsers/librewolf, browsers/brave-browser, browsers/mullvad-browser, browsers/ungoogled-chromium, browsers/tor-browser]
+    email-providers/gmail: [email-providers/protonmail, email-providers/tuta, email-providers/forward-email, email-providers/mailbox-org]
+    email-clients/gmail-app: [email-clients/thunderbird-for-android, email-clients/fairemail, email-clients/mozilla-thunderbird, email-clients/forward-email]
+    cloud-storage/google-drive: [cloud-storage/proton-drive, file-sync/nextcloud, cloud-storage/filen, file-sync/syncthing, cloud-storage/tresorit, cloud-storage/koofr]
+    photo-management/google-photos: [photo-management/ente-photos, photo-management/immich, photo-management/librephotos, photo-management/fossify-gallery]
+    office-suites/google-docs: [office-suites/cryptpad, office-suites/proton-docs, office-suites/onlyoffice, office-suites/libreoffice, office-suites/collabora-online, office-suites/etherpad]
+    calendars/google-calendar: [calendars/proton-calendar, calendars/tuta-calendar, calendars/forward-email-calendar, calendars/etar, calendars/fossify-calendar, calendars/nextcloud-calendar]
+    maps/google-maps: [maps/organic-maps, maps/comaps, maps/osmand, maps/magic-earth]
+    mobile-operating-systems/android: [mobile-operating-systems/grapheneos, mobile-operating-systems/lineageos, mobile-operating-systems/calyxos, mobile-operating-systems/e-os]
+    app-stores/google-play: [app-stores/f-droid, app-stores/aurora-store, app-stores/obtainium, app-stores/accrescent, app-stores/droid-ify, app-stores/izzyondroid]
+    video-platforms/youtube: [proxy-frontends/newpipe, proxy-frontends/freetube, proxy-frontends/invidious, proxy-frontends/libretube, proxy-frontends/grayjay, video-platforms/peertube]
+    music-streaming/youtube-music: [music-streaming/funkwhale, music-streaming/bandcamp, music-streaming/qobuz]
+    keyboards/gboard: [keyboards/futo-keyboard, keyboards/heliboard, keyboards/florisboard, keyboards/thumb-key]
+    notes/google-keep: [notes/standard-notes, notes/joplin, notes/notesnook, notes/fossify-notes]
+    two-factor-authentication/google-authenticator: [two-factor-authentication/aegis, two-factor-authentication/2fas, two-factor-authentication/ente-auth, two-factor-authentication/proton-authenticator]
+    messengers/google-messages: [messengers/signal, messengers/molly, messengers/simplex]
+    video-calls/google-meet: [video-calls/jitsi, video-calls/element-call, video-calls/bigbluebutton]
+    dns-resolvers/google-public-dns: [dns-resolvers/quad9, dns-resolvers/mullvad-dns, dns-resolvers/nextdns, dns-resolvers/adguard]
+    ai-assistants/google-gemini: [ai-assistants/lumo, ai-assistants/duck-ai, ai-assistants/ollama, ai-assistants/jan]
+    translation/google-translate: [translation/firefox-translations, translation/libretranslate, translation/translatelocally]
+    forms/google-forms: [forms/formbricks, forms/tally, forms/limesurvey, forms/nextcloud-forms]
+    web-analytics/google-analytics: [web-analytics/plausible-analytics, web-analytics/umami, web-analytics/matomo, web-analytics/goatcounter]
+    remote-desktop/chrome-remote-desktop: [remote-desktop/rustdesk, remote-desktop/remmina, remote-desktop/meshcentral]
+    smart-home/google-home: [smart-home/home-assistant, smart-home/openhab]
+    security-cameras/google-nest-cam: [security-cameras/frigate, security-cameras/scrypted]
+    wearables/fitbit: [wearables/gadgetbridge, wearables/bangle-js, wearables/infinitime]
+    fitness-trackers/google-fit: [fitness-trackers/fitotrack, fitness-trackers/opentracks]
+    virtual-phone-numbers/google-voice: [virtual-phone-numbers/jmp-chat]
+    server-hosting/google-cloud: [server-hosting/hetzner, server-hosting/ovhcloud, server-hosting/infomaniak]
+    email-backup/google-takeout: [email-backup/imap-backup, email-backup/got-your-back]
+  intro: |
+    Google's products are free because they are funded by advertising. Each Google product below is listed with the private replacements people use most, every one rated with evidence, so you can replace them one at a time.
+  faq:
+    - q: How do I stop Google tracking me?
+      a: Replace Google services with private alternatives, use a browser that blocks trackers, change your search engine and DNS resolver, and review your Google account's activity controls for anything you keep.
+
+- slug: app-framework
+  title: "Best cross-platform app framework: Tauri, Flutter, React Native and more, rated"
+  h1: The best frameworks for desktop and mobile apps
+  description: Cross-platform app frameworks compared on telemetry, open source, trackers and audits, including Tauri, Flutter, React Native, Expo, Electron, Capacitor and .NET MAUI.
+  categories: [app-frameworks]
+  limit: 25
+  intro: |
+    A cross-platform framework builds apps for Windows, macOS, Linux, Android and iOS from one codebase. Its tooling and SDKs end up in every app built with it, so telemetry in the framework can become telemetry in your app. Every framework below is rated on the same [public criteria](/criteria/): open source, trackers and telemetry, funding and independent audits.
+
+    Our recommended stack is [Tauri](/app-frameworks/tauri/) with [Svelte](/web-frameworks/svelte/) and TypeScript. The Forward Email apps are an open example: one [Tauri, Svelte and TypeScript codebase](https://github.com/forwardemail/mail.forwardemail.net) ships the webmail and the desktop and mobile apps.
+  faq:
+    - q: What is the best framework for cross-platform apps?
+      a: Tauri, used with Svelte and TypeScript, builds small desktop and mobile apps from one web codebase, uses the system web view instead of a bundled browser, has no telemetry and has a public independent audit. React Native and Flutter are the most common choices for mobile, but their tooling sends usage data by default in some setups.
+    - q: Is Tauri better than Electron?
+      a: Tauri apps are usually much smaller because they use the system web view instead of bundling Chromium, and Tauri also targets Android and iOS. Electron gives the same browser engine on every platform. See both ratings for the evidence.
+    - q: Do Flutter and Expo collect telemetry?
+      a: The Flutter and Expo command-line tools send usage data by default until it is turned off. Each rating links to the documentation that explains how to turn it off.

@@ -1,0 +1,23 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.187Z",
+  "trackers": {
+    "url": "https://plane.so",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:14.347Z"
+  }
+}

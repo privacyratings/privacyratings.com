@@ -1,0 +1,48 @@
+{
+  "domain": "addy.io",
+  "mail": {
+    "dns": {
+      "domain": "addy.io",
+      "dnssec": true,
+      "mx": [
+        "mx1.addy.io",
+        "mx2.addy.io"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:44.955Z"
+  },
+  "mail_domain": "addy.io",
+  "observatory": {
+    "grade": "A+",
+    "score": 120,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
+    "tested_at": "2026-09-30T20:19:40.267Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.482Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=addy.io&hideResults=on",
+    "tested_at": "2026-09-29T18:00:21.038Z"
+  },
+  "trackers": {
+    "url": "https://addy.io",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:47.380Z"
+  }
+}

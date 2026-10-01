@@ -1,0 +1,19 @@
+- id: offline
+  title: Works offline
+  weight: 2
+  question: Does the app scan and show disk usage without contacting the internet?
+  yes: Makes no network requests, or only checks for updates when you ask or after you opt in.
+  partial: Works offline, but checks for updates, loads content or sends usage data by default.
+  no: Needs an internet connection to work, or sends file names or scan results to a server.
+  why: A disk scan lists every file and folder name on the computer, which can reveal projects, people and habits.
+  verify: Link the source code, network documentation or privacy policy.
+
+- id: no_account_needed
+  title: No account needed
+  weight: 1
+  question: Can the app be used without an account or registering an email address?
+  yes: No account or registration needed.
+  partial: Only some features, such as cloud storage scanning, need an account.
+  no: An account or email registration is required.
+  why: An account or registration ties the app and its use to an identity.
+  verify: Link the download page, documentation or privacy policy.

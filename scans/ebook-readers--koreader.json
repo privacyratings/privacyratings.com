@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.202Z",
+  "trackers": {
+    "url": "https://koreader.rocks",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:21.511Z"
+  }
+}

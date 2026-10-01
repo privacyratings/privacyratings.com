@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.680Z",
+  "trackers": {
+    "url": "https://defguard.net",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:42.414Z"
+  }
+}

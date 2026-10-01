@@ -1,0 +1,16 @@
+# Keeps the GitHub Actions used by the workflows up to date. npm dependencies are pinned on purpose
+# and updated by hand.
+#
+# Actions are pinned to full commit SHAs with the version in a comment; Dependabot updates both.
+# The cooldown leaves a new release a week to be pulled or reported before it is proposed.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    cooldown:
+      default-days: 7
+    groups:
+      actions:
+        patterns: ['*']

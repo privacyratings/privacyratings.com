@@ -1,0 +1,47 @@
+{
+  "domain": "migadu.com",
+  "mail": {
+    "dns": {
+      "domain": "migadu.com",
+      "dnssec": true,
+      "mx": [
+        "mx.migadu.com"
+      ],
+      "spf": true,
+      "dmarc": null,
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "smtp.migadu.com",
+          "port": 587
+        },
+        "imaps": {
+          "host": "imap.migadu.com",
+          "port": 993
+        },
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:34.862Z"
+  },
+  "mail_domain": "migadu.com",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=migadu.com",
+    "tested_at": "2026-09-30T20:18:38.391Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "trackers": {
+    "url": "https://migadu.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:45.348Z"
+  }
+}

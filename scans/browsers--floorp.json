@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.050Z",
+  "trackers": {
+    "url": "https://floorp.app",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:37.848Z"
+  }
+}

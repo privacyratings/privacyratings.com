@@ -1,0 +1,17 @@
+{
+  "domain": "adguard-dns.io",
+  "observatory": {
+    "grade": "F",
+    "score": 5,
+    "tests_passed": 6,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=adguard-dns.io",
+    "tested_at": "2026-09-30T20:21:28.561Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.583Z",
+  "trackers": {
+    "url": "https://adguard-dns.io/en/welcome.html",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:14.969Z"
+  }
+}

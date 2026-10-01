@@ -1,0 +1,17 @@
+{
+  "domain": "nlnetlabs.nl",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nlnetlabs.nl",
+    "tested_at": "2026-09-29T17:58:13.221Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.466Z",
+  "trackers": {
+    "url": "https://nlnetlabs.nl/projects/unbound/about/",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:38.074Z"
+  }
+}

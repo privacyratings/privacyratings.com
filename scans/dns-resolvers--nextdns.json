@@ -1,0 +1,17 @@
+{
+  "domain": "nextdns.io",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nextdns.io",
+    "tested_at": "2026-09-30T20:17:10.250Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.466Z",
+  "trackers": {
+    "url": "https://nextdns.io",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:37.535Z"
+  }
+}

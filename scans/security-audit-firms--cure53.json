@@ -1,0 +1,17 @@
+{
+  "domain": "cure53.de",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cure53.de",
+    "tested_at": "2026-09-30T20:20:40.469Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.500Z",
+  "trackers": {
+    "url": "https://cure53.de",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:55.672Z"
+  }
+}

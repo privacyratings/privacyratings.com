@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.661Z",
+  "trackers": {
+    "url": "https://vaadin.com",
+    "found": [
+      {
+        "name": "HubSpot",
+        "host": "js.hsforms.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:34.492Z"
+  }
+}

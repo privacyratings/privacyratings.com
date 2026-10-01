@@ -1,0 +1,23 @@
+{
+  "domain": "mullvad.net",
+  "observatory": {
+    "grade": "A+",
+    "score": 135,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mullvad.net",
+    "tested_at": "2026-09-30T20:21:26.119Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.583Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mullvad.net&hideResults=on",
+    "tested_at": "2026-09-29T17:48:21.023Z"
+  },
+  "trackers": {
+    "url": "https://mullvad.net/en",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:15.060Z"
+  }
+}

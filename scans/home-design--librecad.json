@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.033Z",
+  "trackers": {
+    "url": "https://librecad.org",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:34.882Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "domain": "blog.uncensoreddns.org",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=blog.uncensoreddns.org",
+    "tested_at": "2026-09-30T20:13:08.600Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.132Z",
+  "trackers": {
+    "url": "https://blog.uncensoreddns.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:57.015Z"
+  }
+}

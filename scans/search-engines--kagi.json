@@ -1,0 +1,17 @@
+{
+  "domain": "kagi.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kagi.com",
+    "tested_at": "2026-09-30T20:11:03.360Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.056Z",
+  "trackers": {
+    "url": "https://kagi.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:40.339Z"
+  }
+}

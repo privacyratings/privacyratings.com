@@ -1,0 +1,13 @@
+{
+ "Android": "Android",
+ "Chromium": "Chromium",
+ "Docker": "Docker",
+ "Firefox": "Firefox",
+ "GitHub": "GitHub",
+ "Linux": "Linux",
+ "iOS": "iOS",
+ "macOS": "macOS",
+ "Web": "Web",
+ "Browser extension": "Extensión de navegador",
+ "Search could not be loaded. Check your connection and try again.": "No se pudo cargar la búsqueda. Comprueba la conexión e inténtalo de nuevo."
+}

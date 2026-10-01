@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.601Z",
+  "trackers": {
+    "url": "https://hydrogen.shopify.dev",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:22.789Z"
+  }
+}

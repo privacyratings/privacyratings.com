@@ -1,0 +1,22 @@
+{
+  "domain": "hub.upcloud.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 105,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hub.upcloud.com",
+    "tested_at": "2026-09-30T20:13:37.994Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.143Z",
+  "trackers": {
+    "url": "https://upcloud.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:58.499Z"
+  }
+}

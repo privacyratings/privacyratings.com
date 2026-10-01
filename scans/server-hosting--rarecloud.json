@@ -1,0 +1,22 @@
+{
+  "domain": "rarecloud.io",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rarecloud.io",
+    "tested_at": "2026-09-30T20:17:46.188Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.470Z",
+  "trackers": {
+    "url": "https://rarecloud.io",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:41.170Z"
+  }
+}

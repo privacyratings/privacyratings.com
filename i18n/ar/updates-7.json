@@ -1,0 +1,8 @@
+{
+ "No app opened, so the text and link were copied.": "لم يُفتح أي تطبيق، لذا تم نسخ النص والرابط.",
+ "Paid email service in Sweden that encrypts mail with OpenPGP and stores it encrypted. New registrations are closed.": "خدمة بريد إلكتروني مدفوعة في السويد تشفّر الرسائل باستخدام OpenPGP وتخزّنها مشفّرة. التسجيلات الجديدة مغلقة.",
+ "Source-available webmail, desktop and mobile client with built-in OpenPGP and no third-party analytics. It works only with Forward Email accounts, not other IMAP and SMTP providers.": "عميل بريد ويب وسطح مكتب وجوال متاح المصدر مع OpenPGP مدمج ودون تحليلات من أطراف ثالثة. يعمل مع حسابات Forward Email فقط، وليس مع مزوّدي IMAP وSMTP الآخرين.",
+ "Source-available webmail with built-in OpenPGP and no third-party analytics, covered by Cure53's audit. It works only with Forward Email accounts, not other IMAP and SMTP providers.": "بريد ويب متاح المصدر مع OpenPGP مدمج ودون تحليلات من أطراف ثالثة، يشمله تدقيق Cure53. يعمل مع حسابات Forward Email فقط، وليس مع مزوّدي IMAP وSMTP الآخرين.",
+ "No email, no name and no card needed. A stable, flat price, WireGuard on every platform, fully open-source apps, and repeated public audits of both the apps and the server infrastructure.": "لا حاجة إلى بريد إلكتروني ولا اسم ولا بطاقة. سعر ثابت ومستقر، وWireGuard على كل منصة، وتطبيقات مفتوحة المصدر بالكامل، وتدقيقات عامة متكررة للتطبيقات والبنية التحتية للخوادم على السواء.",
+ "Self-hosted journal web app with mood tracking, writing prompts, media uploads, search and writing statistics, run with Docker. Released as beta software.": "تطبيق ويب مستضاف ذاتيًا لليوميات مع تتبّع المزاج ومحفّزات للكتابة ورفع الوسائط والبحث وإحصاءات الكتابة، يعمل عبر Docker. صدر كبرنامج تجريبي (beta)."
+}

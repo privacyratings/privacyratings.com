@@ -1,0 +1,41 @@
+{
+  "domain": "duckduckgo.com",
+  "mail": {
+    "dns": {
+      "domain": "duck.com",
+      "dnssec": false,
+      "mx": [
+        "smtp-inbound1.duck.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": true,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:36.214Z"
+  },
+  "mail_domain": "duck.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
+    "tested_at": "2026-09-30T20:19:25.600Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.480Z",
+  "trackers": {
+    "url": "https://duckduckgo.com/email/",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:45.851Z"
+  }
+}

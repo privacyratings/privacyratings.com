@@ -1,0 +1,17 @@
+{
+  "domain": "tally.so",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tally.so",
+    "tested_at": "2026-09-30T20:14:01.154Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.199Z",
+  "trackers": {
+    "url": "https://tally.so",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:20.668Z"
+  }
+}

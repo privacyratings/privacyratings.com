@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.290Z",
+  "trackers": {
+    "url": "https://www.kraken.com",
+    "found": [
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:36.743Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "domain": "coveryourtracks.eff.org",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=coveryourtracks.eff.org",
+    "tested_at": "2026-09-30T20:16:28.183Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.460Z",
+  "trackers": {
+    "url": "https://coveryourtracks.eff.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:32.317Z"
+  }
+}

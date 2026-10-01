@@ -1,0 +1,26 @@
+name: Improve a translation
+description: A translated page is wrong, unclear or missing text.
+title: "Translation: "
+labels: [translation]
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options: [Arabic, Chinese, Czech, Danish, Dutch, Finnish, French, German, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnamese]
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      placeholder: https://privacyratings.com/de/vpns/
+    validations:
+      required: true
+  - type: textarea
+    id: text
+    attributes:
+      label: Current text and suggested text
+      description: Translations live in i18n/<language>/. Pull requests are welcome; see the Translations section of CONTRIBUTING.md.
+    validations:
+      required: true

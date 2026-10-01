@@ -1,0 +1,17 @@
+{
+  "domain": "joker.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=joker.com",
+    "tested_at": "2026-09-30T20:13:22.178Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.136Z",
+  "trackers": {
+    "url": "https://joker.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:57.408Z"
+  }
+}

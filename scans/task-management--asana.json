@@ -1,0 +1,27 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.184Z",
+  "trackers": {
+    "url": "https://asana.com",
+    "found": [
+      {
+        "name": "Google DoubleClick",
+        "host": "ad.doubleclick.net"
+      },
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:13.356Z"
+  }
+}

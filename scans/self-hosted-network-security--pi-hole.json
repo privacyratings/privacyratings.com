@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.417Z",
+  "trackers": {
+    "url": "https://pi-hole.net",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:12.864Z"
+  }
+}

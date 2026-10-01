@@ -1,0 +1,59 @@
+{
+  "domain": "posteo.de",
+  "mail": {
+    "dns": {
+      "domain": "posteo.de",
+      "dnssec": true,
+      "mx": [
+        "mx01.posteo.de",
+        "mx02.posteo.de",
+        "mx03.posteo.de",
+        "mx04.posteo.de"
+      ],
+      "spf": true,
+      "dmarc": "none",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": {
+          "host": "posteo.de",
+          "port": 465
+        },
+        "submission": null,
+        "imaps": {
+          "host": "posteo.de",
+          "port": 993
+        },
+        "imap": null,
+        "pop3s": {
+          "host": "posteo.de",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T05:26:43.150Z"
+  },
+  "mail_domain": "posteo.de",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=posteo.de",
+    "tested_at": "2026-09-30T20:19:28.360Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.480Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=posteo.de&hideResults=on",
+    "tested_at": "2026-09-29T18:00:19.344Z"
+  },
+  "trackers": {
+    "url": "https://posteo.de/en",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:46.309Z"
+  }
+}

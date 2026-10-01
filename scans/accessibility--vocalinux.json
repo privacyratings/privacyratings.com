@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.443Z",
+  "trackers": {
+    "url": "https://vocalinux.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:20.207Z"
+  }
+}

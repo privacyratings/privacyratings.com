@@ -1,0 +1,41 @@
+{
+  "domain": "twilio.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=twilio.com",
+    "tested_at": "2026-09-30T20:22:47.622Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.679Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 3,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=twilio.com&hideResults=on",
+    "tested_at": "2026-09-30T19:52:06.902Z"
+  },
+  "trackers": {
+    "url": "https://www.twilio.com/en-us",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Segment",
+        "host": "cdn.segment.com"
+      },
+      {
+        "name": "TrustArc",
+        "host": "consent.trustarc.com",
+        "soft": true
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:41.857Z"
+  }
+}

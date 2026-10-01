@@ -1,0 +1,20 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.013Z",
+  "trackers": {
+    "url": "https://screen.studio",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:32.346Z"
+  }
+}

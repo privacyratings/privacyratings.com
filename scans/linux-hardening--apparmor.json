@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.174Z",
+  "trackers": {
+    "url": "https://apparmor.net",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:08.432Z"
+  }
+}

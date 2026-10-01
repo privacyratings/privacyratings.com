@@ -1,0 +1,37 @@
+{
+  "domain": "miro.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=miro.com",
+    "tested_at": "2026-09-30T20:21:50.973Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.668Z",
+  "trackers": {
+    "url": "https://miro.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "YouTube embed",
+        "host": "www.youtube.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:38.574Z"
+  }
+}

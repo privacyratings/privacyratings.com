@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.613Z",
+  "trackers": {
+    "url": "https://starlight.astro.build",
+    "found": [
+      {
+        "name": "Fathom",
+        "host": "cdn.usefathom.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:25.554Z"
+  }
+}

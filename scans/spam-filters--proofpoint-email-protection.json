@@ -1,0 +1,26 @@
+{
+  "domain": "admin.proofpoint.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=admin.proofpoint.com",
+    "tested_at": "2026-09-30T20:20:30.687Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.495Z",
+  "trackers": {
+    "url": "https://www.proofpoint.com/us/products/email-protection",
+    "found": [
+      {
+        "name": "Google Ads",
+        "host": "www.googleadservices.com"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "googleads.g.doubleclick.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:52.125Z"
+  }
+}

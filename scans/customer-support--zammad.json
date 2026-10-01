@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.117Z",
+  "trackers": {
+    "url": "https://zammad.org",
+    "found": [
+      {
+        "name": "Matomo Cloud",
+        "host": "cdn.matomo.cloud",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:52.066Z"
+  }
+}

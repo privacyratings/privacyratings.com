@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.517Z",
+  "trackers": {
+    "url": "https://dolphin-emu.org",
+    "found": [
+      {
+        "name": "Google AdSense",
+        "host": "pagead2.googlesyndication.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:01.602Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "domain": "amiunique.org",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=amiunique.org",
+    "tested_at": "2026-09-30T20:16:22.336Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.459Z",
+  "trackers": {
+    "url": "https://amiunique.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:32.251Z"
+  }
+}

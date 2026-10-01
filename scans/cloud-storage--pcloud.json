@@ -1,0 +1,17 @@
+{
+  "domain": "my.pcloud.com",
+  "observatory": {
+    "grade": "F",
+    "score": 20,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.pcloud.com",
+    "tested_at": "2026-09-30T20:15:08.273Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.220Z",
+  "trackers": {
+    "url": "https://www.pcloud.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:24.518Z"
+  }
+}

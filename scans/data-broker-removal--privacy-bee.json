@@ -1,0 +1,17 @@
+{
+  "domain": "privacybee.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privacybee.com",
+    "tested_at": "2026-09-30T20:12:00.260Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.081Z",
+  "trackers": {
+    "url": "https://privacybee.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:46.317Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.044Z",
+  "trackers": {
+    "url": "https://www.getmailspring.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "X (Twitter) Pixel",
+        "host": "static.ads-twitter.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:36.364Z"
+  }
+}

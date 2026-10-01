@@ -1,0 +1,24 @@
+{
+  "domain": "www.tunnelbear.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.tunnelbear.com",
+    "tested_at": "2026-09-30T20:12:42.090Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.127Z",
+  "trackers": {
+    "url": "https://www.tunnelbear.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:52.960Z"
+  }
+}

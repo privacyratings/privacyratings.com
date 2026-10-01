@@ -1,0 +1,55 @@
+{
+  "domain": "kolabnow.com",
+  "mail": {
+    "dns": {
+      "domain": "kolabnow.com",
+      "dnssec": true,
+      "mx": [
+        "mx01.kolabnow.com",
+        "mx02.kolabnow.com",
+        "mx03.kolabnow.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "smtp.kolabnow.com",
+          "port": 587
+        },
+        "imaps": {
+          "host": "imap.kolabnow.com",
+          "port": 993
+        },
+        "imap": {
+          "host": "imap.kolabnow.com",
+          "port": 143
+        },
+        "pop3s": {
+          "host": "imap.kolabnow.com",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-09-30T05:26:34.312Z"
+  },
+  "mail_domain": "kolabnow.com",
+  "observatory": {
+    "grade": "D",
+    "score": 35,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kolabnow.com",
+    "tested_at": "2026-09-30T20:19:06.457Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "trackers": {
+    "url": "https://kolabnow.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:44.942Z"
+  }
+}

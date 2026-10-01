@@ -1,0 +1,35 @@
+{
+  "domain": "bitly.com",
+  "observatory": {
+    "grade": "F",
+    "score": 20,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitly.com",
+    "tested_at": "2026-09-30T20:15:35.020Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.266Z",
+  "trackers": {
+    "url": "https://bitly.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js-eu1.hs-scripts.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "Optimizely",
+        "host": "cdn.optimizely.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:30.140Z"
+  }
+}

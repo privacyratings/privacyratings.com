@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.326Z",
+  "trackers": {
+    "url": "https://www.gog.com/galaxy",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "YouTube embed",
+        "host": "www.youtube.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:49.705Z"
+  }
+}

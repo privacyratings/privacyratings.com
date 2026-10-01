@@ -1,0 +1,43 @@
+{
+  "domain": "smtp2go.com",
+  "observatory": {
+    "grade": "F",
+    "score": 20,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=smtp2go.com",
+    "tested_at": "2026-09-30T20:22:27.208Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.676Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=smtp2go.com&hideResults=on",
+    "tested_at": "2026-09-30T19:42:50.417Z"
+  },
+  "trackers": {
+    "url": "https://www.smtp2go.com",
+    "found": [
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Intercom",
+        "host": "widget.intercom.io",
+        "soft": true
+      },
+      {
+        "name": "Trustpilot",
+        "host": "widget.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:40.778Z"
+  }
+}

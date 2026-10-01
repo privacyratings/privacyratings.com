@@ -1,0 +1,19 @@
+- id: local_by_default
+  title: Saved locally by default
+  weight: 2
+  question: Are screenshots and recordings saved on the device unless you choose to upload them?
+  yes: Saved locally; uploading is optional.
+  partial: Saved locally, but some features upload automatically.
+  no: Recordings are uploaded to the vendor's cloud by default.
+  why: Screen recordings often capture passwords, messages and private documents.
+  verify: Link the documentation.
+
+- id: no_account_needed
+  title: No account needed
+  weight: 1
+  question: Can the app be used without an account?
+  yes: No account needed.
+  partial: Only some features need an account.
+  no: An account is required.
+  why: An account ties recordings to an identity.
+  verify: Link the documentation or sign-up page.

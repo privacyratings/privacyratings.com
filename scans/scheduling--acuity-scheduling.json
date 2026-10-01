@@ -1,0 +1,31 @@
+{
+  "domain": "secure.acuityscheduling.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.acuityscheduling.com",
+    "tested_at": "2026-09-30T20:21:54.603Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.669Z",
+  "trackers": {
+    "url": "https://acuityscheduling.com",
+    "found": [
+      {
+        "name": "Amplitude",
+        "host": "cdn.amplitude.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "TrustArc",
+        "host": "consent.trustarc.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:38.879Z"
+  }
+}

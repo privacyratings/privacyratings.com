@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.407Z",
+  "trackers": {
+    "url": "https://www.bunkerweb.io",
+    "found": [
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:11.680Z"
+  }
+}

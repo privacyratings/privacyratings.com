@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.555Z",
+  "trackers": {
+    "url": "https://superhuman.com/mail",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:07.276Z"
+  }
+}

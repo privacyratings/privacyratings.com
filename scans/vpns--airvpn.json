@@ -1,0 +1,17 @@
+{
+  "domain": "airvpn.org",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=airvpn.org",
+    "tested_at": "2026-09-30T20:21:23.156Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.582Z",
+  "trackers": {
+    "url": "https://airvpn.org",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:14.788Z"
+  }
+}

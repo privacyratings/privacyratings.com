@@ -1,0 +1,42 @@
+{
+  "domain": "bandwidth.com",
+  "observatory": {
+    "grade": "C+",
+    "score": 60,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bandwidth.com",
+    "tested_at": "2026-09-30T20:22:32.542Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.677Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bandwidth.com&hideResults=on",
+    "tested_at": "2026-09-30T19:47:20.446Z"
+  },
+  "trackers": {
+    "url": "https://www.bandwidth.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:41.722Z"
+  }
+}

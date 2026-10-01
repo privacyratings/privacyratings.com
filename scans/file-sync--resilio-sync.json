@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.191Z",
+  "trackers": {
+    "url": "https://www.resilio.com/sync/",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:16.720Z"
+  }
+}

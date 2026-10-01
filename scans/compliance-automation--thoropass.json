@@ -1,0 +1,31 @@
+{
+  "domain": "login.thoropass.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=login.thoropass.com",
+    "tested_at": "2026-09-30T20:21:03.538Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.504Z",
+  "trackers": {
+    "url": "https://www.thoropass.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hs-scripts.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:58.848Z"
+  }
+}

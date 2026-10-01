@@ -1,0 +1,23 @@
+{
+  "domain": "floorplanner.com",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=floorplanner.com",
+    "tested_at": "2026-09-30T20:10:52.045Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.032Z",
+  "trackers": {
+    "url": "https://floorplanner.com",
+    "found": [
+      {
+        "name": "Google reCAPTCHA",
+        "host": "recaptcha.net",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:34.500Z"
+  }
+}

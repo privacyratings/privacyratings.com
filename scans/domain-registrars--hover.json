@@ -1,0 +1,27 @@
+{
+  "domain": "www.hover.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hover.com",
+    "tested_at": "2026-09-30T20:13:19.469Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.135Z",
+  "trackers": {
+    "url": "https://www.hover.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:56.710Z"
+  }
+}

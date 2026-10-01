@@ -1,0 +1,17 @@
+{
+  "domain": "search.yahoo.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=search.yahoo.com",
+    "tested_at": "2026-09-30T20:11:41.386Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.058Z",
+  "trackers": {
+    "url": "https://search.yahoo.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:41.490Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.281Z",
+  "trackers": {
+    "url": "https://helloclue.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:33.370Z"
+  }
+}

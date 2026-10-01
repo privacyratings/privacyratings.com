@@ -1,0 +1,19 @@
+- id: no_account_needed
+  title: No account needed
+  weight: 2
+  question: Can apps be installed without an account?
+  yes: No account needed.
+  partial: Only for some apps.
+  no: An account is required.
+  why: An account links every installed app to an identity.
+  verify: Link the documentation.
+
+- id: tracker_info
+  title: Shows trackers and anti-features
+  weight: 1
+  question: Does the store show which apps contain trackers, ads or other anti-features?
+  yes: Shown for every app.
+  partial: Partly, for example self-reported privacy labels.
+  no: Not shown.
+  why: It helps people avoid apps that track them.
+  verify: Link an example listing or documentation.

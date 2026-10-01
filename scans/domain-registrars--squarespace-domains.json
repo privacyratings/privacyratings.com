@@ -1,0 +1,27 @@
+{
+  "domain": "domains.squarespace.com",
+  "observatory": {
+    "grade": "F",
+    "score": 0,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=domains.squarespace.com",
+    "tested_at": "2026-09-30T20:13:27.038Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.139Z",
+  "trackers": {
+    "url": "https://domains.squarespace.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "TrustArc",
+        "host": "consent.trustarc.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:57.269Z"
+  }
+}

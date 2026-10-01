@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 628" width="1040" height="628" role="img" aria-label="The privacyratings command-line tool showing rated alternatives to Gmail">
+<rect width="100%" height="100%" rx="10" fill="#0d1117"/>
+<circle cx="20" cy="18" r="6" fill="#ff5f57"/><circle cx="40" cy="18" r="6" fill="#febc2e"/><circle cx="60" cy="18" r="6" fill="#28c840"/>
+<text x="520" y="22" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8b949e">privacyratings</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14">
+<rect x="16.0" y="36.0" width="1008.0" height="18" fill="#0b6e66"/>
+<text x="24.4" y="49.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="142.8" lengthAdjust="spacingAndGlyphs">◆ Privacy Ratings</text>
+<text x="788.8" y="49.0" fill="#c9f2ec" xml:space="preserve" textLength="226.8" lengthAdjust="spacingAndGlyphs">1468 rated · 120 categories</text>
+<text x="24.4" y="85.0" fill="#3fd4c1" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">›</text>
+<text x="32.8" y="85.0" fill="#c9d1d9" xml:space="preserve" textLength="991.2" lengthAdjust="spacingAndGlyphs">gmail alternatives                                                                                                    </text>
+<text x="24.4" y="103.0" fill="#8b949e" xml:space="preserve" textLength="420.0" lengthAdjust="spacingAndGlyphs">15 rated alternatives to Gmail. ★ marks our picks.</text>
+<rect x="24.4" y="126.0" width="25.2" height="18" fill="#3f6e1c"/>
+<text x="24.4" y="139.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">B</text>
+<text x="49.6" y="139.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">88</text>
+<text x="66.4" y="139.0" fill="#c9d1d9" xml:space="preserve" textLength="252.0" lengthAdjust="spacingAndGlyphs">   Forward Email              </text>
+<text x="318.4" y="139.0" fill="#e3b341" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">★</text>
+<text x="343.6" y="139.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="139.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="139.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="92.4" lengthAdjust="spacingAndGlyphs">Proton Mail</text>
+<rect x="16.0" y="144.0" width="8.4" height="18" fill="#1d3b38"/>
+<rect x="24.4" y="144.0" width="25.2" height="18" fill="#875500"/>
+<rect x="49.6" y="144.0" width="487.2" height="18" fill="#1d3b38"/>
+<text x="24.4" y="157.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">C</text>
+<text x="49.6" y="157.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">73</text>
+<text x="91.6" y="157.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="92.4" lengthAdjust="spacingAndGlyphs">Proton Mail</text>
+<text x="343.6" y="157.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="157.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="157.0" fill="#8b949e" xml:space="preserve" textLength="243.6" lengthAdjust="spacingAndGlyphs">Email providers · Switzerland</text>
+<rect x="24.4" y="162.0" width="25.2" height="18" fill="#875500"/>
+<text x="24.4" y="175.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">C</text>
+<text x="49.6" y="175.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">72</text>
+<text x="66.4" y="175.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Tuta                          </text>
+<text x="343.6" y="175.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="175.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<rect x="24.4" y="180.0" width="25.2" height="18" fill="#875500"/>
+<rect x="562.0" y="180.0" width="25.2" height="18" fill="#875500"/>
+<text x="24.4" y="193.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">C</text>
+<text x="49.6" y="193.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">69</text>
+<text x="66.4" y="193.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   mailbox.org                   </text>
+<text x="343.6" y="193.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="193.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="193.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">C  </text>
+<text x="587.2" y="193.0" fill="#c9d1d9" font-weight="700" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs"> 73/100</text>
+<rect x="24.4" y="198.0" width="25.2" height="18" fill="#875500"/>
+<text x="24.4" y="211.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">C</text>
+<text x="49.6" y="211.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">69</text>
+<text x="66.4" y="211.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   StartMail                     </text>
+<text x="343.6" y="211.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="211.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<rect x="24.4" y="216.0" width="25.2" height="18" fill="#875500"/>
+<text x="24.4" y="229.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">C</text>
+<text x="49.6" y="229.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">60</text>
+<text x="66.4" y="229.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   CounterMail                   </text>
+<text x="343.6" y="229.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="229.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="545.2" y="229.0" fill="#c9d1d9" xml:space="preserve" textLength="478.8" lengthAdjust="spacingAndGlyphs">  End-to-end encrypted email service from Switzerland,   </text>
+<rect x="24.4" y="234.0" width="25.2" height="18" fill="#a63f0b"/>
+<text x="24.4" y="247.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">D</text>
+<text x="49.6" y="247.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">59</text>
+<text x="66.4" y="247.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Posteo                        </text>
+<text x="343.6" y="247.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="247.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="545.2" y="247.0" fill="#c9d1d9" xml:space="preserve" textLength="478.8" lengthAdjust="spacingAndGlyphs">  with apps for web, Android, iOS and desktop.           </text>
+<rect x="24.4" y="252.0" width="25.2" height="18" fill="#a63f0b"/>
+<text x="24.4" y="265.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">D</text>
+<text x="49.6" y="265.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">57</text>
+<text x="66.4" y="265.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Kolab Now                     </text>
+<text x="343.6" y="265.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="265.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<rect x="24.4" y="270.0" width="25.2" height="18" fill="#a63f0b"/>
+<text x="24.4" y="283.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">D</text>
+<text x="49.6" y="283.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">56</text>
+<text x="66.4" y="283.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Disroot                       </text>
+<text x="343.6" y="283.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="283.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="283.0" fill="#3fd4c1" font-weight="700" xml:space="preserve" textLength="67.2" lengthAdjust="spacingAndGlyphs">Criteria</text>
+<rect x="24.4" y="288.0" width="25.2" height="18" fill="#a63f0b"/>
+<text x="24.4" y="301.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">D</text>
+<text x="49.6" y="301.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">50</text>
+<text x="66.4" y="301.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Mailfence                     </text>
+<text x="343.6" y="301.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="301.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="301.0" fill="#3fb950" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✔</text>
+<text x="570.4" y="301.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> No ads or data sales                                 </text>
+<rect x="24.4" y="306.0" width="25.2" height="18" fill="#a63f0b"/>
+<text x="24.4" y="319.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">D</text>
+<text x="49.6" y="319.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">50</text>
+<text x="66.4" y="319.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Purelymail                    </text>
+<text x="343.6" y="319.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="319.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="319.0" fill="#3fb950" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✔</text>
+<text x="570.4" y="319.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Transparency report                                  </text>
+<rect x="24.4" y="324.0" width="25.2" height="18" fill="#a63f0b"/>
+<text x="24.4" y="337.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">D</text>
+<text x="49.6" y="337.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">50</text>
+<text x="66.4" y="337.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Riseup                        </text>
+<text x="343.6" y="337.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="337.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="337.0" fill="#3fb950" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✔</text>
+<text x="570.4" y="337.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Tells users about requests                           </text>
+<rect x="24.4" y="342.0" width="25.2" height="18" fill="#a63f0b"/>
+<text x="24.4" y="355.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">D</text>
+<text x="49.6" y="355.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">47</text>
+<text x="66.4" y="355.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Infomaniak Mail               </text>
+<text x="343.6" y="355.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="355.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="355.0" fill="#3fb950" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✔</text>
+<text x="570.4" y="355.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> TLS configuration                                    </text>
+<rect x="24.4" y="360.0" width="25.2" height="18" fill="#a63f0b"/>
+<text x="24.4" y="373.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">D</text>
+<text x="49.6" y="373.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">45</text>
+<text x="66.4" y="373.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Fastmail                      </text>
+<text x="343.6" y="373.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="373.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="373.0" fill="#3fb950" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✔</text>
+<text x="570.4" y="373.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> End-to-end encryption                                </text>
+<rect x="24.4" y="378.0" width="25.2" height="18" fill="#a63f0b"/>
+<text x="24.4" y="391.0" fill="#ffffff" font-weight="700" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">D</text>
+<text x="49.6" y="391.0" fill="#8b949e" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">43</text>
+<text x="66.4" y="391.0" fill="#c9d1d9" xml:space="preserve" textLength="277.2" lengthAdjust="spacingAndGlyphs">   Runbox                        </text>
+<text x="343.6" y="391.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs">Email providers</text>
+<text x="536.8" y="391.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="391.0" fill="#3fb950" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✔</text>
+<text x="570.4" y="391.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Encrypted mailbox storage                            </text>
+<text x="536.8" y="409.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="409.0" fill="#3fb950" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✔</text>
+<text x="570.4" y="409.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Custom domains                                       </text>
+<text x="536.8" y="427.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="427.0" fill="#3fb950" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✔</text>
+<text x="570.4" y="427.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Mail transport security                              </text>
+<text x="536.8" y="445.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="445.0" fill="#d29922" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">◐</text>
+<text x="570.4" y="445.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Open source                                          </text>
+<text x="536.8" y="463.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="463.0" fill="#d29922" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">◐</text>
+<text x="570.4" y="463.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> No trackers or telemetry                             </text>
+<text x="536.8" y="481.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="481.0" fill="#d29922" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">◐</text>
+<text x="570.4" y="481.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Independent audit                                    </text>
+<text x="536.8" y="499.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="499.0" fill="#d29922" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">◐</text>
+<text x="570.4" y="499.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Security headers                                     </text>
+<text x="536.8" y="517.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="517.0" fill="#d29922" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">◐</text>
+<text x="570.4" y="517.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Open protocols                                       </text>
+<text x="536.8" y="535.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="535.0" fill="#d29922" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">◐</text>
+<text x="570.4" y="535.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Sign up without personal data                        </text>
+<text x="536.8" y="553.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="553.0" fill="#f85149" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✖</text>
+<text x="570.4" y="553.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Sender Rewriting Scheme                              </text>
+<text x="536.8" y="571.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="571.0" fill="#f85149" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">✖</text>
+<text x="570.4" y="571.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> ARC sealing                                          </text>
+<text x="536.8" y="589.0" fill="#30363d" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+<text x="562.0" y="589.0" fill="#8b949e" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">…</text>
+<text x="570.4" y="589.0" fill="#c9d1d9" xml:space="preserve" textLength="453.6" lengthAdjust="spacingAndGlyphs"> Modern web standards                                 </text>
+<rect x="16.0" y="594.0" width="1008.0" height="18" fill="#161b22"/>
+<text x="24.4" y="607.0" fill="#c9d1d9" font-weight="700" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">↑↓</text>
+<text x="41.2" y="607.0" fill="#8b949e" xml:space="preserve" textLength="67.2" lengthAdjust="spacingAndGlyphs"> move · </text>
+<text x="108.4" y="607.0" fill="#c9d1d9" font-weight="700" xml:space="preserve" textLength="42.0" lengthAdjust="spacingAndGlyphs">Enter</text>
+<text x="150.4" y="607.0" fill="#8b949e" xml:space="preserve" textLength="126.0" lengthAdjust="spacingAndGlyphs"> full rating · </text>
+<text x="276.4" y="607.0" fill="#c9d1d9" font-weight="700" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">Tab</text>
+<text x="301.6" y="607.0" fill="#8b949e" xml:space="preserve" textLength="117.6" lengthAdjust="spacingAndGlyphs"> picks only · </text>
+<text x="419.2" y="607.0" fill="#c9d1d9" font-weight="700" xml:space="preserve" textLength="50.4" lengthAdjust="spacingAndGlyphs">Ctrl+O</text>
+<text x="469.6" y="607.0" fill="#8b949e" xml:space="preserve" textLength="159.6" lengthAdjust="spacingAndGlyphs"> open in browser · </text>
+<text x="629.2" y="607.0" fill="#c9d1d9" font-weight="700" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">Esc</text>
+<text x="654.4" y="607.0" fill="#8b949e" xml:space="preserve" textLength="42.0" lengthAdjust="spacingAndGlyphs"> quit</text>
+</g></svg>

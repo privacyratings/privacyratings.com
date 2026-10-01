@@ -1,0 +1,17 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.531Z",
+  "trackers": {
+    "url": "https://www.gatsbyjs.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Segment",
+        "host": "cdn.segment.io"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:03.765Z"
+  }
+}

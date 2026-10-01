@@ -1,0 +1,17 @@
+{
+  "domain": "www.blocked.org.uk",
+  "observatory": {
+    "grade": "F",
+    "score": 0,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.blocked.org.uk",
+    "tested_at": "2026-09-30T20:16:25.585Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.460Z",
+  "trackers": {
+    "url": "https://www.blocked.org.uk",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:32.611Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "domain": "app.scrut.io",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.scrut.io",
+    "tested_at": "2026-09-30T20:22:29.294Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.676Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.scrut.io&hideResults=on",
+    "tested_at": "2026-09-30T19:45:10.179Z"
+  },
+  "trackers": {
+    "url": "https://www.scrut.io",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "HubSpot",
+        "host": "js.hsforms.net"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:41.274Z"
+  }
+}

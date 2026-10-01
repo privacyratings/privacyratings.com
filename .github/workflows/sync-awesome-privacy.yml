@@ -1,0 +1,64 @@
+name: Sync Awesome Privacy
+
+# Once a month, adds new entries from Awesome Privacy and opens a pull request for review.
+# Existing ratings are never changed. If Awesome Privacy is down, blocked or returns a broken file,
+# the import uses the snapshot in vendor/awesome-privacy/ and the workflow still succeeds. Needs "Allow GitHub Actions to create and approve pull requests"
+# in Settings › Actions › General.
+#
+# Pull requests opened with the workflow token do not start other workflows, so Test and
+# Lighthouse do not run on them by themselves: `npm test` below covers the data, and closing and
+# reopening the pull request (or pushing to it) starts the checks.
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: sync-awesome-privacy
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write # pushes the sync branch
+      pull-requests: write
+    steps:
+      # The token is not stored in .git/config: the import and the build run without push access.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npm run import
+      - run: npm test
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: sync-awesome-privacy-${{ github.run_id }}
+          BASE: ${{ github.event.repository.default_branch }}
+        run: |
+          if [ -z "$(git status --porcelain -- ratings vendor)" ]; then echo "Nothing new."; exit 0; fi
+          # Credentials for this step's git commands only (the same header actions/checkout uses).
+          basic=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
+          echo "::add-mask::$basic"
+          GIT_CONFIG_VALUE_0="AUTHORIZATION: basic $basic"
+          export GIT_CONFIG_COUNT=1 GIT_CONFIG_KEY_0=http.https://github.com/.extraheader GIT_CONFIG_VALUE_0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          # Only what the import writes: new rating files and the vendor snapshot.
+          git add -- 'ratings/*.md' 'vendor/awesome-privacy/*'
+          git commit -m "Add new entries from Awesome Privacy"
+          git push origin "$BRANCH"
+          gh pr create --title "Add new entries from Awesome Privacy" \
+            --body "New entries found in Awesome Privacy, and a refreshed snapshot in vendor/awesome-privacy/. Review descriptions, categories and duplicates before merging, and add anything left out on purpose to import-skip.yml. Existing ratings are unchanged." \
+            --base "$BASE" --head "$BRANCH"

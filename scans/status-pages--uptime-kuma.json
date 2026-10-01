@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.406Z",
+  "trackers": {
+    "url": "https://uptime.kuma.pet",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:09.737Z"
+  }
+}

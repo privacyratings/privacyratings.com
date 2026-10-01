@@ -1,0 +1,23 @@
+{
+  "domain": "doyensec.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 100,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=doyensec.com",
+    "tested_at": "2026-09-30T20:20:42.092Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.500Z",
+  "trackers": {
+    "url": "https://doyensec.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:55.527Z"
+  }
+}

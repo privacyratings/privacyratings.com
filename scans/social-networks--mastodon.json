@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.449Z",
+  "trackers": {
+    "url": "https://joinmastodon.org",
+    "found": [
+      {
+        "name": "Simple Analytics",
+        "host": "scripts.simpleanalyticscdn.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:24.289Z"
+  }
+}

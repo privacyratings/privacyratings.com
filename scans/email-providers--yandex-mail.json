@@ -1,0 +1,52 @@
+{
+  "domain": "mail.yandex.com",
+  "mail": {
+    "dns": {
+      "domain": "yandex.com",
+      "dnssec": false,
+      "mx": [
+        "mx.yandex.ru"
+      ],
+      "spf": true,
+      "dmarc": "none",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "smtp.yandex.ru",
+          "port": 587
+        },
+        "imaps": {
+          "host": "imap.yandex.ru",
+          "port": 993
+        },
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T20:34:26.076Z"
+  },
+  "mail_domain": "yandex.com",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yandex.com",
+    "tested_at": "2026-09-30T20:19:54.298Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.486Z",
+  "trackers": {
+    "url": "https://360.yandex.com/mail/",
+    "found": [
+      {
+        "name": "Yandex",
+        "host": "yastatic.net"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:49.489Z"
+  }
+}

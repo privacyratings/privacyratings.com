@@ -1,0 +1,22 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.317Z",
+  "trackers": {
+    "url": "https://www.google.com/photos/about/",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:47.392Z"
+  }
+}

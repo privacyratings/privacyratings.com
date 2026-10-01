@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.052Z",
+  "trackers": {
+    "url": "https://browser.samsung.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:39.497Z"
+  }
+}

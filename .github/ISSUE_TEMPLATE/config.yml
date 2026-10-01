@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/privacyratings/privacyratings.com/security/advisories/new
+    about: Report security problems privately, never in a public issue. See SECURITY.md.
+  - name: Questions and ideas
+    url: https://github.com/privacyratings/privacyratings.com/discussions
+    about: Ask questions, debate picks and share ideas in GitHub Discussions.
+  - name: Community on Reddit
+    url: https://www.reddit.com/r/privacyratings/
+    about: Discuss ratings with the community on r/privacyratings.

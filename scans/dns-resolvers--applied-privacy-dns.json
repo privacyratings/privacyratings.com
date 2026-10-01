@@ -1,0 +1,17 @@
+{
+  "domain": "applied-privacy.net",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=applied-privacy.net",
+    "tested_at": "2026-09-30T20:12:42.844Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.128Z",
+  "trackers": {
+    "url": "https://applied-privacy.net/services/dns/",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:53.742Z"
+  }
+}

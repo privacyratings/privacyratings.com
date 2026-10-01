@@ -1,0 +1,17 @@
+{
+  "domain": "write.as",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=write.as",
+    "tested_at": "2026-09-30T20:15:47.819Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.303Z",
+  "trackers": {
+    "url": "https://write.as",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:43.890Z"
+  }
+}

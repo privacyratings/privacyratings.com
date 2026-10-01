@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.251Z",
+  "trackers": {
+    "url": "https://iterm2.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:28.196Z"
+  }
+}

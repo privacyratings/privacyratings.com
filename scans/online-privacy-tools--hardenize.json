@@ -1,0 +1,17 @@
+{
+  "domain": "www.hardenize.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 115,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hardenize.com",
+    "tested_at": "2026-09-30T20:16:29.292Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.460Z",
+  "trackers": {
+    "url": "https://www.hardenize.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:32.678Z"
+  }
+}

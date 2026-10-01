@@ -1,0 +1,16 @@
+{
+  "domain": "www.startpage.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startpage.com",
+    "tested_at": "2026-09-30T20:15:56.225Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.454Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:40:27.098Z"
+  }
+}

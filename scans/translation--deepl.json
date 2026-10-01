@@ -1,0 +1,17 @@
+{
+  "domain": "www.deepl.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.deepl.com",
+    "tested_at": "2026-09-30T20:21:42.005Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.588Z",
+  "trackers": {
+    "url": "https://www.deepl.com/en",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:17.641Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.419Z",
+  "trackers": {
+    "url": "https://zeek.org/",
+    "found": [
+      {
+        "name": "WordPress.com Stats",
+        "host": "stats.wp.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:13.331Z"
+  }
+}

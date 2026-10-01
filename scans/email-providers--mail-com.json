@@ -1,0 +1,47 @@
+{
+  "domain": "www.mail.com",
+  "mail": {
+    "dns": {
+      "domain": "mail.com",
+      "dnssec": true,
+      "mx": [
+        "mx00.mail.com",
+        "mx01.mail.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": true,
+      "mta_sts": "testing",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T20:32:52.690Z"
+  },
+  "mail_domain": "mail.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mail.com",
+    "tested_at": "2026-09-30T20:19:51.511Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.485Z",
+  "trackers": {
+    "url": "https://www.mail.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:47.842Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+ "Android": "Android",
+ "Chromium": "Chromium",
+ "Docker": "Docker",
+ "Firefox": "Firefox",
+ "GitHub": "GitHub",
+ "Linux": "Linux",
+ "iOS": "iOS",
+ "macOS": "macOS",
+ "Web": "网页",
+ "Browser extension": "浏览器扩展",
+ "Search could not be loaded. Check your connection and try again.": "无法加载搜索。请检查网络连接后重试。"
+}

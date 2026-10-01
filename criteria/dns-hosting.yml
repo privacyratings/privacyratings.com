@@ -1,0 +1,29 @@
+- id: dnssec
+  title: DNSSEC
+  weight: 3
+  question: Can DNSSEC be turned on for hosted zones?
+  yes: One click or automatic.
+  partial: Supported with manual steps.
+  no: Not supported.
+  why: DNSSEC stops attackers from forging a domain's records.
+  verify: Link the documentation.
+
+- id: api_access
+  title: API access
+  weight: 1
+  question: Can records be managed through an API on every plan?
+  yes: Yes, on every plan.
+  partial: Only on paid plans.
+  no: No API.
+  why: An API makes automation and migrations possible.
+  verify: Link the API documentation.
+
+- id: two_factor
+  title: Two-factor login
+  weight: 2
+  question: Do accounts support two-factor authentication with an authenticator app or security key?
+  yes: TOTP or security keys.
+  partial: SMS only.
+  no: No two-factor login.
+  why: A hijacked DNS account can redirect all mail and web traffic.
+  verify: Link the documentation.

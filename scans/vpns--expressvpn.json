@@ -1,0 +1,27 @@
+{
+  "domain": "www.expressvpn.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.expressvpn.com",
+    "tested_at": "2026-09-30T20:12:20.361Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.121Z",
+  "trackers": {
+    "url": "https://www.expressvpn.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:52.322Z"
+  }
+}

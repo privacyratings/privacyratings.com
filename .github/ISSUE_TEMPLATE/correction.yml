@@ -1,0 +1,36 @@
+name: Report a correction
+description: An answer, link or description is wrong or out of date.
+title: "Correction: "
+labels: [correction]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Rating page or file
+      placeholder: https://privacyratings.com/vpns/example/ or ratings/vpns/example.md
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      description: Which criterion or field, and what it should say instead.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Primary sources only, such as documentation, source code, license files or audit reports.
+    validations:
+      required: true
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Are you connected to this app or service?
+      options:
+        - "No"
+        - "Yes, I work for it or am paid by it"
+        - "Yes, another connection (explain above)"
+    validations:
+      required: true

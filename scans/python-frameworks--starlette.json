@@ -1,0 +1,24 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.641Z",
+  "trackers": {
+    "url": "https://starlette.dev",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:29.867Z"
+  }
+}

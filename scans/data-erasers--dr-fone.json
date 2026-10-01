@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.401Z",
+  "trackers": {
+    "url": "https://drfone.wondershare.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:05.538Z"
+  }
+}

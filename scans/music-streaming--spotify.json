@@ -1,0 +1,23 @@
+{
+  "domain": "open.spotify.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=open.spotify.com",
+    "tested_at": "2026-09-30T20:21:47.506Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.594Z",
+  "trackers": {
+    "url": "https://open.spotify.com/",
+    "found": [
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:20.124Z"
+  }
+}

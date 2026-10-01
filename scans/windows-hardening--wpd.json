@@ -1,0 +1,14 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.438Z",
+  "trackers": {
+    "url": "https://wpd.app",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:16.870Z"
+  }
+}

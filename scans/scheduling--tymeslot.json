@@ -1,0 +1,17 @@
+{
+  "domain": "tymeslot.app",
+  "observatory": {
+    "grade": "A+",
+    "score": 120,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tymeslot.app",
+    "tested_at": "2026-09-30T20:17:49.956Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.470Z",
+  "trackers": {
+    "url": "https://tymeslot.app",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:41.164Z"
+  }
+}

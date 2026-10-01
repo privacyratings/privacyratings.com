@@ -1,0 +1,22 @@
+{
+  "domain": "app.fireflies.ai",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.fireflies.ai",
+    "tested_at": "2026-09-30T20:10:47.174Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.023Z",
+  "trackers": {
+    "url": "https://fireflies.ai",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:33.082Z"
+  }
+}

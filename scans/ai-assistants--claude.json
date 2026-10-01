@@ -1,0 +1,16 @@
+{
+  "domain": "claude.ai",
+  "observatory": {
+    "grade": "C+",
+    "score": 60,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=claude.ai",
+    "tested_at": "2026-09-30T20:14:07.428Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.207Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:39:22.286Z"
+  }
+}

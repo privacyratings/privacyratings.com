@@ -1,0 +1,17 @@
+{
+  "domain": "www.tldraw.com",
+  "observatory": {
+    "grade": "C+",
+    "score": 60,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.tldraw.com",
+    "tested_at": "2026-09-30T20:21:53.214Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.669Z",
+  "trackers": {
+    "url": "https://www.tldraw.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:38.459Z"
+  }
+}

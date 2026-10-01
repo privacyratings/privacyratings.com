@@ -1,0 +1,13 @@
+{
+ "Android": "Android",
+ "Chromium": "Chromium",
+ "Docker": "Docker",
+ "Firefox": "Firefox",
+ "GitHub": "GitHub",
+ "Linux": "Linux",
+ "iOS": "iOS",
+ "macOS": "macOS",
+ "Web": "Web",
+ "Browser extension": "Tiện ích trình duyệt",
+ "Search could not be loaded. Check your connection and try again.": "Không tải được tìm kiếm. Hãy kiểm tra kết nối rồi thử lại."
+}

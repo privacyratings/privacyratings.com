@@ -1,0 +1,51 @@
+{
+  "domain": "mailbox.org",
+  "mail": {
+    "dns": {
+      "domain": "mailbox.org",
+      "dnssec": true,
+      "mx": [
+        "mx1.mailbox.org",
+        "mx2.mailbox.org",
+        "mx3.mailbox.org",
+        "mx4.mailbox.org",
+        "mx-n.mailbox.org"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:38.670Z"
+  },
+  "mail_domain": "mailbox.org",
+  "observatory": {
+    "grade": "A+",
+    "score": 115,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailbox.org",
+    "tested_at": "2026-09-30T20:21:14.129Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.572Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailbox.org&hideResults=on",
+    "tested_at": "2026-09-29T18:00:19.041Z"
+  },
+  "trackers": {
+    "url": "https://mailbox.org/en/",
+    "found": [],
+    "tested_at": "2026-09-30T20:41:10.558Z"
+  }
+}

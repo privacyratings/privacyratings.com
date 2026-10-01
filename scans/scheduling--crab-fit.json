@@ -1,0 +1,17 @@
+{
+  "domain": "crab.fit",
+  "observatory": {
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=crab.fit",
+    "tested_at": "2026-09-30T20:13:42.694Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.183Z",
+  "trackers": {
+    "url": "https://crab.fit",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:13.438Z"
+  }
+}

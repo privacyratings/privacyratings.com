@@ -1,0 +1,41 @@
+{
+  "domain": "mail.aol.com",
+  "mail": {
+    "dns": {
+      "domain": "aol.com",
+      "dnssec": false,
+      "mx": [
+        "mx-aol.mail.gm0.yahoodns.net"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T20:31:21.230Z"
+  },
+  "mail_domain": "aol.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.aol.com",
+    "tested_at": "2026-09-30T20:19:47.483Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.483Z",
+  "trackers": {
+    "url": "https://mail.aol.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:47.715Z"
+  }
+}

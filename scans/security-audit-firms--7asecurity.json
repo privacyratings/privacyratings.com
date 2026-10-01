@@ -1,0 +1,35 @@
+{
+  "domain": "7asecurity.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=7asecurity.com",
+    "tested_at": "2026-09-30T20:20:35.177Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.499Z",
+  "trackers": {
+    "url": "https://7asecurity.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Yandex Metrica",
+        "host": "mc.yandex.ru"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:54.827Z"
+  }
+}

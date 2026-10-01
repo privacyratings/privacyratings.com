@@ -1,0 +1,18 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.440Z",
+  "trackers": {
+    "url": "https://joplinapp.org",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:17.960Z"
+  }
+}

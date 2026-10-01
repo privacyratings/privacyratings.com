@@ -1,0 +1,13 @@
+{
+ "Android": "Android",
+ "Chromium": "Chromium",
+ "Docker": "Docker",
+ "Firefox": "Firefox",
+ "GitHub": "GitHub",
+ "Linux": "Linux",
+ "iOS": "iOS",
+ "macOS": "macOS",
+ "Web": "Web",
+ "Browser extension": "ブラウザ拡張機能",
+ "Search could not be loaded. Check your connection and try again.": "検索を読み込めませんでした。接続を確認して、もう一度お試しください。"
+}

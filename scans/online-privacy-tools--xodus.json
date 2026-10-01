@@ -1,0 +1,17 @@
+{
+  "domain": "reports.exodus-privacy.eu.org",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=reports.exodus-privacy.eu.org",
+    "tested_at": "2026-09-30T20:18:51.065Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.475Z",
+  "trackers": {
+    "url": "https://reports.exodus-privacy.eu.org/en/",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:43.418Z"
+  }
+}

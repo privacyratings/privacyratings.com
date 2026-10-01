@@ -1,0 +1,22 @@
+{
+  "domain": "www.mozilla.org",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mozilla.org",
+    "tested_at": "2026-09-30T20:12:22.915Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.123Z",
+  "trackers": {
+    "url": "https://www.mozilla.org/en-US/products/vpn/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-09-30T20:38:52.526Z"
+  }
+}

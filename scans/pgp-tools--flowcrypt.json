@@ -1,0 +1,13 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.393Z",
+  "trackers": {
+    "url": "https://flowcrypt.com",
+    "found": [
+      {
+        "name": "Mouseflow",
+        "host": "cdn.mouseflow.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:02.666Z"
+  }
+}

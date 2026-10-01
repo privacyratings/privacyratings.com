@@ -1,0 +1,16 @@
+{
+  "domain": "dartnode.com",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dartnode.com",
+    "tested_at": "2026-09-30T20:17:39.240Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.468Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:40:39.651Z"
+  }
+}

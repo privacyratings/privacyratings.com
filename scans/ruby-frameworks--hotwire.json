@@ -1,0 +1,15 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.644Z",
+  "trackers": {
+    "url": "https://hotwired.dev",
+    "found": [
+      {
+        "name": "Plausible",
+        "host": "plausible.io",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:30.345Z"
+  }
+}

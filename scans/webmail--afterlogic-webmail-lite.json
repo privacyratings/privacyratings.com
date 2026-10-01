@@ -1,0 +1,26 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.486Z",
+  "trackers": {
+    "url": "https://afterlogic.org/webmail-lite",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google DoubleClick",
+        "host": "googleads.g.doubleclick.net"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:40:48.519Z"
+  }
+}

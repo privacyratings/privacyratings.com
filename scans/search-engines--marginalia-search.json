@@ -1,0 +1,17 @@
+{
+  "domain": "marginalia-search.com",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=marginalia-search.com",
+    "tested_at": "2026-09-30T20:11:03.851Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.057Z",
+  "trackers": {
+    "url": "https://marginalia-search.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:38:40.922Z"
+  }
+}

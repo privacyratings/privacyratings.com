@@ -1,0 +1,16 @@
+{
+  "domain": "www.revolut.com",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.revolut.com",
+    "tested_at": "2026-09-30T20:15:40.464Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.291Z",
+  "trackers": {
+    "error": "HTTP 403",
+    "tested_at": "2026-09-30T20:39:37.161Z"
+  }
+}

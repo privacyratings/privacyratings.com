@@ -1,0 +1,17 @@
+{
+  "domain": "sitereport.netcraft.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sitereport.netcraft.com",
+    "tested_at": "2026-09-30T20:16:38.061Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.462Z",
+  "trackers": {
+    "url": "https://sitereport.netcraft.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:35.028Z"
+  }
+}

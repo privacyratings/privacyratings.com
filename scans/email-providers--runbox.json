@@ -1,0 +1,46 @@
+{
+  "domain": "runbox.com",
+  "mail": {
+    "dns": {
+      "domain": "runbox.com",
+      "dnssec": true,
+      "mx": [
+        "mx.runbox.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": true,
+      "mta_sts": "testing",
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-09-30T05:26:46.714Z"
+  },
+  "mail_domain": "runbox.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=runbox.com",
+    "tested_at": "2026-09-30T20:19:33.016Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.481Z",
+  "ssllabs": {
+    "error": "No endpoint could be graded",
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=runbox.com&hideResults=on",
+    "tested_at": "2026-09-29T18:02:58.749Z"
+  },
+  "trackers": {
+    "url": "https://runbox.com",
+    "found": [],
+    "tested_at": "2026-09-30T20:40:47.024Z"
+  }
+}

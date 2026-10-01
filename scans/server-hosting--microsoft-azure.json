@@ -1,0 +1,17 @@
+{
+  "domain": "portal.azure.com",
+  "observatory": {
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.azure.com",
+    "tested_at": "2026-09-30T20:13:33.135Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.141Z",
+  "trackers": {
+    "url": "https://azure.microsoft.com/en-us",
+    "found": [],
+    "tested_at": "2026-09-30T20:39:07.005Z"
+  }
+}

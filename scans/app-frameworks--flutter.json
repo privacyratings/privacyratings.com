@@ -1,0 +1,23 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.620Z",
+  "trackers": {
+    "url": "https://flutter.dev",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:26.235Z"
+  }
+}

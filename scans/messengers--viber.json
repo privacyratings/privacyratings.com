@@ -1,0 +1,27 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.581Z",
+  "trackers": {
+    "url": "https://www.viber.com/en/",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Mixpanel",
+        "host": "inline code"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:14.157Z"
+  }
+}

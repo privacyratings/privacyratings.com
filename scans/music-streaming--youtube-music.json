@@ -1,0 +1,27 @@
+{
+  "domain": "music.youtube.com",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.youtube.com",
+    "tested_at": "2026-09-30T20:15:44.868Z"
+  },
+  "scanned_at": "2026-09-30T20:41:47.302Z",
+  "trackers": {
+    "url": "https://music.youtube.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-09-30T20:39:43.558Z"
+  }
+}

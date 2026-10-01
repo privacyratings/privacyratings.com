@@ -1,0 +1,1059 @@
+# Categories shown on the site, grouped and in this order.
+#
+# id           Folder name under ratings/ and the page URL. Never rename once published.
+# type         app     = software people install. No automated server tests.
+#              service = hosted service. Entries with a `domain` get automated tests.
+# scans        Automated tests for entries in this category (see scripts/scan.js):
+#              ssllabs, observatory, internetnl-web, internetnl-mail, hardenize
+# seo_title    Optional <title> for the category page. h1: optional page heading.
+# awesome      Section names in Awesome Privacy that import into this category.
+
+- group: Email
+  categories:
+    - id: email-providers
+      name: Email providers
+      seo_title: "Private email providers: privacy ratings compared"
+      h1: Email provider privacy ratings
+      type: service
+      description: Hosted email services. Where mail is stored, and who can read it.
+      scans: [ssllabs, observatory, internetnl-web, internetnl-mail, mail, hardenize]
+      awesome: [Encrypted Email]
+    - id: email-forwarding
+      name: Email forwarding and aliases
+      seo_title: "Email alias and forwarding privacy ratings compared"
+      h1: Email alias and forwarding privacy ratings
+      type: service
+      description: Services that hide a real address behind aliases or forward mail to another inbox.
+      scans: [ssllabs, observatory, internetnl-web, internetnl-mail, mail, hardenize]
+      awesome: [Mail Forwarding]
+    - id: email-clients
+      name: Email clients
+      seo_title: "Email client privacy ratings compared"
+      h1: Email client privacy ratings
+      type: app
+      description: Apps for reading and sending email from any provider.
+      awesome: [Email Clients]
+    - id: webmail
+      name: Webmail
+      type: service
+      description: Email clients that run in the browser, hosted or self-hosted.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: Private and open-source webmail compared
+      h1: Webmail privacy ratings
+    - id: email-security-tools
+      name: Email security tools
+      type: app
+      description: Tools that check or improve the privacy of email.
+      awesome: [Email Security Tools]
+      seo_title: Email security and privacy tools compared
+      h1: Email security tool privacy ratings
+    - id: spam-filters
+      name: Spam and virus filtering
+      type: service
+      description: Spam filters, email virus scanners and email security gateways, self-hosted and hosted.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Spam filters and email virus scanners compared: SpamAssassin and Rspamd alternatives"
+      h1: Spam and virus filtering privacy ratings
+    - id: email-backup
+      name: Email backup tools
+      type: app
+      description: Tools that back up, migrate or sync mailboxes over IMAP.
+      seo_title: IMAP email backup and migration tools compared
+      h1: Email backup tool privacy ratings
+    - id: mail-server-software
+      name: Mail server software
+      type: app
+      description: Software for running a mail server on your own hardware.
+      awesome: [Mail Servers]
+      seo_title: Self-hosted mail server software compared
+      h1: Mail server software privacy ratings
+    - id: email-sending
+      name: Email sending services
+      type: service
+      description: SMTP relays and email APIs for sending transactional and bulk email from apps and websites.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: Transactional email and SMTP relay services compared
+      h1: Email sending service privacy ratings
+
+- group: Browsing
+  categories:
+    - id: browsers
+      name: Browsers
+      seo_title: "Browser privacy ratings: private browsers compared"
+      h1: Browser privacy ratings
+      type: app
+      description: Web browsers for desktop and mobile.
+      awesome: [Browsers]
+    - id: ad-blockers
+      name: Ad and tracker blockers
+      seo_title: "Ad blocker privacy ratings compared"
+      h1: Ad and tracker blocker privacy ratings
+      type: app
+      description: Browser extensions, apps and network tools that block ads and trackers.
+      awesome: [Ad Blockers]
+    - id: browser-extensions
+      name: Browser extensions
+      type: app
+      description: Extensions that add privacy and security features to a browser.
+      awesome: [Browser Extensions]
+      seo_title: Privacy browser extensions compared
+      h1: Privacy extension ratings
+    - id: search-engines
+      name: Search engines
+      seo_title: "Search engine privacy ratings: private search compared"
+      h1: Search engine privacy ratings
+      type: service
+      description: Web search services.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Search Engines]
+    - id: browser-sync
+      name: Bookmarks and read-later
+      type: app
+      description: Bookmark managers, read-later apps and bookmark sync.
+      awesome: [Browser Sync]
+      seo_title: Private bookmark managers and read-later apps compared
+      h1: Bookmark and read-later privacy ratings
+    - id: app-stores
+      name: App stores
+      type: app
+      description: Stores and installers for mobile apps, including ones that do not need a Google account.
+      seo_title: Private app stores and Google Play alternatives compared
+      h1: App store privacy ratings
+    - id: proxy-frontends
+      name: Private front ends
+      type: service
+      description: Alternative front ends for popular sites that strip tracking.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Proxy Sites]
+      seo_title: Private YouTube, Reddit and X front-ends compared
+      h1: Private front-end privacy ratings
+
+- group: Security
+  categories:
+    - id: password-managers
+      name: Password managers
+      seo_title: "Password manager privacy ratings compared"
+      h1: Password manager privacy ratings
+      type: service
+      description: Apps and services that store passwords. Hosted ones get automated tests.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Password Managers]
+    - id: two-factor-authentication
+      name: Two-factor authentication
+      type: app
+      description: Authenticator apps for one-time codes.
+      awesome: [2-Factor Authentication]
+      seo_title: Open-source 2FA authenticator apps compared
+      h1: Authenticator app privacy ratings
+    - id: file-encryption
+      name: File encryption
+      type: app
+      description: Tools that encrypt files and drives.
+      awesome: [File Encryption]
+      seo_title: File and disk encryption software compared
+      h1: File encryption privacy ratings
+    - id: pgp-tools
+      name: PGP tools
+      type: app
+      description: Apps for managing OpenPGP keys and encrypting messages.
+      awesome: [PGP Managers]
+      seo_title: PGP and GPG encryption tools compared
+      h1: PGP tool privacy ratings
+    - id: secret-sharing
+      name: Secret sharing
+      type: service
+      description: Services for sending passwords and secrets that expire.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Secret Sharing]
+      seo_title: Secure password and secret sharing tools compared
+      h1: Secret sharing privacy ratings
+    - id: online-privacy-tools
+      name: Privacy test tools
+      type: service
+      description: Websites that test for leaks, fingerprinting and breaches.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Online Tools]
+      seo_title: Online privacy test tools compared
+      h1: Online privacy tool ratings
+    - id: security-audit-firms
+      name: Security audit firms
+      type: service
+      common: false
+      description: Independent firms that audit software and services for security and privacy. What matters is whether their reports are public.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Best security audit firms compared: Cure53, Trail of Bits and more"
+      h1: Security audit firms compared
+    - id: compliance-automation
+      name: Compliance automation
+      type: service
+      description: Tools for SOC 2, ISO 27001 and other compliance programs.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Open-source compliance automation compared: Vanta and Drata alternatives"
+      h1: Compliance automation privacy ratings
+    - id: data-broker-removal
+      name: Data broker removal
+      type: service
+      description: Services and guides that remove personal information from people-search sites and data brokers.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: Data broker removal services compared
+      h1: Data broker removal ratings
+    - id: mobile-security-apps
+      name: Mobile security apps
+      type: app
+      description: Android and iOS apps that improve privacy and security.
+      awesome: [Mobile Apps]
+      seo_title: Android privacy and security apps compared
+      h1: Mobile security app privacy ratings
+    - id: metadata-removal
+      name: Metadata removal
+      type: app
+      description: Tools that strip location and device data from files.
+      awesome: [Metadata Removal]
+      seo_title: EXIF and metadata removal tools compared
+      h1: Metadata removal tool ratings
+    - id: data-erasers
+      name: Data erasers
+      type: app
+      description: Tools that securely delete files and wipe drives.
+      awesome: [Data Erasers]
+      seo_title: Secure file and disk wiping tools compared
+      h1: Data eraser privacy ratings
+    - id: usb-security
+      name: USB kill switches and anti-forensics
+      type: app
+      description: Tools that lock or shut down a computer when USB devices change, and other anti-forensic protections.
+      seo_title: USB kill switches and anti-forensic tools compared
+      h1: USB and anti-forensic tool privacy ratings
+    - id: anti-malware
+      name: Anti-malware
+      type: app
+      description: Malware scanners.
+      awesome: [Anti-Malware]
+      seo_title: "Antivirus privacy ratings: which ones collect your data"
+      h1: Antivirus privacy ratings
+
+- group: Communication
+  categories:
+    - id: messengers
+      name: Messengers
+      seo_title: "Messenger privacy ratings: private messaging apps compared"
+      h1: Messenger privacy ratings
+      type: app
+      description: Chat and calling apps, including peer-to-peer ones.
+      awesome: [Encrypted Messaging, P2P Messaging]
+    - id: team-chat
+      name: Team chat
+      type: app
+      description: Chat and collaboration tools for teams.
+      awesome: [Team Collaboration]
+      seo_title: Private Slack and Teams alternatives compared
+      h1: Team chat privacy ratings
+    - id: video-calls
+      name: Video calls
+      type: app
+      description: Private video and conference calls.
+      awesome: [Secure Conference Calls]
+      seo_title: Private video calling apps compared
+      h1: Video call privacy ratings
+    - id: newsletters
+      name: Newsletter platforms
+      type: service
+      description: Tools for sending email newsletters and mailing lists.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: Private newsletter platforms compared
+      h1: Newsletter platform privacy ratings
+    - id: customer-support
+      name: Customer support and live chat
+      type: service
+      description: Help desks, ticketing and website live chat.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: Private help desk and live chat tools compared
+      h1: Customer support tool privacy ratings
+    - id: voip-clients
+      name: Voice calls
+      type: app
+      description: Voice-over-IP apps.
+      awesome: [VOIP Clients]
+      seo_title: Open-source VoIP and SIP clients compared
+      h1: VoIP client privacy ratings
+    - id: virtual-phone-numbers
+      name: Virtual phone numbers
+      type: service
+      description: Phone numbers for sign-ups without handing over a real number.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Virtual Phone Numbers]
+      seo_title: Private phone numbers for SMS and calls compared
+      h1: Virtual phone number privacy ratings
+    - id: communications-apis
+      name: SMS and voice APIs
+      type: service
+      description: APIs for sending and receiving SMS and making phone calls from apps, including one-time codes and notifications.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: SMS and voice API providers compared
+      h1: SMS and voice API privacy ratings
+
+- group: Networking
+  categories:
+    - id: vpns
+      name: VPN providers
+      seo_title: "VPN privacy ratings: private VPN providers compared"
+      h1: VPN privacy ratings
+      type: service
+      description: Virtual private network services.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Virtual Private Networks]
+    - id: dns-resolvers
+      name: DNS resolvers
+      seo_title: "DNS resolver privacy ratings compared"
+      h1: DNS resolver privacy ratings
+      type: service
+      description: Public DNS resolvers that look up domain names for devices.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [DNS Providers]
+    - id: dns-hosting
+      name: DNS hosting
+      seo_title: "DNS hosting privacy ratings compared"
+      h1: DNS hosting privacy ratings
+      type: service
+      description: Services that host the DNS records for your own domains.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [DNS Hosting]
+    - id: domain-registrars
+      name: Domain registrars
+      seo_title: "Domain registrar privacy ratings compared"
+      h1: Domain registrar privacy ratings
+      type: service
+      description: Where to register and renew domain names.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Domain Registrars]
+    - id: server-hosting
+      name: Server hosting
+      seo_title: "Server hosting privacy ratings: VPS and mail server hosts compared"
+      h1: Server hosting privacy ratings
+      type: service
+      description: VPS, dedicated and cloud servers, including providers that allow mail servers.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Cloud Hosting]
+    - id: app-hosting
+      name: App hosting platforms
+      type: service
+      description: Platforms that deploy and run web apps, from hosted services to self-hosted alternatives.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Private app hosting platforms compared: Vercel, Heroku and Railway alternatives"
+      h1: App hosting platform privacy ratings
+    - id: status-pages
+      name: Status pages and uptime monitoring
+      seo_title: "Status page and uptime monitoring privacy ratings"
+      h1: Status page privacy ratings
+      type: app
+      description: Tools that monitor uptime and publish a status page.
+    - id: dns-clients
+      name: DNS clients
+      type: app
+      description: Software that encrypts DNS lookups on a device.
+      awesome: [DNS Clients]
+      seo_title: Encrypted DNS clients compared
+      h1: DNS client privacy ratings
+    - id: firewalls
+      name: Firewalls
+      type: app
+      description: Firewalls that control which apps connect to the internet.
+      awesome: [Firewalls]
+      seo_title: Privacy firewalls for Windows, macOS and Linux compared
+      h1: Firewall privacy ratings
+    - id: blocklists
+      name: Blocklists
+      type: app
+      description: Host and filter lists for blocking ads, trackers and malware.
+      awesome: [Host Block Lists]
+      seo_title: Ad and tracker blocklists compared
+      h1: Blocklist ratings
+    - id: anonymity-networks
+      name: Anonymity networks
+      type: app
+      description: Networks that hide who is talking to whom.
+      awesome: [Anonymity Networks]
+      seo_title: "Anonymity networks compared: Tor, I2P and more"
+      h1: Anonymity network ratings
+    - id: proxies
+      name: Proxies
+      type: app
+      description: Proxy software for routing traffic.
+      awesome: [Proxies]
+      seo_title: Proxies and censorship circumvention tools compared
+      h1: Proxy privacy ratings
+    - id: self-hosted-network-security
+      name: Self-hosted network security
+      type: app
+      description: Network-wide blocking, VPN and security tools to run at home or on a server.
+      awesome: [Self-Hosted Network Security]
+      seo_title: Self-hosted VPN, DNS and network security compared
+      h1: Self-hosted network security ratings
+    - id: mesh-vpns
+      name: Mesh VPNs and private networks
+      type: app
+      description: Software that joins devices into an encrypted private network, with a coordination server that is hosted by the vendor or self-hosted.
+      seo_title: "Mesh VPNs compared: private Tailscale and ZeroTier alternatives"
+      h1: Mesh VPN privacy ratings
+    - id: remote-desktop
+      name: Remote desktop
+      type: app
+      description: Software for controlling another computer over the network.
+      seo_title: Private TeamViewer and AnyDesk alternatives compared
+      h1: Remote desktop privacy ratings
+    - id: router-firmware
+      name: Router firmware
+      type: app
+      description: Open firmware for home routers.
+      awesome: [Router Firmware]
+      seo_title: Open-source router firmware compared
+      h1: Router firmware ratings
+    - id: network-analysis
+      name: Network analysis
+      type: app
+      description: Tools for measuring censorship and inspecting traffic.
+      awesome: [Network Analysis]
+      seo_title: Network analysis and privacy testing tools compared
+      h1: Network analysis tool ratings
+    - id: intrusion-detection
+      name: Intrusion detection
+      type: app
+      description: Tools that detect attacks on a network or host.
+      awesome: [Intrusion Detection]
+      seo_title: Open-source intrusion detection compared
+      h1: Intrusion detection ratings
+
+- group: Operating systems
+  categories:
+    - id: mobile-operating-systems
+      name: Mobile operating systems
+      type: app
+      description: Privacy-focused Android-based systems.
+      awesome: [Mobile Operating Systems]
+      seo_title: "Private mobile operating systems compared: de-Googled Android and more"
+      h1: Mobile operating system privacy ratings
+    - id: keyboards
+      name: Mobile keyboards
+      type: app
+      description: On-screen keyboards for phones and tablets. A keyboard sees everything you type.
+      seo_title: "Private keyboard apps compared: Gboard alternatives"
+      h1: Keyboard app privacy ratings
+    - id: desktop-operating-systems
+      name: Desktop operating systems
+      type: app
+      description: Operating systems built for privacy and security.
+      awesome: [Desktop Operating Systems]
+      seo_title: "Private desktop operating systems compared: Windows alternatives"
+      h1: Desktop operating system privacy ratings
+    - id: os-installers
+      name: OS downloaders and bootable USB tools
+      type: app
+      description: Tools that download operating system installers and write bootable USB drives.
+      seo_title: "OS downloaders and bootable USB tools compared: Rufus, Ventoy and more"
+      h1: OS installer tool privacy ratings
+    - id: disk-usage-analyzers
+      name: Disk usage analyzers
+      type: app
+      description: Tools that scan drives and show which files and folders use the most space. A scan lists every file name on the computer.
+      seo_title: "Disk usage analyzers compared: WinDirStat, WizTree, DaisyDisk and more"
+      h1: Disk usage analyzer privacy ratings
+    - id: launchers
+      name: App launchers
+      type: app
+      description: Keyboard launchers and command palettes for opening apps, files and commands.
+      seo_title: "Private app launchers compared: Raycast and Alfred alternatives"
+      h1: App launcher privacy ratings
+    - id: clipboard-managers
+      name: Clipboard managers
+      type: app
+      description: Clipboard history apps. They see every password and message you copy.
+      seo_title: Private clipboard managers compared
+      h1: Clipboard manager privacy ratings
+    - id: linux-hardening
+      name: Linux hardening
+      type: app
+      description: Tools that harden Linux systems.
+      awesome: [Linux Defenses]
+      seo_title: Linux hardening and security tools compared
+      h1: Linux hardening tool ratings
+    - id: windows-hardening
+      name: Windows hardening
+      type: app
+      description: Tools that reduce Windows telemetry and harden Windows systems.
+      awesome: [Windows Defences]
+      seo_title: Windows privacy and hardening tools compared
+      h1: Windows privacy tool ratings
+    - id: macos-hardening
+      name: macOS hardening
+      type: app
+      description: Tools that harden macOS systems.
+      awesome: [Mac OS Defences]
+      seo_title: macOS privacy and security tools compared
+      h1: macOS privacy tool ratings
+    - id: virtual-machines
+      name: Virtual machines
+      type: app
+      description: Software for running isolated operating systems.
+      awesome: [Virtual Machines]
+      seo_title: Virtual machine software compared
+      h1: Virtual machine privacy ratings
+    - id: emulators
+      name: Emulators and compatibility layers
+      type: app
+      description: Game console and Android emulators, and tools for running Windows apps on other systems.
+      seo_title: "Open-source emulators compared: Android and game console emulators"
+      h1: Emulator privacy ratings
+
+- group: Productivity
+  categories:
+    - id: notes
+      name: Notes
+      type: app
+      description: Note-taking apps.
+      awesome: [Digital Notes]
+      seo_title: Private, open-source note-taking apps compared
+      h1: Notes app privacy ratings
+    - id: journaling
+      name: Journaling apps
+      type: app
+      description: Diary and journaling apps. Journals hold some of the most personal writing people keep.
+      seo_title: "Private journaling apps compared: Day One alternatives"
+      h1: Journaling app privacy ratings
+    - id: wikis
+      name: Wikis and knowledge bases
+      type: service
+      description: Team wikis, documentation and knowledge base software.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: Open-source wikis and Confluence alternatives compared
+      h1: Wiki privacy ratings
+    - id: diagrams
+      name: Diagrams and whiteboards
+      type: service
+      description: Diagram editors and online whiteboards.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Private diagram and whiteboard tools compared: Miro and Lucidchart alternatives"
+      h1: Diagram and whiteboard privacy ratings
+    - id: calendars
+      name: Calendars
+      type: app
+      description: Calendar apps and services.
+      awesome: [Calendar]
+      seo_title: "Private calendar apps compared: Google Calendar alternatives"
+      h1: Calendar privacy ratings
+    - id: scheduling
+      name: Scheduling
+      type: service
+      description: Meeting scheduling and polls.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Scheduling]
+      seo_title: "Private scheduling tools compared: Calendly and Doodle alternatives"
+      h1: Scheduling tool privacy ratings
+    - id: task-management
+      name: Task management
+      type: app
+      description: To-do and project apps.
+      awesome: [Task Management]
+      seo_title: Private to-do and project management apps compared
+      h1: Task app privacy ratings
+    - id: file-sync
+      name: File sync and backup
+      type: app
+      description: Tools for syncing and backing up files.
+      awesome: [Backup and Sync]
+      seo_title: Open-source file sync and backup tools compared
+      h1: File sync and backup privacy ratings
+    - id: archivers
+      name: File archivers
+      type: app
+      description: Apps for creating and extracting zip, 7z, rar and other archives.
+      seo_title: "Open-source file archivers compared: WinRAR and WinZip alternatives"
+      h1: File archiver privacy ratings
+    - id: office-suites
+      name: Office suites
+      type: service
+      description: Documents, spreadsheets and shared editing.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Cloud Productivity Suites]
+      seo_title: "Private office suites compared: Microsoft Office and Google Docs alternatives"
+      h1: Office suite privacy ratings
+    - id: pdf-tools
+      name: PDF readers and editors
+      type: app
+      description: Apps for reading, editing, merging and signing PDF files.
+      seo_title: Open-source PDF readers and editors compared
+      h1: PDF tool privacy ratings
+    - id: screen-recording
+      name: Screenshots and screen recording
+      type: app
+      description: Tools for screenshots, screen recordings and screen-recorded video messages.
+      seo_title: "Private screen recorders compared: Loom and Snagit alternatives"
+      h1: Screen recording and screenshot privacy ratings
+    - id: e-signatures
+      name: Electronic signatures
+      type: service
+      description: Services for sending documents and collecting legally binding signatures.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: Open-source DocuSign alternatives compared
+      h1: Electronic signature privacy ratings
+    - id: forms
+      name: Forms and surveys
+      type: service
+      description: Form builders, surveys and polls.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Private form builders compared: Google Forms alternatives"
+      h1: Form builder privacy ratings
+    - id: ebook-readers
+      name: Ebook readers
+      type: app
+      description: Apps and tools for reading and managing ebooks.
+      seo_title: "Open-source ebook readers compared: Kindle alternatives"
+      h1: Ebook reader privacy ratings
+    - id: translation
+      name: Translation
+      type: service
+      description: Translation apps and services, including ones that run offline.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Private translation apps compared: Google Translate alternatives"
+      h1: Translation privacy ratings
+    - id: speech-to-text
+      name: Dictation and transcription
+      type: service
+      description: Speech-to-text, dictation and meeting transcription, on the device or in the cloud.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Private speech-to-text and transcription apps compared: Otter.ai alternatives"
+      h1: Dictation and transcription privacy ratings
+    - id: ai-assistants
+      name: AI assistants
+      type: service
+      description: AI chatbots and assistants, hosted and local. What happens to prompts and whether they train models.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "AI chatbot privacy ratings: ChatGPT alternatives compared"
+      h1: AI assistant privacy ratings
+    - id: cloud-storage
+      name: Encrypted cloud storage
+      type: service
+      description: Cloud storage with client-side encryption.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Encrypted Cloud Storage]
+      seo_title: "Encrypted cloud storage compared: Google Drive and Dropbox alternatives"
+      h1: Cloud storage privacy ratings
+    - id: file-sharing
+      name: File sharing
+      type: service
+      description: Tools for sending files privately.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [File Drop]
+      seo_title: "Private file sharing compared: WeTransfer alternatives"
+      h1: File sharing privacy ratings
+    - id: habit-trackers
+      name: Habit trackers
+      type: app
+      description: Apps for tracking habits.
+      awesome: [Habit Trackers]
+      seo_title: Private habit tracker apps compared
+      h1: Habit tracker privacy ratings
+    - id: maps
+      name: Maps and navigation
+      type: app
+      description: Map and navigation apps.
+      awesome: [Maps & Navigation]
+      seo_title: "Private map and navigation apps compared: Google Maps alternatives"
+      h1: Map app privacy ratings
+    - id: accessibility
+      name: Accessibility
+      type: app
+      description: Accessibility tools that keep data on the device.
+      awesome: [Accessibility]
+      seo_title: Open-source accessibility tools compared
+      h1: Accessibility tool privacy ratings
+
+- group: Development
+  categories:
+    - id: code-hosting
+      name: Code hosting
+      type: service
+      description: Places to host Git repositories.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Code Hosting]
+      seo_title: "Private Git hosting compared: GitHub alternatives"
+      h1: Code hosting privacy ratings
+    - id: code-editors
+      name: Code editors
+      type: app
+      description: Editors and IDEs without telemetry.
+      awesome: [IDEs]
+      seo_title: "Code editor privacy ratings: telemetry compared"
+      h1: Code editor privacy ratings
+    - id: terminals
+      name: Terminals
+      type: app
+      description: Terminal emulators.
+      awesome: [Terminal Emulators]
+      seo_title: Terminal emulator privacy ratings compared
+      h1: Terminal privacy ratings
+    - id: developer-tools
+      name: Developer tools
+      type: app
+      description: Tools for developers that keep data local.
+      awesome: [Developer Tools]
+      seo_title: "Private developer tools compared: Postman alternatives"
+      h1: Developer tool privacy ratings
+    - id: node-frameworks
+      name: Node.js frameworks
+      type: app
+      description: Web and API frameworks for Node.js. Telemetry and dependencies matter for every app built on them.
+      seo_title: "Node.js frameworks compared: Koa, Express, Fastify and more"
+      h1: Node.js framework privacy ratings
+    - id: web-frameworks
+      name: Front-end and full-stack frameworks
+      type: app
+      description: JavaScript front-end, single-page and full-stack frameworks. Some collect telemetry from developers by default.
+      seo_title: "Web frameworks compared: Next.js, Nuxt, SvelteKit and telemetry"
+      h1: Web framework privacy ratings
+    - id: build-tools
+      name: Bundlers and build tools
+      type: app
+      description: JavaScript bundlers and build tools.
+      seo_title: "JavaScript bundlers compared: Parcel, Vite, webpack and more"
+      h1: Build tool privacy ratings
+    - id: static-site-generators
+      name: Static site generators
+      type: app
+      description: Tools that build websites, blogs and documentation into static files. Some collect telemetry from developers.
+      seo_title: "Static site generators compared: Hugo, Jekyll, Eleventy and more"
+      h1: Static site generator privacy ratings
+    - id: app-frameworks
+      name: Cross-platform app frameworks
+      type: app
+      description: Frameworks for building desktop and mobile apps from one codebase. Their tooling and SDKs can add telemetry to every app built with them.
+      seo_title: "Cross-platform app frameworks compared: Flutter, React Native, Tauri, Electron"
+      h1: Cross-platform app framework privacy ratings
+    - id: python-frameworks
+      name: Python web frameworks
+      type: app
+      description: Web and API frameworks for Python.
+      seo_title: "Python web frameworks compared: Django, Flask, FastAPI and more"
+      h1: Python web framework privacy ratings
+    - id: ruby-frameworks
+      name: Ruby web frameworks
+      type: app
+      description: Web and API frameworks for Ruby.
+      seo_title: "Ruby web frameworks compared: Ruby on Rails, Sinatra, Hanami and more"
+      h1: Ruby web framework privacy ratings
+    - id: php-frameworks
+      name: PHP frameworks
+      type: app
+      description: Web and API frameworks for PHP.
+      seo_title: "PHP frameworks compared: Laravel, Symfony, CodeIgniter and more"
+      h1: PHP framework privacy ratings
+    - id: go-frameworks
+      name: Go web frameworks
+      type: app
+      description: Web and API frameworks and routers for Go.
+      seo_title: "Go web frameworks compared: Gin, Echo, Fiber, Chi and more"
+      h1: Go web framework privacy ratings
+    - id: rust-frameworks
+      name: Rust web frameworks
+      type: app
+      description: Web, API and full-stack frameworks for Rust.
+      seo_title: "Rust web frameworks compared: Axum, Actix Web, Rocket, Leptos and more"
+      h1: Rust web framework privacy ratings
+    - id: jvm-frameworks
+      name: Java and Kotlin frameworks
+      type: app
+      description: Web and application frameworks for the JVM, written in Java, Kotlin or Scala.
+      seo_title: "Java and Kotlin frameworks compared: Spring Boot, Quarkus, Micronaut, Ktor"
+      h1: Java and Kotlin framework privacy ratings
+    - id: dotnet-frameworks
+      name: .NET web frameworks
+      type: app
+      description: Web and API frameworks for C# and .NET. The .NET SDK itself sends telemetry by default.
+      seo_title: ".NET web frameworks compared: ASP.NET Core, Blazor and more"
+      h1: .NET web framework privacy ratings
+    - id: elixir-frameworks
+      name: Elixir, Erlang and Gleam frameworks
+      type: app
+      description: Web frameworks for languages on the BEAM virtual machine.
+      seo_title: "Elixir frameworks compared: Phoenix, Ash and Gleam web frameworks"
+      h1: Elixir, Erlang and Gleam framework privacy ratings
+    - id: other-web-frameworks
+      name: Web frameworks for other languages
+      type: app
+      description: Web frameworks for Swift, Dart, Crystal, C++, Haskell, OCaml, Clojure, Nim and Zig.
+      seo_title: "Web frameworks for Swift, Dart, Crystal, C++, Haskell and more compared"
+      h1: Web framework privacy ratings for other languages
+    - id: web-analytics
+      name: Website analytics
+      type: service
+      description: Tools that count website visitors. Some track people across sites, others collect no personal data.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Privacy-friendly website analytics compared: Google Analytics alternatives"
+      h1: Website analytics privacy ratings
+    - id: url-shorteners
+      name: URL shorteners
+      type: service
+      description: Link shorteners and link management.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Private URL shorteners compared: Bitly alternatives"
+      h1: URL shortener privacy ratings
+
+- group: Home and IoT
+  categories:
+    - id: smart-home
+      name: Smart home
+      type: app
+      description: Home automation that runs locally.
+      awesome: [Smart Home, Voice Assistants]
+      seo_title: Private smart home platforms compared
+      h1: Smart home privacy ratings
+    - id: home-design
+      name: Home and floor plan design
+      type: service
+      description: Floor plan, interior design and home 3D modeling apps.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Private home design and floor plan apps compared: SketchUp and Planner 5D alternatives"
+      h1: Home design app privacy ratings
+    - id: security-cameras
+      name: Security cameras
+      type: app
+      description: Camera software that keeps footage private.
+      awesome: [Security Cameras]
+      seo_title: Private security cameras and NVR software compared
+      h1: Security camera privacy ratings
+    - id: wearables
+      name: Wearables and health
+      type: app
+      description: Apps for wearables that work without a vendor cloud.
+      awesome: [Wearables & Health]
+      seo_title: Private smartwatch and wearable apps compared
+      h1: Wearable privacy ratings
+- group: Health
+  categories:
+    - id: period-trackers
+      name: Period trackers
+      type: app
+      description: Menstrual cycle and fertility tracking apps. Cycle data is highly sensitive health data.
+      seo_title: Private period tracker apps compared
+      h1: Period tracker privacy ratings
+    - id: fitness-trackers
+      name: Fitness trackers
+      type: app
+      description: Apps for recording runs, rides and workouts.
+      seo_title: "Private fitness tracker apps compared: Strava alternatives"
+      h1: Fitness app privacy ratings
+    - id: weather
+      name: Weather apps
+      type: app
+      description: Weather apps. Many sell precise location data; some need none.
+      seo_title: Private weather apps compared
+      h1: Weather app privacy ratings
+
+- group: Finance
+  categories:
+    - id: cryptocurrencies
+      name: Private cryptocurrencies
+      type: app
+      description: Cryptocurrencies designed for private payments.
+      awesome: [Cryptocurrencies]
+      seo_title: Private cryptocurrencies compared
+      h1: Cryptocurrency privacy ratings
+    - id: crypto-wallets
+      name: Crypto wallets
+      type: app
+      description: Wallets for holding cryptocurrency.
+      awesome: [Crypto Wallets]
+      seo_title: Private crypto wallets compared
+      h1: Crypto wallet privacy ratings
+    - id: crypto-exchanges
+      name: Crypto exchanges
+      type: app
+      description: Peer-to-peer exchanges.
+      awesome: [Crypto Exchanges]
+      seo_title: Private and no-KYC crypto exchanges compared
+      h1: Crypto exchange privacy ratings
+    - id: virtual-cards
+      name: Virtual cards
+      type: service
+      description: Virtual and masked payment cards.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Virtual Credit Cards]
+      seo_title: Virtual card privacy ratings compared
+      h1: Virtual card privacy ratings
+    - id: budgeting
+      name: Budgeting
+      type: app
+      description: Budgeting and accounting apps that keep data local.
+      awesome: [Secure Budgeting]
+      seo_title: "Private budgeting apps compared: YNAB alternatives"
+      h1: Budgeting app privacy ratings
+
+- group: Social and media
+  categories:
+    - id: social-networks
+      name: Social networks
+      type: app
+      description: Decentralized and privacy-respecting social platforms.
+      awesome: [Social Networks]
+      seo_title: "Private social networks compared: Facebook, X and Instagram alternatives"
+      h1: Social network privacy ratings
+    - id: video-platforms
+      name: Video platforms
+      type: app
+      description: Video hosting without tracking.
+      awesome: [Video Platforms]
+      seo_title: "Private video platforms compared: YouTube alternatives"
+      h1: Video platform privacy ratings
+    - id: music-streaming
+      name: Music streaming
+      type: service
+      description: Music streaming services and self-hosted music libraries.
+      scans:
+        - ssllabs
+        - observatory
+        - internetnl-web
+        - hardenize
+      seo_title: "Music streaming privacy ratings: Spotify alternatives compared"
+      h1: Music streaming privacy ratings
+    - id: blogging
+      name: Blogging
+      type: service
+      description: Blogging platforms.
+      scans: [ssllabs, observatory, internetnl-web, hardenize]
+      awesome: [Blogging Platforms]
+      seo_title: "Private blogging platforms compared: Medium and WordPress alternatives"
+      h1: Blogging platform privacy ratings
+    - id: news-readers
+      name: News readers
+      type: app
+      description: RSS and news readers.
+      awesome: [News Readers]
+      seo_title: "Private RSS readers compared: Feedly alternatives"
+      h1: RSS reader privacy ratings
+    - id: media-players
+      name: Media and podcast players
+      type: app
+      description: Video, music and podcast players.
+      awesome: [Video Players, Music Players, Podcast Players, Media Servers, E-Book Readers]
+      seo_title: Open-source media and podcast players compared
+      h1: Media player privacy ratings
+    - id: media-servers
+      name: Media servers
+      type: app
+      description: Self-hosted servers for streaming your own films, music, books and photos.
+      seo_title: "Open-source media servers compared: Plex alternatives"
+      h1: Media server privacy ratings
+    - id: photo-management
+      name: Photo management
+      type: app
+      description: Photo libraries and backups.
+      awesome: [Photo Management]
+      seo_title: "Private photo apps compared: Google Photos alternatives"
+      h1: Photo app privacy ratings
+    - id: torrent-clients
+      name: Torrent clients
+      type: app
+      description: BitTorrent clients.
+      awesome: [Torrent Downloaders]
+      seo_title: Open-source torrent clients compared
+      h1: Torrent client privacy ratings
+    - id: games
+      name: Games
+      type: app
+      description: Game launchers without tracking.
+      awesome: [Gaming]
+      seo_title: Game launcher privacy ratings compared
+      h1: Game launcher privacy ratings
+    - id: file-converters
+      name: File converters
+      type: app
+      description: Converters that run locally.
+      awesome: [File Converters]
+      seo_title: Private file converters compared
+      h1: File converter privacy ratings
+    - id: creative-tools
+      name: Creative tools
+      type: app
+      description: Image, video, audio, 3D and streaming software.
+      awesome: [Image Editors, Video Editors, Audio Editors & Recorders, Casting & Streaming, Screenshot Tools, 3D Graphics, Animation]
+      seo_title: "Open-source creative tools compared: Adobe alternatives"
+      h1: Creative tool privacy ratings

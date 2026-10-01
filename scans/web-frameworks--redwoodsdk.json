@@ -1,0 +1,25 @@
+{
+  "scanned_at": "2026-09-30T20:41:47.603Z",
+  "trackers": {
+    "url": "https://rwsdk.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "YouTube embed",
+        "host": "www.youtube.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-09-30T20:41:23.932Z"
+  }
+}
