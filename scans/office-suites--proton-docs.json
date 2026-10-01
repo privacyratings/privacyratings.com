@@ -1,17 +1,29 @@
 {
   "domain": "docs.proton.me",
+  "github": {
+    "repo": "ProtonMail/WebClients",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:18.072Z"
+  },
   "observatory": {
     "grade": "A+",
     "score": 115,
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.proton.me",
-    "tested_at": "2026-09-30T20:13:44.903Z"
+    "tested_at": "2026-10-01T06:38:45.769Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.193Z",
+  "scanned_at": "2026-10-01T06:38:54.873Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=docs.proton.me&hideResults=on",
+    "tested_at": "2026-10-01T06:38:54.873Z"
+  },
   "trackers": {
     "url": "https://proton.me/drive/docs",
     "found": [],
-    "tested_at": "2026-09-30T20:39:18.736Z"
+    "tested_at": "2026-10-01T06:38:45.739Z"
   }
 }

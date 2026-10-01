@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.189Z",
+  "github": {
+    "repo": "borgbackup/borg",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:17.552Z"
+  },
+  "scanned_at": "2026-10-01T06:38:43.473Z",
   "trackers": {
     "url": "https://www.borgbackup.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:15.985Z"
+    "tested_at": "2026-10-01T06:38:43.473Z"
   }
 }

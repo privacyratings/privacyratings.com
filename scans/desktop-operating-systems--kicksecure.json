@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.171Z",
+  "github": {
+    "repo": "Kicksecure/derivative-maker",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:14.816Z"
+  },
+  "scanned_at": "2026-10-01T06:38:34.836Z",
   "trackers": {
     "url": "https://www.kicksecure.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:07.677Z"
+    "tested_at": "2026-10-01T06:38:34.836Z"
   }
 }

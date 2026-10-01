@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.frantech.ca",
-    "tested_at": "2026-09-30T20:13:28.512Z"
+    "tested_at": "2026-10-01T06:38:40.656Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.140Z",
+  "scanned_at": "2026-10-01T06:38:53.428Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=my.frantech.ca&hideResults=on",
+    "tested_at": "2026-10-01T06:38:53.428Z"
+  },
   "trackers": {
     "url": "https://buyvm.net",
     "found": [
@@ -30,6 +36,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:57.403Z"
+    "tested_at": "2026-10-01T06:38:28.214Z"
   }
 }

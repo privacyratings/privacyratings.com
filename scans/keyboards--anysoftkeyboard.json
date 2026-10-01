@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.167Z",
+  "github": {
+    "repo": "AnySoftKeyboard/AnySoftKeyboard",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:14.461Z"
+  },
+  "scanned_at": "2026-10-01T06:38:33.259Z",
   "trackers": {
     "url": "https://anysoftkeyboard.github.io",
     "found": [],
-    "tested_at": "2026-09-30T20:39:05.504Z"
+    "tested_at": "2026-10-01T06:38:33.258Z"
   }
 }

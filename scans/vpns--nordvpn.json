@@ -1,16 +1,28 @@
 {
   "domain": "nordvpn.com",
+  "github": {
+    "repo": "NordSecurity/nordvpn-linux",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.955Z"
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nordvpn.com",
-    "tested_at": "2026-09-30T20:12:23.357Z"
+    "tested_at": "2026-10-01T06:38:24.097Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.123Z",
+  "scanned_at": "2026-10-01T06:38:25.240Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=nordvpn.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:10.593Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:38:52.416Z"
+    "tested_at": "2026-10-01T06:38:25.240Z"
   }
 }

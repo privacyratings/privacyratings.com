@@ -6,11 +6,17 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.adobesign.com",
-    "tested_at": "2026-09-30T20:13:46.935Z"
+    "tested_at": "2026-10-01T06:38:46.094Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.195Z",
+  "scanned_at": "2026-10-01T06:39:16.005Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 3,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=secure.adobesign.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:54.987Z"
+  },
   "trackers": {
-    "error": "HTTP 503",
-    "tested_at": "2026-09-30T20:39:18.931Z"
+    "error": "The operation was aborted",
+    "tested_at": "2026-10-01T06:39:16.005Z"
   }
 }

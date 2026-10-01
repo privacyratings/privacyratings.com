@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cp.sync.com",
-    "tested_at": "2026-09-30T20:15:11.429Z"
+    "tested_at": "2026-10-01T06:39:01.386Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.221Z",
+  "scanned_at": "2026-10-01T06:39:49.667Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cp.sync.com&hideResults=on",
+    "tested_at": "2026-10-01T06:39:49.666Z"
+  },
   "trackers": {
     "url": "https://www.sync.com",
     "found": [
@@ -41,6 +47,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:25.200Z"
+    "tested_at": "2026-10-01T06:38:52.966Z"
   }
 }

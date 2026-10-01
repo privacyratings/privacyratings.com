@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.166Z",
+  "scanned_at": "2026-10-01T06:38:32.575Z",
   "trackers": {
     "url": "https://www.android.com",
     "found": [
@@ -13,6 +13,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:04.628Z"
+    "tested_at": "2026-10-01T06:38:32.575Z"
   }
 }

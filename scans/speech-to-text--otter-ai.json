@@ -6,9 +6,15 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=otter.ai",
-    "tested_at": "2026-09-30T20:10:48.899Z"
+    "tested_at": "2026-10-01T06:38:06.074Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.026Z",
+  "scanned_at": "2026-10-01T06:38:07.865Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 3,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=otter.ai&hideResults=on",
+    "tested_at": "2026-10-01T06:38:06.258Z"
+  },
   "trackers": {
     "url": "https://otter.ai",
     "found": [
@@ -30,6 +36,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:33.781Z"
+    "tested_at": "2026-10-01T06:38:07.865Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.053Z",
+  "github": {
+    "repo": "ghostery/ghostery-extension",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:07.283Z"
+  },
+  "scanned_at": "2026-10-01T06:38:14.988Z",
   "trackers": {
     "url": "https://www.ghostery.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:39.913Z"
+    "tested_at": "2026-10-01T06:38:14.988Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.163Z",
+  "github": {
+    "repo": "rustdesk/rustdesk",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:13.754Z"
+  },
+  "scanned_at": "2026-10-01T06:38:31.497Z",
   "trackers": {
     "url": "https://rustdesk.com",
     "found": [
@@ -12,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:03.143Z"
+    "tested_at": "2026-10-01T06:38:31.497Z"
   }
 }

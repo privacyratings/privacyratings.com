@@ -3,9 +3,9 @@
     "repo": "MaartenBaert/ssr",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:29:14.547Z"
+    "checked_at": "2026-10-01T06:38:05.586Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.015Z",
+  "scanned_at": "2026-10-01T06:38:06.288Z",
   "trackers": {
     "url": "https://www.maartenbaert.be/simplescreenrecorder/",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:32.923Z"
+    "tested_at": "2026-10-01T06:38:06.288Z"
   }
 }

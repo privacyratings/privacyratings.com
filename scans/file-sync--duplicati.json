@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.190Z",
+  "github": {
+    "repo": "duplicati/duplicati",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:17.587Z"
+  },
+  "scanned_at": "2026-10-01T06:38:43.689Z",
   "trackers": {
     "url": "https://duplicati.com",
     "found": [
@@ -22,6 +28,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:15.919Z"
+    "tested_at": "2026-10-01T06:38:43.689Z"
   }
 }

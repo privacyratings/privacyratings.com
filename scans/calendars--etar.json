@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.182Z",
+  "github": {
+    "repo": "Etar-Group/Etar-Calendar",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:16.672Z"
+  },
+  "scanned_at": "2026-10-01T06:38:39.197Z",
   "trackers": {
     "url": "https://github.com/Etar-Group/Etar-Calendar",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:39:12.188Z"
+    "tested_at": "2026-10-01T06:38:39.197Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.056Z",
+  "github": {
+    "repo": "hackademix/noscript",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:07.842Z"
+  },
+  "scanned_at": "2026-10-01T06:38:15.743Z",
   "trackers": {
     "url": "https://noscript.net",
     "found": [],
-    "tested_at": "2026-09-30T20:38:40.751Z"
+    "tested_at": "2026-10-01T06:38:15.743Z"
   }
 }

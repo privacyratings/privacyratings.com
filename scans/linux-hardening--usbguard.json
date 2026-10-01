@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.175Z",
+  "github": {
+    "repo": "USBGuard/usbguard",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:15.139Z"
+  },
+  "scanned_at": "2026-10-01T06:38:35.891Z",
   "trackers": {
     "url": "https://usbguard.github.io",
     "found": [],
-    "tested_at": "2026-09-30T20:39:08.454Z"
+    "tested_at": "2026-10-01T06:38:35.891Z"
   }
 }

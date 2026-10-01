@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.054Z",
+  "github": {
+    "repo": "uBlockOrigin/uBOL-home",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:07.419Z"
+  },
+  "scanned_at": "2026-10-01T06:38:14.644Z",
   "trackers": {
     "url": "https://github.com/uBlockOrigin/uBOL-home",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:38:39.441Z"
+    "tested_at": "2026-10-01T06:38:14.644Z"
   }
 }

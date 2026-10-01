@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.151Z",
+  "github": {
+    "repo": "getlantern/lantern",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.844Z"
+  },
+  "scanned_at": "2026-10-01T06:38:30.325Z",
   "trackers": {
     "url": "https://lantern.io",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:01.162Z"
+    "tested_at": "2026-10-01T06:38:30.325Z"
   }
 }

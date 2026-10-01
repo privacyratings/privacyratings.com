@@ -6,12 +6,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.aws.amazon.com",
-    "tested_at": "2026-09-30T20:13:11.255Z"
+    "tested_at": "2026-10-01T06:38:33.329Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.132Z",
+  "scanned_at": "2026-10-01T06:38:34.099Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=console.aws.amazon.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:12.780Z"
+  },
   "trackers": {
     "url": "https://aws.amazon.com/route53/",
     "found": [],
-    "tested_at": "2026-09-30T20:38:55.264Z"
+    "tested_at": "2026-10-01T06:38:26.616Z"
   }
 }

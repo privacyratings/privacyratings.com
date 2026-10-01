@@ -1,17 +1,29 @@
 {
   "domain": "nym.com",
+  "github": {
+    "repo": "nymtech/nym-vpn-client",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.879Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 75,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nym.com",
-    "tested_at": "2026-09-30T20:12:23.746Z"
+    "tested_at": "2026-10-01T06:38:24.506Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.124Z",
+  "scanned_at": "2026-10-01T06:38:26.593Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=nym.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:10.851Z"
+  },
   "trackers": {
     "url": "https://nym.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:53.179Z"
+    "tested_at": "2026-10-01T06:38:26.426Z"
   }
 }

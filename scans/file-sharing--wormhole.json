@@ -6,12 +6,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wormhole.app",
-    "tested_at": "2026-09-30T20:15:14.987Z"
+    "tested_at": "2026-10-01T06:39:02.726Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.227Z",
+  "scanned_at": "2026-10-01T06:39:49.868Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=wormhole.app&hideResults=on",
+    "tested_at": "2026-10-01T06:39:49.867Z"
+  },
   "trackers": {
     "url": "https://wormhole.app",
     "found": [],
-    "tested_at": "2026-09-30T20:39:25.854Z"
+    "tested_at": "2026-10-01T06:38:53.132Z"
   }
 }

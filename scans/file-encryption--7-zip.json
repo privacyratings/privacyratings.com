@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.074Z",
+  "github": {
+    "repo": "ip7z/7zip",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:09.401Z"
+  },
+  "scanned_at": "2026-10-01T06:38:19.751Z",
   "trackers": {
     "url": "https://www.7-zip.org",
     "found": [],
-    "tested_at": "2026-09-30T20:38:45.028Z"
+    "tested_at": "2026-10-01T06:38:19.751Z"
   }
 }

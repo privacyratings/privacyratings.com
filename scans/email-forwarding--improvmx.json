@@ -6,9 +6,15 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.improvmx.com",
-    "tested_at": "2026-09-30T20:11:02.492Z"
+    "tested_at": "2026-10-01T06:38:08.681Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.036Z",
+  "scanned_at": "2026-10-01T06:38:09.735Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.improvmx.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:06.516Z"
+  },
   "trackers": {
     "url": "https://improvmx.com",
     "found": [
@@ -23,6 +29,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:35.497Z"
+    "tested_at": "2026-10-01T06:38:09.735Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.045Z",
+  "github": {
+    "repo": "neomutt/neomutt",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:07.334Z"
+  },
+  "scanned_at": "2026-10-01T06:38:11.802Z",
   "trackers": {
     "url": "https://neomutt.org",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:36.575Z"
+    "tested_at": "2026-10-01T06:38:11.802Z"
   }
 }

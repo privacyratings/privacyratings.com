@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.166Z",
+  "github": {
+    "repo": "OISF/suricata",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:14.312Z"
+  },
+  "scanned_at": "2026-10-01T06:38:32.210Z",
   "trackers": {
     "url": "https://suricata.io",
     "found": [],
-    "tested_at": "2026-09-30T20:39:04.657Z"
+    "tested_at": "2026-10-01T06:38:32.210Z"
   }
 }

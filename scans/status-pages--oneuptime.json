@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.145Z",
+  "github": {
+    "repo": "OneUptime/oneuptime",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.450Z"
+  },
+  "scanned_at": "2026-10-01T06:38:28.905Z",
   "trackers": {
     "url": "https://oneuptime.com",
     "found": [
@@ -23,6 +29,6 @@
         "host": "eu.posthog.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:59.028Z"
+    "tested_at": "2026-10-01T06:38:28.905Z"
   }
 }

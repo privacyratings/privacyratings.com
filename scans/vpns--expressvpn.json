@@ -1,14 +1,26 @@
 {
   "domain": "www.expressvpn.com",
+  "github": {
+    "repo": "expressvpn/lightway",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.668Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 70,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.expressvpn.com",
-    "tested_at": "2026-09-30T20:12:20.361Z"
+    "tested_at": "2026-10-01T06:38:22.894Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.121Z",
+  "scanned_at": "2026-10-01T06:38:25.254Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.expressvpn.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:10.507Z"
+  },
   "trackers": {
     "url": "https://www.expressvpn.com",
     "found": [
@@ -22,6 +34,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:52.322Z"
+    "tested_at": "2026-10-01T06:38:25.254Z"
   }
 }

@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=domains.squarespace.com",
-    "tested_at": "2026-09-30T20:13:27.038Z"
+    "tested_at": "2026-10-01T06:38:39.769Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.139Z",
+  "scanned_at": "2026-10-01T06:38:53.321Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=domains.squarespace.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:53.321Z"
+  },
   "trackers": {
     "url": "https://domains.squarespace.com",
     "found": [
@@ -22,6 +28,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:57.269Z"
+    "tested_at": "2026-10-01T06:38:27.916Z"
   }
 }

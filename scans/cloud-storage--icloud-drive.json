@@ -6,12 +6,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
-    "tested_at": "2026-09-30T20:14:56.849Z"
+    "tested_at": "2026-10-01T06:38:12.896Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.217Z",
+  "scanned_at": "2026-10-01T06:39:49.183Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 3,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.icloud.com&hideResults=on",
+    "tested_at": "2026-10-01T06:39:49.183Z"
+  },
   "trackers": {
     "url": "https://www.icloud.com/iclouddrive",
     "found": [],
-    "tested_at": "2026-09-30T20:39:23.645Z"
+    "tested_at": "2026-10-01T06:38:51.043Z"
   }
 }

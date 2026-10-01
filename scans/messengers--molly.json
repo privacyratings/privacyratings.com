@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.092Z",
+  "github": {
+    "repo": "mollyim/mollyim-android",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:10.415Z"
+  },
+  "scanned_at": "2026-10-01T06:38:22.511Z",
   "trackers": {
     "url": "https://molly.im",
     "found": [],
-    "tested_at": "2026-09-30T20:38:48.266Z"
+    "tested_at": "2026-10-01T06:38:22.511Z"
   }
 }

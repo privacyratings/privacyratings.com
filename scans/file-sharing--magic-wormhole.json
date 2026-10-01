@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.224Z",
+  "github": {
+    "repo": "magic-wormhole/magic-wormhole",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:20.167Z"
+  },
+  "scanned_at": "2026-10-01T06:38:52.356Z",
   "trackers": {
     "url": "https://magic-wormhole.readthedocs.io/en/latest/",
     "found": [],
-    "tested_at": "2026-09-30T20:39:24.892Z"
+    "tested_at": "2026-10-01T06:38:52.356Z"
   }
 }

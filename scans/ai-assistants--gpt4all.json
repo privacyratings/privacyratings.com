@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.209Z",
+  "github": {
+    "repo": "nomic-ai/gpt4all",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:19.655Z"
+  },
+  "scanned_at": "2026-10-01T06:38:49.803Z",
   "trackers": {
     "url": "https://www.nomic.ai/gpt4all",
     "found": [
@@ -20,6 +26,6 @@
         "host": "snap.licdn.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:22.765Z"
+    "tested_at": "2026-10-01T06:38:49.803Z"
   }
 }

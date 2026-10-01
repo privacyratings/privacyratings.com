@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.188Z",
+  "github": {
+    "repo": "tasks/tasks",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:17.377Z"
+  },
+  "scanned_at": "2026-10-01T06:38:42.833Z",
   "trackers": {
     "url": "https://tasks.org",
     "found": [
@@ -14,6 +20,6 @@
         "host": "us.i.posthog.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:14.901Z"
+    "tested_at": "2026-10-01T06:38:42.833Z"
   }
 }

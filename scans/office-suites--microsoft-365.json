@@ -2,16 +2,22 @@
   "domain": "m365.cloud.microsoft",
   "observatory": {
     "grade": "A+",
-    "score": 115,
+    "score": 110,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
-    "tested_at": "2026-09-30T20:13:43.891Z"
+    "tested_at": "2026-10-01T06:38:44.909Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.192Z",
+  "scanned_at": "2026-10-01T06:38:54.766Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=m365.cloud.microsoft&hideResults=on",
+    "tested_at": "2026-10-01T06:38:54.766Z"
+  },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365",
     "found": [],
-    "tested_at": "2026-09-30T20:39:18.015Z"
+    "tested_at": "2026-10-01T06:38:45.383Z"
   }
 }

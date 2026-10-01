@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=chat.mistral.ai",
-    "tested_at": "2026-09-30T20:14:50.889Z"
+    "tested_at": "2026-10-01T06:38:52.369Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.213Z",
+  "scanned_at": "2026-10-01T06:39:10.265Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 8,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=chat.mistral.ai&hideResults=on",
+    "tested_at": "2026-10-01T06:39:10.265Z"
+  },
   "trackers": {
     "url": "https://mistral.ai/products/vibe/",
     "found": [
@@ -17,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:23.274Z"
+    "tested_at": "2026-10-01T06:38:50.319Z"
   }
 }

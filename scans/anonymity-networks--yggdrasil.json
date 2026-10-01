@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.150Z",
+  "github": {
+    "repo": "yggdrasil-network/yggdrasil-go",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.848Z"
+  },
+  "scanned_at": "2026-10-01T06:38:30.143Z",
   "trackers": {
     "url": "https://yggdrasil-network.github.io",
     "found": [],
-    "tested_at": "2026-09-30T20:39:00.778Z"
+    "tested_at": "2026-10-01T06:38:30.142Z"
   }
 }

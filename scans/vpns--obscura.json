@@ -1,17 +1,29 @@
 {
   "domain": "obscura.com",
+  "github": {
+    "repo": "Sovereign-Engineering/obscuravpn-client",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.980Z"
+  },
   "observatory": {
     "grade": "C+",
     "score": 60,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=obscura.com",
-    "tested_at": "2026-09-30T20:12:26.545Z"
+    "tested_at": "2026-10-01T06:38:24.897Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.125Z",
+  "scanned_at": "2026-10-01T06:38:25.549Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=obscura.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:10.643Z"
+  },
   "trackers": {
     "url": "https://obscura.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:52.590Z"
+    "tested_at": "2026-10-01T06:38:25.524Z"
   }
 }

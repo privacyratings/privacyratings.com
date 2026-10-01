@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.052Z",
+  "github": {
+    "repo": "qutebrowser/qutebrowser",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:07.148Z"
+  },
+  "scanned_at": "2026-10-01T06:38:14.858Z",
   "trackers": {
     "url": "https://qutebrowser.org",
     "found": [],
-    "tested_at": "2026-09-30T20:38:39.480Z"
+    "tested_at": "2026-10-01T06:38:14.858Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.180Z",
+  "github": {
+    "repo": "siyuan-note/siyuan",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:16.053Z"
+  },
+  "scanned_at": "2026-10-01T06:38:38.483Z",
   "trackers": {
     "url": "https://b3log.org/siyuan/en/",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:11.520Z"
+    "tested_at": "2026-10-01T06:38:38.483Z"
   }
 }

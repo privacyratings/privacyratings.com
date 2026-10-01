@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.tunnelbear.com",
-    "tested_at": "2026-09-30T20:12:42.090Z"
+    "tested_at": "2026-10-01T06:38:26.217Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.127Z",
+  "scanned_at": "2026-10-01T06:38:26.938Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.tunnelbear.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:11.102Z"
+  },
   "trackers": {
     "url": "https://www.tunnelbear.com",
     "found": [
@@ -19,6 +25,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:52.960Z"
+    "tested_at": "2026-10-01T06:38:25.777Z"
   }
 }

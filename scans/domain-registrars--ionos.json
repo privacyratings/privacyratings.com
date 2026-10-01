@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ionos.com",
-    "tested_at": "2026-09-30T20:13:20.953Z"
+    "tested_at": "2026-10-01T06:38:37.766Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.136Z",
+  "scanned_at": "2026-10-01T06:38:52.983Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.ionos.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:52.983Z"
+  },
   "trackers": {
     "url": "https://www.ionos.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:56.675Z"
+    "tested_at": "2026-10-01T06:38:27.669Z"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.098Z",
+  "scanned_at": "2026-10-01T06:38:22.781Z",
   "trackers": {
     "url": "https://discord.com",
     "found": [
@@ -13,6 +13,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:48.955Z"
+    "tested_at": "2026-10-01T06:38:22.781Z"
   }
 }

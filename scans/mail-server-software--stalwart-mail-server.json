@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.049Z",
+  "github": {
+    "repo": "stalwartlabs/stalwart",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:06.772Z"
+  },
+  "scanned_at": "2026-10-01T06:38:13.436Z",
   "trackers": {
     "url": "https://stalw.art",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:37.832Z"
+    "tested_at": "2026-10-01T06:38:13.436Z"
   }
 }

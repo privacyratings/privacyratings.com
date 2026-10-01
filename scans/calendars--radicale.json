@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.182Z",
+  "github": {
+    "repo": "Kozea/Radicale",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:16.722Z"
+  },
+  "scanned_at": "2026-10-01T06:38:39.674Z",
   "trackers": {
     "url": "https://radicale.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:13.033Z"
+    "tested_at": "2026-10-01T06:38:39.674Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.060Z",
+  "github": {
+    "repo": "ImranR98/Obtainium",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.455Z"
+  },
+  "scanned_at": "2026-10-01T06:38:17.282Z",
   "trackers": {
     "url": "https://obtainium.imranr.dev",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:42.506Z"
+    "tested_at": "2026-10-01T06:38:17.282Z"
   }
 }

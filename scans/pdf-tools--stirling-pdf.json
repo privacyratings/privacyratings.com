@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.195Z",
+  "github": {
+    "repo": "Stirling-Tools/Stirling-PDF",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:18.291Z"
+  },
+  "scanned_at": "2026-10-01T06:38:46.226Z",
   "trackers": {
     "url": "https://www.stirling.com",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:19.299Z"
+    "tested_at": "2026-10-01T06:38:46.226Z"
   }
 }

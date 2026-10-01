@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.225Z",
+  "github": {
+    "repo": "schlagmichdoch/PairDrop",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:20.292Z"
+  },
+  "scanned_at": "2026-10-01T06:38:52.926Z",
   "trackers": {
     "url": "https://pairdrop.net",
     "found": [],
-    "tested_at": "2026-09-30T20:39:25.424Z"
+    "tested_at": "2026-10-01T06:38:52.926Z"
   }
 }

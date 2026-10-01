@@ -1,17 +1,29 @@
 {
   "domain": "controld.com",
+  "github": {
+    "repo": "Control-D-Inc/ctrld",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.124Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 75,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=controld.com",
-    "tested_at": "2026-09-30T20:12:44.498Z"
+    "tested_at": "2026-10-01T06:38:26.776Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.128Z",
+  "scanned_at": "2026-10-01T06:38:26.935Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=controld.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:11.297Z"
+  },
   "trackers": {
     "url": "https://controld.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:53.269Z"
+    "tested_at": "2026-10-01T06:38:25.766Z"
   }
 }

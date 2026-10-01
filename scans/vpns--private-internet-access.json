@@ -1,14 +1,26 @@
 {
   "domain": "www.privateinternetaccess.com",
+  "github": {
+    "repo": "pia-foss/desktop",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.054Z"
+  },
   "observatory": {
     "grade": "F",
     "score": 20,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.privateinternetaccess.com",
-    "tested_at": "2026-09-30T20:12:39.497Z"
+    "tested_at": "2026-10-01T06:38:25.108Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.126Z",
+  "scanned_at": "2026-10-01T06:38:25.847Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.privateinternetaccess.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:10.789Z"
+  },
   "trackers": {
     "url": "https://www.privateinternetaccess.com",
     "found": [
@@ -37,6 +49,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:52.888Z"
+    "tested_at": "2026-10-01T06:38:25.547Z"
   }
 }

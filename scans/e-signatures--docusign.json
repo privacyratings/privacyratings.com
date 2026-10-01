@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=apps.docusign.com",
-    "tested_at": "2026-09-30T20:13:50.566Z"
+    "tested_at": "2026-10-01T06:38:47.175Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.196Z",
+  "scanned_at": "2026-10-01T06:38:55.293Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 3,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=apps.docusign.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:55.293Z"
+  },
   "trackers": {
     "url": "https://www.docusign.com",
     "found": [
@@ -17,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:19.675Z"
+    "tested_at": "2026-10-01T06:38:46.698Z"
   }
 }

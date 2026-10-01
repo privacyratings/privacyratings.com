@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.059Z",
+  "github": {
+    "repo": "raindropio/app",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.262Z"
+  },
+  "scanned_at": "2026-10-01T06:38:16.622Z",
   "trackers": {
     "url": "https://raindrop.io",
     "found": [],
-    "tested_at": "2026-09-30T20:38:42.121Z"
+    "tested_at": "2026-10-01T06:38:16.622Z"
   }
 }

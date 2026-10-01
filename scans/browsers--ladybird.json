@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.051Z",
+  "github": {
+    "repo": "LadybirdBrowser/ladybird",
+    "license": "BSD-2-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:06.977Z"
+  },
+  "scanned_at": "2026-10-01T06:38:13.996Z",
   "trackers": {
     "url": "https://ladybird.org",
     "found": [],
-    "tested_at": "2026-09-30T20:38:38.593Z"
+    "tested_at": "2026-10-01T06:38:13.996Z"
   }
 }

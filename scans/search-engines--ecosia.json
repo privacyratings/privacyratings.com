@@ -6,11 +6,17 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ecosia.org",
-    "tested_at": "2026-09-30T20:11:03.020Z"
+    "tested_at": "2026-10-01T06:38:09.137Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.056Z",
+  "scanned_at": "2026-10-01T06:38:15.403Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.ecosia.org&hideResults=on",
+    "tested_at": "2026-10-01T06:38:06.903Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:38:40.372Z"
+    "tested_at": "2026-10-01T06:38:15.403Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.167Z",
+  "github": {
+    "repo": "florisboard/florisboard",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:14.526Z"
+  },
+  "scanned_at": "2026-10-01T06:38:33.675Z",
   "trackers": {
     "url": "https://florisboard.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:06.270Z"
+    "tested_at": "2026-10-01T06:38:33.675Z"
   }
 }

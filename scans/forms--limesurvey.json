@@ -1,14 +1,26 @@
 {
   "domain": "account.limesurvey.org",
+  "github": {
+    "repo": "LimeSurvey/LimeSurvey",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:18.756Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 75,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.limesurvey.org",
-    "tested_at": "2026-09-30T20:13:57.061Z"
+    "tested_at": "2026-10-01T06:38:48.681Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.198Z",
+  "scanned_at": "2026-10-01T06:38:55.705Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=account.limesurvey.org&hideResults=on",
+    "tested_at": "2026-10-01T06:38:55.705Z"
+  },
   "trackers": {
     "url": "https://www.limesurvey.org",
     "found": [
@@ -17,6 +29,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:39:20.620Z"
+    "tested_at": "2026-10-01T06:38:47.699Z"
   }
 }

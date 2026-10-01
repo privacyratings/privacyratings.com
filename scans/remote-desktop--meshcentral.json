@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.161Z",
+  "github": {
+    "repo": "Ylianst/MeshCentral",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:13.732Z"
+  },
+  "scanned_at": "2026-10-01T06:38:31.206Z",
   "trackers": {
     "url": "https://meshcentral.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:02.533Z"
+    "tested_at": "2026-10-01T06:38:31.206Z"
   }
 }

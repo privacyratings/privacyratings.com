@@ -1,14 +1,26 @@
 {
   "domain": "app.documenso.com",
+  "github": {
+    "repo": "documenso/documenso",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:18.513Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 75,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.documenso.com",
-    "tested_at": "2026-09-30T20:13:48.910Z"
+    "tested_at": "2026-10-01T06:38:46.368Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.195Z",
+  "scanned_at": "2026-10-01T06:38:55.066Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 12,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.documenso.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:55.066Z"
+  },
   "trackers": {
     "url": "https://documenso.com",
     "found": [
@@ -24,6 +36,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:19.544Z"
+    "tested_at": "2026-10-01T06:38:46.509Z"
   }
 }

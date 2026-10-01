@@ -1,17 +1,29 @@
 {
   "domain": "crab.fit",
+  "github": {
+    "repo": "GRA0007/crab.fit",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:16.890Z"
+  },
   "observatory": {
     "grade": "C",
     "score": 50,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=crab.fit",
-    "tested_at": "2026-09-30T20:13:42.694Z"
+    "tested_at": "2026-10-01T06:38:44.815Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.183Z",
+  "scanned_at": "2026-10-01T06:38:54.689Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=crab.fit&hideResults=on",
+    "tested_at": "2026-10-01T06:38:54.688Z"
+  },
   "trackers": {
     "url": "https://crab.fit",
     "found": [],
-    "tested_at": "2026-09-30T20:39:13.438Z"
+    "tested_at": "2026-10-01T06:38:40.488Z"
   }
 }

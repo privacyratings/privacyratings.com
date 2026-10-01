@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.exoscale.com",
-    "tested_at": "2026-09-30T20:13:29.637Z"
+    "tested_at": "2026-10-01T06:38:41.259Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.140Z",
+  "scanned_at": "2026-10-01T06:38:53.508Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=portal.exoscale.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:53.508Z"
+  },
   "trackers": {
     "url": "https://www.exoscale.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:57.865Z"
+    "tested_at": "2026-10-01T06:38:28.342Z"
   }
 }

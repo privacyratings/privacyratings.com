@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.118Z",
+  "scanned_at": "2026-10-01T06:38:24.879Z",
   "trackers": {
     "url": "https://www.zoiper.com",
     "found": [
@@ -31,6 +31,7 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:52.104Z"
+    "tested_at": "2026-09-30T20:38:52.104Z",
+    "last_error": "HTTP 403"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.214Z",
+  "github": {
+    "repo": "open-webui/open-webui",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:19.856Z"
+  },
+  "scanned_at": "2026-10-01T06:38:50.999Z",
   "trackers": {
     "url": "https://openwebui.com",
     "found": [
@@ -22,6 +28,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:23.373Z"
+    "tested_at": "2026-10-01T06:38:50.999Z"
   }
 }

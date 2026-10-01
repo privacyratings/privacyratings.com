@@ -6,12 +6,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forms.cloud.microsoft",
-    "tested_at": "2026-09-30T20:13:59.213Z"
+    "tested_at": "2026-10-01T06:38:48.831Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.198Z",
+  "scanned_at": "2026-10-01T06:38:55.764Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=forms.cloud.microsoft&hideResults=on",
+    "tested_at": "2026-10-01T06:38:55.764Z"
+  },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes",
     "found": [],
-    "tested_at": "2026-09-30T20:39:19.901Z"
+    "tested_at": "2026-10-01T06:38:47.300Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.047Z",
+  "github": {
+    "repo": "dovecot/core",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:06.326Z"
+  },
+  "scanned_at": "2026-10-01T06:38:12.693Z",
   "trackers": {
     "url": "https://dovecot.org",
     "found": [],
-    "tested_at": "2026-09-30T20:38:37.169Z"
+    "tested_at": "2026-10-01T06:38:12.693Z"
   }
 }

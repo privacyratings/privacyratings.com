@@ -1,17 +1,23 @@
 {
   "domain": "copilot.microsoft.com",
   "observatory": {
-    "grade": "A+",
-    "score": 100,
-    "tests_passed": 10,
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=copilot.microsoft.com",
-    "tested_at": "2026-09-30T20:14:41.586Z"
+    "tested_at": "2026-10-01T06:38:51.952Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.213Z",
+  "scanned_at": "2026-10-01T06:39:10.193Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=copilot.microsoft.com&hideResults=on",
+    "tested_at": "2026-10-01T06:39:10.193Z"
+  },
   "trackers": {
-    "url": "https://copilot.com/?fromcode=cmmlf487uwy&sessionId=d663a966-834b-40d9-840a-91fbcf779218&",
+    "url": "https://copilot.microsoft.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:23.386Z"
+    "tested_at": "2026-10-01T06:38:50.177Z"
   }
 }

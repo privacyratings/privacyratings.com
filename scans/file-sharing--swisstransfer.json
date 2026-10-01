@@ -1,17 +1,29 @@
 {
   "domain": "www.swisstransfer.com",
+  "github": {
+    "repo": "Infomaniak/android-SwissTransfer",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:20.293Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 70,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.swisstransfer.com",
-    "tested_at": "2026-09-30T20:15:12.165Z"
+    "tested_at": "2026-10-01T06:39:02.396Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.226Z",
+  "scanned_at": "2026-10-01T06:39:49.742Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.swisstransfer.com&hideResults=on",
+    "tested_at": "2026-10-01T06:39:49.742Z"
+  },
   "trackers": {
     "url": "https://www.swisstransfer.com/en",
     "found": [],
-    "tested_at": "2026-09-30T20:39:25.582Z"
+    "tested_at": "2026-10-01T06:38:53.289Z"
   }
 }

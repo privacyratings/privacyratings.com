@@ -1,17 +1,29 @@
 {
   "domain": "app.keila.io",
+  "github": {
+    "repo": "pentacent/keila",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.207Z"
+  },
   "observatory": {
     "grade": "D",
     "score": 35,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.keila.io",
-    "tested_at": "2026-09-30T20:12:04.460Z"
+    "tested_at": "2026-10-01T06:38:18.016Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.112Z",
+  "scanned_at": "2026-10-01T06:38:24.570Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.keila.io&hideResults=on",
+    "tested_at": "2026-10-01T06:38:09.251Z"
+  },
   "trackers": {
     "url": "https://www.keila.io",
     "found": [],
-    "tested_at": "2026-09-30T20:38:50.861Z"
+    "tested_at": "2026-10-01T06:38:24.570Z"
   }
 }

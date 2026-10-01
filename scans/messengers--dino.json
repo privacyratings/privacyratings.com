@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.090Z",
+  "github": {
+    "repo": "dino/dino",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:10.323Z"
+  },
+  "scanned_at": "2026-10-01T06:38:22.616Z",
   "trackers": {
     "url": "https://dino.im",
     "found": [],
-    "tested_at": "2026-09-30T20:38:48.261Z"
+    "tested_at": "2026-10-01T06:38:22.616Z"
   }
 }

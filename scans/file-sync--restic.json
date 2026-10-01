@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.191Z",
+  "github": {
+    "repo": "restic/restic",
+    "license": "BSD-2-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:17.817Z"
+  },
+  "scanned_at": "2026-10-01T06:38:45.096Z",
   "trackers": {
     "url": "https://restic.net",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:17.118Z"
+    "tested_at": "2026-10-01T06:38:45.096Z"
   }
 }

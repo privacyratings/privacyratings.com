@@ -1,14 +1,26 @@
 {
   "domain": "app.getoutline.com",
+  "github": {
+    "repo": "outline/outline",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:16.440Z"
+  },
   "observatory": {
     "grade": "A+",
     "score": 110,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.getoutline.com",
-    "tested_at": "2026-09-30T20:13:39.632Z"
+    "tested_at": "2026-10-01T06:38:44.101Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.181Z",
+  "scanned_at": "2026-10-01T06:38:54.467Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.getoutline.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:54.467Z"
+  },
   "trackers": {
     "url": "https://www.getoutline.com",
     "found": [
@@ -19,6 +31,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:12.163Z"
+    "tested_at": "2026-10-01T06:38:39.003Z"
   }
 }

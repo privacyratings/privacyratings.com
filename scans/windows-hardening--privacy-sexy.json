@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.175Z",
+  "github": {
+    "repo": "undergroundwires/privacy.sexy",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:15.269Z"
+  },
+  "scanned_at": "2026-10-01T06:38:35.894Z",
   "trackers": {
     "url": "https://privacy.sexy",
     "found": [],
-    "tested_at": "2026-09-30T20:39:08.504Z"
+    "tested_at": "2026-10-01T06:38:35.894Z"
   }
 }

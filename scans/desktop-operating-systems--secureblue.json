@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.173Z",
+  "github": {
+    "repo": "secureblue/secureblue",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:14.861Z"
+  },
+  "scanned_at": "2026-10-01T06:38:34.935Z",
   "trackers": {
     "url": "https://secureblue.dev",
     "found": [],
-    "tested_at": "2026-09-30T20:39:07.962Z"
+    "tested_at": "2026-10-01T06:38:34.935Z"
   }
 }

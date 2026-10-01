@@ -6,9 +6,15 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.joindns4.eu",
-    "tested_at": "2026-09-30T20:12:54.577Z"
+    "tested_at": "2026-10-01T06:38:27.545Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.130Z",
+  "scanned_at": "2026-10-01T06:38:28.441Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.joindns4.eu&hideResults=on",
+    "tested_at": "2026-10-01T06:38:12.129Z"
+  },
   "trackers": {
     "url": "https://joindns4.eu",
     "found": [
@@ -21,6 +27,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:54.700Z"
+    "tested_at": "2026-10-01T06:38:26.589Z"
   }
 }

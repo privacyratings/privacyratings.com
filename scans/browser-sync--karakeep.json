@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.058Z",
+  "github": {
+    "repo": "karakeep-app/karakeep",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.066Z"
+  },
+  "scanned_at": "2026-10-01T06:38:16.259Z",
   "trackers": {
     "url": "https://karakeep.app",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:41.624Z"
+    "tested_at": "2026-10-01T06:38:16.259Z"
   }
 }

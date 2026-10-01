@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.173Z",
+  "scanned_at": "2026-10-01T06:38:37.358Z",
   "trackers": {
     "url": "https://system76.com/pop",
     "found": [
@@ -26,6 +26,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:08.230Z"
+    "tested_at": "2026-10-01T06:38:37.358Z"
   }
 }

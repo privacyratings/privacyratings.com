@@ -1,14 +1,20 @@
 {
   "domain": "console.cloud.google.com",
   "observatory": {
-    "grade": "B",
-    "score": 70,
-    "tests_passed": 9,
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.cloud.google.com",
-    "tested_at": "2026-09-30T20:13:32.468Z"
+    "tested_at": "2026-10-01T06:38:41.230Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.141Z",
+  "scanned_at": "2026-10-01T06:38:53.676Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 10,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=console.cloud.google.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:53.676Z"
+  },
   "trackers": {
     "url": "https://cloud.google.com",
     "found": [
@@ -22,6 +28,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:38:57.378Z"
+    "tested_at": "2026-10-01T06:38:28.162Z"
   }
 }

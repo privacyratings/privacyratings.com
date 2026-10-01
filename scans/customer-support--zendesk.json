@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.zendesk.com",
-    "tested_at": "2026-09-30T20:12:13.818Z"
+    "tested_at": "2026-10-01T06:38:21.320Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.118Z",
+  "scanned_at": "2026-10-01T06:38:24.654Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.zendesk.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:09.919Z"
+  },
   "trackers": {
     "url": "https://www.zendesk.com",
     "found": [
@@ -22,6 +28,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:51.600Z"
+    "tested_at": "2026-10-01T06:38:24.654Z"
   }
 }

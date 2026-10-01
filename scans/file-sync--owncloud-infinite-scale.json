@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.190Z",
+  "github": {
+    "repo": "owncloud/ocis",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:17.769Z"
+  },
+  "scanned_at": "2026-10-01T06:38:44.364Z",
   "trackers": {
     "url": "https://owncloud.com/infinite-scale/",
     "found": [
@@ -17,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:16.925Z"
+    "tested_at": "2026-10-01T06:38:44.364Z"
   }
 }

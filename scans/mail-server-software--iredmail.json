@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.047Z",
+  "github": {
+    "repo": "iredmail/iRedMail",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:06.429Z"
+  },
+  "scanned_at": "2026-10-01T06:38:12.662Z",
   "trackers": {
     "url": "https://www.iredmail.org",
     "found": [],
-    "tested_at": "2026-09-30T20:38:37.531Z"
+    "tested_at": "2026-10-01T06:38:12.662Z"
   }
 }

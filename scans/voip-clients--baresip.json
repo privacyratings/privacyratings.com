@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.118Z",
+  "github": {
+    "repo": "baresip/baresip",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.621Z"
+  },
+  "scanned_at": "2026-10-01T06:38:24.632Z",
   "trackers": {
     "url": "https://github.com/baresip/baresip",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:38:51.329Z"
+    "tested_at": "2026-10-01T06:38:24.632Z"
   }
 }

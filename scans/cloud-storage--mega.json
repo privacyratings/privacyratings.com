@@ -1,16 +1,34 @@
 {
   "domain": "mega.nz",
+  "github": {
+    "repo": "meganz/android",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:19.957Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 75,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mega.nz",
-    "tested_at": "2026-09-30T20:15:02.920Z"
+    "tested_at": "2026-10-01T06:38:56.734Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.218Z",
+  "scanned_at": "2026-10-01T06:39:49.356Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mega.nz&hideResults=on",
+    "tested_at": "2026-10-01T06:39:49.356Z"
+  },
   "trackers": {
-    "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:39:23.570Z"
+    "url": "https://mega.io",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-10-01T06:38:51.927Z"
   }
 }

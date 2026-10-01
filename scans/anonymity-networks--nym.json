@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.149Z",
+  "github": {
+    "repo": "nymtech/nym",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.731Z"
+  },
+  "scanned_at": "2026-10-01T06:38:30.861Z",
   "trackers": {
     "url": "https://nym.com/mixnet",
     "found": [],
-    "tested_at": "2026-09-30T20:39:01.441Z"
+    "tested_at": "2026-10-01T06:38:30.861Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.059Z",
+  "github": {
+    "repo": "accrescent/accrescent",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.330Z"
+  },
+  "scanned_at": "2026-10-01T06:38:16.494Z",
   "trackers": {
     "url": "https://accrescent.app",
     "found": [],
-    "tested_at": "2026-09-30T20:38:42.214Z"
+    "tested_at": "2026-10-01T06:38:16.494Z"
   }
 }

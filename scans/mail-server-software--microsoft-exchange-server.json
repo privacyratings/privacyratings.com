@@ -1,8 +1,9 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.048Z",
+  "scanned_at": "2026-10-01T06:38:14.611Z",
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-server",
     "found": [],
-    "tested_at": "2026-09-30T20:38:36.716Z"
+    "tested_at": "2026-09-30T20:38:36.716Z",
+    "last_error": "HTTP 404"
   }
 }

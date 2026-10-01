@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.177Z",
+  "github": {
+    "repo": "toeverything/AFFiNE",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:15.569Z"
+  },
+  "scanned_at": "2026-10-01T06:38:37.027Z",
   "trackers": {
     "url": "https://affine.pro",
     "found": [
@@ -19,6 +25,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:39:10.130Z"
+    "tested_at": "2026-10-01T06:38:37.027Z"
   }
 }

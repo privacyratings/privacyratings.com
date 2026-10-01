@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.230Z",
+  "scanned_at": "2026-10-01T06:38:53.745Z",
   "trackers": {
     "url": "https://streaksapp.com",
     "found": [
@@ -9,6 +9,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:25.769Z"
+    "tested_at": "2026-10-01T06:38:53.745Z"
   }
 }

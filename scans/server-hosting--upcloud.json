@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hub.upcloud.com",
-    "tested_at": "2026-09-30T20:13:37.994Z"
+    "tested_at": "2026-10-01T06:38:42.970Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.143Z",
+  "scanned_at": "2026-10-01T06:38:54.354Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hub.upcloud.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:54.353Z"
+  },
   "trackers": {
     "url": "https://upcloud.com",
     "found": [
@@ -17,6 +23,7 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:58.499Z"
+    "tested_at": "2026-09-30T20:38:58.499Z",
+    "last_error": "HTTP 403"
   }
 }

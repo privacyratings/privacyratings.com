@@ -3,9 +3,9 @@
     "repo": "fastrepl/anarlog",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T06:29:14.616Z"
+    "checked_at": "2026-10-01T06:38:05.558Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.019Z",
+  "scanned_at": "2026-10-01T06:38:06.065Z",
   "trackers": {
     "url": "https://anarlog.so",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:32.752Z"
+    "tested_at": "2026-10-01T06:38:06.065Z"
   }
 }

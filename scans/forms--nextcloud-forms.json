@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.198Z",
+  "github": {
+    "repo": "nextcloud/forms",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:18.745Z"
+  },
+  "scanned_at": "2026-10-01T06:38:47.905Z",
   "trackers": {
     "url": "https://apps.nextcloud.com/apps/forms",
     "found": [],
-    "tested_at": "2026-09-30T20:39:22.075Z"
+    "tested_at": "2026-10-01T06:38:47.904Z"
   }
 }

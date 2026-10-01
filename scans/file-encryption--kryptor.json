@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.075Z",
+  "github": {
+    "repo": "samuel-lucas6/Kryptor",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:09.644Z"
+  },
+  "scanned_at": "2026-10-01T06:38:19.255Z",
   "trackers": {
     "url": "https://www.kryptor.co.uk",
     "found": [],
-    "tested_at": "2026-09-30T20:38:45.451Z"
+    "tested_at": "2026-10-01T06:38:19.255Z"
   }
 }

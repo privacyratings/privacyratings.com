@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.176Z",
+  "github": {
+    "repo": "northpolesec/santa",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:15.520Z"
+  },
+  "scanned_at": "2026-10-01T06:38:36.305Z",
   "trackers": {
     "url": "https://northpole.dev",
     "found": [
@@ -18,6 +24,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:08.883Z"
+    "tested_at": "2026-10-01T06:38:36.305Z"
   }
 }

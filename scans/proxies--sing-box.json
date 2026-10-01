@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.153Z",
+  "github": {
+    "repo": "SagerNet/sing-box",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:13.084Z"
+  },
+  "scanned_at": "2026-10-01T06:38:30.480Z",
   "trackers": {
     "url": "https://sing-box.sagernet.org",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:01.816Z"
+    "tested_at": "2026-10-01T06:38:30.480Z"
   }
 }

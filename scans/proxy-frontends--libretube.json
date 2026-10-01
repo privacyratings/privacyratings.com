@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.061Z",
+  "github": {
+    "repo": "libre-tube/LibreTube",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.606Z"
+  },
+  "scanned_at": "2026-10-01T06:38:17.466Z",
   "trackers": {
     "url": "https://libretube.dev",
     "found": [],
-    "tested_at": "2026-09-30T20:38:42.658Z"
+    "tested_at": "2026-10-01T06:38:17.466Z"
   }
 }

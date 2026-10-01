@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.144Z",
+  "github": {
+    "repo": "healthchecks/healthchecks",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.294Z"
+  },
+  "scanned_at": "2026-10-01T06:38:28.936Z",
   "trackers": {
     "url": "https://healthchecks.io",
     "found": [],
-    "tested_at": "2026-09-30T20:38:59.205Z"
+    "tested_at": "2026-10-01T06:38:28.936Z"
   }
 }

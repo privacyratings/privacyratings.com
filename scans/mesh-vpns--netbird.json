@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.157Z",
+  "github": {
+    "repo": "netbirdio/netbird",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:13.470Z"
+  },
+  "scanned_at": "2026-10-01T06:38:30.661Z",
   "trackers": {
     "url": "https://netbird.io",
     "found": [],
-    "tested_at": "2026-09-30T20:39:01.987Z"
+    "tested_at": "2026-10-01T06:38:30.661Z"
   }
 }

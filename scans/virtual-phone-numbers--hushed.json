@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hushed.com",
-    "tested_at": "2026-09-30T20:12:15.302Z"
+    "tested_at": "2026-10-01T06:38:21.938Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.119Z",
+  "scanned_at": "2026-10-01T06:38:25.045Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hushed.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:10.279Z"
+  },
   "trackers": {
     "url": "https://hushed.com",
     "found": [
@@ -27,6 +33,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:51.992Z"
+    "tested_at": "2026-10-01T06:38:25.044Z"
   }
 }

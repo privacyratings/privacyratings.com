@@ -1,14 +1,26 @@
 {
   "domain": "www.phplist.com",
+  "github": {
+    "repo": "phpList/phplist3",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.352Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 70,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.phplist.com",
-    "tested_at": "2026-09-30T20:12:07.374Z"
+    "tested_at": "2026-10-01T06:38:19.487Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.114Z",
+  "scanned_at": "2026-10-01T06:38:24.632Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.phplist.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:09.539Z"
+  },
   "trackers": {
     "url": "https://www.phplist.org",
     "found": [
@@ -21,6 +33,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:51.166Z"
+    "tested_at": "2026-10-01T06:38:24.632Z"
   }
 }

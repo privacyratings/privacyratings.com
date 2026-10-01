@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dnsimple.com",
-    "tested_at": "2026-09-30T20:13:14.742Z"
+    "tested_at": "2026-10-01T06:38:34.519Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.133Z",
+  "scanned_at": "2026-10-01T06:39:09.116Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dnsimple.com&hideResults=on",
+    "tested_at": "2026-10-01T06:39:09.115Z"
+  },
   "trackers": {
     "url": "https://dnsimple.com",
     "found": [
@@ -22,6 +28,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:55.761Z"
+    "tested_at": "2026-10-01T06:38:27.017Z"
   }
 }

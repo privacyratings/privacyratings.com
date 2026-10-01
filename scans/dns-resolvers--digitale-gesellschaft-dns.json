@@ -1,17 +1,29 @@
 {
   "domain": "www.digitale-gesellschaft.ch",
+  "github": {
+    "repo": "DigitaleGesellschaft/DNS-Resolver",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.183Z"
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.digitale-gesellschaft.ch",
-    "tested_at": "2026-09-30T20:12:45.017Z"
+    "tested_at": "2026-10-01T06:38:27.153Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.129Z",
+  "scanned_at": "2026-10-01T06:38:33.215Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.digitale-gesellschaft.ch&hideResults=on",
+    "tested_at": "2026-10-01T06:38:11.881Z"
+  },
   "trackers": {
     "url": "https://www.digitale-gesellschaft.ch/dns/",
     "found": [],
-    "tested_at": "2026-09-30T20:38:55.579Z"
+    "tested_at": "2026-10-01T06:38:27.405Z"
   }
 }

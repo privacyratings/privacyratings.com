@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.083Z",
+  "github": {
+    "repo": "emanuele-f/PCAPdroid",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:10.112Z"
+  },
+  "scanned_at": "2026-10-01T06:38:20.971Z",
   "trackers": {
     "url": "https://emanuele-f.github.io/PCAPdroid/",
     "found": [],
-    "tested_at": "2026-09-30T20:38:46.476Z"
+    "tested_at": "2026-10-01T06:38:20.971Z"
   }
 }

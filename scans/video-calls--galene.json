@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.106Z",
+  "github": {
+    "repo": "jech/galene",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.089Z"
+  },
+  "scanned_at": "2026-10-01T06:38:24.003Z",
   "trackers": {
     "url": "https://galene.org",
     "found": [],
-    "tested_at": "2026-09-30T20:38:50.455Z"
+    "tested_at": "2026-10-01T06:38:24.003Z"
   }
 }

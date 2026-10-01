@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cloud.magicplan.app",
-    "tested_at": "2026-09-30T20:10:56.342Z"
+    "tested_at": "2026-10-01T06:38:07.761Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.035Z",
+  "scanned_at": "2026-10-01T06:38:09.035Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 3,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cloud.magicplan.app&hideResults=on",
+    "tested_at": "2026-10-01T06:38:06.533Z"
+  },
   "trackers": {
     "url": "https://magicplan.app",
     "found": [
@@ -30,6 +36,6 @@
         "host": "js.hs-scripts.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:34.928Z"
+    "tested_at": "2026-10-01T06:38:09.035Z"
   }
 }

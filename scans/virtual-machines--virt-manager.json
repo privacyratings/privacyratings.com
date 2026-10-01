@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.177Z",
+  "github": {
+    "repo": "virt-manager/virt-manager",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:15.539Z"
+  },
+  "scanned_at": "2026-10-01T06:38:36.880Z",
   "trackers": {
     "url": "https://virt-manager.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:09.606Z"
+    "tested_at": "2026-10-01T06:38:36.880Z"
   }
 }

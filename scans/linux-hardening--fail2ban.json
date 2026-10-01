@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.175Z",
+  "github": {
+    "repo": "fail2ban/fail2ban",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:15.060Z"
+  },
+  "scanned_at": "2026-10-01T06:38:35.476Z",
   "trackers": {
     "url": "https://github.com/fail2ban/fail2ban",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:39:08.129Z"
+    "tested_at": "2026-10-01T06:38:35.476Z"
   }
 }

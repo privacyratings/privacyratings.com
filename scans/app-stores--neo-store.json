@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.060Z",
+  "github": {
+    "repo": "NeoApplications/Neo-Store",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.442Z"
+  },
+  "scanned_at": "2026-10-01T06:38:16.587Z",
   "trackers": {
     "url": "https://github.com/NeoApplications/Neo-Store",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:38:42.121Z"
+    "tested_at": "2026-10-01T06:38:16.587Z"
   }
 }

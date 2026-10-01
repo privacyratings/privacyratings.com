@@ -6,11 +6,17 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.spaceship.com",
-    "tested_at": "2026-09-30T20:13:26.684Z"
+    "tested_at": "2026-10-01T06:38:39.436Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.138Z",
+  "scanned_at": "2026-10-01T06:38:53.221Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.spaceship.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:53.221Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:38:57.126Z"
+    "tested_at": "2026-10-01T06:38:27.629Z"
   }
 }

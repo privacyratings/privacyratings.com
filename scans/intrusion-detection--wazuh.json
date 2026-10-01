@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.166Z",
+  "github": {
+    "repo": "wazuh/wazuh",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:14.408Z"
+  },
+  "scanned_at": "2026-10-01T06:38:32.177Z",
   "trackers": {
     "url": "https://wazuh.com",
     "found": [
@@ -8,6 +14,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:04.692Z"
+    "tested_at": "2026-10-01T06:38:32.177Z"
   }
 }

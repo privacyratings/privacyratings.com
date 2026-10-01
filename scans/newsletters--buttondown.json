@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=buttondown.com",
-    "tested_at": "2026-09-30T20:12:03.670Z"
+    "tested_at": "2026-10-01T06:38:17.670Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.112Z",
+  "scanned_at": "2026-10-01T06:38:23.897Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=buttondown.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:09.065Z"
+  },
   "trackers": {
     "url": "https://buttondown.com",
     "found": [
@@ -19,6 +25,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:50.484Z"
+    "tested_at": "2026-10-01T06:38:23.897Z"
   }
 }

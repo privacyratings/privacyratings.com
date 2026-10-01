@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.048Z",
+  "github": {
+    "repo": "mjl-/mox",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:06.552Z"
+  },
+  "scanned_at": "2026-10-01T06:38:13.665Z",
   "trackers": {
     "url": "https://www.xmox.nl",
     "found": [],
-    "tested_at": "2026-09-30T20:38:38.311Z"
+    "tested_at": "2026-10-01T06:38:13.665Z"
   }
 }

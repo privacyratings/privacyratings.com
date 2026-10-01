@@ -1,14 +1,26 @@
 {
   "domain": "my.heyform.net",
+  "github": {
+    "repo": "heyform/heyform",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:18.737Z"
+  },
   "observatory": {
     "grade": "C",
     "score": 50,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.heyform.net",
-    "tested_at": "2026-09-30T20:13:55.642Z"
+    "tested_at": "2026-10-01T06:38:48.327Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.197Z",
+  "scanned_at": "2026-10-01T06:38:55.617Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=my.heyform.net&hideResults=on",
+    "tested_at": "2026-10-01T06:38:55.617Z"
+  },
   "trackers": {
     "url": "https://heyform.net",
     "found": [
@@ -22,6 +34,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:20.702Z"
+    "tested_at": "2026-10-01T06:38:47.497Z"
   }
 }

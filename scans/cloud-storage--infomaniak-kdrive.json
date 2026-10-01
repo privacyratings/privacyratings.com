@@ -1,17 +1,29 @@
 {
   "domain": "kdrive.infomaniak.com",
+  "github": {
+    "repo": "Infomaniak/desktop-kDrive",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:19.900Z"
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kdrive.infomaniak.com",
-    "tested_at": "2026-09-30T20:14:57.513Z"
+    "tested_at": "2026-10-01T06:38:56.128Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.218Z",
+  "scanned_at": "2026-10-01T06:39:49.252Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kdrive.infomaniak.com&hideResults=on",
+    "tested_at": "2026-10-01T06:39:49.252Z"
+  },
   "trackers": {
     "url": "https://www.infomaniak.com/en/ksuite/kdrive",
     "found": [],
-    "tested_at": "2026-09-30T20:39:24.701Z"
+    "tested_at": "2026-10-01T06:38:52.117Z"
   }
 }

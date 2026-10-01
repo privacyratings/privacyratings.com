@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.057Z",
+  "github": {
+    "repo": "yacy/yacy_search_server",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.037Z"
+  },
+  "scanned_at": "2026-10-01T06:38:16.509Z",
   "trackers": {
     "url": "https://yacy.net",
     "found": [],
-    "tested_at": "2026-09-30T20:38:41.989Z"
+    "tested_at": "2026-10-01T06:38:16.509Z"
   }
 }

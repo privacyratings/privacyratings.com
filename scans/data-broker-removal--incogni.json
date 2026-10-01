@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=incogni.com",
-    "tested_at": "2026-09-30T20:11:57.732Z"
+    "tested_at": "2026-10-01T06:38:16.594Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.079Z",
+  "scanned_at": "2026-10-01T06:38:20.095Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=incogni.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:08.767Z"
+  },
   "trackers": {
     "url": "https://incogni.com",
     "found": [
@@ -22,6 +28,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:45.918Z"
+    "tested_at": "2026-10-01T06:38:20.095Z"
   }
 }

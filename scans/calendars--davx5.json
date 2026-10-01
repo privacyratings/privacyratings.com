@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.182Z",
+  "github": {
+    "repo": "bitfireAT/davx5-ose",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:16.654Z"
+  },
+  "scanned_at": "2026-10-01T06:38:40.007Z",
   "trackers": {
     "url": "https://www.davx5.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:12.818Z"
+    "tested_at": "2026-10-01T06:38:40.007Z"
   }
 }

@@ -6,11 +6,17 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kit.com",
-    "tested_at": "2026-09-30T20:12:06.501Z"
+    "tested_at": "2026-10-01T06:38:18.358Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.113Z",
+  "scanned_at": "2026-10-01T06:38:23.842Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kit.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:09.166Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:38:50.515Z"
+    "tested_at": "2026-10-01T06:38:23.842Z"
   }
 }

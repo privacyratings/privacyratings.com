@@ -6,12 +6,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.dropbox.com",
-    "tested_at": "2026-09-30T20:14:54.252Z"
+    "tested_at": "2026-10-01T06:38:54.967Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.216Z",
+  "scanned_at": "2026-10-01T06:40:51.041Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.dropbox.com&hideResults=on",
+    "tested_at": "2026-10-01T06:40:51.041Z"
+  },
   "trackers": {
     "url": "https://www.dropbox.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:25.085Z"
+    "tested_at": "2026-10-01T06:38:51.473Z"
   }
 }

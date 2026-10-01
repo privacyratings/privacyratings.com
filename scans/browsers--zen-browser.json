@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.053Z",
+  "github": {
+    "repo": "zen-browser/desktop",
+    "license": "MPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:07.241Z"
+  },
+  "scanned_at": "2026-10-01T06:38:14.595Z",
   "trackers": {
     "url": "https://zen-browser.app",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:39.188Z"
+    "tested_at": "2026-10-01T06:38:14.595Z"
   }
 }

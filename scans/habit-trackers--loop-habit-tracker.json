@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.229Z",
+  "github": {
+    "repo": "iSoron/uhabits",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:20.478Z"
+  },
+  "scanned_at": "2026-10-01T06:38:53.890Z",
   "trackers": {
     "url": "https://loophabits.org",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:26.460Z"
+    "tested_at": "2026-10-01T06:38:53.890Z"
   }
 }

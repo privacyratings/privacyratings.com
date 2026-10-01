@@ -6,12 +6,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=joker.com",
-    "tested_at": "2026-09-30T20:13:22.178Z"
+    "tested_at": "2026-10-01T06:38:38.039Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.136Z",
+  "scanned_at": "2026-10-01T06:38:53.036Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=joker.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:53.036Z"
+  },
   "trackers": {
     "url": "https://joker.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:57.408Z"
+    "tested_at": "2026-10-01T06:38:28.277Z"
   }
 }

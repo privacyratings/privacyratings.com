@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.060Z",
+  "scanned_at": "2026-10-01T06:38:16.940Z",
   "trackers": {
     "url": "https://auroraoss.com",
     "found": [
@@ -22,6 +22,7 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:42.189Z"
+    "tested_at": "2026-09-30T20:38:42.189Z",
+    "last_error": "HTTP 403"
   }
 }

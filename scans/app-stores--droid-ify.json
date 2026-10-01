@@ -1,8 +1,8 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.060Z",
+  "scanned_at": "2026-10-01T06:38:16.509Z",
   "trackers": {
     "url": "https://codeberg.org/droidify/client",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:38:41.989Z"
+    "tested_at": "2026-10-01T06:38:16.509Z"
   }
 }

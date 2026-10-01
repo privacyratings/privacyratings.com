@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.164Z",
+  "github": {
+    "repo": "FreshTomato-Project/freshtomato-arm",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:14.025Z"
+  },
+  "scanned_at": "2026-10-01T06:38:31.610Z",
   "trackers": {
     "url": "https://freshtomato.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:03.479Z"
+    "tested_at": "2026-10-01T06:38:31.610Z"
   }
 }

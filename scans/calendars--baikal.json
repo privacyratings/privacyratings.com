@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.181Z",
+  "github": {
+    "repo": "sabre-io/Baikal",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:16.620Z"
+  },
+  "scanned_at": "2026-10-01T06:38:39.197Z",
   "trackers": {
     "url": "https://sabre.io/baikal/",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:12.541Z"
+    "tested_at": "2026-10-01T06:38:39.197Z"
   }
 }

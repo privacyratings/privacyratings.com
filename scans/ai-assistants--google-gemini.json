@@ -1,8 +1,14 @@
 {
   "domain": "gemini.google.com",
-  "scanned_at": "2026-09-30T20:41:47.208Z",
+  "scanned_at": "2026-10-01T06:39:21.905Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 16,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=gemini.google.com&hideResults=on",
+    "tested_at": "2026-10-01T06:39:09.954Z"
+  },
   "trackers": {
-    "error": "fetch failed",
-    "tested_at": "2026-09-30T20:39:22.540Z"
+    "error": "Parse Error: Header overflow",
+    "tested_at": "2026-10-01T06:38:49.755Z"
   }
 }

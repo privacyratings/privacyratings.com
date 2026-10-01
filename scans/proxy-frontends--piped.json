@@ -1,17 +1,29 @@
 {
   "domain": "piped.video",
+  "github": {
+    "repo": "TeamPiped/Piped",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.670Z"
+  },
   "observatory": {
     "grade": "C",
     "score": 55,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=piped.video",
-    "tested_at": "2026-09-30T20:11:46.641Z"
+    "tested_at": "2026-10-01T06:38:12.477Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.062Z",
+  "scanned_at": "2026-10-01T06:38:17.554Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=piped.video&hideResults=on",
+    "tested_at": "2026-10-01T06:38:07.964Z"
+  },
   "trackers": {
     "url": "https://piped.video",
     "found": [],
-    "tested_at": "2026-09-30T20:38:42.890Z"
+    "tested_at": "2026-10-01T06:38:17.554Z"
   }
 }

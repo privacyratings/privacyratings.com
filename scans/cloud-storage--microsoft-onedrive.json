@@ -6,12 +6,18 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=onedrive.live.com",
-    "tested_at": "2026-09-30T20:15:04.323Z"
+    "tested_at": "2026-10-01T06:38:58.232Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.219Z",
+  "scanned_at": "2026-10-01T06:39:49.422Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=onedrive.live.com&hideResults=on",
+    "tested_at": "2026-10-01T06:39:49.422Z"
+  },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
     "found": [],
-    "tested_at": "2026-09-30T20:39:23.755Z"
+    "tested_at": "2026-10-01T06:38:51.586Z"
   }
 }

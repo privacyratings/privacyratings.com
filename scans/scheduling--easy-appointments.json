@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.183Z",
+  "github": {
+    "repo": "alextselegidis/easyappointments",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:16.892Z"
+  },
+  "scanned_at": "2026-10-01T06:38:40.950Z",
   "trackers": {
     "url": "https://easyappointments.org",
     "found": [
@@ -13,6 +19,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:14.062Z"
+    "tested_at": "2026-10-01T06:38:40.949Z"
   }
 }

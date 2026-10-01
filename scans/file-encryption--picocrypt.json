@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.076Z",
+  "github": {
+    "repo": "Picocrypt/Picocrypt",
+    "license": "GPL-3.0",
+    "archived": true,
+    "checked_at": "2026-10-01T06:38:09.653Z"
+  },
+  "scanned_at": "2026-10-01T06:38:19.112Z",
   "trackers": {
     "url": "https://github.com/Picocrypt/Picocrypt",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:38:45.025Z"
+    "tested_at": "2026-10-01T06:38:19.112Z"
   }
 }

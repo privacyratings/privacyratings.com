@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.116Z",
+  "github": {
+    "repo": "freescout-help-desk/freescout",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.413Z"
+  },
+  "scanned_at": "2026-10-01T06:38:24.431Z",
   "trackers": {
     "url": "https://freescout.net",
     "found": [
@@ -15,6 +21,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:51.239Z"
+    "tested_at": "2026-10-01T06:38:24.431Z"
   }
 }

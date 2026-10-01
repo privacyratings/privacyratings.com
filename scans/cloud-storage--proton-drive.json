@@ -1,17 +1,29 @@
 {
   "domain": "drive.proton.me",
+  "github": {
+    "repo": "ProtonMail/WebClients",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:20.080Z"
+  },
   "observatory": {
     "grade": "A+",
     "score": 115,
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=drive.proton.me",
-    "tested_at": "2026-09-30T20:15:09.801Z"
+    "tested_at": "2026-10-01T06:39:01.188Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.221Z",
+  "scanned_at": "2026-10-01T06:39:49.598Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=drive.proton.me&hideResults=on",
+    "tested_at": "2026-10-01T06:39:49.598Z"
+  },
   "trackers": {
     "url": "https://proton.me/drive",
     "found": [],
-    "tested_at": "2026-09-30T20:39:23.997Z"
+    "tested_at": "2026-10-01T06:38:52.266Z"
   }
 }

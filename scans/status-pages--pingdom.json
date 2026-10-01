@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.145Z",
+  "scanned_at": "2026-10-01T06:38:29.095Z",
   "trackers": {
     "url": "https://www.pingdom.com",
     "found": [
@@ -17,6 +17,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:59.257Z"
+    "tested_at": "2026-10-01T06:38:29.095Z"
   }
 }

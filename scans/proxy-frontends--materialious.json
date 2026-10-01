@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.061Z",
+  "github": {
+    "repo": "Materialious/Materialious",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.641Z"
+  },
+  "scanned_at": "2026-10-01T06:38:18.432Z",
   "trackers": {
     "url": "https://materialio.us",
     "found": [],
-    "tested_at": "2026-09-30T20:38:43.732Z"
+    "tested_at": "2026-10-01T06:38:18.432Z"
   }
 }

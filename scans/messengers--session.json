@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.094Z",
+  "scanned_at": "2026-10-01T06:38:23.337Z",
   "trackers": {
     "url": "https://getsession.org",
     "found": [
@@ -10,6 +10,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:48.932Z"
+    "tested_at": "2026-10-01T06:38:23.337Z"
   }
 }

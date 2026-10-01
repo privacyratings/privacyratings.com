@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.063Z",
+  "github": {
+    "repo": "yuliskov/SmartTube",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.704Z"
+  },
+  "scanned_at": "2026-10-01T06:38:17.564Z",
   "trackers": {
     "url": "https://smarttubeapp.github.io",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:43.081Z"
+    "tested_at": "2026-10-01T06:38:17.564Z"
   }
 }

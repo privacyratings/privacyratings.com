@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wetransfer.com",
-    "tested_at": "2026-09-30T20:15:14.391Z"
+    "tested_at": "2026-10-01T06:39:02.285Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.227Z",
+  "scanned_at": "2026-10-01T06:39:49.805Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=wetransfer.com&hideResults=on",
+    "tested_at": "2026-10-01T06:39:49.805Z"
+  },
   "trackers": {
     "url": "https://wetransfer.com",
     "found": [
@@ -17,6 +23,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:39:25.283Z"
+    "tested_at": "2026-10-01T06:38:52.814Z"
   }
 }

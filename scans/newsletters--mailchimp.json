@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailchimp.com",
-    "tested_at": "2026-09-30T20:12:06.828Z"
+    "tested_at": "2026-10-01T06:38:18.617Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.114Z",
+  "scanned_at": "2026-10-01T06:38:24.179Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailchimp.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:09.304Z"
+  },
   "trackers": {
     "url": "https://mailchimp.com",
     "found": [
@@ -22,6 +28,6 @@
         "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:51.066Z"
+    "tested_at": "2026-10-01T06:38:24.179Z"
   }
 }

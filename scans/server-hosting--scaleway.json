@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.scaleway.com",
-    "tested_at": "2026-09-30T20:13:36.350Z"
+    "tested_at": "2026-10-01T06:38:42.959Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.142Z",
+  "scanned_at": "2026-10-01T06:38:54.221Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=console.scaleway.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:54.221Z"
+  },
   "trackers": {
     "url": "https://www.scaleway.com/en/",
     "found": [],
-    "tested_at": "2026-09-30T20:38:58.554Z"
+    "tested_at": "2026-10-01T06:38:29.011Z"
   }
 }

@@ -6,12 +6,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=breezewiki.com",
-    "tested_at": "2026-09-30T20:11:44.975Z"
+    "tested_at": "2026-10-01T06:38:12.116Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.061Z",
+  "scanned_at": "2026-10-01T06:38:17.958Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=breezewiki.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:07.578Z"
+  },
   "trackers": {
     "url": "https://breezewiki.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:42.860Z"
+    "tested_at": "2026-10-01T06:38:17.958Z"
   }
 }

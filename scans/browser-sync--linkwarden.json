@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.059Z",
+  "github": {
+    "repo": "linkwarden/linkwarden",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.208Z"
+  },
+  "scanned_at": "2026-10-01T06:38:16.171Z",
   "trackers": {
     "url": "https://linkwarden.app",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:41.879Z"
+    "tested_at": "2026-10-01T06:38:16.171Z"
   }
 }

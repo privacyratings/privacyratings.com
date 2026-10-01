@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.opendns.com",
-    "tested_at": "2026-09-30T20:13:07.311Z"
+    "tested_at": "2026-10-01T06:38:30.148Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.131Z",
+  "scanned_at": "2026-10-01T06:38:30.965Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.opendns.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:12.535Z"
+  },
   "trackers": {
     "url": "https://www.opendns.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:54.844Z"
+    "tested_at": "2026-10-01T06:38:26.416Z"
   }
 }

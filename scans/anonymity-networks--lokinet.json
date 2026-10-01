@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.149Z",
+  "github": {
+    "repo": "oxen-io/lokinet",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.677Z"
+  },
+  "scanned_at": "2026-10-01T06:38:30.309Z",
   "trackers": {
     "url": "https://lokinet.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:01.106Z"
+    "tested_at": "2026-10-01T06:38:30.309Z"
   }
 }

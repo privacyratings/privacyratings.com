@@ -1,7 +1,7 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.194Z",
+  "scanned_at": "2026-10-01T06:39:15.412Z",
   "trackers": {
-    "error": "HTTP 503",
-    "tested_at": "2026-09-30T20:39:18.462Z"
+    "error": "The operation was aborted",
+    "tested_at": "2026-10-01T06:39:15.412Z"
   }
 }

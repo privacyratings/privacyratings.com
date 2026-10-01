@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.164Z",
+  "github": {
+    "repo": "RMerl/asuswrt-merlin.ng",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:13.904Z"
+  },
+  "scanned_at": "2026-10-01T06:38:31.479Z",
   "trackers": {
     "url": "https://www.asuswrt-merlin.net",
     "found": [
@@ -14,6 +20,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:03.169Z"
+    "tested_at": "2026-10-01T06:38:31.479Z"
   }
 }

@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.helpscout.com",
-    "tested_at": "2026-09-30T20:12:10.643Z"
+    "tested_at": "2026-10-01T06:38:21.028Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.117Z",
+  "scanned_at": "2026-10-01T06:38:24.788Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.helpscout.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:09.847Z"
+  },
   "trackers": {
     "url": "https://www.helpscout.com",
     "found": [
@@ -22,6 +28,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:51.541Z"
+    "tested_at": "2026-10-01T06:38:24.788Z"
   }
 }

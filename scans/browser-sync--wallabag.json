@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.059Z",
+  "github": {
+    "repo": "wallabag/wallabag",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:08.389Z"
+  },
+  "scanned_at": "2026-10-01T06:38:17.851Z",
   "trackers": {
     "url": "https://wallabag.org",
     "found": [],
-    "tested_at": "2026-09-30T20:38:42.635Z"
+    "tested_at": "2026-10-01T06:38:17.851Z"
   }
 }

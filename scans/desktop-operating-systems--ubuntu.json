@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.174Z",
+  "scanned_at": "2026-10-01T06:38:35.476Z",
   "trackers": {
     "url": "https://ubuntu.com",
     "found": [
@@ -12,6 +12,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:08.156Z"
+    "tested_at": "2026-10-01T06:38:35.476Z"
   }
 }

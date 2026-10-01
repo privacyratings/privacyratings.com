@@ -6,11 +6,17 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.namesilo.com",
-    "tested_at": "2026-09-30T20:13:24.450Z"
+    "tested_at": "2026-10-01T06:38:38.952Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.137Z",
+  "scanned_at": "2026-10-01T06:38:53.102Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.namesilo.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:53.102Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:38:56.803Z"
+    "tested_at": "2026-10-01T06:38:27.602Z"
   }
 }

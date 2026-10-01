@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=admin.typeform.com",
-    "tested_at": "2026-09-30T20:14:02.292Z"
+    "tested_at": "2026-10-01T06:38:49.762Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.200Z",
+  "scanned_at": "2026-10-01T06:38:55.950Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=admin.typeform.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:55.950Z"
+  },
   "trackers": {
     "url": "https://www.typeform.com",
     "found": [
@@ -31,6 +37,6 @@
         "host": "js.partnerstack.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:20.604Z"
+    "tested_at": "2026-10-01T06:38:47.827Z"
   }
 }

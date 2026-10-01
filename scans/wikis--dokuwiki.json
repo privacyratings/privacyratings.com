@@ -1,7 +1,13 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.181Z",
+  "github": {
+    "repo": "dokuwiki/dokuwiki",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:16.352Z"
+  },
+  "scanned_at": "2026-10-01T06:38:39.328Z",
   "trackers": {
     "error": "HTTP 402",
-    "tested_at": "2026-09-30T20:39:12.188Z"
+    "tested_at": "2026-10-01T06:38:39.328Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.186Z",
+  "github": {
+    "repo": "Leantime/leantime",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:17.103Z"
+  },
+  "scanned_at": "2026-10-01T06:38:40.675Z",
   "trackers": {
     "url": "https://leantime.io",
     "found": [
@@ -27,6 +33,6 @@
         "host": "www.clarity.ms"
       }
     ],
-    "tested_at": "2026-09-30T20:39:13.743Z"
+    "tested_at": "2026-10-01T06:38:40.675Z"
   }
 }

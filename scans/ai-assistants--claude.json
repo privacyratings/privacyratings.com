@@ -6,11 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=claude.ai",
-    "tested_at": "2026-09-30T20:14:07.428Z"
+    "tested_at": "2026-10-01T06:38:50.971Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.207Z",
+  "scanned_at": "2026-10-01T06:39:09.702Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=claude.ai&hideResults=on",
+    "tested_at": "2026-10-01T06:39:09.702Z"
+  },
   "trackers": {
-    "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:39:22.286Z"
+    "url": "https://claude.ai/login",
+    "found": [],
+    "tested_at": "2026-10-01T06:38:49.437Z"
   }
 }

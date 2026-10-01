@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.textnow.com",
-    "tested_at": "2026-09-30T20:12:18.735Z"
+    "tested_at": "2026-10-01T06:38:22.376Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.120Z",
+  "scanned_at": "2026-10-01T06:38:25.064Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.textnow.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:10.342Z"
+  },
   "trackers": {
     "url": "https://www.textnow.com",
     "found": [
@@ -23,6 +29,7 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:52.100Z"
+    "tested_at": "2026-09-30T20:38:52.100Z",
+    "last_error": "HTTP 403"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.203Z",
+  "github": {
+    "repo": "edrlab/thorium-reader",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:19.190Z"
+  },
+  "scanned_at": "2026-10-01T06:38:49.291Z",
   "trackers": {
     "url": "https://www.edrlab.org/software/thorium-reader/",
     "found": [
@@ -19,6 +25,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:22.319Z"
+    "tested_at": "2026-10-01T06:38:49.291Z"
   }
 }

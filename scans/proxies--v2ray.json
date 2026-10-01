@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.154Z",
+  "github": {
+    "repo": "v2fly/v2ray-core",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:13.089Z"
+  },
+  "scanned_at": "2026-10-01T06:38:30.506Z",
   "trackers": {
     "url": "https://www.v2fly.org",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:01.675Z"
+    "tested_at": "2026-10-01T06:38:30.506Z"
   }
 }

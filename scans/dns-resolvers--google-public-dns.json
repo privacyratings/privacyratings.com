@@ -6,9 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.google",
-    "tested_at": "2026-09-30T20:12:56.176Z"
+    "tested_at": "2026-10-01T06:38:28.270Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.131Z",
+  "scanned_at": "2026-10-01T06:38:52.571Z",
+  "ssllabs": {
+    "error": "No endpoint could be graded",
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dns.google&hideResults=on",
+    "tested_at": "2026-10-01T06:38:52.571Z"
+  },
   "trackers": {
     "url": "https://developers.google.com/speed/public-dns",
     "found": [
@@ -26,6 +31,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:38:54.298Z"
+    "tested_at": "2026-10-01T06:38:26.744Z"
   }
 }

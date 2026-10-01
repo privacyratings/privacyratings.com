@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.055Z",
+  "github": {
+    "repo": "cavi-au/Consent-O-Matic",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:07.603Z"
+  },
+  "scanned_at": "2026-10-01T06:38:15.745Z",
   "trackers": {
     "url": "https://consentomatic.au.dk",
     "found": [],
-    "tested_at": "2026-09-30T20:38:41.813Z"
+    "tested_at": "2026-10-01T06:38:15.745Z"
   }
 }

@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.burnerapp.com",
-    "tested_at": "2026-09-30T20:12:14.285Z"
+    "tested_at": "2026-10-01T06:38:21.660Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.119Z",
+  "scanned_at": "2026-10-01T06:38:24.904Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.burnerapp.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:10.084Z"
+  },
   "trackers": {
     "url": "https://www.burnerapp.com",
     "found": [
@@ -17,16 +23,8 @@
         "host": "cdn.amplitude.com"
       },
       {
-        "name": "Google Ads",
-        "host": "www.googleadservices.com"
-      },
-      {
         "name": "Google Analytics",
         "host": "inline code"
-      },
-      {
-        "name": "Google DoubleClick",
-        "host": "googleads.g.doubleclick.net"
       },
       {
         "name": "Google Fonts",
@@ -42,6 +40,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:38:51.955Z"
+    "tested_at": "2026-10-01T06:38:24.904Z"
   }
 }

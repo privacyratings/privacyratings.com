@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.174Z",
+  "github": {
+    "repo": "crowdsecurity/crowdsec",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:15.098Z"
+  },
+  "scanned_at": "2026-10-01T06:38:35.721Z",
   "trackers": {
     "url": "https://www.crowdsec.net",
     "found": [
@@ -28,6 +34,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:08.337Z"
+    "tested_at": "2026-10-01T06:38:35.721Z"
   }
 }

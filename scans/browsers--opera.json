@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.052Z",
+  "scanned_at": "2026-10-01T06:38:14.268Z",
   "trackers": {
     "url": "https://www.opera.com",
     "found": [
@@ -20,6 +20,6 @@
         "host": "www.clarity.ms"
       }
     ],
-    "tested_at": "2026-09-30T20:38:38.669Z"
+    "tested_at": "2026-10-01T06:38:14.268Z"
   }
 }

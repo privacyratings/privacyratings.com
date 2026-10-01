@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.048Z",
+  "github": {
+    "repo": "vdukhovni/postfix",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:06.689Z"
+  },
+  "scanned_at": "2026-10-01T06:38:13.821Z",
   "trackers": {
     "url": "https://www.postfix.org",
     "found": [],
-    "tested_at": "2026-09-30T20:38:38.008Z"
+    "tested_at": "2026-10-01T06:38:13.821Z"
   }
 }

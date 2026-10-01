@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.176Z",
+  "github": {
+    "repo": "objective-see/KnockKnock",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:15.332Z"
+  },
+  "scanned_at": "2026-10-01T06:38:36.126Z",
   "trackers": {
     "url": "https://objective-see.org/products/knockknock.html",
     "found": [],
-    "tested_at": "2026-09-30T20:39:08.580Z"
+    "tested_at": "2026-10-01T06:38:36.126Z"
   }
 }

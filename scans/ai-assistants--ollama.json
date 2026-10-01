@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.214Z",
+  "github": {
+    "repo": "ollama/ollama",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:19.854Z"
+  },
+  "scanned_at": "2026-10-01T06:38:50.657Z",
   "trackers": {
     "url": "https://ollama.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:23.061Z"
+    "tested_at": "2026-10-01T06:38:50.657Z"
   }
 }

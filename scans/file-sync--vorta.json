@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.191Z",
+  "github": {
+    "repo": "borgbase/vorta",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:17.842Z"
+  },
+  "scanned_at": "2026-10-01T06:38:44.802Z",
   "trackers": {
     "url": "https://vorta.borgbase.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:17.380Z"
+    "tested_at": "2026-10-01T06:38:44.802Z"
   }
 }

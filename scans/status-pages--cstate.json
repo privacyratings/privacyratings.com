@@ -1,8 +1,15 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.143Z",
+  "github": {
+    "repo": "cstate/cstate",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:12.199Z"
+  },
+  "scanned_at": "2026-10-01T06:38:28.579Z",
   "trackers": {
     "url": "https://cstate.uncascade.com",
     "found": [],
-    "tested_at": "2026-09-30T20:38:58.564Z"
+    "tested_at": "2026-09-30T20:38:58.564Z",
+    "last_error": "HTTP 403"
   }
 }

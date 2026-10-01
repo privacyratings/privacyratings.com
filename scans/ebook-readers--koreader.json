@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.202Z",
+  "github": {
+    "repo": "koreader/koreader",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:18.954Z"
+  },
+  "scanned_at": "2026-10-01T06:38:48.483Z",
   "trackers": {
     "url": "https://koreader.rocks",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:21.511Z"
+    "tested_at": "2026-10-01T06:38:48.483Z"
   }
 }

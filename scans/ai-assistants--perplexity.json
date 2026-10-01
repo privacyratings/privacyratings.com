@@ -6,11 +6,17 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.perplexity.ai",
-    "tested_at": "2026-09-30T20:14:52.791Z"
+    "tested_at": "2026-10-01T06:38:53.240Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.214Z",
+  "scanned_at": "2026-10-01T06:39:10.326Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.perplexity.ai&hideResults=on",
+    "tested_at": "2026-10-01T06:39:10.326Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:39:23.354Z"
+    "tested_at": "2026-10-01T06:38:50.700Z"
   }
 }

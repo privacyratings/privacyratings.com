@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.113Z",
+  "github": {
+    "repo": "knadh/listmonk",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.165Z"
+  },
+  "scanned_at": "2026-10-01T06:38:23.894Z",
   "trackers": {
     "url": "https://listmonk.app",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:50.744Z"
+    "tested_at": "2026-10-01T06:38:23.894Z"
   }
 }

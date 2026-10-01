@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.157Z",
+  "github": {
+    "repo": "OpenVPN/openvpn",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:13.447Z"
+  },
+  "scanned_at": "2026-10-01T06:38:30.710Z",
   "trackers": {
     "url": "https://openvpn.net/community/",
     "found": [
@@ -12,6 +18,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:39:02.127Z"
+    "tested_at": "2026-10-01T06:38:30.710Z"
   }
 }

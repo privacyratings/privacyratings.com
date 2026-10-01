@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.146Z",
+  "scanned_at": "2026-10-01T06:38:29.168Z",
   "trackers": {
     "url": "https://www.glasswire.com",
     "found": [
@@ -13,6 +13,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:59.483Z"
+    "tested_at": "2026-10-01T06:38:29.168Z"
   }
 }

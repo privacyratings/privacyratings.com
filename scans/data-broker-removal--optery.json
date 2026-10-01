@@ -6,12 +6,22 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.optery.com",
-    "tested_at": "2026-09-30T20:11:59.324Z"
+    "tested_at": "2026-10-01T06:38:17.217Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.080Z",
+  "scanned_at": "2026-10-01T06:38:20.182Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.optery.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:08.838Z"
+  },
   "trackers": {
     "url": "https://www.optery.com",
     "found": [
+      {
+        "name": "Amplitude",
+        "host": "cdn.amplitude.com"
+      },
       {
         "name": "Crisp",
         "host": "client.crisp.chat",
@@ -30,6 +40,6 @@
         "host": "stats.wp.com"
       }
     ],
-    "tested_at": "2026-09-30T20:38:46.042Z"
+    "tested_at": "2026-10-01T06:38:20.182Z"
   }
 }

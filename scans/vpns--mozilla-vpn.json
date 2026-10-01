@@ -1,14 +1,26 @@
 {
   "domain": "www.mozilla.org",
+  "github": {
+    "repo": "mozilla-mobile/mozilla-vpn-client",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:11.745Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 75,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mozilla.org",
-    "tested_at": "2026-09-30T20:12:22.915Z"
+    "tested_at": "2026-10-01T06:38:23.733Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.123Z",
+  "scanned_at": "2026-10-01T06:38:25.354Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.mozilla.org&hideResults=on",
+    "tested_at": "2026-10-01T06:38:10.514Z"
+  },
   "trackers": {
     "url": "https://www.mozilla.org/en-US/products/vpn/",
     "found": [
@@ -17,6 +29,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:38:52.526Z"
+    "tested_at": "2026-10-01T06:38:25.354Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.188Z",
+  "github": {
+    "repo": "plankanban/planka",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:17.366Z"
+  },
+  "scanned_at": "2026-10-01T06:38:41.824Z",
   "trackers": {
     "url": "https://planka.app",
     "found": [],
-    "tested_at": "2026-09-30T20:39:14.871Z"
+    "tested_at": "2026-10-01T06:38:41.824Z"
   }
 }

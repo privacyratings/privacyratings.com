@@ -1,14 +1,20 @@
 {
   "domain": "docs.google.com",
   "observatory": {
-    "grade": "B",
-    "score": 70,
-    "tests_passed": 9,
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.google.com",
-    "tested_at": "2026-09-30T20:13:54.904Z"
+    "tested_at": "2026-10-01T06:38:48.050Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.197Z",
+  "scanned_at": "2026-10-01T06:38:55.558Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 10,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=docs.google.com&hideResults=on",
+    "tested_at": "2026-10-01T06:38:55.557Z"
+  },
   "trackers": {
     "url": "https://workspace.google.com/products/forms/",
     "found": [
@@ -22,6 +28,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:19.732Z"
+    "tested_at": "2026-10-01T06:38:46.840Z"
   }
 }

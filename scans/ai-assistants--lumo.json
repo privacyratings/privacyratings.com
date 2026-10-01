@@ -1,17 +1,29 @@
 {
   "domain": "lumo.proton.me",
+  "github": {
+    "repo": "ProtonMail/WebClients",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:19.725Z"
+  },
   "observatory": {
     "grade": "A+",
     "score": 115,
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lumo.proton.me",
-    "tested_at": "2026-09-30T20:14:39.585Z"
+    "tested_at": "2026-10-01T06:38:51.652Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.212Z",
+  "scanned_at": "2026-10-01T06:39:10.075Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=lumo.proton.me&hideResults=on",
+    "tested_at": "2026-10-01T06:39:10.075Z"
+  },
   "trackers": {
     "url": "https://proton.me/lumo",
     "found": [],
-    "tested_at": "2026-09-30T20:39:22.804Z"
+    "tested_at": "2026-10-01T06:38:50.848Z"
   }
 }

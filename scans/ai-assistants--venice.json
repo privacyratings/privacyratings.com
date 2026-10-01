@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=venice.ai",
-    "tested_at": "2026-09-30T20:14:53.135Z"
+    "tested_at": "2026-10-01T06:38:53.707Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.215Z",
+  "scanned_at": "2026-10-01T06:39:10.414Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=venice.ai&hideResults=on",
+    "tested_at": "2026-10-01T06:39:10.414Z"
+  },
   "trackers": {
     "url": "https://venice.ai",
     "found": [
@@ -23,6 +29,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:39:23.377Z"
+    "tested_at": "2026-10-01T06:38:50.812Z"
   }
 }

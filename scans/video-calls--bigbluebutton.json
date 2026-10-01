@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.102Z",
+  "github": {
+    "repo": "bigbluebutton/bigbluebutton",
+    "license": "LGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:38:10.889Z"
+  },
+  "scanned_at": "2026-10-01T06:38:23.670Z",
   "trackers": {
     "url": "https://bigbluebutton.org",
     "found": [
@@ -13,6 +19,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:49.895Z"
+    "tested_at": "2026-10-01T06:38:23.670Z"
   }
 }
