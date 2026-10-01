@@ -11,7 +11,7 @@ criteria:
   no_trackers:
     answer: partial
     evidence: https://support.mozilla.org/en-US/kb/thunderbird-telemetry
-    note: Sends first-party telemetry to Mozilla by default, which can be turned off in settings.
+    note: Sends anonymized interaction data (such as the number of accounts and add-ons) and technical data (such as version, OS and crashes) to Mozilla by default, which can be turned off in settings. IP addresses are kept only briefly in server logs, then deleted. Telemetry on by default counts as partial.
   no_ads:
     answer: yes
     evidence: https://www.thunderbird.net/en-US/donate/
