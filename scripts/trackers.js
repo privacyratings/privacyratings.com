@@ -342,6 +342,39 @@ function publicLookup(resolve = dns.lookup) {
   };
 }
 
+// A web ReadableStream over a Node stream. Node 18's Readable.toWeb() throws an uncaught
+// "Controller is already closed" when a body is cancelled and the socket closes afterwards
+// (for example the body of a redirect), which would stop the whole scan.
+function nodeToWeb(stream) {
+  let finished = false;
+  const finish = (fn) => {
+    if (finished) return;
+    finished = true;
+    try {
+      fn();
+    } catch {}
+  };
+  return new ReadableStream({
+    start(controller) {
+      stream.on('data', (chunk) => {
+        if (finished) return;
+        controller.enqueue(new Uint8Array(chunk.buffer, chunk.byteOffset, chunk.byteLength));
+        if (controller.desiredSize <= 0) stream.pause();
+      });
+      stream.on('end', () => finish(() => controller.close()));
+      stream.on('error', (err) => finish(() => controller.error(err)));
+      stream.on('close', () => finish(() => controller.close()));
+    },
+    pull() {
+      stream.resume();
+    },
+    cancel() {
+      finished = true;
+      stream.destroy();
+    }
+  });
+}
+
 // fetch() for URLs from contributor files: a GET over node:http(s) that connects only to public
 // addresses (see publicLookup), never follows redirects and returns a standard Response.
 // IP literals skip DNS, so callers check the URL with assertPublicUrl first.
@@ -349,7 +382,6 @@ function guardedFetch(url, { headers = {}, signal, lookup } = {}) {
   const http = require('node:http');
   const https = require('node:https');
   const zlib = require('node:zlib');
-  const { Readable } = require('node:stream');
   return new Promise((resolve, reject) => {
     const u = new URL(url);
     const mod = u.protocol === 'https:' ? https : u.protocol === 'http:' ? http : null;
@@ -365,8 +397,8 @@ function guardedFetch(url, { headers = {}, signal, lookup } = {}) {
         if (empty) res.resume();
         else if (decoder) {
           res.on('error', (e) => decoder.destroy(e));
-          body = Readable.toWeb(res.pipe(decoder));
-        } else body = Readable.toWeb(res);
+          body = nodeToWeb(res.pipe(decoder));
+        } else body = nodeToWeb(res);
         resolve(new Response(body, { status: res.statusCode, statusText: res.statusMessage, headers: h }));
       } catch (err) {
         res.destroy();
@@ -423,7 +455,10 @@ async function scanTrackers(url, { fetchImpl = guardedFetch, lookup } = {}) {
     if (hop >= MAX_REDIRECTS) throw new Error('Too many redirects');
     current = new URL(location, current).toString();
   }
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  if (!res.ok) {
+    res.body?.cancel().catch(() => {});
+    throw new Error(`HTTP ${res.status}`);
+  }
   const html = await readLimited(res, MAX_HTML);
   const trackers = findTrackers(html, current);
   return {

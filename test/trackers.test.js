@@ -149,3 +149,41 @@ test('guardedFetch returns a Response, decodes gzip and never follows redirects'
     s.close();
   }
 });
+
+test('a cancelled response body does not crash the process (redirects, gzip, plain)', async () => {
+  const http = require('node:http');
+  const zlib = require('node:zlib');
+  const { guardedFetch, readLimited } = require('../scripts/trackers');
+  const lookup = (host, opts, cb) => (opts && opts.all ? cb(null, [{ address: '127.0.0.1', family: 4 }]) : cb(null, '127.0.0.1', 4));
+  const server = http.createServer((req, res) => {
+    if (req.url === '/redirect') {
+      res.writeHead(301, { location: '/', 'content-type': 'text/html' });
+      return res.end('moved');
+    }
+    if (req.url === '/gzip') {
+      res.writeHead(200, { 'content-encoding': 'gzip' });
+      return res.end(zlib.gzipSync('<html>gzip</html>'));
+    }
+    res.writeHead(200, { 'content-type': 'text/html' });
+    res.end('<html>plain</html>');
+  });
+  const uncaught = [];
+  const onUncaught = (err) => uncaught.push(err);
+  process.on('uncaughtException', onUncaught);
+  await new Promise((resolve) => server.listen(0, '127.0.0.1', resolve));
+  try {
+    const base = `http://127.0.0.1:${server.address().port}`;
+    for (let i = 0; i < 5; i++) {
+      // A redirect body is cancelled unread, then the socket closes.
+      const r = await guardedFetch(`${base}/redirect`, { lookup });
+      await r.body.cancel();
+      assert.equal(await readLimited(await guardedFetch(`${base}/gzip`, { lookup }), 1000), '<html>gzip</html>');
+      assert.equal(await readLimited(await guardedFetch(`${base}/`, { lookup }), 5), '<html');
+      await new Promise((resolve) => setTimeout(resolve, 20));
+    }
+  } finally {
+    process.off('uncaughtException', onUncaught);
+    server.close();
+  }
+  assert.deepEqual(uncaught.map((e) => e.message), []);
+});
