@@ -1,6 +1,6 @@
 {
   "name": "privacyratings",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Search open, testable privacy ratings for apps and services from your terminal.",
   "keywords": [
     "privacy",

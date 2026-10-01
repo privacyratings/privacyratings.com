@@ -6,7 +6,7 @@ import assert from 'node:assert/strict';
 import { execFile, execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { mkdtemp, mkdir, writeFile, readFile, readdir, symlink, chmod, stat } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, accessSync, constants } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -120,10 +120,18 @@ test('install.sh works when piped to sh, with wget, a version and "*name" checks
   assert.deepEqual(await log(ctx), ['wget https://github.com/privacyratings/privacyratings.com/releases/download/v1.2.3/privacyratings-linux-x64', 'wget https://github.com/privacyratings/privacyratings.com/releases/download/v1.2.3/SHA256SUMS']);
 });
 
-test('install.sh falls back to ~/.local/bin', { skip: skip || !existsSync('/usr/local/bin') }, async () => {
+// Only meaningful when /usr/local/bin exists and is not writable. CI runners (and root) can
+// write to it, and the script would then install there, so the test is skipped.
+const usrLocalWritable = (() => {
+  try {
+    accessSync('/usr/local/bin', constants.W_OK);
+    return true;
+  } catch {
+    return false;
+  }
+})();
+test('install.sh falls back to ~/.local/bin', { skip: skip || !existsSync('/usr/local/bin') || usrLocalWritable }, async () => {
   const ctx = await setup();
-  // Only meaningful when /usr/local/bin is not writable (not root).
-  if (process.getuid?.() === 0) return;
   const r = await install(ctx, { PRIVACYRATINGS_BIN_DIR: '' });
   assert.equal(r.code, 0, r.stderr);
   assert.ok(existsSync(join(ctx.root, 'home', '.local', 'bin', 'privacyratings')));

@@ -9,6 +9,7 @@ import { mkdtemp, mkdir, readFile, writeFile, utimes } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { VERSION } from '../src/version.js';
 
 const BIN = fileURLToPath(new URL('../bin/privacyratings.js', import.meta.url));
 
@@ -22,7 +23,7 @@ globalThis.fetch = async (url, opts) => {
   appendFileSync(process.env.MOCK_LOG, url + '\\n');
   if (S === 'down') throw new TypeError('fetch failed', { cause: Object.assign(new Error('getaddrinfo ENOTFOUND api.github.com'), { code: 'ENOTFOUND' }) });
   if (S === 'limited') return new Response('{}', { status: 403 });
-  const tag = { newer: 'v9.9.9', same: 'v0.0.0', prerelease: 'v9.9.9-rc.1' }[S];
+  const tag = { newer: 'v9.9.9', same: 'v${VERSION}', prerelease: 'v9.9.9-rc.1' }[S];
   return Response.json({ tag_name: tag, draft: false, prerelease: S === 'prerelease', assets: [] });
 };
 `;
@@ -44,7 +45,7 @@ const run = (root, args, scenario, env = {}) =>
 test('update reports the latest version, a newer one, and GitHub problems with exit codes', async () => {
   const root = await setup();
   let r = await run(root, ['update'], 'same');
-  assert.deepEqual([r.code, r.stdout.trim(), r.stderr], [0, 'privacyratings 0.0.0 is the latest version.', '']);
+  assert.deepEqual([r.code, r.stdout.trim(), r.stderr], [0, `privacyratings ${VERSION} is the latest version.`, '']);
 
   // A checkout is not updated in place; it says how to install instead.
   r = await run(root, ['update'], 'newer');
