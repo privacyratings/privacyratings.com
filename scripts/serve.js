@@ -22,6 +22,9 @@ const TYPES = {
   '.txt': 'text/plain',
   '.md': 'text/markdown; charset=utf-8',
   '.png': 'image/png',
+  '.jpg': 'image/jpeg',
+  '.mp4': 'video/mp4',
+  '.webm': 'video/webm',
   '.ico': 'image/x-icon',
   '.webmanifest': 'application/manifest+json',
   '.woff2': 'font/woff2'
@@ -86,7 +89,23 @@ http
       return res.end(req.method === 'HEAD' ? undefined : zlib.gzipSync(body));
     }
 
-    res.writeHead(200, headers);
+    // Byte ranges, as GitHub Pages serves them. Safari will not play a video without them.
+    headers['accept-ranges'] = 'bytes';
+    const range = /^bytes=(\d*)-(\d*)$/.exec(req.headers.range || '');
+    if (range && (range[1] || range[2])) {
+      const size = body.length;
+      let start = range[1] ? Number(range[1]) : size - Number(range[2]);
+      let end = range[1] && range[2] ? Math.min(Number(range[2]), size - 1) : size - 1;
+      if (start < 0) start = 0;
+      if (start >= size || start > end) {
+        res.writeHead(416, { ...headers, 'content-range': `bytes */${size}` });
+        return res.end();
+      }
+      res.writeHead(206, { ...headers, 'content-range': `bytes ${start}-${end}/${size}`, 'content-length': end - start + 1 });
+      return res.end(req.method === 'HEAD' ? undefined : body.subarray(start, end + 1));
+    }
+
+    res.writeHead(200, { ...headers, 'content-length': body.length });
     res.end(req.method === 'HEAD' ? undefined : body);
   })
   .listen(PORT, HOST, () => console.log(`Preview at http://${HOST === '127.0.0.1' ? 'localhost' : HOST}:${PORT}`));

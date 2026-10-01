@@ -212,7 +212,10 @@ h3 { font-size: 1.1rem; margin: 1.4em 0 0.5em; }
 .h1-row h1 { margin-inline-end: auto; min-width: 0; max-width: 100%; }
 .hero-share, .entry-share { margin: 12px 0 0; }
 .share-pop { width: min(460px, calc(100vw - 24px)); max-height: calc(100vh - 48px); overflow-y: auto; margin: auto; padding: 18px 20px 20px; border: 1px solid var(--line-strong); border-radius: 16px; background: var(--surface); color: var(--ink); box-shadow: 0 24px 80px rgb(0 0 0 / 0.35); }
-.share-pop::backdrop, .lang-pop::backdrop { background: rgb(10 12 16 / 0.55); }
+.video-pop { width: min(960px, calc(100vw - 24px)); }
+.video-pop video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; margin-top: 14px; border-radius: 10px; background: #0b0d10; }
+.video-pop p { margin: 10px 0 0; }
+.share-pop::backdrop, .video-pop::backdrop, .lang-pop::backdrop { background: rgb(10 12 16 / 0.55); }
 .lang-pop { width: min(520px, calc(100vw - 24px)); max-height: calc(100vh - 48px); overflow-y: auto; margin: auto; padding: 18px 20px 20px; border: 1px solid var(--line-strong); border-radius: 16px; background: var(--surface); color: var(--ink); box-shadow: 0 24px 80px rgb(0 0 0 / 0.35); }
 .lang-list { list-style: none; margin: 8px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 6px; }
 .lang-list a { display: block; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; color: var(--ink); text-decoration: none; }

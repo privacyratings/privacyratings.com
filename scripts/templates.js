@@ -323,6 +323,7 @@ const ICONS = {
   light: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
   dark: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>',
   search: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>',
+  play: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M10 8.5v7l6-3.5z"/></svg>',
   share: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg>',
   link: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg>',
   globe: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>',
@@ -369,6 +370,22 @@ function shareBox(url, text) {
   <ul class="share-grid">${targets.map(([n, href]) => `<li><a class="share-to" href="${esc(href)}"${/^(mailto|sms):/.test(href) ? '' : ' rel="nofollow noopener noreferrer" target="_blank"'}${n === 'Mastodon' ? ' data-mastodon' : ''}>${esc(n)}</a></li>`).join('')}</ul>
   <form class="share-mastodon" data-mastodon-form hidden><label for="share-instance">${th('Your Mastodon server')}</label><div><input id="share-instance" type="text" inputmode="url" placeholder="mastodon.social" autocomplete="off" spellcheck="false"><button class="btn" type="submit">${th('Share')}</button></div></form>
   <p class="muted small" data-share-status role="status">${th('These are plain links. No share buttons, scripts or trackers from other sites are loaded.')}</p>
+</div>`;
+}
+
+// The launch video, in a popover so it never loads or plays until someone asks for it.
+// MP4 (H.264 + AAC) plays in every current browser; WebM (VP9 + Opus) is offered first for
+// browsers without H.264, such as some Linux builds. Captions are part of the picture.
+function videoBox() {
+  const media = `${BASE}/media/privacy-ratings`;
+  return `<div id="video" class="share-pop video-pop" popover role="dialog" aria-labelledby="video-h" data-video-pop>
+  <div class="embed-head"><h2 id="video-h">${th('Privacy Ratings in two minutes')}</h2><button class="icon-btn" type="button" popovertarget="video" popovertargetaction="hide" aria-label="${esc(t('Close'))}">✕</button></div>
+  <video controls playsinline preload="none" width="1920" height="1080" data-poster="${media}.jpg" data-video>
+    <source src="${media}.mp4" type='video/mp4; codecs="avc1.640028, mp4a.40.2"'>
+    <source src="${media}.webm" type='video/webm; codecs="vp9, opus"'>
+    <a href="${media}.mp4">${th('Download the video (MP4)')}</a>
+  </video>
+  <p class="muted small"><a href="${media}.mp4" download>${th('Download the video (MP4)')}</a></p>
 </div>`;
 }
 
@@ -643,7 +660,8 @@ function homePage() {
     <kbd class="kbd" aria-hidden="true">/</kbd>
   </form>
   <ul class="search-results" data-results hidden></ul>
-  <p class="hero-share">${shareButton('Share Privacy Ratings')}</p>
+  <p class="hero-share">${shareButton('Share Privacy Ratings')} <a class="btn btn-quiet btn-share" href="${BASE}/media/privacy-ratings.mp4" data-video-open>${ICONS.play}<span>${th('Watch the 2-minute video')}</span></a></p>
+  ${videoBox()}
   <dl class="stats">
     <div><dt>${th('Rated')}</dt><dd>${entries.length}</dd></div>
     <div><dt>${th('Categories')}</dt><dd>${categories.length}</dd></div>

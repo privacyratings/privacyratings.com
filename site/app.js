@@ -205,6 +205,27 @@
 
   var base = document.body.getAttribute('data-base') || '';
 
+  // ---------- launch video ----------
+  // The Watch link opens the video popover where popovers are supported, and the MP4 itself
+  // everywhere else. Closing the popover pauses the video.
+  var videoPop = document.querySelector('[data-video-pop]');
+  var videoOpen = document.querySelector('[data-video-open]');
+  if (videoPop && videoOpen && typeof videoPop.showPopover === 'function') {
+    var video = videoPop.querySelector('[data-video]');
+    videoOpen.addEventListener('click', function (e) {
+      if (e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) return;
+      e.preventDefault();
+      // The poster loads only once someone opens the video, not on every homepage visit.
+      if (video && !video.poster && video.getAttribute('data-poster')) video.poster = video.getAttribute('data-poster');
+      videoPop.showPopover();
+      if (video) video.focus();
+    });
+    videoPop.addEventListener('toggle', function (e) {
+      if (e.newState === 'closed' && video) video.pause();
+      if (e.newState === 'closed') videoOpen.focus();
+    });
+  }
+
   // ---------- sharing ----------
 
   var sharePop = document.querySelector('[data-share-pop]');
