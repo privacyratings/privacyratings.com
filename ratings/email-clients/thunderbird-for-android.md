@@ -18,8 +18,9 @@ criteria:
     evidence: https://www.thunderbird.net/en-US/mobile/
     note: Free app funded by donations. No ads.
   independent_audit:
-    answer: no
-    note: No independent audit is published.
+    answer: partial
+    evidence: https://7asecurity.com/reports/pentest-report_k-9_mail.pdf
+    note: 7ASecurity audited K-9 Mail, now Thunderbird for Android, with OSTIF and published the full report, but it is more than three years old. The app also passes Google's annual CASA Tier 2 assessment, and only the certification is public (github.com/thunderbird/thunderbird-android/security).
   openpgp:
     answer: partial
     evidence: https://docs.k9mail.app/en/6.400/security/pgp/

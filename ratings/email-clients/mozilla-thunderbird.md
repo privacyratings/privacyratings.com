@@ -17,8 +17,9 @@ criteria:
     evidence: https://www.thunderbird.net/en-US/donate/
     note: Funded by user donations. No ads.
   independent_audit:
-    answer: no
-    note: No independent audit is published.
+    answer: partial
+    evidence: https://posteo.de/en/blog/security-warning-for-thunderbird-users-and-enigmail-users-vulnerabilities-threaten-confidentiality-of-communication
+    note: Cure53 audited Thunderbird and Enigmail, but only a summary is public and the audit is more than three years old.
   openpgp:
     answer: yes
     evidence: https://support.mozilla.org/en-US/kb/openpgp-thunderbird-howto-and-faq
