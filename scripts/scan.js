@@ -421,19 +421,34 @@ async function main() {
     .filter((e) => KEY.test(scanKey(e)) || console.warn(`  ${e.file}: skipped, the file or folder name is not kebab-case`))
     .map((e) => ({ e, key: scanKey(e), prev: readScan(scanKey(e)) }));
 
-  // Oldest results first, so a daily limit rotates through everything.
-  entries = all
-    .filter(({ e }) => {
-      const cat = byId[e.category];
-      const hosted = e.domain && cat.type === 'service';
-      const webTests = ['observatory', 'ssllabs', 'internetnl'].some((t) => tests.has(t));
-      const mailTest = (tests.has('mail') || tests.has('mail-dns')) && cat.scans.includes('mail') && e.mail_domain;
-      const onGitHub = (e.source || '').startsWith('https://github.com/');
-      const site = tests.has('trackers') && /^https:\/\//.test(e.website || '');
-      return (hosted && webTests) || (hosted && mailTest) || (onGitHub && tests.has('github')) || site;
-    })
-    .sort((a, b) => String(a.prev.scanned_at || '').localeCompare(String(b.prev.scanned_at || '')))
-    .slice(0, limit);
+  // Each test keeps its own rotation: --limit picks the entries whose result for that test is
+  // oldest (or missing). One shared queue let tests that apply to few entries, like mail, wait
+  // for weeks behind entries that only have a tracker test.
+  const isHosted = (e) => e.domain && byId[e.category].type === 'service';
+  const eligible = {
+    github: (e) => (e.source || '').startsWith('https://github.com/'),
+    observatory: (e) => isHosted(e) && byId[e.category].scans.includes('observatory'),
+    ssllabs: (e) => isHosted(e) && byId[e.category].scans.includes('ssllabs'),
+    mail: (e) => isHosted(e) && byId[e.category].scans.includes('mail') && Boolean(e.mail_domain),
+    trackers: (e) => /^https:\/\//.test(e.website || '')
+  };
+  const lastRun = (prev, test) => {
+    const r = prev[test];
+    return String((r && (r.tested_at || r.checked_at)) || '');
+  };
+  const chosen = {};
+  for (const test of Object.keys(eligible)) {
+    if (!(tests.has(test) || (test === 'mail' && tests.has('mail-dns')))) continue;
+    chosen[test] = new Set(
+      all
+        .filter(({ e }) => eligible[test](e))
+        .sort((a, b) => lastRun(a.prev, test).localeCompare(lastRun(b.prev, test)) || a.key.localeCompare(b.key))
+        .slice(0, limit)
+        .map(({ key }) => key)
+    );
+  }
+  entries = all.filter(({ key }) => Object.values(chosen).some((set) => set.has(key)));
+  for (const [test, set] of Object.entries(chosen)) console.log(`  ${test}: ${set.size} entries, oldest results first`);
 
   console.log(`Testing ${entries.length} entries: ${[...tests].join(', ')}`);
   const results = new Map(entries.map(({ key, prev }) => [key, { ...prev }]));
@@ -478,11 +493,12 @@ async function main() {
     });
   }
 
-  const githubList = plan(entries.filter(({ e }) => tests.has('github') && (e.source || '').startsWith('https://github.com/')), 'github');
-  const observatoryList = plan(entries.filter(({ e }) => tests.has('observatory') && scanned(e) && has(e, 'observatory')), 'observatory');
-  const ssllabsList = plan(entries.filter(({ e }) => tests.has('ssllabs') && scanned(e) && has(e, 'ssllabs')), 'ssllabs');
-  const mailList = plan(entries.filter(({ e }) => (tests.has('mail') || tests.has('mail-dns')) && scanned(e) && has(e, 'mail') && e.mail_domain), 'mail');
-  const trackerList = plan(entries.filter(({ e }) => tests.has('trackers') && /^https:\/\//.test(e.website || '')), 'trackers');
+  const picked = (test) => entries.filter(({ key }) => chosen[test]?.has(key));
+  const githubList = plan(picked('github'), 'github');
+  const observatoryList = plan(picked('observatory'), 'observatory');
+  const ssllabsList = plan(picked('ssllabs'), 'ssllabs');
+  const mailList = plan(picked('mail'), 'mail');
+  const trackerList = plan(picked('trackers'), 'trackers');
 
   const runGithub = () =>
     pool(githubList, 4, async ({ e, key }) => {

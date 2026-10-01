@@ -3,6 +3,9 @@ name: SimpleLogin
 description: Open-source email alias service run by Proton. Creates aliases that forward to real mailboxes and lets replies go out from the alias. Can also be self-hosted.
 website: https://simplelogin.io
 mail_domain: simplelogin.io
+imap_host: false
+pop3_host: false
+smtp_host: false
 jurisdiction: CH
 source: https://github.com/simple-login/app
 domain: simplelogin.io

@@ -5,6 +5,9 @@ website: https://duckduckgo.com/email/
 jurisdiction: US
 domain: duckduckgo.com
 mail_domain: duck.com
+imap_host: false
+pop3_host: false
+smtp_host: false
 criteria:
   open_source:
     answer: partial

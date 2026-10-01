@@ -8,6 +8,7 @@ aliases:
 jurisdiction: US
 domain: www.icloud.com
 mail_domain: icloud.com
+pop3_host: false
 criteria:
   open_source:
     answer: no

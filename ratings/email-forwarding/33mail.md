@@ -5,6 +5,9 @@ website: https://www.33mail.com
 jurisdiction: IE
 domain: www.33mail.com
 mail_domain: 33mail.com
+imap_host: false
+pop3_host: false
+smtp_host: false
 criteria:
   open_source:
     answer: no

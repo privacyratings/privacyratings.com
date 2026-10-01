@@ -3,6 +3,9 @@ name: Addy
 description: Open-source email alias service that forwards mail from unlimited aliases to real mailboxes, with optional OpenPGP encryption. Has a free plan and can be self-hosted.
 website: https://addy.io
 mail_domain: addy.io
+imap_host: false
+pop3_host: false
+smtp_host: false
 jurisdiction: GB
 source: https://github.com/anonaddy/anonaddy
 domain: addy.io

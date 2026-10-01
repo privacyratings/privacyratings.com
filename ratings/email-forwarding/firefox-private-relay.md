@@ -4,6 +4,9 @@ description: Email masking service from Mozilla that creates aliases and forward
 website: https://relay.firefox.com
 family: mozilla
 mail_domain: mozmail.com
+imap_host: false
+pop3_host: false
+smtp_host: false
 jurisdiction: US
 source: https://github.com/mozilla/fx-private-relay
 domain: relay.firefox.com
