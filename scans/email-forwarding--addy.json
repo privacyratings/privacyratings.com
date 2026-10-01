@@ -28,7 +28,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-01T07:00:16.411Z",
+    "tested_at": "2026-10-01T07:46:27.561Z",
     "imap": {
       "host": null,
       "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
@@ -51,7 +51,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
     "tested_at": "2026-10-01T06:59:47.511Z"
   },
-  "scanned_at": "2026-10-01T07:06:26.692Z",
+  "scanned_at": "2026-10-01T07:46:27.561Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

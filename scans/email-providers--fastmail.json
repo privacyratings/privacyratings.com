@@ -31,7 +31,7 @@
         }
       }
     },
-    "tested_at": "2026-10-01T07:00:03.611Z",
+    "tested_at": "2026-10-01T07:46:17.715Z",
     "imap": {
       "host": "imap.fastmail.com",
       "port": 993,
@@ -98,7 +98,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.fastmail.com",
     "tested_at": "2026-10-01T07:00:32.592Z"
   },
-  "scanned_at": "2026-10-01T07:05:17.952Z",
+  "scanned_at": "2026-10-01T07:46:19.429Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
