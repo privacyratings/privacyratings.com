@@ -140,9 +140,10 @@ function badgeSvg(e, style, categoryName) {
 }
 
 // Shields.io endpoint format: https://shields.io/badges/endpoint-badge
+// cacheSeconds 300 is the shortest Shields.io allows, so a new grade shows within minutes.
 function badgeJson(e) {
   const d = badgeData(e);
-  return { schemaVersion: 1, label: LABEL, message: d.message, color: d.color.replace('#', ''), labelColor: BRAND.replace('#', ''), cacheSeconds: 3600 };
+  return { schemaVersion: 1, label: LABEL, message: d.message, color: d.color.replace('#', ''), labelColor: BRAND.replace('#', ''), cacheSeconds: 300 };
 }
 
 const badgePath = (e, suffix = '', ext = 'svg') => `/badge/${e.category}/${e.slug}${suffix}.${ext}`;

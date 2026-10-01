@@ -28,6 +28,6 @@ test('names are escaped and long names are shortened on cards', () => {
 });
 
 test('Shields.io endpoint format', () => {
-  assert.deepStrictEqual(badgeJson(entry('A', 92)), { schemaVersion: 1, label: 'Privacy Ratings', message: 'A · 92/100', color: '15703c', labelColor: '0b6e66', cacheSeconds: 3600 });
+  assert.deepStrictEqual(badgeJson(entry('A', 92)), { schemaVersion: 1, label: 'Privacy Ratings', message: 'A · 92/100', color: '15703c', labelColor: '0b6e66', cacheSeconds: 300 });
   assert.strictEqual(badgePath(entry('A', 92), '-card'), '/badge/email-providers/example-card.svg');
 });
