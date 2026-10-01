@@ -14,9 +14,9 @@
 - id: open_source
   title: Open source
   weight: 3
-  question: Is the source code public under an OSI-approved license?
-  yes: All code needed to run the product is public under an OSI-approved license.
-  partial: Client apps are open but the server is closed, or the license is source-available but not OSI-approved.
+  question: Is all the source code needed to run the product public?
+  yes: All code needed to run the product is public, the apps (front end) and, for hosted services, the server (back end), under an open-source (OSI-approved) or source-available license. Source-available entries are labeled and left out of open-source lists.
+  partial: Only part of the code is public, for example the apps but not the server, or the product's own paid edition adds unpublished code. Separate paid products and services do not count.
   no: The product is closed source.
   why: Public code lets anyone check what the software does with your data instead of trusting a privacy policy.
   verify: Link the source repository and its license file.
@@ -24,9 +24,9 @@
 - id: no_trackers
   title: No trackers or telemetry
   weight: 3
-  question: Are the website and apps free of third-party trackers, with any telemetry off by default?
-  yes: No third-party trackers or analytics, and telemetry is absent or opt-in.
-  partial: No third-party trackers, but first-party telemetry or cookieless privacy-focused analytics (such as Plausible, Simple Analytics or self-hosted Matomo) is on by default.
+  question: Are the website and apps free of third-party trackers, with any analytics anonymous and any telemetry off by default?
+  yes: No third-party trackers. Any analytics, first-party or from a privacy-focused service such as Plausible, Simple Analytics or GoatCounter, are cookieless and aggregate-only, with no stored IP addresses or persistent identifiers. App telemetry is absent or opt-in.
+  partial: No third-party trackers, but analytics use cookies or persistent identifiers, or app telemetry or crash reporting is on by default.
   no: Third-party trackers or analytics are present, or telemetry cannot be turned off.
   why: Trackers and telemetry leak usage data to the vendor and to third parties.
   verify: Link the privacy policy or telemetry documentation, or a network capture or tracker report (for example Exodus Privacy for Android apps).

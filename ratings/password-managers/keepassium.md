@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/keepassium/KeePassium/blob/master/LICENSE.txt
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://keepassium.com/privacy/app/
-    note: The app sends no personal data to the developer, but the website uses Plausible analytics.
+    note: No third-party trackers, and the app sends no personal data. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://keepassium.com/pricing/

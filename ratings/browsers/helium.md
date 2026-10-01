@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/imputnet/helium/blob/main/LICENSE
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://helium.computer/
-    note: The browser collects no data, but the website uses Plausible analytics.
+    note: No third-party trackers. The browser collects no data, and the website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://helium.computer/

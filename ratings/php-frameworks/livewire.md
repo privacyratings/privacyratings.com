@@ -12,9 +12,9 @@ criteria:
     answer: no
     note: No independent audit is published.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://livewire.laravel.com/
-    note: The framework has no telemetry, and livewire.laravel.com uses Fathom cookieless analytics.
+    note: No third-party trackers, and the framework has no telemetry. The website's Fathom analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/sponsors/livewire

@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/vuejs/vitepress/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://vitepress.dev/
-    note: The vitepress.dev website uses Fathom, a cookieless analytics service. The VitePress CLI has no telemetry.
+    note: No third-party trackers, and the CLI has no telemetry. The vitepress.dev website's Fathom analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://vuejs.org/sponsor/

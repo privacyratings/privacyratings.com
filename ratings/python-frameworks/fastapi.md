@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/fastapi/fastapi/blob/master/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://fastapi.tiangolo.com/
-    note: No telemetry in the framework or the fastapi CLI, but fastapi.tiangolo.com loads Cloudflare Web Analytics.
+    note: No third-party trackers, and the framework and CLI have no telemetry. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/sponsors/tiangolo

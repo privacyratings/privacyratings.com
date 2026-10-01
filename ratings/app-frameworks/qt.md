@@ -6,9 +6,9 @@ source: https://code.qt.io/cgit/qt/qtbase.git/
 jurisdiction: FI
 criteria:
   open_source:
-    answer: yes
+    answer: partial
     evidence: https://code.qt.io/cgit/qt/qtbase.git/tree/LICENSES/LGPL-3.0-only.txt
-    note: Available under LGPLv3 and GPL, or under a commercial license. A few add-on modules and tools are commercial only.
+    note: Available under LGPLv3 and GPL, or under a commercial license, but a few add-on modules and tools are commercial only.
   no_trackers:
     answer: no
     evidence: https://www.qt.io/

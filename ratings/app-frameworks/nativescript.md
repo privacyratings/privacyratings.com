@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/NativeScript/NativeScript/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/NativeScript/nativescript-cli/blob/main/docs/man_pages/general/usage-reporting.md
-    note: The CLI sends usage statistics only after the user agrees at a prompt, but nativescript.org loads Cloudflare Web Analytics.
+    note: No third-party trackers, and the CLI sends usage statistics only after consent. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://opencollective.com/nativescript

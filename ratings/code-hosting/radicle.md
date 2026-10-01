@@ -13,9 +13,9 @@ criteria:
     evidence: https://radicle.network/nodes/seed.radicle.dev/rad%3Az3gqcJUoA1n9HaHKufZs5FCSGazv5/tree/LICENSE-MIT
     note: MIT or Apache-2.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://radicle.dev
-    note: The software has no telemetry, but the radicle.dev website uses Plausible, a cookieless analytics service.
+    note: No third-party trackers, and the software has no telemetry. The radicle.dev website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://radicle.dev/faq

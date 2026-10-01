@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/ash-project/ash/blob/main/LICENSES/MIT.txt
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://ash-hq.org/
-    note: The framework has no telemetry, but ash-hq.org loads Plausible analytics.
+    note: No third-party trackers, and the framework has no telemetry. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://opencollective.com/ash-framework

@@ -9,9 +9,9 @@ criteria:
     answer: no
     note: Closed source.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://www.exoscale.com/privacy/
-    note: The website uses cookieless Matomo analytics by default, and the privacy policy lists no third-party trackers.
+    note: No third-party trackers. Website analytics run in a cookieless mode and measure visits anonymously.
   no_ads:
     answer: yes
     evidence: https://www.exoscale.com/privacy/

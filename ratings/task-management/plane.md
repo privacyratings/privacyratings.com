@@ -14,9 +14,9 @@ pick: 1
 pick_reason: Open-source project management with issues, cycles, modules, pages and Kanban, list and Gantt views, as a replacement for Jira and Linear. The AGPL-3.0 Community Edition can be self-hosted, and its telemetry is opt-in.
 criteria:
   open_source:
-    answer: yes
+    answer: partial
     evidence: https://github.com/makeplane/plane/blob/preview/LICENSE.txt
-    note: The Community Edition is AGPL-3.0. Commercial editions add proprietary features.
+    note: The Community Edition is AGPL-3.0, but commercial editions add proprietary features that are not published.
   no_trackers:
     answer: no
     evidence: https://plane.so/legals/privacy-policy

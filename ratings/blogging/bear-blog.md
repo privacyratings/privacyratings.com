@@ -7,9 +7,10 @@ domain: bearblog.dev
 imported_from: awesome-privacy
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
-    note: Source available under a custom license that forbids running a competing hosted service. Not an OSI license.
+    note: All code is public, including the code that runs bearblog.dev, under a custom source-available license that forbids running a competing hosted service and is not OSI-approved.
   no_trackers:
     answer: yes
     evidence: https://docs.bearblog.dev/analytics/

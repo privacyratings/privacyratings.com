@@ -13,9 +13,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/toeverything/AFFiNE/blob/canary/LICENSE
-    note: The apps are MIT, but the server backend is under a source-available Enterprise Edition license.
+    note: All code is public. The apps are MIT, and the server backend in the same repository uses a source-available Enterprise Edition license.
   no_trackers:
     answer: no
     evidence: https://reports.exodus-privacy.eu.org/en/reports/app.affine.pro/latest/

@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/sveltejs/svelte/blob/main/LICENSE.md
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/sveltejs/svelte.dev/blob/main/apps/svelte.dev/src/routes/+layout.svelte
-    note: The compiler and CLI have no telemetry, but svelte.dev loads Vercel Web Analytics and Speed Insights, which are cookieless.
+    note: No third-party trackers, and the compiler and CLI have no telemetry. Vercel Web Analytics and Speed Insights on svelte.dev are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://opencollective.com/svelte

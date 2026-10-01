@@ -16,9 +16,9 @@ criteria:
     evidence: https://github.com/cake-tech/cake_wallet/blob/dev/LICENSE.md
     note: MIT.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://cakewallet.com/privacy/
-    note: The Exodus report finds no trackers in the Android app and the privacy policy says usage data is not collected, but the website uses Fathom analytics.
+    note: No third-party trackers, and the app collects no usage data. The website's Fathom analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://cakewallet.com/privacy/

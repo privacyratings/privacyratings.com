@@ -10,9 +10,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://nmap.org/npsl/
-    note: Source is public under the Nmap Public Source License, which is not OSI-approved.
+    note: All code is public under the Nmap Public Source License, a source-available license that is not OSI-approved.
   no_trackers:
     answer: no
     evidence: https://nmap.org/

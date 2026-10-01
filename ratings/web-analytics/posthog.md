@@ -9,9 +9,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/PostHog/posthog/blob/master/LICENSE
-    note: MIT, except code in the ee directory, which is under a proprietary license.
+    note: All code is public. Most is MIT, and the ee directory in the same repository uses a source-available proprietary license.
   no_trackers:
     answer: no
     evidence: https://posthog.com/privacy

@@ -18,7 +18,7 @@ criteria:
     evidence: https://www.assured.se/blog
     note: Publishes occasional technical blog posts and white papers.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://www.assured.se/privacy-policy
-    note: No third-party trackers, but the site uses cookieless Umami analytics and Vercel Speed Insights.
+    note: No third-party trackers. Umami analytics and Vercel Speed Insights are cookieless and aggregate-only.
 ---

@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/zauberzeug/nicegui/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://nicegui.io/
-    note: No telemetry in the framework, but nicegui.io loads Plausible analytics.
+    note: No third-party trackers, and the framework has no telemetry. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/sponsors/zauberzeug

@@ -12,9 +12,9 @@ criteria:
     answer: no
     note: No independent audit is published.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://gofiber.io/
-    note: The framework has no telemetry, and gofiber.io uses Simple Analytics cookieless analytics.
+    note: No third-party trackers, and the framework has no telemetry. The website's Simple Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/sponsors/gofiber

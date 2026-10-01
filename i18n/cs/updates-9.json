@@ -1,0 +1,12 @@
+{
+ "Source-available": "Source-available",
+ "implicit TLS": "implicitní TLS",
+ "Is all the source code needed to run the product public?": "Je veřejný veškerý zdrojový kód potřebný k provozu produktu?",
+ "All code needed to run the product is public, the apps (front end) and, for hosted services, the server (back end), under an open-source (OSI-approved) or source-available license. Source-available entries are labeled and left out of open-source lists.": "Veškerý kód potřebný k provozu produktu je veřejný, aplikace (front end) a u hostovaných služeb i server (back end), pod licencí open source (schválenou OSI) nebo source-available. Položky source-available jsou označené a nejsou zařazeny do seznamů open source.",
+ "Only part of the code is public, for example the apps but not the server, or the product's own paid edition adds unpublished code. Separate paid products and services do not count.": "Veřejná je jen část kódu, například aplikace, ale ne server, nebo vlastní placená edice produktu přidává nezveřejněný kód. Samostatné placené produkty a služby se nepočítají.",
+ "Are the website and apps free of third-party trackers, with any analytics anonymous and any telemetry off by default?": "Jsou web a aplikace bez sledovačů třetích stran, je případná analytika anonymní a případná telemetrie ve výchozím stavu vypnutá?",
+ "No third-party trackers. Any analytics, first-party or from a privacy-focused service such as Plausible, Simple Analytics or GoatCounter, are cookieless and aggregate-only, with no stored IP addresses or persistent identifiers. App telemetry is absent or opt-in.": "Žádné sledovače třetích stran. Případná analytika, vlastní nebo od služby zaměřené na soukromí, jako je Plausible, Simple Analytics nebo GoatCounter, je bez cookies a pouze agregovaná, bez ukládání IP adres nebo trvalých identifikátorů. Telemetrie aplikací chybí nebo je opt-in.",
+ "No third-party trackers, but analytics use cookies or persistent identifiers, or app telemetry or crash reporting is on by default.": "Žádné sledovače třetích stran, ale analytika používá cookies nebo trvalé identifikátory, nebo je telemetrie či hlášení pádů aplikací ve výchozím stavu zapnuté.",
+ "No third-party trackers. Any analytics are cookieless and aggregate-only.": "Žádné sledovače třetích stran. Případná analytika je bez cookies a pouze agregovaná.",
+ "Analytics that use cookies or persistent identifiers, without other trackers.": "Analytika používající cookies nebo trvalé identifikátory, bez dalších sledovačů."
+}

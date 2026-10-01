@@ -7,9 +7,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/journiv/journiv-app/blob/main/LICENSE.md
-    note: Source-available under the PolyForm Noncommercial License 1.0.0, which is not OSI-approved.
+    note: All code is public under the source-available PolyForm Noncommercial License 1.0.0, which is not OSI-approved.
   no_trackers:
     answer: partial
     evidence: https://github.com/journiv/journiv-app/blob/main/app/services/version_checker.py

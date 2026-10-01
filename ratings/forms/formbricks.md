@@ -11,9 +11,10 @@ pick: 1
 pick_reason: Open-source surveys and forms for links, websites and apps, as a replacement for Typeform, SurveyMonkey and Google Forms. Made by a company in Germany, with a hosted service or self-hosting with Docker.
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://raw.githubusercontent.com/formbricks/formbricks/main/LICENSE
-    note: The core is AGPL-3.0, but enterprise features in the ee directory are under a separate commercial license.
+    note: All code is public. The core is AGPL-3.0, and enterprise features in the ee directory of the same repository use a source-available commercial license.
   no_trackers:
     answer: no
     evidence: https://formbricks.com/privacy-policy

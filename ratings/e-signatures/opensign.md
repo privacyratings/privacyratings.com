@@ -9,9 +9,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/OpenSignLabs/OpenSign/blob/main/LICENSE
-    note: Mostly AGPL-3.0. The license file excludes one server directory, which has no OSI-approved license.
+    note: All code is public. Most is AGPL-3.0, and one server directory (apps/OpenSignServer/cloud/customRoute) uses a separate source-available license that is not OSI-approved.
   no_trackers:
     answer: no
     evidence: https://www.opensignlabs.com/

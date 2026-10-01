@@ -10,9 +10,10 @@ platforms:
   - android
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/stenzek/duckstation/blob/master/LICENSE
-    note: Source-available under CC BY-NC-ND 4.0, which is not OSI-approved.
+    note: All code is public under CC BY-NC-ND 4.0, a source-available license that is not OSI-approved.
   no_trackers:
     answer: yes
     evidence: https://reports.exodus-privacy.eu.org/en/reports/com.github.stenzek.duckstation/latest/

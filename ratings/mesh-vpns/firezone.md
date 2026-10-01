@@ -6,9 +6,10 @@ source: https://github.com/firezone/firezone
 imported_from: awesome-privacy
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/firezone/firezone/blob/main/elixir/LICENSE
-    note: Clients and gateway are Apache-2.0; the control plane and admin portal use the Elastic License 2.0, which is not OSI-approved.
+    note: All code is public. The clients and gateway are Apache-2.0, and the control plane and admin portal use the source-available Elastic License 2.0, which is not OSI-approved.
   no_trackers:
     answer: no
     evidence: https://www.firezone.dev/privacy-policy

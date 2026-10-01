@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/django/django/blob/main/LICENSE
     note: BSD-3-Clause licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://www.djangoproject.com/
-    note: No telemetry in the framework, but djangoproject.com loads Plausible analytics through analytics.python.org.
+    note: No third-party trackers, and the framework has no telemetry. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://www.djangoproject.com/fundraising/

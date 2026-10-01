@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/VERT-sh/VERT/blob/main/LICENSE
     note: AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://vert.sh/privacy/
-    note: No third-party trackers or cookies, but self-hosted Plausible analytics is on by default and can be turned off in settings.
+    note: No third-party trackers or cookies. Self-hosted Plausible analytics are cookieless and aggregate-only, and can be turned off in settings.
   no_ads:
     answer: yes
     evidence: https://vert.sh/about/

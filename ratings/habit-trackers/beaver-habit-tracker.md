@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/daya0576/beaverhabits/blob/main/LICENSE
     note: BSD-3-Clause.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/daya0576/beaverhabits/blob/main/beaverhabits/frontend/layout.py
-    note: The hosted service loads Umami, a cookieless analytics tool. Self-hosted instances have no analytics unless the operator configures it.
+    note: No third-party trackers. The hosted service's Umami analytics are cookieless and aggregate-only, and self-hosted instances have none unless the operator adds them.
   no_ads:
     answer: yes
     evidence: https://github.com/daya0576/beaverhabits

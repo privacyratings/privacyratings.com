@@ -13,9 +13,10 @@ aliases:
   - Stirling-PDF
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/Stirling-Tools/Stirling-PDF/blob/main/LICENSE
-    note: The core is MIT-licensed. The engine and proprietary directories use the source-available Stirling PDF User License.
+    note: All code is public. The core is MIT, and the engine, proprietary and SaaS directories in the same repository use the source-available Stirling PDF User License.
   no_trackers:
     answer: no
     evidence: https://www.stirling.com/legal/privacy-policy

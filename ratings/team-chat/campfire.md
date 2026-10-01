@@ -12,9 +12,9 @@ criteria:
     evidence: https://github.com/basecamp/once-campfire/blob/main/MIT-LICENSE
     note: MIT.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/basecamp/once-campfire/blob/main/config/initializers/sentry.rb
-    note: The once.com website uses Plausible analytics; the app sends Sentry error reports only when an administrator sets a DSN.
+    note: No third-party trackers. The once.com website's Plausible analytics are cookieless and aggregate-only, and Sentry error reports are sent only when an administrator sets a DSN.
   no_ads:
     answer: yes
     evidence: https://once.com/campfire

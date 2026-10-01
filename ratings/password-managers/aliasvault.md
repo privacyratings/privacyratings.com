@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/aliasvault/aliasvault/blob/main/LICENSE.md
     note: AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://www.aliasvault.com/privacy-policy
-    note: No third-party trackers, but the website uses a self-hosted Plausible instance for first-party analytics.
+    note: No third-party trackers. The website's self-hosted Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://www.aliasvault.com/pricing

@@ -229,7 +229,8 @@ for (const g of topics.filter((x) => x.vendor)) {
 }
 
 // "Open-source X" pages: entries whose open_source answer is yes.
-const isOpenSource = (e) => e.rating.answers.some((a) => a.criterion.id === 'open_source' && a.answer === 'yes');
+// Source-available code counts for the score but not for these lists.
+const isOpenSource = (e) => e.rating.answers.some((a) => a.criterion.id === 'open_source' && a.answer === 'yes' && !a.source_available);
 const openSource = categories
   .map((c) => ({ category: c, path: `/open-source/${c.id}/`, list: inCategory[c.id].filter(isOpenSource) }))
   .filter((o) => o.list.length >= 3);

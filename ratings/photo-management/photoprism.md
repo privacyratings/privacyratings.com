@@ -11,9 +11,9 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: yes
+    answer: partial
     evidence: https://github.com/photoprism/photoprism/blob/develop/LICENSE
-    note: The Community Edition is AGPL-3.0. Features in the paid editions are under a separate commercial license.
+    note: The Community Edition is AGPL-3.0, but features in the paid editions are unpublished and under a separate commercial license.
   no_trackers:
     answer: partial
     evidence: https://www.photoprism.app/privacy/

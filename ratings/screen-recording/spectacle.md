@@ -12,9 +12,9 @@ criteria:
     evidence: https://invent.kde.org/plasma/spectacle/-/tree/master/LICENSES
     note: GPL-2.0-or-later and LGPL, with some files under BSD-3-Clause.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://kde.org/privacypolicy/
-    note: No telemetry in the app; KDE telemetry is opt-in and off by default. The KDE websites use a self-hosted Matomo instance for statistics.
+    note: No third-party trackers, and KDE app telemetry is opt-in. KDE websites use self-hosted Matomo with cookies disabled and IP addresses anonymized.
   no_ads:
     answer: yes
     evidence: https://kde.org/donate/

@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/sanic-org/sanic/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://sanic.dev/en/
-    note: No telemetry in the framework, but sanic.dev loads self-hosted Umami analytics.
+    note: No third-party trackers, and the framework has no telemetry. The website's self-hosted Umami analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://opencollective.com/sanic-org

@@ -6,8 +6,9 @@ source: https://github.com/RocketChat/Rocket.Chat
 criteria:
   open_source:
     answer: yes
+    source_available: true
     evidence: https://github.com/RocketChat/Rocket.Chat/blob/develop/LICENSE
-    note: MIT.
+    note: All code is public. Most is MIT, and enterprise features in the ee directories use the source-available Rocket.Chat Enterprise license.
   no_ads:
     answer: yes
     evidence: https://docs.rocket.chat/docs/privacy-policy

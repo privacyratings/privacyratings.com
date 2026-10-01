@@ -11,9 +11,9 @@ criteria:
     answer: no
     note: Closed source.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://usefathom.com/legal/privacy
-    note: The website uses Fathom's own cookieless analytics and no third-party trackers.
+    note: No third-party trackers. The website uses Fathom's own analytics, which are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://usefathom.com/legal/privacy

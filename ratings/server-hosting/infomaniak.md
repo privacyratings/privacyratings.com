@@ -10,7 +10,7 @@ criteria:
     answer: no
     note: Closed source.
   no_trackers:
-    answer: yes
+    answer: partial
     evidence: https://www.infomaniak.com/en/legal/confidentiality-policy
     note: Website analytics use self-hosted Matomo, and it and ad measurement tools load only with consent.
   no_ads:

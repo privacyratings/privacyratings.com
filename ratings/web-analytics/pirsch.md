@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/pirsch-analytics/pirsch/blob/master/LICENSE
     note: The core tracking library is AGPL-3.0, but the dashboard and hosted service are closed source.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://pirsch.io/privacy
-    note: The website uses Pirsch's own cookieless analytics, with no cookies or social media plugins.
+    note: No third-party trackers. The website uses Pirsch's own analytics, which are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://docs.pirsch.io/privacy

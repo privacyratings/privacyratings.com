@@ -1,0 +1,12 @@
+{
+ "Source-available": "源码可见",
+ "implicit TLS": "隐式 TLS",
+ "Is all the source code needed to run the product public?": "运行产品所需的全部源代码是否都已公开？",
+ "All code needed to run the product is public, the apps (front end) and, for hosted services, the server (back end), under an open-source (OSI-approved) or source-available license. Source-available entries are labeled and left out of open-source lists.": "运行产品所需的全部代码均已公开，包括应用（前端），对于托管服务还包括服务器（后端），采用开源（OSI 认可）或源码可见（source-available）许可证。源码可见的条目会单独标注，且不列入开源列表。",
+ "Only part of the code is public, for example the apps but not the server, or the product's own paid edition adds unpublished code. Separate paid products and services do not count.": "仅部分代码公开，例如应用公开但服务器未公开，或产品自身的付费版本添加了未公开的代码。独立的付费产品和服务不计入。",
+ "Are the website and apps free of third-party trackers, with any analytics anonymous and any telemetry off by default?": "网站和应用是否没有第三方跟踪器，任何统计分析均为匿名，且任何遥测默认关闭？",
+ "No third-party trackers. Any analytics, first-party or from a privacy-focused service such as Plausible, Simple Analytics or GoatCounter, are cookieless and aggregate-only, with no stored IP addresses or persistent identifiers. App telemetry is absent or opt-in.": "没有第三方跟踪器。任何统计分析，无论是第一方的还是来自 Plausible、Simple Analytics 或 GoatCounter 等注重隐私的服务，均不使用 Cookie 且只做汇总统计，不存储 IP 地址或持久标识符。应用没有遥测，或需用户主动开启。",
+ "No third-party trackers, but analytics use cookies or persistent identifiers, or app telemetry or crash reporting is on by default.": "没有第三方跟踪器，但统计分析使用 Cookie 或持久标识符，或应用的遥测或崩溃报告默认开启。",
+ "No third-party trackers. Any analytics are cookieless and aggregate-only.": "没有第三方跟踪器。任何统计分析均不使用 Cookie 且只做汇总统计。",
+ "Analytics that use cookies or persistent identifiers, without other trackers.": "使用 Cookie 或持久标识符的统计分析，无其他跟踪器。"
+}

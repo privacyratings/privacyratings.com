@@ -1,0 +1,12 @@
+{
+ "Source-available": "소스 공개형",
+ "implicit TLS": "암시적 TLS",
+ "Is all the source code needed to run the product public?": "제품 실행에 필요한 모든 소스 코드가 공개되어 있습니까?",
+ "All code needed to run the product is public, the apps (front end) and, for hosted services, the server (back end), under an open-source (OSI-approved) or source-available license. Source-available entries are labeled and left out of open-source lists.": "제품 실행에 필요한 모든 코드가 공개되어 있습니다. 앱(프런트엔드)과, 호스팅 서비스의 경우 서버(백엔드)까지 오픈 소스(OSI 승인) 또는 소스 공개형 라이선스로 공개됩니다. 소스 공개형 항목은 표시되며 오픈 소스 목록에서 제외됩니다.",
+ "Only part of the code is public, for example the apps but not the server, or the product's own paid edition adds unpublished code. Separate paid products and services do not count.": "코드의 일부만 공개되어 있습니다. 예를 들어 앱은 공개되어 있지만 서버는 비공개이거나, 제품 자체의 유료 에디션이 공개되지 않은 코드를 추가합니다. 별도의 유료 제품 및 서비스는 해당되지 않습니다.",
+ "Are the website and apps free of third-party trackers, with any analytics anonymous and any telemetry off by default?": "웹사이트와 앱에 제3자 추적기가 없고, 분석은 익명이며, 원격 분석은 기본적으로 꺼져 있습니까?",
+ "No third-party trackers. Any analytics, first-party or from a privacy-focused service such as Plausible, Simple Analytics or GoatCounter, are cookieless and aggregate-only, with no stored IP addresses or persistent identifiers. App telemetry is absent or opt-in.": "제3자 추적기가 없습니다. 자사 분석이든 Plausible, Simple Analytics, GoatCounter 같은 개인정보 중심 서비스의 분석이든 쿠키 없이 집계 데이터만 사용하며, IP 주소나 영구 식별자를 저장하지 않습니다. 앱 원격 분석은 없거나 옵트인 방식입니다.",
+ "No third-party trackers, but analytics use cookies or persistent identifiers, or app telemetry or crash reporting is on by default.": "제3자 추적기는 없지만, 분석에 쿠키나 영구 식별자를 사용하거나, 앱 원격 분석 또는 충돌 보고가 기본적으로 켜져 있습니다.",
+ "No third-party trackers. Any analytics are cookieless and aggregate-only.": "제3자 추적기가 없습니다. 분석은 쿠키 없이 집계 데이터만 사용합니다.",
+ "Analytics that use cookies or persistent identifiers, without other trackers.": "쿠키나 영구 식별자를 사용하는 분석(다른 추적기는 없음)."
+}

@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/nuxt/nuxt/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/nuxt/nuxt.com/blob/main/nuxt.config.ts
-    note: CLI telemetry asks for consent before sending data, but nuxt.com uses Vercel Web Analytics and Speed Insights.
+    note: No third-party trackers, and CLI telemetry asks for consent first. Vercel Web Analytics and Speed Insights on nuxt.com are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://opencollective.com/nuxtjs

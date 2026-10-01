@@ -11,9 +11,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/chatwoot/chatwoot/blob/develop/LICENSE
-    note: Open core. Most code is MIT licensed, but the enterprise directory is under a proprietary license.
+    note: All code is public. Most is MIT, and the enterprise directory in the same repository uses a source-available proprietary license.
   no_trackers:
     answer: partial
     evidence: https://github.com/chatwoot/chatwoot/blob/develop/lib/chatwoot_hub.rb

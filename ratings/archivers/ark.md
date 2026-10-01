@@ -11,9 +11,9 @@ criteria:
     evidence: https://invent.kde.org/utilities/ark/-/blob/master/LICENSES/GPL-2.0-or-later.txt
     note: GPL-2.0-or-later.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://kde.org/privacypolicy/
-    note: The app has no telemetry, but KDE websites use self-hosted Matomo analytics that respects Do Not Track.
+    note: No third-party trackers, and the app has no telemetry. KDE websites use self-hosted Matomo with cookies disabled and IP addresses anonymized.
   no_ads:
     answer: yes
     evidence: https://kde.org/donate/

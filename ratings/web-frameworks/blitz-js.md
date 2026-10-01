@@ -14,9 +14,9 @@ criteria:
     evidence: https://github.com/blitz-js/blitz/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://blitzjs.com/
-    note: The framework has no telemetry, but the blitzjs.com website loads cookieless Fathom analytics.
+    note: No third-party trackers, and the framework has no telemetry. The blitzjs.com website's Fathom analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://opencollective.com/blitzjs

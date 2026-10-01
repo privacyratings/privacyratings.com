@@ -6,9 +6,10 @@ source: https://github.com/HemmeligOrg/Hemmelig.app
 domain: hemmelig.app
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/HemmeligOrg/Hemmelig.app/blob/v7/LICENSE
-    note: Source available under the O'Saasy license, which bans competing hosted offerings. Not an OSI license.
+    note: All code is public under the source-available O'Saasy license, which bans competing hosted offerings and is not OSI-approved.
   no_trackers:
     answer: partial
     evidence: https://hemmelig.app/privacy

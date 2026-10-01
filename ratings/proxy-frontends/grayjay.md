@@ -11,9 +11,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://gitlab.futo.org/videostreaming/grayjay/-/blob/master/LICENSE.md
-    note: Source-available under the FUTO Source First License, which is not OSI-approved.
+    note: All code is public under the source-available FUTO Source First License, which is not OSI-approved.
   no_trackers:
     answer: no
     evidence: https://gitlab.futo.org/videostreaming/grayjay/-/blob/master/app/src/main/java/com/futo/platformplayer/states/StateTelemetry.kt

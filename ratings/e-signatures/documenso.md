@@ -11,9 +11,10 @@ pick: 1
 pick_reason: Open-source document signing, hosted or self-hosted, as a replacement for DocuSign. The core is AGPL-3.0, and self-hosted instances keep signed documents on your own server.
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/documenso/documenso/blob/main/LICENSE
-    note: AGPL-3.0, except enterprise features in packages/ee, which use the source-available Documenso Commercial License.
+    note: All code is public. The core is AGPL-3.0 and enterprise features in packages/ee use the source-available Documenso Commercial License.
   no_trackers:
     answer: partial
     evidence: https://documenso.com/privacy

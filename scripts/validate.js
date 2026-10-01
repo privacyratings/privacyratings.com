@@ -327,7 +327,8 @@ for (const e of entries) {
     if (a.evidence) checkUrl(where, `criteria.${id}.evidence`, a.evidence);
     checkText(where, `criteria.${id}.note`, a.note, { max: 2000 });
     for (const k of Object.keys(typeof raw === 'object' && raw ? raw : {})) {
-      if (!['answer', 'evidence', 'note'].includes(k)) err(where, `criteria.${id} has unknown field "${k}"`);
+      if (!['answer', 'evidence', 'note', 'source_available'].includes(k)) err(where, `criteria.${id} has unknown field "${k}"`);
+      if (k === 'source_available' && (id !== 'open_source' || raw[k] !== true || a.answer !== 'yes')) err(where, `criteria.${id}.source_available is only for a "yes" open_source answer and must be true`);
     }
   }
 }

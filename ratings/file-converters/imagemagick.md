@@ -10,9 +10,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://imagemagick.org/license/
-    note: Uses the ImageMagick License, an Apache-2.0-derived license that is not OSI-approved.
+    note: All code is public under the ImageMagick License, an Apache-2.0-derived source-available license that is not OSI-approved.
   no_trackers:
     answer: no
     note: The website loads Google AdSense.

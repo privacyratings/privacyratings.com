@@ -13,9 +13,9 @@ criteria:
     evidence: https://invent.kde.org/graphics/okular/-/blob/master/LICENSES/GPL-2.0-or-later.txt
     note: GPL-2.0-or-later.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://kde.org/privacypolicy-apps/
-    note: No third-party trackers. KDE app telemetry is opt-in, but the website uses KDE's self-hosted Matomo analytics.
+    note: No third-party trackers, and KDE app telemetry is opt-in. KDE websites use self-hosted Matomo with cookies disabled and IP addresses anonymized.
   no_ads:
     answer: yes
     evidence: https://kde.org/donate/

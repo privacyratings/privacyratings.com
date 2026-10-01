@@ -13,9 +13,9 @@ criteria:
     evidence: https://eu.pwpush.com/security_compliance
     note: The core, including encryption and data handling, is Apache-2.0, but the hosted Solo and Organization editions add closed-source features.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://eu.pwpush.com/privacy
-    note: The website uses Plausible analytics, listed as a subprocessor in the privacy policy.
+    note: No third-party trackers. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://eu.pwpush.com/privacy

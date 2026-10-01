@@ -19,9 +19,10 @@ disclosure: >-
   Privacy Ratings is maintained by the team behind Forward Email. This entry is scored by the same criteria as every other email provider, and changes to it are reviewed under the published conflict-of-interest rules.
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/forwardemail/forwardemail.net/blob/master/LICENSE.md
-    note: The entire service (web, API, IMAP, POP3, SMTP, MX, CalDAV and CardDAV servers) is public. Core mail storage and protocol code is MPL-2.0. The rest is BUSL-1.1, which is source-available and becomes MPL-2.0 four years after each release. BUSL-1.1 is not OSI-approved today.
+    note: All code is public, including the web, API, IMAP, POP3, SMTP, MX, CalDAV and CardDAV servers that run the service. Core mail storage and protocol code is MPL-2.0 and the rest is under the source-available Business Source License 1.1 (BUSL-1.1), which becomes MPL-2.0 four years after each release.
   no_trackers:
     answer: partial
     evidence: https://forwardemail.net/en/privacy#analytics

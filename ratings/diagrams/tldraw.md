@@ -9,9 +9,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/tldraw/tldraw/blob/main/LICENSE.md
-    note: Source-available under the tldraw license, which is not OSI-approved and requires a paid license key for production use.
+    note: All code is public, including the tldraw.com app, under the source-available tldraw license, which is not OSI-approved and requires a paid license key for production use.
   no_trackers:
     answer: no
     evidence: https://github.com/tldraw/tldraw/blob/main/apps/dotcom/client/src/utils/analytics.tsx

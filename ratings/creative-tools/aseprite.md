@@ -5,9 +5,10 @@ website: https://www.aseprite.org
 source: https://github.com/aseprite/aseprite
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/aseprite/aseprite/blob/main/EULA.txt
-    note: Source available under a EULA that limits redistribution. Not an OSI license.
+    note: All code is public under a source-available EULA that limits redistribution and is not OSI-approved.
   independent_audit:
     answer: no
     note: No independent audit is published.

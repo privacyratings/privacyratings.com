@@ -9,9 +9,9 @@ criteria:
     answer: no
     note: Closed source. The resolver software stack is not disclosed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://dns.sb/privacy/
-    note: The website uses self-hosted Plausible analytics. No third-party trackers are used.
+    note: No third-party trackers. The website's self-hosted Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://dns.sb/sponsors/

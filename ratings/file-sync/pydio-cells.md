@@ -13,9 +13,9 @@ platforms:
   - ios
 criteria:
   open_source:
-    answer: yes
+    answer: partial
     evidence: https://github.com/pydio/cells/blob/v5-dev/LICENSE
-    note: Cells Home is AGPL-3.0. The Enterprise edition is proprietary.
+    note: Cells Home is AGPL-3.0, but Enterprise edition features are proprietary and unpublished.
   no_trackers:
     answer: no
     evidence: https://www.pydio.com/en/privacy-policy

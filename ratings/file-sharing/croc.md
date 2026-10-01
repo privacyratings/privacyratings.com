@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/schollz/croc/blob/main/LICENSE
     note: MIT.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/schollz/croc/blob/main/src/publicrelay/umami.go
-    note: The client sends no telemetry, but relay servers can report aggregate session events to an Umami analytics instance.
+    note: No third-party trackers, and the client sends no telemetry. Relay servers can report aggregate event counts to Umami, without IP addresses or client identifiers.
   no_ads:
     answer: yes
     evidence: https://github.com/sponsors/schollz

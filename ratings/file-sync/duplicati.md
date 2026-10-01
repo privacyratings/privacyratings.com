@@ -11,8 +11,9 @@ platforms:
 criteria:
   open_source:
     answer: yes
+    source_available: true
     evidence: https://github.com/duplicati/duplicati/blob/master/LICENSE
-    note: MIT. A disk imaging module in the proprietary directory needs a paid subscription.
+    note: Most code is MIT. A disk imaging module in the proprietary directory of the same repository uses the source-available Duplicati Inc Software license and needs a paid subscription.
   no_trackers:
     answer: no
     evidence: https://github.com/duplicati/duplicati/blob/master/Duplicati/Library/UsageReporter/Reporter.cs

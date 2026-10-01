@@ -8,9 +8,10 @@ source: https://gitlab.com/gitlab-org/gitlab
 imported_from: awesome-privacy
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://gitlab.com/gitlab-org/gitlab/-/blob/master/LICENSE
-    note: Open core. The Community Edition is MIT licensed. Some features are proprietary.
+    note: All code is public, including the ee directory used by GitLab.com. The Community Edition is MIT and the Enterprise Edition code uses the source-available GitLab Enterprise Edition license.
   no_ads:
     answer: partial
     evidence: https://about.gitlab.com/privacy/

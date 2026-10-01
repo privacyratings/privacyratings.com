@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/lutris/lutris/blob/master/LICENSE
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://lutris.net/
-    note: No telemetry in the client, but the website loads Cloudflare Web Analytics (automated test).
+    note: No third-party trackers, and the client has no telemetry. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://lutris.net/donate

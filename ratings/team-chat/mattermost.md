@@ -6,9 +6,9 @@ family: mattermost
 source: https://github.com/mattermost/mattermost
 criteria:
   open_source:
-    answer: yes
+    answer: partial
     evidence: https://github.com/mattermost/mattermost/blob/master/LICENSE.enterprise
-    note: AGPL-3.0 and Apache-2.0.
+    note: Most code is AGPL-3.0 and Apache-2.0, and some enterprise code is public under the source-available Mattermost Source Available License, but other paid enterprise features are built from a private repository.
   no_trackers:
     answer: no
     evidence: https://docs.mattermost.com/administration-guide/manage/telemetry

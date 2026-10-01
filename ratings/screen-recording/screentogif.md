@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/NickeManarin/ScreenToGif/blob/master/LICENSE.txt
     note: Ms-PL.
   no_trackers:
-    answer: yes
+    answer: partial
     evidence: https://github.com/NickeManarin/ScreenToGif
-    note: No telemetry or analytics in the source code. The website only loads Microsoft Clarity analytics after the visitor accepts analytics cookies.
+    note: No telemetry or analytics in the source code, but the website loads Microsoft Clarity analytics after the visitor accepts analytics cookies.
   no_ads:
     answer: yes
     evidence: https://github.com/NickeManarin/ScreenToGif

@@ -876,7 +876,7 @@ ${rows
     (a) => `<li class="answer answer-${a.answer.replace('/', '')}">
   ${answerBadge(a.answer)}
   <div class="answer-body">
-    <p class="answer-title"><a href="${u(`/criteria/#${criterionAnchor(a.criterion)}`)}">${esc(t(a.criterion.title))}</a> <span class="w" data-tip="${esc(t('Weight {w} of 3', { w: a.criterion.weight }))}"><span aria-hidden="true">×${a.criterion.weight}</span><span class="sr">${th('Weight {w} of 3', { w: a.criterion.weight })}</span></span></p>
+    <p class="answer-title"><a href="${u(`/criteria/#${criterionAnchor(a.criterion)}`)}">${esc(t(a.criterion.title))}</a> <span class="w" data-tip="${esc(t('Weight {w} of 3', { w: a.criterion.weight }))}"><span aria-hidden="true">×${a.criterion.weight}</span><span class="sr">${th('Weight {w} of 3', { w: a.criterion.weight })}</span></span>${a.source_available ? ` <span class="pill">${th('Source-available')}</span>` : ''}</p>
     <p class="answer-q">${esc(t(a.criterion.question))}</p>
     ${a.note ? `<p class="answer-note"${i18n.isDefault() ? '' : ' lang="en"'}>${esc(a.note)}</p>` : ''}
     ${httpUrl(a.evidence) ? `<p class="answer-ev"><a href="${esc(httpUrl(a.evidence))}" rel="nofollow ugc noopener">${esc(hostname(a.evidence))}</a></p>` : a.answer === 'unknown' && !a.note ? `<p class="answer-note muted">${th('Needs evidence.')} <a href="${issueUrl('correction.yml', 'Evidence: ' + a.criterion.title)}">${th('Add it')}</a></p>` : ''}

@@ -32,8 +32,8 @@
   title: No trackers on website
   weight: 1
   question: Is the firm's website free of third-party trackers?
-  yes: No third-party trackers or analytics.
-  partial: Only cookieless or self-hosted analytics.
+  yes: No third-party trackers. Any analytics are cookieless and aggregate-only.
+  partial: Analytics that use cookies or persistent identifiers, without other trackers.
   no: Third-party trackers are present.
   why: A privacy and security firm's own site shows its standards.
   verify: Run the tracker test or check the privacy policy.

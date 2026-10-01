@@ -9,9 +9,9 @@ criteria:
     evidence: https://invent.kde.org/pim/kleopatra/-/tree/master/LICENSES
     note: GPL-2.0 or later.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://kde.org/privacypolicy/
-    note: No third-party trackers; the KDE websites use self-hosted Matomo that honors Do Not Track, and the app has no telemetry.
+    note: No third-party trackers, and the app has no telemetry. KDE websites use self-hosted Matomo with cookies disabled and IP addresses anonymized.
   no_ads:
     answer: yes
     evidence: https://kde.org/donate/

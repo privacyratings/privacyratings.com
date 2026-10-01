@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/apache/cordova-cli/blob/master/LICENSE
     note: Apache-2.0-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://privacy.apache.org/policies/privacy-policy-public.html
-    note: The Cordova CLI has no telemetry, but cordova.apache.org loads the Apache Software Foundation's self-hosted Matomo analytics.
+    note: No third-party trackers, and the CLI has no telemetry. The Apache Software Foundation's self-hosted Matomo uses no cookies and anonymizes IP addresses.
   no_ads:
     answer: yes
     evidence: https://www.apache.org/foundation/sponsorship.html

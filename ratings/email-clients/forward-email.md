@@ -14,9 +14,10 @@ platforms:
   - ios
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/forwardemail/mail.forwardemail.net/blob/main/LICENSE.md
-    note: The apps are published under the Business Source License 1.1, a source-available license that converts to MPL-2.0 after four years.
+    note: All code is public. The apps are under the source-available Business Source License 1.1, which becomes MPL-2.0 four years after each release.
   no_trackers:
     answer: partial
     evidence: https://forwardemail.net/en/privacy#analytics

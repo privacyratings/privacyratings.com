@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/jsiebens/ionscale/blob/main/LICENSE
     note: BSD-3-Clause.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://jsiebens.github.io/ionscale/
-    note: The documentation site uses Plausible, a cookieless analytics service.
+    note: No third-party trackers. The documentation site's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/jsiebens/ionscale

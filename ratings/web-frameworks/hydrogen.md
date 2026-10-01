@@ -11,9 +11,9 @@ platforms:
 jurisdiction: CA
 criteria:
   open_source:
-    answer: yes
+    answer: partial
     evidence: https://github.com/Shopify/hydrogen/blob/main/LICENSE.md
-    note: MIT-licensed. Storefronts built with it run on Shopify's proprietary commerce platform.
+    note: The framework is MIT-licensed, but storefronts built with it need Shopify's proprietary commerce platform.
   no_trackers:
     answer: no
     evidence: https://shopify.dev/docs/api/shopify-cli

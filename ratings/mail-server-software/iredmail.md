@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/iredmail/iRedMail/blob/master/LICENSE
     note: GPL-3.0. The paid iRedAdmin-Pro panel and Enterprise Edition are separate products.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://www.iredmail.org/
-    note: The website uses GoatCounter cookieless analytics. The installer has no telemetry.
+    note: No third-party trackers. The website uses GoatCounter, which is cookieless and aggregate-only, and the installer has no telemetry.
   no_ads:
     answer: yes
     evidence: https://www.iredmail.org/pricing.html

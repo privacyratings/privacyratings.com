@@ -9,13 +9,14 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/plausible/analytics/blob/master/extra/COPYING.txt
-    note: The Community Edition is AGPL-3.0, but code for some hosted-only features in the extra directory is proprietary.
+    note: All code is public. The Community Edition is AGPL-3.0, and code for hosted-only features in the extra directory of the same repository is published under a source-available proprietary notice.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://plausible.io/privacy
-    note: The website uses Plausible's own cookieless analytics and no third-party trackers.
+    note: No third-party trackers. The website uses Plausible's own analytics, which are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://plausible.io/privacy

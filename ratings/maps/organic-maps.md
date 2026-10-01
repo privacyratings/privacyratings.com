@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/organicmaps/organicmaps/blob/master/LICENSES/Apache-2.0.txt
     note: Apache-2.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://organicmaps.app/privacy/
-    note: The app collects no data and the Exodus report finds no trackers, but the website loads Cloudflare Web Analytics, a cookieless analytics service.
+    note: No third-party trackers, and the app collects no data. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://organicmaps.app/donate/

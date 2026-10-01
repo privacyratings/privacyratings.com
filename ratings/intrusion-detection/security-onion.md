@@ -8,9 +8,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/Security-Onion-Solutions/securityonion/blob/3/main/LICENSE
-    note: Source is public under the Elastic License 2.0, which is not OSI-approved.
+    note: All code is public under the source-available Elastic License 2.0, which is not OSI-approved.
   no_trackers:
     answer: no
     evidence: https://docs.securityonion.net/en/3/main/telemetry/

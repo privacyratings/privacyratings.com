@@ -10,9 +10,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/spamscanner/spamscanner/blob/master/LICENSE
-    note: Published under the Business Source License 1.1, which is not OSI-approved and bars offering it as a commercial spam detection service. The license names Apache 2.0 as its change license.
+    note: All code is public under the source-available Business Source License 1.1, which bars offering it as a commercial spam detection service. The license names Apache-2.0 as its change license.
   no_trackers:
     answer: yes
     evidence: https://github.com/spamscanner/spamscanner

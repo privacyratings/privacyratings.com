@@ -8,9 +8,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/Dokploy/dokploy/blob/canary/LICENSE.MD
-    note: Apache-2.0, except enterprise features such as SSO and audit logs in proprietary folders, which use the source-available Dokploy Source Available License.
+    note: All code is public. Most is Apache-2.0, and enterprise features such as SSO and audit logs in the proprietary folders use the source-available Dokploy Source Available License.
   no_trackers:
     answer: no
     evidence: https://dokploy.com/privacy

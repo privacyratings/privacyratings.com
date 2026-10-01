@@ -18,7 +18,7 @@ criteria:
     evidence: https://leastauthority.com/community-matters/moonmath-manual/
     note: Publishes the MoonMath Manual on zk-SNARKs and some open-source privacy software, but few advisories.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://leastauthority.com/privacy-policy/
-    note: No third-party trackers, but the site uses self-hosted Matomo analytics.
+    note: No third-party trackers. Self-hosted Matomo runs with cookies disabled and stores only a masked IP address.
 ---

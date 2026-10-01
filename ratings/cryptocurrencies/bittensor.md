@@ -14,9 +14,9 @@ criteria:
     evidence: https://github.com/opentensor/subtensor/blob/main/LICENSE
     note: The Subtensor blockchain node is Apache-2.0, and the Python SDK and btcli are MIT.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/opentensor/btcli
-    note: The SDK and btcli contain no telemetry, but the bittensor.com website loads Vercel Web Analytics.
+    note: No third-party trackers, and the SDK and btcli have no telemetry. Vercel Web Analytics on bittensor.com are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://www.bittensor.com/whitepaper

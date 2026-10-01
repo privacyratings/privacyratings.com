@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/mailvelope/mailvelope/blob/master/LICENSE
     note: AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://mailvelope.com/en/privacy-policy
-    note: The website uses hosted Plausible, a cookieless analytics service, and the extension asks for consent before sending anonymous usage statistics.
+    note: No third-party trackers. The website's Plausible analytics are cookieless and aggregate-only, and the extension sends usage statistics only with consent.
   no_ads:
     answer: yes
     evidence: https://mailvelope.com/en/privacy-policy

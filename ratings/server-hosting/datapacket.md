@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/forwardemail/awesome-mail-server-providers#vps-and-dedicated-mail-server-provider-comparison-table
     note: Open by default.
   reverse_dns:
-    answer: partial
+    answer: yes
     evidence: https://api.datapacket.com/
-    note: PTR records can be set through the API; IPv6 support is not documented.
+    note: PTR records for IPv4 and IPv6 addresses can be set through the API (setReverseDnsRecord). IPv6 PTR records on DataPacket addresses resolve publicly, for example 2a02:6ea0:d71e::2 to mx1.forwardemail.net.
   ipv6:
     answer: yes
     evidence: https://www.datapacket.com/faq

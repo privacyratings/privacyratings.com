@@ -6,9 +6,10 @@ imported_from: awesome-privacy
 source: https://github.com/terrapane/aescrypt_cli
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/terrapane/aescrypt_cli/blob/master/LICENSE.md
-    note: Source code is published under a commercial license. Not an OSI license.
+    note: All code is public, including the command-line, desktop and Android apps, under a source-available commercial license that is not OSI-approved.
   no_trackers:
     answer: yes
     evidence: https://www.aescrypt.com/privacy.html

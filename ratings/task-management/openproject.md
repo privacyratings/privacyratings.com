@@ -12,9 +12,9 @@ criteria:
     evidence: https://github.com/opf/openproject/blob/dev/LICENSE
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://www.openproject.org/legal/privacy/
-    note: The website uses cookieless Matomo analytics with anonymized IP addresses. No other third-party trackers are described.
+    note: No third-party trackers. Website analytics use Matomo in cookieless mode with anonymized IP addresses.
   no_ads:
     answer: yes
     evidence: https://www.openproject.org/pricing/

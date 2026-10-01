@@ -9,9 +9,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/forwardemail/forwardemail.net/blob/master/LICENSE.md
-    note: Core mail storage and protocol code is MPL-2.0 and the rest is BUSL-1.1, a source-available license that is not OSI-approved. BUSL-1.1 allows production use except offering the software as a hosted service that competes with Forward Email, and each release becomes MPL-2.0 after four years.
+    note: All code is public. Core mail storage and protocol code is MPL-2.0 and the rest is under the source-available Business Source License 1.1 (BUSL-1.1), which becomes MPL-2.0 four years after each release. BUSL-1.1 allows production use except offering the software as a hosted service that competes with Forward Email.
   no_trackers:
     answer: partial
     evidence: https://forwardemail.net/en/self-hosted

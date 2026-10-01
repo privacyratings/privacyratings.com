@@ -9,9 +9,9 @@ criteria:
     answer: no
     note: Closed source.
   no_trackers:
-    answer: yes
+    answer: partial
     evidence: https://www.hetzner.com/legal/privacy-policy/
-    note: Website analytics with Matomo run only after cookie consent.
+    note: No third-party trackers, but website analytics use Matomo with cookies after consent.
   no_ads:
     answer: yes
     evidence: https://www.hetzner.com/dns/

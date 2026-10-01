@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/Tichau/FileConverter/blob/master/LICENSE.md
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://file-converter.io/
-    note: The app has no data collection, but the website uses counter.dev cookieless analytics.
+    note: No third-party trackers, and the app collects no data. The website's counter.dev analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://file-converter.io/

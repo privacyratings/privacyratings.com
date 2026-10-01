@@ -10,9 +10,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/gravitl/netmaker/blob/develop/LICENSE.md
-    note: The core is Apache-2.0, but features in the pro directory use a proprietary enterprise license.
+    note: All code is public. The core is Apache-2.0, and features in the pro directory of the same repository use a source-available enterprise license.
   no_trackers:
     answer: no
     evidence: https://docs.netmaker.io/docs/references/faq

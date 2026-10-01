@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/leptos-rs/leptos/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://leptos.dev/
-    note: The framework has no telemetry, but the leptos.dev website loads cookieless Plausible analytics.
+    note: No third-party trackers, and the framework has no telemetry. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/sponsors/gbj

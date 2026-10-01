@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/mastodon/mastodon/blob/main/LICENSE
     note: AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://joinmastodon.org
-    note: The Mastodon software has no telemetry. The joinmastodon.org website loads cookieless Simple Analytics.
+    note: No third-party trackers, and the software has no telemetry. The joinmastodon.org website's Simple Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://joinmastodon.org/sponsors

@@ -14,9 +14,9 @@ criteria:
     evidence: https://apps.kde.org/kate/
     note: LGPL-2.1-or-later.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://kde.org/privacypolicy/
-    note: KDE websites use a self-hosted, cookieless Matomo instance. KDE apps only send usage data after opt-in.
+    note: No third-party trackers, and KDE app telemetry is opt-in. KDE websites use self-hosted Matomo with cookies disabled and IP addresses anonymized.
   no_ads:
     answer: yes
     evidence: https://kde.org/donate/

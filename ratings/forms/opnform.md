@@ -9,9 +9,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/OpnForm/OpnForm/blob/main/LICENSE
-    note: AGPL-3.0, except enterprise features in api/app/Enterprise, which use the proprietary OpnForm Enterprise Edition license.
+    note: All code is public. Most is AGPL-3.0, and enterprise features in api/app/Enterprise use the source-available OpnForm Enterprise Edition license.
   no_trackers:
     answer: no
     evidence: https://opnform.com/privacy-policy

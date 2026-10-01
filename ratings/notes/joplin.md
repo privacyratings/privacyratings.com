@@ -7,8 +7,9 @@ imported_from: awesome-privacy
 criteria:
   open_source:
     answer: yes
+    source_available: true
     evidence: https://github.com/laurent22/joplin/blob/dev/LICENSE
-    note: AGPL-3.0.
+    note: All code is public. The apps are AGPL-3.0, and Joplin Server, which runs Joplin Cloud, uses the source-available Joplin Server Personal Use License, which is not OSI-approved.
   no_trackers:
     answer: no
     note: The website loads Google Analytics and Google Tag Manager. The apps have no trackers according to Exodus.

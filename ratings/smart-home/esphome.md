@@ -15,9 +15,9 @@ criteria:
     evidence: https://github.com/esphome/esphome/blob/dev/LICENSE
     note: The C++ runtime is GPL-3.0 and the Python tooling is MIT.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/esphome/esphome
-    note: No telemetry or analytics in the source code, but the website uses self-hosted Plausible analytics.
+    note: No third-party trackers, and the source code has no telemetry. The website's self-hosted Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://www.openhomefoundation.org

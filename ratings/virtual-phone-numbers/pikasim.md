@@ -10,9 +10,9 @@ criteria:
     answer: no
     note: Closed source.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://pikasim.com/privacy
-    note: No tracking cookies or advertising trackers. The site uses cookieless Plausible analytics.
+    note: No third-party trackers. Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://pikasim.com/privacy

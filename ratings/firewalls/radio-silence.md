@@ -9,9 +9,9 @@ criteria:
     answer: no
     note: Closed source.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://radiosilenceapp.com/privacy
-    note: The app sends no personal data or usage statistics, but the website uses Simple Analytics.
+    note: No third-party trackers, and the app sends no usage data. The website's Simple Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://radiosilenceapp.com/buy

@@ -12,9 +12,10 @@ platforms:
   - ios
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/DefGuard/defguard/blob/main/LICENSE.md
-    note: The core is AGPL-3.0, but enterprise features use a separate commercial license.
+    note: All code is public. The core is AGPL-3.0, and enterprise features in the same repository use the source-available Defguard Enterprise License.
   no_trackers:
     answer: no
     evidence: https://defguard.net

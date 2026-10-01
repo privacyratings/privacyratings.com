@@ -11,9 +11,9 @@ criteria:
     answer: no
     note: Closed source. The lms command-line tool and SDKs are open source, but the app is not.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://lmstudio.ai/app-privacy
-    note: The app only contacts LM Studio servers for updates and model downloads, and the website uses cookieless Plausible analytics.
+    note: No third-party trackers, and the app contacts LM Studio only for updates and model downloads. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://lmstudio.ai/enterprise

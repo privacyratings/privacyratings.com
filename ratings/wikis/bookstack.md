@@ -12,9 +12,9 @@ criteria:
     evidence: https://codeberg.org/bookstack/bookstack/src/branch/development/LICENSE
     note: MIT.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://www.bookstackapp.com/about/project-faq/
-    note: The project website uses a self-hosted Plausible instance for analytics. No telemetry is documented for the software.
+    note: No third-party trackers, and no telemetry is documented for the software. The website's self-hosted Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://www.bookstackapp.com/about/project-faq/

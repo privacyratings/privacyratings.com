@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/turtl/desktop/blob/master/LICENSE
     note: GPL-3.0.
   no_trackers:
-    answer: yes
+    answer: partial
     evidence: https://reports.exodus-privacy.eu.org/en/reports/com.lyonbros.turtl/latest/
-    note: Exodus finds no trackers in the Android app, and the website uses self-hosted Matomo rather than third-party analytics.
+    note: Exodus finds no trackers in the Android app, but the website uses self-hosted Matomo analytics that is not stated to be cookieless.
   no_ads:
     answer: yes
     evidence: https://turtlapp.com/privacy/

@@ -9,9 +9,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/forwardemail/forwardemail.net/blob/master/LICENSE.md
-    note: The backup code is part of the public Forward Email service code. Core mail storage and protocol code is MPL-2.0 and the rest is BUSL-1.1, a source-available license that is not OSI-approved.
+    note: All code is public, as part of the Forward Email service code. Core mail storage and protocol code is MPL-2.0 and the rest is under the source-available Business Source License 1.1 (BUSL-1.1), which becomes MPL-2.0 four years after each release.
   no_trackers:
     answer: partial
     evidence: https://forwardemail.net/en/privacy#analytics

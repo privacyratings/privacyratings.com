@@ -6,9 +6,9 @@ source: https://github.com/haiwen/seafile
 imported_from: awesome-privacy
 criteria:
   open_source:
-    answer: yes
+    answer: partial
     evidence: https://github.com/haiwen/seafile-server/blob/master/LICENSE.txt
-    note: The Community Edition server is AGPL-3.0 and the clients are GPL-2.0. The Professional Edition is proprietary.
+    note: The Community Edition server is AGPL-3.0 and the clients are GPL-2.0, but Professional Edition features are proprietary and unpublished.
   no_trackers:
     answer: no
     evidence: https://reports.exodus-privacy.eu.org/en/reports/com.seafile.seadroid2/latest/

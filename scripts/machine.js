@@ -375,7 +375,7 @@ function ratingsJson() {
 // n: name, u: URL, c: category or context, d: description, k: other names, g: grade, p: pick
 // Compact index for the command-line tool (cli/). Entry details come from /api/entries/.
 function cliJson() {
-  const oss = (e) => e.rating.answers.some((a) => a.criterion.id === 'open_source' && a.answer === 'yes');
+  const oss = (e) => e.rating.answers.some((a) => a.criterion.id === 'open_source' && a.answer === 'yes' && !a.source_available);
   return {
     v: 1,
     site: SITE_URL,

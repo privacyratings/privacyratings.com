@@ -12,9 +12,9 @@ criteria:
     evidence: https://elementary.io/open-source
     note: The elementary OS platform is entirely open source and built on free and open source software.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://elementary.io/privacy
-    note: No data is collected from the operating system. The website uses cookieless Plausible analytics.
+    note: No third-party trackers, and the operating system collects no data. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://elementary.io/privacy

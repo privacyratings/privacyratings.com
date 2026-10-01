@@ -16,9 +16,9 @@ criteria:
     evidence: https://github.com/TriliumNext/Trilium/blob/main/LICENSE
     note: AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://triliumnotes.org
-    note: The app has no telemetry, but the website loads Cloudflare Web Analytics, a cookieless analytics service.
+    note: No third-party trackers, and the app has no telemetry. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://triliumnotes.org

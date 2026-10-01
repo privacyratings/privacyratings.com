@@ -11,9 +11,9 @@ criteria:
     evidence: https://www.amiunique.org/faq
     note: The current version is closed source; only the code of the old version is public under the MIT license.
   no_trackers:
-    answer: yes
+    answer: partial
     evidence: https://www.amiunique.org/privacy-policy
-    note: The privacy policy states there are no third-party service providers; the self-hosted Matomo analytics requires consent.
+    note: The privacy policy states there are no third-party service providers, but the website runs self-hosted Matomo analytics that is not stated to be cookieless.
   no_ads:
     answer: yes
     evidence: https://www.amiunique.org/privacy-policy

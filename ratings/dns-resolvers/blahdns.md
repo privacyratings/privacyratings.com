@@ -9,9 +9,9 @@ criteria:
     answer: no
     note: The service setup is not published as source. It runs on open-source Knot Resolver and dnsdist.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://blahdns.com/
-    note: The website loads Cloudflare Web Analytics, a cookieless analytics service. No advertising trackers.
+    note: No third-party trackers. Cloudflare Web Analytics on the website are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://blahdns.com/

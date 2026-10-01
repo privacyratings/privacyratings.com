@@ -10,9 +10,10 @@ platforms:
   - macos
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/outline/outline/blob/main/LICENSE
-    note: Source available under the Business Source License 1.1, which is not OSI-approved. Each release converts to Apache-2.0 after the change date.
+    note: All code is public under the source-available Business Source License 1.1, which is not OSI-approved. Each release converts to Apache-2.0 after the change date.
   no_trackers:
     answer: no
     evidence: https://app.getoutline.com

@@ -12,9 +12,9 @@ criteria:
     evidence: https://github.com/borgbase/vorta/blob/master/LICENSE.txt
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://vorta.borgbase.com/
-    note: The app has no telemetry, but the website loads self-hosted Umami analytics.
+    note: No third-party trackers, and the app has no telemetry. The website's self-hosted Umami analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/borgbase/vorta

@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/strongbox-password-safe/Strongbox/blob/master/LICENSE.md
     note: AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://strongboxsafe.com/privacy/
-    note: The app uses no analytics providers, but the website uses Plausible analytics.
+    note: No third-party trackers, and the app uses no analytics. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://strongboxsafe.com/pricing/

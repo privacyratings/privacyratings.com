@@ -10,9 +10,9 @@ criteria:
     evidence: https://www.freebsd.org/copyright/freebsd-license/
     note: BSD-2-Clause for the base system, with some components under other open source licenses.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://www.freebsd.org/privacy/
-    note: No telemetry in the operating system. The website uses Plausible analytics.
+    note: No third-party trackers, and the operating system has no telemetry. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://freebsdfoundation.org/donate-to-freebsd-foundation/

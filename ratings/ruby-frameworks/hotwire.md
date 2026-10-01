@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/hotwired/turbo/blob/main/MIT-LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://hotwired.dev/
-    note: No telemetry in the libraries, but hotwired.dev uses Plausible analytics.
+    note: No third-party trackers, and the libraries have no telemetry. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://37signals.com/

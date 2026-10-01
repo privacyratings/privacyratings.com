@@ -12,9 +12,9 @@ criteria:
     answer: no
     note: Closed source.
   no_trackers:
-    answer: yes
+    answer: partial
     evidence: https://www.freeoffice.com/en/privacy-policy
-    note: No third-party trackers. The website uses self-hosted Matomo only with consent.
+    note: No third-party trackers, but the website uses self-hosted Matomo analytics after consent.
   no_ads:
     answer: yes
     evidence: https://www.freeoffice.com/en/

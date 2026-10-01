@@ -1,0 +1,12 @@
+{
+ "Source-available": "Source-available",
+ "implicit TLS": "implicit TLS",
+ "Is all the source code needed to run the product public?": "Är all källkod som behövs för att köra produkten offentlig?",
+ "All code needed to run the product is public, the apps (front end) and, for hosted services, the server (back end), under an open-source (OSI-approved) or source-available license. Source-available entries are labeled and left out of open-source lists.": "All kod som behövs för att köra produkten är offentlig, både apparna (frontend) och, för hostade tjänster, servern (backend), under en licens för öppen källkod (OSI-godkänd) eller en source-available-licens. Source-available-poster är märkta och utelämnas från listor över öppen källkod.",
+ "Only part of the code is public, for example the apps but not the server, or the product's own paid edition adds unpublished code. Separate paid products and services do not count.": "Bara en del av koden är offentlig, till exempel apparna men inte servern, eller så lägger produktens egen betalversion till opublicerad kod. Separata betalprodukter och tjänster räknas inte.",
+ "Are the website and apps free of third-party trackers, with any analytics anonymous and any telemetry off by default?": "Är webbplatsen och apparna fria från tredjepartsspårare, med eventuell analys anonym och eventuell telemetri avstängd som standard?",
+ "No third-party trackers. Any analytics, first-party or from a privacy-focused service such as Plausible, Simple Analytics or GoatCounter, are cookieless and aggregate-only, with no stored IP addresses or persistent identifiers. App telemetry is absent or opt-in.": "Inga tredjepartsspårare. Eventuell analys, egen eller från en integritetsfokuserad tjänst som Plausible, Simple Analytics eller GoatCounter, är cookiefri och endast aggregerad, utan lagrade IP-adresser eller beständiga identifierare. Telemetri i apparna saknas eller är opt-in.",
+ "No third-party trackers, but analytics use cookies or persistent identifiers, or app telemetry or crash reporting is on by default.": "Inga tredjepartsspårare, men analysen använder cookies eller beständiga identifierare, eller så är telemetri eller kraschrapportering i apparna på som standard.",
+ "No third-party trackers. Any analytics are cookieless and aggregate-only.": "Inga tredjepartsspårare. Eventuell analys är cookiefri och endast aggregerad.",
+ "Analytics that use cookies or persistent identifiers, without other trackers.": "Analys som använder cookies eller beständiga identifierare, utan andra spårare."
+}

@@ -12,9 +12,9 @@ criteria:
     evidence: https://github.com/plankanban/planka/blob/master/LICENSE.md
     note: Source-available under the PLANKA Community License, a fair-use license that restricts commercial hosting and is not OSI-approved. Pro features are proprietary.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://planka.app/privacy
-    note: The website counts visits with its own first-party counter and no third-party analytics. The self-hosted software sends no telemetry.
+    note: No third-party trackers. The website counts visits on its own servers as daily totals, with no cookies, IP addresses or identifiers, and the software sends no telemetry.
   no_ads:
     answer: yes
     evidence: https://planka.app/pricing

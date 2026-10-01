@@ -266,8 +266,10 @@ function rate(entry, category, criteria, scans) {
       const light = analyticsFound(scan);
       if (hard.length && a.answer !== 'no') {
         a = { answer: 'no', note: `The home page loads ${joinNames(hard)} (automated test).`, auto: true };
-      } else if (light.length && a.answer === 'yes') {
-        a = { answer: 'partial', note: `No third-party trackers, but the home page loads ${joinNames(light)} (automated test).`, auto: true };
+      } else if (light.some((n) => !COOKIELESS.has(n)) && a.answer === 'yes') {
+        // Analytics that can set cookies or identifiers (Matomo Cloud by default) limit the answer to partial.
+        const named = light.filter((n) => !COOKIELESS.has(n));
+        a = { answer: 'partial', note: `No third-party trackers, but the home page loads ${joinNames(named)}, which can set cookies (automated test).`, auto: true };
       }
     }
 
@@ -292,7 +294,11 @@ function trackersFound(scan) {
   return [...new Set(t.found.filter((x) => !x.soft).map((x) => x.name))];
 }
 
-// Names of cookieless analytics services found by the tracker test.
+// Analytics services that are cookieless and aggregate-only by design. They meet the yes answer
+// of no_trackers. Other privacy-friendly analytics found by the test (Matomo Cloud) can set cookies.
+const COOKIELESS = new Set(['Plausible', 'Fathom', 'Simple Analytics', 'Cloudflare Web Analytics', 'GoatCounter', 'Umami']);
+
+// Names of privacy-friendly analytics services found by the tracker test.
 function analyticsFound(scan) {
   const t = scan && scan.trackers;
   if (!t || t.skipped || !Array.isArray(t.found)) return [];

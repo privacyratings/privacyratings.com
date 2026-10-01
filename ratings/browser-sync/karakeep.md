@@ -16,9 +16,9 @@ criteria:
     evidence: https://github.com/karakeep-app/karakeep/blob/main/LICENSE
     note: AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://karakeep.app/privacy/
-    note: The apps have no telemetry by default and no third-party tracking cookies, but the website uses Cloudflare Web Analytics, a cookieless analytics service.
+    note: No third-party trackers, and the apps have no telemetry by default. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://karakeep.app/pricing/

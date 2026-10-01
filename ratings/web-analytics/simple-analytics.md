@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/simpleanalytics/scripts/blob/main/LICENSE
     note: The tracking scripts are MIT, but the hosted analytics service is closed source.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://www.simpleanalytics.com/privacy-policy
-    note: The website uses Simple Analytics' own cookieless analytics and no third-party trackers.
+    note: No third-party trackers. The website uses Simple Analytics' own analytics, which are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://www.simpleanalytics.com/privacy-policy

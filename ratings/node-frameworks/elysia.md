@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/elysiajs/elysia/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://elysiajs.com/
-    note: The framework has no telemetry, but the website loads cookieless Cloudflare Web Analytics.
+    note: No third-party trackers, and the framework has no telemetry. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/sponsors/SaltyAom

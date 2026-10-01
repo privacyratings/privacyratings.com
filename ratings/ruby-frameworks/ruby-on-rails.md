@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/rails/rails/blob/main/MIT-LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://rubyonrails.org/
-    note: No telemetry in the framework source code, but rubyonrails.org uses Plausible analytics.
+    note: No third-party trackers, and the framework has no telemetry. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://rubyonrails.org/foundation

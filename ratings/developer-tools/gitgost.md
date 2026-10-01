@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/livrasand/gitGost/blob/main/LICENSE
     note: AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/livrasand/gitGost/blob/main/web/ethicalmetrics.js
-    note: No third-party trackers, but the website counts page views with first-party analytics that respect Do Not Track.
+    note: No third-party trackers. The website counts page views with first-party analytics that set no cookies, store no IP addresses or identifiers, and respect Do Not Track.
   no_ads:
     answer: yes
     evidence: https://github.com/sponsors/livrasand

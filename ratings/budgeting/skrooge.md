@@ -13,9 +13,9 @@ criteria:
     evidence: https://invent.kde.org/office/skrooge/-/blob/master/LICENSES/GPL-3.0-or-later.txt
     note: GPL-3.0-or-later.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://kde.org/privacypolicy/
-    note: The skrooge.org website uses KDE's self-hosted Matomo analytics. The application has no telemetry by default.
+    note: No third-party trackers, and the app has no telemetry by default. KDE websites use self-hosted Matomo with cookies disabled and IP addresses anonymized.
   no_ads:
     answer: yes
     evidence: https://kde.org/donate/

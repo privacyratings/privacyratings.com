@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/sveltejs/kit/blob/version-3/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/sveltejs/svelte.dev/blob/main/apps/svelte.dev/package.json
-    note: The framework has no telemetry, but svelte.dev uses Vercel Speed Insights.
+    note: No third-party trackers, and the framework has no telemetry. Vercel Speed Insights on svelte.dev is cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://opencollective.com/svelte

@@ -9,9 +9,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/imapsync/imapsync/blob/master/LICENSE
-    note: Source code is public under the NO LIMIT Public License, which is not OSI-approved.
+    note: All code is public under the NO LIMIT Public License, a source-available license that is not OSI-approved.
   no_trackers:
     answer: no
     note: The website loads Google Analytics and Google Ads tags. The tool's release check is off by default.

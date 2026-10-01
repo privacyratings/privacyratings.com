@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/stratumauth/app/blob/master/LICENSE
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://stratumauth.com/privacy
-    note: The app collects no data and Exodus finds no trackers. The website uses cookieless Cloudflare Web Analytics.
+    note: No third-party trackers, and Exodus finds none in the app. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://stratumauth.com/privacy

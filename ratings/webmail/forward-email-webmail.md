@@ -10,9 +10,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/forwardemail/mail.forwardemail.net/blob/main/LICENSE.md
-    note: Published under the Business Source License 1.1, a source-available license that converts to MPL-2.0 after four years.
+    note: All code is public. The webmail app is under the source-available Business Source License 1.1, which becomes MPL-2.0 four years after each release, and the Forward Email service behind it is published under MPL-2.0 and BUSL-1.1.
   no_trackers:
     answer: partial
     evidence: https://forwardemail.net/en/privacy#analytics

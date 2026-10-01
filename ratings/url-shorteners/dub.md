@@ -9,9 +9,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/dubinc/dub/blob/main/LICENSE.md
-    note: AGPL-3.0, except code in the ee directories, which is under a separate commercial license.
+    note: All code is public. Most is AGPL-3.0, and code in the ee directories uses a separate source-available commercial license.
   no_trackers:
     answer: partial
     evidence: https://dub.co/legal/privacy

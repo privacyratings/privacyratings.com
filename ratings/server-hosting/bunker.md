@@ -7,9 +7,10 @@ domain: getbunker.net
 imported_from: awesome-privacy
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/France-Nuage/plateforme/blob/master/LICENCE
-    note: The platform code is published under SSPL-1.0, which is not an OSI-approved license.
+    note: All platform code is public, including the control plane, agents and console, under the source-available Server Side Public License (SSPL-1.0), which is not OSI-approved.
   no_trackers:
     answer: partial
     evidence: https://getbunker.net/legal/privacy-policy

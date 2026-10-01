@@ -5,9 +5,10 @@ website: https://count.beejz.com
 source: https://github.com/TNT-Likely/BeeCount
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/TNT-Likely/BeeCount/blob/main/LICENSE_EN
-    note: Source available under a custom non-commercial license. Not an OSI license.
+    note: All code is public under a custom source-available non-commercial license that is not OSI-approved.
   no_trackers:
     answer: yes
     evidence: https://count.beejz.com/en/privacy/

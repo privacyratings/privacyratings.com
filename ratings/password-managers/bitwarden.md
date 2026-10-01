@@ -12,9 +12,10 @@ pick_reason: >-
   Syncs across desktop, mobile and browser apps and supports sharing with family or a team. End-to-end encrypted, audited every year, and it can be self-hosted.
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/bitwarden/server/blob/main/LICENSE.txt
-    note: Apps are GPL-3.0 and the server is AGPL-3.0, but some business features use the source-available Bitwarden License.
+    note: All code is public. The apps are GPL-3.0 and the server is AGPL-3.0, and some business features in the same public repositories use the source-available Bitwarden License.
   no_ads:
     answer: yes
     evidence: https://bitwarden.com/pricing/

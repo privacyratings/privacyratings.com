@@ -9,9 +9,10 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/OneUptime/oneuptime/blob/master/LICENSE
-    note: Apache-2.0, except the ee/ directory of enterprise features, which uses a proprietary license.
+    note: All code is public. Most is Apache-2.0, and the ee/ directory of enterprise features in the same repository uses a source-available proprietary license.
   self_hosted:
     answer: yes
     evidence: https://oneuptime.com/docs/en/installation/docker-compose

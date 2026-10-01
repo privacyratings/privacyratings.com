@@ -12,9 +12,9 @@ platforms:
   - linux
 criteria:
   open_source:
-    answer: yes
+    answer: partial
     evidence: https://olvid.io/faq/is-olvid-open-source/
-    note: The apps and the message distribution server are AGPL-3.0; server code for paid enterprise features is left out.
+    note: The apps and the message distribution server are AGPL-3.0, but server code for paid enterprise features is not published.
   no_trackers:
     answer: yes
     evidence: https://www.olvid.io/privacy/en/

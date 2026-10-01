@@ -1,0 +1,12 @@
+{
+ "Source-available": "ソース公開型",
+ "implicit TLS": "暗黙的 TLS",
+ "Is all the source code needed to run the product public?": "製品の実行に必要なソースコードはすべて公開されているか？",
+ "All code needed to run the product is public, the apps (front end) and, for hosted services, the server (back end), under an open-source (OSI-approved) or source-available license. Source-available entries are labeled and left out of open-source lists.": "製品の実行に必要なすべてのコードが公開されている。対象はアプリ（フロントエンド）と、ホスト型サービスの場合はサーバー（バックエンド）で、オープンソース（OSI 承認）またはソース公開型のライセンスによる。ソース公開型のエントリーにはラベルが付き、オープンソースの一覧からは除外される。",
+ "Only part of the code is public, for example the apps but not the server, or the product's own paid edition adds unpublished code. Separate paid products and services do not count.": "コードの一部のみ公開されている。例：アプリは公開されているがサーバーは非公開、または製品自体の有料版が非公開のコードを追加している。別個の有料製品やサービスは対象外。",
+ "Are the website and apps free of third-party trackers, with any analytics anonymous and any telemetry off by default?": "ウェブサイトとアプリにサードパーティのトラッカーがなく、アクセス解析がある場合は匿名で、テレメトリーがある場合は既定でオフになっているか？",
+ "No third-party trackers. Any analytics, first-party or from a privacy-focused service such as Plausible, Simple Analytics or GoatCounter, are cookieless and aggregate-only, with no stored IP addresses or persistent identifiers. App telemetry is absent or opt-in.": "サードパーティのトラッカーはない。アクセス解析は、ファーストパーティのものでも Plausible、Simple Analytics、GoatCounter などのプライバシー重視のサービスのものでも、Cookie を使わず集計のみで、IP アドレスや永続的な識別子を保存しない。アプリのテレメトリーはないか、オプトイン。",
+ "No third-party trackers, but analytics use cookies or persistent identifiers, or app telemetry or crash reporting is on by default.": "サードパーティのトラッカーはないが、アクセス解析が Cookie や永続的な識別子を使用している、またはアプリのテレメトリーやクラッシュレポートが既定でオン。",
+ "No third-party trackers. Any analytics are cookieless and aggregate-only.": "サードパーティのトラッカーはない。アクセス解析は Cookie を使わず集計のみ。",
+ "Analytics that use cookies or persistent identifiers, without other trackers.": "Cookie や永続的な識別子を使うアクセス解析（ほかのトラッカーはなし）。"
+}

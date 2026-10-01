@@ -10,9 +10,9 @@ criteria:
     evidence: https://gitlab.iode.tech/os/public/blocker/iode/-/blob/main/LICENSE
     note: Based on LineageOS under Apache-2.0; the iodé blocker app is AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://iode.tech/privacy-policy/
-    note: No third-party trackers; the website uses self-hosted Matomo analytics by default.
+    note: No third-party trackers. The website's self-hosted Matomo has tracking cookies disabled and anonymizes IP addresses.
   no_ads:
     answer: yes
     evidence: https://iode.tech/documentation/faq/

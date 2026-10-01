@@ -6,9 +6,10 @@ website: https://cachethq.io
 source: https://github.com/cachethq/cachet
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/cachethq/cachet/blob/3.x/LICENSE.md
-    note: Published under a custom Cachet license, not an OSI-approved one.
+    note: All code is public under the custom Cachet License, a source-available license that is not OSI-approved.
   self_hosted:
     answer: yes
     evidence: https://github.com/cachethq/cachet#readme

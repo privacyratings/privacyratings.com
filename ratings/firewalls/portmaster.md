@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/safing/portmaster/blob/development/LICENSE
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://safing.io/privacy/
-    note: The app contacts Safing only for updates, support requests and SPN login, but the website uses a self-hosted Plausible analytics instance.
+    note: No third-party trackers, and the app contacts Safing only for updates, support and SPN login. The website's self-hosted Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://safing.io/pricing/

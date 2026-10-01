@@ -9,13 +9,14 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/Swetrix/swetrix/blob/main/backend/apps/cloud/COPYING.txt
-    note: The Community Edition is AGPL-3.0, but the code for cloud-only features is proprietary.
+    note: All code is public. The Community Edition is AGPL-3.0, and the cloud-only features in backend/apps/cloud use a source-available proprietary license.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://swetrix.com/privacy
-    note: The website uses Swetrix's own cookieless analytics and loads no third-party trackers.
+    note: No third-party trackers. The website uses Swetrix's own analytics, which are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://swetrix.com/privacy

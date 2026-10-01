@@ -7,9 +7,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/open-webui/open-webui/blob/main/LICENSE
-    note: Source is public under the Open WebUI License, a BSD-3-Clause variant with a branding clause that is not OSI-approved.
+    note: All code is public under the Open WebUI License, a source-available BSD-3-Clause variant with a branding clause that is not OSI-approved.
   no_trackers:
     answer: no
     evidence: https://github.com/open-webui/open-webui/blob/main/Dockerfile

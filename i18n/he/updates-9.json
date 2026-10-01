@@ -1,0 +1,12 @@
+{
+ "Source-available": "קוד זמין לצפייה",
+ "implicit TLS": "TLS מרומז",
+ "Is all the source code needed to run the product public?": "האם כל קוד המקור הנדרש להפעלת המוצר פומבי?",
+ "All code needed to run the product is public, the apps (front end) and, for hosted services, the server (back end), under an open-source (OSI-approved) or source-available license. Source-available entries are labeled and left out of open-source lists.": "כל הקוד הנדרש להפעלת המוצר פומבי, האפליקציות (front end) ובשירותים מתארחים גם השרת (back end), תחת רישיון קוד פתוח (שאושר על ידי OSI) או רישיון שמאפשר צפייה בקוד (source-available). רשומות עם קוד זמין לצפייה מסומנות ואינן נכללות ברשימות של קוד פתוח.",
+ "Only part of the code is public, for example the apps but not the server, or the product's own paid edition adds unpublished code. Separate paid products and services do not count.": "רק חלק מהקוד פומבי, למשל האפליקציות אבל לא השרת, או שהמהדורה בתשלום של המוצר עצמו מוסיפה קוד שלא פורסם. מוצרים ושירותים נפרדים בתשלום אינם נחשבים.",
+ "Are the website and apps free of third-party trackers, with any analytics anonymous and any telemetry off by default?": "האם האתר והאפליקציות נקיים מרכיבי מעקב של צד שלישי, כל ניתוח נתונים אנונימי וכל טלמטריה כבויה כברירת מחדל?",
+ "No third-party trackers. Any analytics, first-party or from a privacy-focused service such as Plausible, Simple Analytics or GoatCounter, are cookieless and aggregate-only, with no stored IP addresses or persistent identifiers. App telemetry is absent or opt-in.": "אין רכיבי מעקב של צד שלישי. כל כלי ניתוח, של הספק עצמו או של שירות שמתמקד בפרטיות כמו Plausible,‏ Simple Analytics או GoatCounter, פועל ללא עוגיות ובנתונים מצטברים בלבד, בלי לשמור כתובות IP או מזהים קבועים. טלמטריה באפליקציות לא קיימת או מופעלת רק בהסכמה (opt-in).",
+ "No third-party trackers, but analytics use cookies or persistent identifiers, or app telemetry or crash reporting is on by default.": "אין רכיבי מעקב של צד שלישי, אבל כלי הניתוח משתמשים בעוגיות או במזהים קבועים, או שטלמטריה או דיווח קריסות באפליקציות פועלים כברירת מחדל.",
+ "No third-party trackers. Any analytics are cookieless and aggregate-only.": "אין רכיבי מעקב של צד שלישי. כל כלי ניתוח פועל ללא עוגיות ובנתונים מצטברים בלבד.",
+ "Analytics that use cookies or persistent identifiers, without other trackers.": "כלי ניתוח שמשתמשים בעוגיות או במזהים קבועים, ללא רכיבי מעקב אחרים."
+}

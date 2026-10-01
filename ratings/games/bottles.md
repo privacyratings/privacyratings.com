@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/bottlesdevs/Bottles/blob/main/COPYING.md
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://usebottles.com/
-    note: No telemetry in the app, but the website loads Cloudflare Web Analytics (automated test).
+    note: No third-party trackers, and the app has no telemetry. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/bottlesdevs/Bottles#sponsors

@@ -9,9 +9,9 @@ criteria:
     answer: no
     note: Closed source. The service uses the separate open-source WireGuard and AmneziaWG apps.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://partyvpn.com/privacy-policy
-    note: The website uses Plausible, a cookieless analytics service. No advertising trackers or pixels.
+    note: No third-party trackers. Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://partyvpn.com/privacy-policy

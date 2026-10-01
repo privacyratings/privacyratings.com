@@ -11,9 +11,9 @@ platforms:
   - ios
 criteria:
   open_source:
-    answer: yes
+    answer: partial
     evidence: https://github.com/writefreely/writefreely/blob/develop/LICENSE
-    note: Write.as runs on WriteFreely, which is AGPL-3.0.
+    note: Write.as runs on WriteFreely, which is AGPL-3.0, but the code for Write.as Pro features beyond WriteFreely is not published.
   no_trackers:
     answer: partial
     evidence: https://write.as/privacy

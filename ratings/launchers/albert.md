@@ -8,9 +8,10 @@ platforms:
   - macos
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/albertlauncher/albert/blob/main/LICENSE.md
-    note: Source-available under the custom Albert license, which forbids redistributing modified versions and is not OSI-approved.
+    note: All code is public under the custom Albert license, a source-available license that forbids redistributing modified versions and is not OSI-approved.
   no_trackers:
     answer: yes
     evidence: https://albertlauncher.github.io/privacy/

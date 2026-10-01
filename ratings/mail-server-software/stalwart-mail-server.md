@@ -13,8 +13,9 @@ platforms:
 criteria:
   open_source:
     answer: yes
+    source_available: true
     evidence: https://github.com/stalwartlabs/stalwart/blob/main/LICENSES/AGPL-3.0-only.txt
-    note: AGPL-3.0. Enterprise features are also offered under a proprietary license.
+    note: All code is public. Most is AGPL-3.0, and enterprise features in the same repository use the source-available Stalwart Enterprise License, which is not open source.
   no_trackers:
     answer: yes
     evidence: https://stalw.art/legal/privacy

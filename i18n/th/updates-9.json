@@ -1,0 +1,12 @@
+{
+ "Source-available": "Source-available",
+ "implicit TLS": "implicit TLS",
+ "Is all the source code needed to run the product public?": "ซอร์สโค้ดทั้งหมดที่จำเป็นต่อการใช้งานผลิตภัณฑ์เปิดเผยต่อสาธารณะหรือไม่",
+ "All code needed to run the product is public, the apps (front end) and, for hosted services, the server (back end), under an open-source (OSI-approved) or source-available license. Source-available entries are labeled and left out of open-source lists.": "โค้ดทั้งหมดที่จำเป็นต่อการใช้งานผลิตภัณฑ์เปิดเผยต่อสาธารณะ ทั้งแอป (ฟรอนต์เอนด์) และเซิร์ฟเวอร์ (แบ็กเอนด์) สำหรับบริการแบบโฮสต์ ภายใต้สัญญาอนุญาตโอเพนซอร์ส (ที่ OSI รับรอง) หรือแบบ source-available รายการที่เป็น source-available จะมีป้ายกำกับและไม่รวมอยู่ในรายการโอเพนซอร์ส",
+ "Only part of the code is public, for example the apps but not the server, or the product's own paid edition adds unpublished code. Separate paid products and services do not count.": "เปิดเผยโค้ดเพียงบางส่วน เช่น เปิดเผยแอปแต่ไม่เปิดเผยเซิร์ฟเวอร์ หรือรุ่นแบบชำระเงินของผลิตภัณฑ์เองเพิ่มโค้ดที่ไม่เผยแพร่ ผลิตภัณฑ์และบริการแบบชำระเงินที่แยกต่างหากไม่นับรวม",
+ "Are the website and apps free of third-party trackers, with any analytics anonymous and any telemetry off by default?": "เว็บไซต์และแอปไม่มีตัวติดตามจากบุคคลที่สาม การวิเคราะห์ใด ๆ ไม่ระบุตัวตน และปิดการส่งข้อมูลการใช้งานไว้โดยค่าเริ่มต้นหรือไม่",
+ "No third-party trackers. Any analytics, first-party or from a privacy-focused service such as Plausible, Simple Analytics or GoatCounter, are cookieless and aggregate-only, with no stored IP addresses or persistent identifiers. App telemetry is absent or opt-in.": "ไม่มีตัวติดตามจากบุคคลที่สาม การวิเคราะห์ใด ๆ ไม่ว่าจะเป็นของผู้พัฒนาเองหรือจากบริการที่เน้นความเป็นส่วนตัว เช่น Plausible, Simple Analytics หรือ GoatCounter ไม่ใช้คุกกี้และเก็บเฉพาะข้อมูลรวม โดยไม่เก็บที่อยู่ IP หรือตัวระบุถาวร แอปไม่มีการส่งข้อมูลการใช้งาน หรือส่งเฉพาะเมื่อผู้ใช้เลือกเปิดเอง",
+ "No third-party trackers, but analytics use cookies or persistent identifiers, or app telemetry or crash reporting is on by default.": "ไม่มีตัวติดตามจากบุคคลที่สาม แต่การวิเคราะห์ใช้คุกกี้หรือตัวระบุถาวร หรือแอปเปิดการส่งข้อมูลการใช้งานหรือรายงานข้อขัดข้องไว้โดยค่าเริ่มต้น",
+ "No third-party trackers. Any analytics are cookieless and aggregate-only.": "ไม่มีตัวติดตามจากบุคคลที่สาม การวิเคราะห์ใด ๆ ไม่ใช้คุกกี้และเก็บเฉพาะข้อมูลรวม",
+ "Analytics that use cookies or persistent identifiers, without other trackers.": "การวิเคราะห์ที่ใช้คุกกี้หรือตัวระบุถาวร โดยไม่มีตัวติดตามอื่น"
+}

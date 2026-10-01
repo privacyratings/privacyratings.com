@@ -10,9 +10,9 @@ criteria:
     evidence: https://github.com/remix-run/remix/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://remix.run/
-    note: The framework has no telemetry, but remix.run loads Fathom, a cookieless analytics service.
+    note: No third-party trackers, and the framework has no telemetry. The remix.run website's Fathom analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://www.shopify.com/pricing

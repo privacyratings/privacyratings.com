@@ -5,9 +5,10 @@ website: https://flagfox.wordpress.com
 imported_from: awesome-privacy
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://addons.mozilla.org/en-US/firefox/addon/flagfox/license/
-    note: Source is distributed with the add-on under a custom license that restricts redistribution, which is not OSI-approved.
+    note: All code is public, distributed with the add-on under a custom source-available license that restricts redistribution and is not OSI-approved.
   no_ads:
     answer: partial
     evidence: https://flagfox.wordpress.com/faq/

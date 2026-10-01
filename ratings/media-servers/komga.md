@@ -14,9 +14,9 @@ criteria:
     evidence: https://github.com/gotson/komga/blob/master/LICENSE
     note: MIT.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://komga.org/
-    note: No telemetry in the server, but the website loads Cloudflare Web Analytics (automated test).
+    note: No third-party trackers, and the server has no telemetry. The website's Cloudflare Web Analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://opencollective.com/komga

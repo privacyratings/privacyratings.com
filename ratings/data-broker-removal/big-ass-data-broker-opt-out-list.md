@@ -7,9 +7,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List/blob/master/LICENSE.md
-    note: Public under CC BY-NC-SA 4.0, which is not an OSI-approved license.
+    note: All content is public under CC BY-NC-SA 4.0, a source-available non-commercial license that is not OSI-approved.
   no_trackers:
     answer: yes
     evidence: https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List

@@ -16,9 +16,9 @@ criteria:
     evidence: https://codeberg.org/readeck/readeck/src/branch/main/LICENSE
     note: AGPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://readeck.org/en/privacy
-    note: The server, browser extension and mobile apps have no telemetry or analytics, but the project website uses a self-hosted Umami analytics instance.
+    note: No third-party trackers, and the server, extension and apps have no telemetry. The website's self-hosted Umami analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://readeck.org/en/privacy

@@ -16,9 +16,9 @@ criteria:
     evidence: https://github.com/xbmc/xbmc/blob/master/LICENSE.md
     note: GPL-2.0-or-later.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://kodi.tv/about/privacy-policy
-    note: The website uses GoatCounter, a cookieless analytics service. Exodus finds 0 trackers in the Android app.
+    note: No third-party trackers, and Exodus finds none in the Android app. The website's GoatCounter analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://kodi.tv/donate

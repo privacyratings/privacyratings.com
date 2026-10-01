@@ -13,9 +13,9 @@ criteria:
     evidence: https://github.com/samuelclay/NewsBlur/blob/main/LICENSE.md
     note: MIT, covering the server and apps.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://newsblur.com/privacy
-    note: The website uses Plausible, a cookieless analytics service. Exodus finds 0 trackers in the Android app.
+    note: No third-party trackers, and Exodus finds none in the Android app. The website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://newsblur.com/about

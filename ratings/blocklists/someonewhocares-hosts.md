@@ -5,9 +5,10 @@ website: https://someonewhocares.org/hosts
 imported_from: awesome-privacy
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://someonewhocares.org/hosts/hosts
-    note: The file may be copied and shared for non-commercial use with attribution, which is not an OSI-approved license.
+    note: The whole hosts file is public, under source-available terms that allow copying and sharing for non-commercial use with attribution, which is not an OSI-approved license.
   no_ads:
     answer: partial
     evidence: https://someonewhocares.org/hosts/hosts

@@ -12,9 +12,9 @@ criteria:
     evidence: https://github.com/basecamp/kamal/blob/main/MIT-LICENSE
     note: MIT.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/basecamp/kamal
-    note: No telemetry in the source code, but the kamal-deploy.org website uses Plausible analytics.
+    note: No third-party trackers, and the source code has no telemetry. The kamal-deploy.org website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://kamal-deploy.org

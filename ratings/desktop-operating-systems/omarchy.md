@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/omacom/omarchy/blob/HEAD/LICENSE
     note: Omarchy's scripts and configuration are MIT, on top of open source Arch Linux packages. The default install also includes some proprietary apps, such as Obsidian.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://github.com/omacom/omarchy
-    note: No telemetry in the installed system, but the omarchy.org website uses Plausible analytics.
+    note: No third-party trackers, and the installed system has no telemetry. The omarchy.org website's Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://omarchy.org/foundation/

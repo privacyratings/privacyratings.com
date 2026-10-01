@@ -14,9 +14,9 @@ criteria:
     answer: no
     note: Closed source.
   no_trackers:
-    answer: yes
+    answer: partial
     evidence: https://www.startmail.com/privacy
-    note: Website analytics are self-hosted and anonymized. No third-party tracking or advertising data sharing.
+    note: No third-party tracking or advertising data sharing, but website analytics use self-hosted Matomo, which sets cookies.
   no_ads:
     answer: yes
     evidence: https://www.startmail.com/pricing

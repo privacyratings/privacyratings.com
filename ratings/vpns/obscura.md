@@ -17,9 +17,9 @@ criteria:
     evidence: https://github.com/Sovereign-Engineering/obscuravpn-client/blob/main/LICENSE
     note: The client apps are open source under GPL-3.0. The relay servers are not.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://obscura.com/legal/
-    note: The website uses Plausible for cookieless analytics. No third-party trackers are listed.
+    note: No third-party trackers. Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://obscura.com/pricing/

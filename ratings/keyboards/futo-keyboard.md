@@ -8,9 +8,10 @@ platforms:
   - android
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://gitlab.futo.org/keyboard/latinime/-/blob/master/LICENSE.md
-    note: Source is public under the FUTO Source First License, which is not OSI-approved and limits commercial modification.
+    note: All code is public under the source-available FUTO Source First License, which is not OSI-approved and limits commercial modification.
   no_trackers:
     answer: yes
     evidence: https://reports.exodus-privacy.eu.org/en/reports/org.futo.inputmethod.latin.playstore/latest/

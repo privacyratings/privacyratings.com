@@ -9,9 +9,10 @@ platforms:
   - web
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://gitlab.com/Shinobi-Systems/Shinobi/-/blob/master/LICENSE.md
-    note: The source is public under the Shinobi license, which is not OSI-approved and requires a paid license for commercial use.
+    note: All code is public under the source-available Shinobi license, which is not OSI-approved and requires a paid license for commercial use.
   no_trackers:
     answer: no
     evidence: https://shinobi.video

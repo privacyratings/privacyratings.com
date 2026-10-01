@@ -6,9 +6,10 @@ source: https://github.com/trezor/trezor-firmware
 imported_from: awesome-privacy
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/trezor/trezor-suite/blob/develop/LICENSE.md
-    note: The firmware is GPL-3.0, but the Trezor Suite app uses the source-available Trezor Reference Source License, which is not OSI-approved.
+    note: All code is public. The firmware is GPL-3.0 and the Trezor Suite app uses the source-available Trezor Reference Source License, which is not OSI-approved.
   no_ads:
     answer: no
     evidence: https://data.trezor.io/legal/privacy-policy.html

@@ -6,9 +6,10 @@ source: https://github.com/Coldcard/firmware
 jurisdiction: CA
 criteria:
   open_source:
-    answer: partial
+    answer: yes
+    source_available: true
     evidence: https://github.com/Coldcard/firmware/blob/master/COPYING-CC
-    note: The firmware source is public under the MIT license with the Commons Clause, which is not OSI-approved.
+    note: All firmware code is public under the MIT license with the Commons Clause, a source-available combination that is not OSI-approved.
   no_trackers:
     answer: no
     note: The coldcard.com website loads Google Analytics through Google Tag Manager.

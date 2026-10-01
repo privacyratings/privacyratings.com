@@ -14,9 +14,9 @@ criteria:
     evidence: https://github.com/lustre-labs/lustre/blob/main/LICENSE
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://lustre.hexdocs.pm/
-    note: The framework has no telemetry, but its documentation site on HexDocs loads Plausible analytics.
+    note: No third-party trackers, and the framework has no telemetry. HexDocs uses Plausible analytics, which are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://github.com/sponsors/hayleigh-dot-dev

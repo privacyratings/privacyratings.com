@@ -9,9 +9,9 @@ criteria:
     evidence: https://github.com/alpinejs/alpine/blob/main/LICENSE.md
     note: MIT-licensed.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://alpinejs.dev/
-    note: The library has no telemetry, but alpinejs.dev loads Fathom, a cookieless analytics service.
+    note: No third-party trackers, and the library has no telemetry. The alpinejs.dev website's Fathom analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://alpinejs.dev/components

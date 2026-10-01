@@ -11,9 +11,9 @@ criteria:
     evidence: https://github.com/ImranR98/Obtainium/blob/main/LICENSE.txt
     note: GPL-3.0.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://obtainium.imranr.dev/
-    note: The app has no known trackers, but the website uses self-hosted Plausible analytics.
+    note: No third-party trackers in the app. The website's self-hosted Plausible analytics are cookieless and aggregate-only.
   no_ads:
     answer: yes
     evidence: https://reports.exodus-privacy.eu.org/en/reports/dev.imranr.obtainium.fdroid/latest/
