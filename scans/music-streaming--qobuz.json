@@ -8,7 +8,13 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=play.qobuz.com",
     "tested_at": "2026-10-01T07:01:13.517Z"
   },
-  "scanned_at": "2026-10-01T07:23:20.375Z",
+  "scanned_at": "2026-10-01T11:08:28.778Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=play.qobuz.com&hideResults=on",
+    "tested_at": "2026-10-01T11:08:28.778Z"
+  },
   "trackers": {
     "url": "https://www.qobuz.com/us-en/discover",
     "found": [

@@ -1,9 +1,8 @@
 {
-  "scanned_at": "2026-10-01T07:01:16.595Z",
+  "scanned_at": "2026-10-01T10:59:36.207Z",
   "trackers": {
     "url": "https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html",
     "found": [],
-    "tested_at": "2026-09-30T13:16:08.256Z",
-    "last_error": "The operation was aborted"
+    "tested_at": "2026-10-01T10:59:36.206Z"
   }
 }

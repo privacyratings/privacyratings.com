@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=joindeleteme.com",
-    "tested_at": "2026-10-01T06:38:16.223Z"
+    "tested_at": "2026-10-01T10:59:43.991Z"
   },
-  "scanned_at": "2026-10-01T06:38:19.916Z",
+  "scanned_at": "2026-10-01T10:59:45.045Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=joindeleteme.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:08.464Z"
+    "tested_at": "2026-10-01T10:59:41.311Z"
   },
   "trackers": {
     "url": "https://joindeleteme.com",

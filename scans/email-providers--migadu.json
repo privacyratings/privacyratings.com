@@ -27,7 +27,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-01T07:46:12.927Z",
+    "tested_at": "2026-10-01T11:00:01.956Z",
     "imap": {
       "host": "imap.migadu.com",
       "port": 993,
@@ -58,8 +58,8 @@
     },
     "smtp": {
       "host": "smtp.migadu.com",
-      "port": 465,
-      "tls": "implicit",
+      "port": 587,
+      "tls": "starttls",
       "extensions": [
         "PIPELINING",
         "8BITMIME",
@@ -80,7 +80,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=migadu.com",
     "tested_at": "2026-10-01T07:00:28.780Z"
   },
-  "scanned_at": "2026-10-01T07:46:15.166Z",
+  "scanned_at": "2026-10-01T11:00:18.651Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

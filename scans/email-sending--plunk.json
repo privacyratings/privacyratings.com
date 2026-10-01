@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=useplunk.com",
     "tested_at": "2026-10-01T07:01:20.919Z"
   },
-  "scanned_at": "2026-10-01T07:29:21.474Z",
+  "scanned_at": "2026-10-01T11:03:44.536Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=useplunk.com&hideResults=on",
-    "tested_at": "2026-09-30T19:43:44.651Z"
+    "tested_at": "2026-10-01T11:03:44.536Z"
   },
   "trackers": {
     "url": "https://www.useplunk.com",

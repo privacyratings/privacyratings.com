@@ -8,7 +8,13 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovhcloud.com",
     "tested_at": "2026-10-01T07:01:09.780Z"
   },
-  "scanned_at": "2026-10-01T07:17:29.628Z",
+  "scanned_at": "2026-10-01T11:01:30.964Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.ovhcloud.com&hideResults=on",
+    "tested_at": "2026-10-01T11:01:30.964Z"
+  },
   "trackers": {
     "url": "https://us.ovhcloud.com/",
     "found": [],

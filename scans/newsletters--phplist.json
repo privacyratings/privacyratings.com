@@ -12,9 +12,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.phplist.com",
-    "tested_at": "2026-10-01T06:38:19.487Z"
+    "tested_at": "2026-10-01T10:59:51.636Z"
   },
-  "scanned_at": "2026-10-01T06:38:24.632Z",
+  "scanned_at": "2026-10-01T10:59:52.189Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

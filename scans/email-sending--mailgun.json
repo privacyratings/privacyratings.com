@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailgun.com",
     "tested_at": "2026-10-01T07:01:19.388Z"
   },
-  "scanned_at": "2026-10-01T07:29:06.002Z",
+  "scanned_at": "2026-10-01T10:59:37.440Z",
   "ssllabs": {
-    "grade": "A",
+    "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailgun.com&hideResults=on",
-    "tested_at": "2026-09-30T19:39:45.819Z"
+    "tested_at": "2026-10-01T10:59:37.440Z"
   },
   "trackers": {
     "url": "https://www.mailgun.com",

@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.intercom.com",
-    "tested_at": "2026-10-01T06:38:21.084Z"
+    "tested_at": "2026-10-01T10:59:52.708Z"
   },
-  "scanned_at": "2026-10-01T06:38:24.933Z",
+  "scanned_at": "2026-10-01T10:59:54.175Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

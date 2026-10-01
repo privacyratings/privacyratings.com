@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kit.com",
-    "tested_at": "2026-10-01T06:38:18.358Z"
+    "tested_at": "2026-10-01T10:59:49.820Z"
   },
-  "scanned_at": "2026-10-01T06:38:23.842Z",
+  "scanned_at": "2026-10-01T10:59:50.041Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

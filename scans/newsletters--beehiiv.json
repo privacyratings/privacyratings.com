@@ -6,14 +6,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.beehiiv.com",
-    "tested_at": "2026-10-01T06:38:17.622Z"
+    "tested_at": "2026-10-01T10:59:46.957Z"
   },
-  "scanned_at": "2026-10-01T06:38:25.036Z",
+  "scanned_at": "2026-10-01T10:59:49.701Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.beehiiv.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:08.991Z"
+    "tested_at": "2026-10-01T10:59:43.744Z"
   },
   "trackers": {
     "url": "https://www.beehiiv.com",

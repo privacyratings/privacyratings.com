@@ -21,18 +21,15 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-01T07:46:20.945Z",
+    "tested_at": "2026-10-01T11:00:24.715Z",
     "imap": {
-      "host": null,
-      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+      "offered": false
     },
     "pop3": {
-      "host": null,
-      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+      "offered": false
     },
     "smtp": {
-      "host": null,
-      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+      "offered": false
     }
   },
   "mail_domain": "duck.com",
@@ -44,7 +41,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
     "tested_at": "2026-10-01T07:00:15.799Z"
   },
-  "scanned_at": "2026-10-01T07:46:20.945Z",
+  "scanned_at": "2026-10-01T11:00:24.715Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

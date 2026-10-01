@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hyperproof.app",
     "tested_at": "2026-10-01T07:01:23.287Z"
   },
-  "scanned_at": "2026-10-01T07:31:58.161Z",
+  "scanned_at": "2026-10-01T11:00:29.407Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hyperproof.app&hideResults=on",
-    "tested_at": "2026-09-30T19:43:48.575Z"
+    "tested_at": "2026-10-01T11:00:29.407Z"
   },
   "trackers": {
     "url": "https://hyperproof.io",

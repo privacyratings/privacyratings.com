@@ -8,7 +8,13 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=railway.com",
     "tested_at": "2026-10-01T07:01:04.270Z"
   },
-  "scanned_at": "2026-10-01T07:13:54.676Z",
+  "scanned_at": "2026-10-01T11:02:09.835Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=railway.com&hideResults=on",
+    "tested_at": "2026-10-01T11:02:09.835Z"
+  },
   "trackers": {
     "url": "https://railway.com",
     "found": [],

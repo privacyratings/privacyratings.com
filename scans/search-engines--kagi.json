@@ -6,14 +6,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kagi.com",
-    "tested_at": "2026-10-01T06:38:09.399Z"
+    "tested_at": "2026-10-01T10:59:35.125Z"
   },
-  "scanned_at": "2026-10-01T06:38:15.516Z",
+  "scanned_at": "2026-10-01T10:59:37.579Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kagi.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:06.979Z"
+    "tested_at": "2026-10-01T10:59:37.579Z"
   },
   "trackers": {
     "url": "https://kagi.com",

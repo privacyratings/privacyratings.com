@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=haveibeenpwned.com",
     "tested_at": "2026-10-01T06:59:55.105Z"
   },
-  "scanned_at": "2026-10-01T07:01:19.971Z",
+  "scanned_at": "2026-10-01T10:59:36.112Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -28,7 +28,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-01T07:46:24.479Z",
+    "tested_at": "2026-10-01T11:00:26.162Z",
     "imap": {
       "host": "imap.mail.me.com",
       "port": 993,
@@ -45,8 +45,7 @@
       ]
     },
     "pop3": {
-      "host": null,
-      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+      "offered": false
     },
     "smtp": {
       "host": "smtp.mail.me.com",
@@ -74,7 +73,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
     "tested_at": "2026-10-01T07:00:26.550Z"
   },
-  "scanned_at": "2026-10-01T07:46:39.755Z",
+  "scanned_at": "2026-10-01T11:00:41.446Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,
