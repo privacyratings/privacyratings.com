@@ -38,6 +38,11 @@ jobs:
           restore-keys: |
             og-${{ hashFiles('scripts/og.js', 'assets/fonts/*') }}-
       - run: npm run build
+      # The site builds on Node 18, but Lighthouse 13 needs Node 22.19 or newer. On older Node
+      # it still runs and silently scores SEO as 0.
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
       - name: Serve the site
         run: |
           node scripts/serve.js > serve.log 2>&1 &

@@ -7,6 +7,14 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
+// A clean environment, so FORCE_COLOR, NO_COLOR or PRIVACYRATINGS_* in the shell running the tests
+// cannot change the output.
+function cleanEnv() {
+  const e = { ...process.env };
+  for (const k of Object.keys(e)) if (/^(CI|NO_COLOR|FORCE_COLOR|NODE_OPTIONS|PRIVACYRATINGS_.*)$/.test(k)) delete e[k];
+  return e;
+}
+
 const BIN = fileURLToPath(new URL('../bin/privacyratings.js', import.meta.url));
 const ESC = '\x1b';
 const nasty = `Evil${ESC}]8;;https://evil.example${ESC}\\link${ESC}]8;;${ESC}\\${ESC}[2J${ESC}]52;c;cm0gLXJmIH4=\x07\x9b31m\r‮`;
@@ -59,7 +67,7 @@ after(() => server.close());
 
 const run = (args, env = {}) =>
   new Promise((resolve) => {
-    execFile(process.execPath, [BIN, ...args], { env: { ...process.env, PRIVACYRATINGS_URL: site, PRIVACYRATINGS_NO_UPDATE: '1', NO_COLOR: '', FORCE_COLOR: '1', ...env }, timeout: 20000 }, (err, stdout, stderr) =>
+    execFile(process.execPath, [BIN, ...args], { env: { ...cleanEnv(), PRIVACYRATINGS_URL: site, PRIVACYRATINGS_NO_UPDATE: '1', NO_COLOR: '', FORCE_COLOR: '1', ...env }, timeout: 20000 }, (err, stdout, stderr) =>
       resolve({ code: err ? err.code : 0, stdout, stderr })
     );
   });
@@ -162,7 +170,7 @@ test('a closed pipe is not an error', { skip: process.platform === 'win32' }, as
   try {
     const out = await new Promise((resolve) => {
       execFile('sh', ['-c', `"${process.execPath}" "${BIN}" categories --json | head -c 1 >/dev/null; "${process.execPath}" "${BIN}" search | head -c 1 >/dev/null; echo "\${PIPESTATUS:-ok}"`], {
-        env: { ...process.env, PRIVACYRATINGS_URL: site, PRIVACYRATINGS_NO_UPDATE: '1', PRIVACYRATINGS_CACHE: cache }
+        env: { ...cleanEnv(), PRIVACYRATINGS_URL: site, PRIVACYRATINGS_NO_UPDATE: '1', PRIVACYRATINGS_CACHE: cache }
       }, (err, stdout, stderr) => resolve({ err, stdout, stderr }));
     });
     assert.equal(out.err, null);

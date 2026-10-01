@@ -29,6 +29,8 @@ for (const file of process.argv.slice(2)) {
     for (const ref of cat.auditRefs) {
       const audit = report.audits[ref.id];
       if (ref.weight > 0 && audit.score !== null && audit.score < 1) console.log(`  ${cat.id}: ${audit.id} ${audit.displayValue || ''}`);
+      // An audit that crashed has no score, which counts as 0 for its category.
+      else if (ref.weight > 0 && audit.scoreDisplayMode === 'error') console.log(`  ${cat.id}: ${audit.id} did not run (${audit.errorMessage || 'error'})`);
     }
   }
 }

@@ -28,6 +28,12 @@ globalThis.fetch = async (url, opts) => {
 };
 `;
 
+function cleanEnv() {
+  const e = { ...process.env };
+  for (const k of Object.keys(e)) if (/^(CI|NO_COLOR|FORCE_COLOR|NODE_OPTIONS|PRIVACYRATINGS_.*)$/.test(k)) delete e[k];
+  return e;
+}
+
 async function setup() {
   const root = await mkdtemp(join(tmpdir(), 'pr-update-'));
   await writeFile(join(root, 'mock.cjs'), MOCK);
@@ -37,7 +43,9 @@ async function setup() {
 
 const run = (root, args, scenario, env = {}) =>
   new Promise((resolve) => {
-    const { CI, PRIVACYRATINGS_NO_UPDATE, ...base } = process.env;
+    // Start from a clean environment: a FORCE_COLOR or PRIVACYRATINGS_* setting in the shell that
+    // runs the tests would change the output (Node warns when FORCE_COLOR and NO_COLOR are both set).
+    const base = cleanEnv();
     const e = { ...base, NODE_OPTIONS: `--require ${JSON.stringify(join(root, 'mock.cjs'))}`, MOCK_SCENARIO: scenario, MOCK_LOG: join(root, 'log'), PRIVACYRATINGS_CACHE: join(root, 'cache'), NO_COLOR: '1', ...env };
     execFile(process.execPath, [BIN, ...args], { env: e, timeout: 20000 }, (err, stdout, stderr) => resolve({ code: err ? err.code : 0, stdout, stderr }));
   });
