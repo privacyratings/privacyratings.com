@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.318Z",
+  "github": {
+    "repo": "LibrePhotos/librephotos",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:45.007Z"
+  },
+  "scanned_at": "2026-10-01T07:00:02.274Z",
   "trackers": {
     "url": "https://github.com/LibrePhotos/librephotos",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:39:47.434Z"
+    "tested_at": "2026-10-01T07:00:02.274Z"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.586Z",
+  "scanned_at": "2026-10-01T07:02:00.787Z",
   "trackers": {
     "url": "https://www.win-rar.com/start.html?&L=0",
     "found": [
@@ -8,6 +8,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:18.290Z"
+    "tested_at": "2026-10-01T07:02:00.787Z"
   }
 }

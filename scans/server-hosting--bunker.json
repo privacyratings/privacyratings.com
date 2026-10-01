@@ -1,17 +1,29 @@
 {
   "domain": "getbunker.net",
+  "github": {
+    "repo": "France-Nuage/plateforme",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:00.629Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 75,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getbunker.net",
-    "tested_at": "2026-09-30T20:17:35.903Z"
+    "tested_at": "2026-10-01T07:00:08.332Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.468Z",
+  "scanned_at": "2026-10-01T07:01:35.512Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=getbunker.net&hideResults=on",
+    "tested_at": "2026-10-01T07:01:35.512Z"
+  },
   "trackers": {
     "url": "https://getbunker.net",
     "found": [],
-    "tested_at": "2026-09-30T20:40:39.513Z"
+    "tested_at": "2026-10-01T07:01:26.625Z"
   }
 }

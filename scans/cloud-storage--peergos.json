@@ -1,17 +1,29 @@
 {
   "domain": "peergos.org",
+  "github": {
+    "repo": "Peergos/Peergos",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:01.108Z"
+  },
   "observatory": {
     "grade": "C",
     "score": 55,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=peergos.org",
-    "tested_at": "2026-09-30T20:18:07.829Z"
+    "tested_at": "2026-10-01T07:00:16.300Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.472Z",
+  "scanned_at": "2026-10-01T07:03:54.681Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=peergos.org&hideResults=on",
+    "tested_at": "2026-10-01T07:03:54.681Z"
+  },
   "trackers": {
     "url": "https://peergos.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:41.968Z"
+    "tested_at": "2026-10-01T07:01:28.205Z"
   }
 }

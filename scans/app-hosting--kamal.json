@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.511Z",
+  "github": {
+    "repo": "basecamp/kamal",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:04.149Z"
+  },
+  "scanned_at": "2026-10-01T07:01:42.809Z",
   "trackers": {
     "url": "https://kamal-deploy.org",
     "found": [
@@ -16,6 +22,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:00.180Z"
+    "tested_at": "2026-10-01T07:01:42.809Z"
   }
 }

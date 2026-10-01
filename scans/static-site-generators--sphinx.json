@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.613Z",
+  "github": {
+    "repo": "sphinx-doc/sphinx",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:14.230Z"
+  },
+  "scanned_at": "2026-10-01T07:02:07.953Z",
   "trackers": {
     "url": "https://www.sphinx-doc.org/en/master/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:25.269Z"
+    "tested_at": "2026-10-01T07:02:07.953Z"
   }
 }

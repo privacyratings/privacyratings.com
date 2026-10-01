@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.296Z",
+  "github": {
+    "repo": "misskey-dev/misskey",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:42.579Z"
+  },
+  "scanned_at": "2026-10-01T06:59:55.445Z",
   "trackers": {
     "url": "https://misskey-hub.net",
     "found": [
@@ -10,6 +16,7 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:40.336Z"
+    "tested_at": "2026-09-30T20:39:40.336Z",
+    "last_error": "HTTP 403"
   }
 }

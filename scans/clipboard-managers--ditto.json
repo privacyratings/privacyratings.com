@@ -1,7 +1,13 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.568Z",
+  "github": {
+    "repo": "sabrogden/Ditto",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.354Z"
+  },
+  "scanned_at": "2026-10-01T07:01:50.563Z",
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:41:09.138Z"
+    "tested_at": "2026-10-01T07:01:50.563Z"
   }
 }

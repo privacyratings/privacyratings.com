@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidycal.com",
-    "tested_at": "2026-09-30T20:21:58.371Z"
+    "tested_at": "2026-10-01T07:01:17.045Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.670Z",
+  "scanned_at": "2026-10-01T07:24:28.745Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tidycal.com&hideResults=on",
+    "tested_at": "2026-10-01T07:24:28.745Z"
+  },
   "trackers": {
     "url": "https://tidycal.com",
     "found": [
@@ -22,6 +28,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:39.162Z"
+    "tested_at": "2026-10-01T07:02:22.843Z"
   }
 }

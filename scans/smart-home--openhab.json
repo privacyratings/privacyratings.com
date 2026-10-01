@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.273Z",
+  "github": {
+    "repo": "openhab/openhab-core",
+    "license": "EPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:40.591Z"
+  },
+  "scanned_at": "2026-10-01T06:59:47.661Z",
   "trackers": {
     "url": "https://www.openhab.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:31.664Z"
+    "tested_at": "2026-10-01T06:59:47.661Z"
   }
 }

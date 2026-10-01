@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.664Z",
+  "github": {
+    "repo": "gleam-wisp/wisp",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:21.524Z"
+  },
+  "scanned_at": "2026-10-01T07:02:19.565Z",
   "trackers": {
     "url": "https://gleam-wisp.github.io/wisp/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:35.849Z"
+    "tested_at": "2026-10-01T07:02:19.565Z"
   }
 }

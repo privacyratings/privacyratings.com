@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.687Z",
+  "github": {
+    "repo": "hcengineering/platform",
+    "license": "EPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:24.984Z"
+  },
+  "scanned_at": "2026-10-01T07:02:28.450Z",
   "trackers": {
     "url": "https://huly.io",
     "found": [
@@ -8,6 +14,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:45.412Z"
+    "tested_at": "2026-10-01T07:02:28.450Z"
   }
 }

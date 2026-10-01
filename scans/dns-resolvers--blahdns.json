@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=blahdns.com",
-    "tested_at": "2026-09-30T20:17:01.296Z"
+    "tested_at": "2026-10-01T07:00:03.668Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.465Z",
+  "scanned_at": "2026-10-01T07:01:23.279Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=blahdns.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:53.841Z"
+  },
   "trackers": {
     "url": "https://blahdns.com",
     "found": [
@@ -19,6 +25,7 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:37.885Z"
+    "tested_at": "2026-09-30T20:40:37.885Z",
+    "last_error": "HTTP 403"
   }
 }

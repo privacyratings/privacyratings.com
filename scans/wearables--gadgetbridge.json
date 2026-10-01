@@ -1,9 +1,8 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.445Z",
+  "scanned_at": "2026-10-01T07:01:10.523Z",
   "trackers": {
-    "url": "https://gadgetbridge.org/",
+    "url": "https://gadgetbridge.org",
     "found": [],
-    "tested_at": "2026-09-30T13:19:25.805Z",
-    "last_error": "HTTP 503"
+    "tested_at": "2026-10-01T07:01:10.523Z"
   }
 }

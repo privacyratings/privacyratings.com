@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.blogger.com",
-    "tested_at": "2026-09-30T20:21:48.115Z"
+    "tested_at": "2026-10-01T07:01:14.256Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.594Z",
+  "scanned_at": "2026-10-01T07:20:56.048Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.blogger.com&hideResults=on",
+    "tested_at": "2026-10-01T07:20:56.048Z"
+  },
   "trackers": {
     "url": "https://www.blogger.com/about/?bpli=1",
     "found": [
@@ -18,6 +24,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:20.479Z"
+    "tested_at": "2026-10-01T07:02:03.109Z"
   }
 }

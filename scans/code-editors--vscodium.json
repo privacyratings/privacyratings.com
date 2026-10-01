@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.444Z",
+  "github": {
+    "repo": "VSCodium/vscodium",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:56.078Z"
+  },
+  "scanned_at": "2026-10-01T07:01:08.465Z",
   "trackers": {
     "url": "https://vscodium.com",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:20.448Z"
+    "tested_at": "2026-10-01T07:01:08.465Z"
   }
 }

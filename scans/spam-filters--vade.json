@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cloud.vadesecure.com",
-    "tested_at": "2026-09-30T20:20:33.040Z"
+    "tested_at": "2026-10-01T07:00:52.968Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.497Z",
+  "scanned_at": "2026-10-01T07:06:28.651Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cloud.vadesecure.com&hideResults=on",
+    "tested_at": "2026-10-01T07:06:28.651Z"
+  },
   "trackers": {
     "url": "https://www.vadesecure.com/en/",
     "found": [
@@ -26,6 +32,6 @@
         "host": "www.clarity.ms"
       }
     ],
-    "tested_at": "2026-09-30T20:40:59.232Z"
+    "tested_at": "2026-10-01T07:01:38.713Z"
   }
 }

@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.render.com",
-    "tested_at": "2026-09-30T20:21:12.298Z"
+    "tested_at": "2026-10-01T07:01:04.905Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.513Z",
+  "scanned_at": "2026-10-01T07:14:13.308Z",
   "trackers": {
     "url": "https://render.com",
     "found": [
@@ -17,6 +17,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:00.502Z"
+    "tested_at": "2026-10-01T07:01:43.001Z"
   }
 }

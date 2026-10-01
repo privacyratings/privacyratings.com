@@ -6,12 +6,18 @@
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.orangewebsite.com",
-    "tested_at": "2026-09-30T20:17:29.820Z"
+    "tested_at": "2026-10-01T07:00:07.673Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.468Z",
+  "scanned_at": "2026-10-01T07:01:35.327Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.orangewebsite.com&hideResults=on",
+    "tested_at": "2026-10-01T07:01:35.327Z"
+  },
   "trackers": {
     "url": "https://orangewebsite.com/domains/domain-price-list",
     "found": [],
-    "tested_at": "2026-09-30T20:40:39.312Z"
+    "tested_at": "2026-10-01T07:01:26.173Z"
   }
 }

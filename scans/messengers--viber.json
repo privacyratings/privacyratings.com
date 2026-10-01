@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.581Z",
+  "scanned_at": "2026-10-01T07:01:57.138Z",
   "trackers": {
     "url": "https://www.viber.com/en/",
     "found": [
@@ -22,6 +22,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:14.157Z"
+    "tested_at": "2026-10-01T07:01:57.138Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.256Z",
+  "github": {
+    "repo": "hoppscotch/hoppscotch",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:40.288Z"
+  },
+  "scanned_at": "2026-10-01T06:59:45.047Z",
   "trackers": {
     "url": "https://hoppscotch.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:28.794Z"
+    "tested_at": "2026-10-01T06:59:45.047Z"
   }
 }

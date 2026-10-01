@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.531Z",
+  "github": {
+    "repo": "gatsbyjs/gatsby",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:05.937Z"
+  },
+  "scanned_at": "2026-10-01T07:01:46.159Z",
   "trackers": {
     "url": "https://www.gatsbyjs.com",
     "found": [
@@ -12,6 +18,6 @@
         "host": "cdn.segment.io"
       }
     ],
-    "tested_at": "2026-09-30T20:41:03.765Z"
+    "tested_at": "2026-10-01T07:01:46.159Z"
   }
 }

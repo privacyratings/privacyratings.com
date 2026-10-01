@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.665Z",
+  "github": {
+    "repo": "camlworks/dream",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:21.767Z"
+  },
+  "scanned_at": "2026-10-01T07:02:20.166Z",
   "trackers": {
     "url": "https://camlworks.github.io/dream/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:36.404Z"
+    "tested_at": "2026-10-01T07:02:20.166Z"
   }
 }

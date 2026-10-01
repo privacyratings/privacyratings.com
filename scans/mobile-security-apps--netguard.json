@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.397Z",
+  "github": {
+    "repo": "M66B/NetGuard",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:50.753Z"
+  },
+  "scanned_at": "2026-10-01T07:00:45.105Z",
   "trackers": {
     "url": "https://netguard.me",
     "found": [],
-    "tested_at": "2026-09-30T20:40:04.382Z"
+    "tested_at": "2026-10-01T07:00:45.105Z"
   }
 }

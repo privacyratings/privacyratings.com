@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.cloudflare.com",
-    "tested_at": "2026-09-30T20:17:14.912Z"
+    "tested_at": "2026-10-01T06:59:38.599Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.467Z",
+  "scanned_at": "2026-10-01T07:01:24.262Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dash.cloudflare.com&hideResults=on",
+    "tested_at": "2026-10-01T07:00:56.107Z"
+  },
   "trackers": {
     "url": "https://www.cloudflare.com/domains/",
     "found": [
@@ -23,6 +29,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:40:38.295Z"
+    "tested_at": "2026-10-01T07:01:24.262Z"
   }
 }

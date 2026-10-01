@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.442Z",
+  "github": {
+    "repo": "super-productivity/super-productivity",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:55.764Z"
+  },
+  "scanned_at": "2026-10-01T07:01:07.811Z",
   "trackers": {
     "url": "https://super-productivity.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:19.569Z"
+    "tested_at": "2026-10-01T07:01:07.811Z"
   }
 }

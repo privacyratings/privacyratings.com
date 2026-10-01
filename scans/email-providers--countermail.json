@@ -21,7 +21,42 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:33.124Z"
+    "tested_at": "2026-10-01T06:59:40.203Z",
+    "imap": {
+      "host": "imap1.countermail.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "LITERAL+",
+        "SASL-IR",
+        "LOGIN-REFERRALS",
+        "ID",
+        "ENABLE",
+        "IDLE",
+        "STARTTLS",
+        "AUTH=CRAM-MD5",
+        "AUTH=PLAIN",
+        "AUTH=LOGIN"
+      ]
+    },
+    "pop3": {
+      "offered": false
+    },
+    "smtp": {
+      "host": "imap1.countermail.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "ETRN",
+        "STARTTLS",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME"
+      ]
+    }
   },
   "mail_domain": "countermail.com",
   "observatory": {
@@ -30,12 +65,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=countermail.com",
-    "tested_at": "2026-09-30T20:18:56.775Z"
+    "tested_at": "2026-10-01T07:00:24.688Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.476Z",
+  "scanned_at": "2026-10-01T07:03:56.092Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=countermail.com&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.092Z"
+  },
   "trackers": {
     "url": "https://countermail.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:44.567Z"
+    "tested_at": "2026-10-01T07:01:29.669Z"
   }
 }

@@ -1,19 +1,25 @@
 {
   "domain": "textbelt.com",
+  "github": {
+    "repo": "typpo/textbelt",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:23.550Z"
+  },
   "observatory": {
     "grade": "D-",
     "score": 25,
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=textbelt.com",
-    "tested_at": "2026-09-30T20:22:46.959Z"
+    "tested_at": "2026-10-01T07:01:28.291Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.679Z",
+  "scanned_at": "2026-10-01T07:29:53.690Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=textbelt.com&hideResults=on",
-    "tested_at": "2026-09-30T19:56:28.161Z"
+    "tested_at": "2026-10-01T07:29:53.690Z"
   },
   "trackers": {
     "url": "https://textbelt.com",
@@ -25,6 +31,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:42.254Z"
+    "tested_at": "2026-10-01T07:02:24.953Z"
   }
 }

@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.radicallyopensecurity.com",
-    "tested_at": "2026-09-30T20:20:51.363Z"
+    "tested_at": "2026-10-01T07:00:57.920Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.502Z",
+  "scanned_at": "2026-10-01T07:07:14.371Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.radicallyopensecurity.com&hideResults=on",
+    "tested_at": "2026-10-01T07:07:14.371Z"
+  },
   "trackers": {
     "url": "https://www.radicallyopensecurity.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:56.977Z"
+    "tested_at": "2026-10-01T07:01:40.157Z"
   }
 }

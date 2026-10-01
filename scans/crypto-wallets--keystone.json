@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.288Z",
+  "github": {
+    "repo": "KeystoneHQ/keystone3-firmware",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:41.717Z"
+  },
+  "scanned_at": "2026-10-01T06:59:53.058Z",
   "trackers": {
     "url": "https://keyst.one",
     "found": [
@@ -29,6 +35,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:36.472Z"
+    "tested_at": "2026-10-01T06:59:53.058Z"
   }
 }

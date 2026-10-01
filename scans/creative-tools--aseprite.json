@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.451Z",
+  "github": {
+    "repo": "aseprite/aseprite",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:58.287Z"
+  },
+  "scanned_at": "2026-10-01T07:01:13.602Z",
   "trackers": {
     "url": "https://www.aseprite.org",
     "found": [
@@ -14,6 +20,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:25.082Z"
+    "tested_at": "2026-10-01T07:01:13.602Z"
   }
 }

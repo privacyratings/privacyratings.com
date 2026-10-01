@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.407Z",
+  "github": {
+    "repo": "costales/gufw",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:52.866Z"
+  },
+  "scanned_at": "2026-10-01T07:00:53.362Z",
   "trackers": {
     "url": "https://costales.github.io/projects/gufw/",
     "found": [],
-    "tested_at": "2026-09-30T20:40:10.582Z"
+    "tested_at": "2026-10-01T07:00:53.362Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.631Z",
+  "github": {
+    "repo": "falconry/falcon",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:16.478Z"
+  },
+  "scanned_at": "2026-10-01T07:02:12.319Z",
   "trackers": {
     "url": "https://falconframework.org",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:28.907Z"
+    "tested_at": "2026-10-01T07:02:12.319Z"
   }
 }

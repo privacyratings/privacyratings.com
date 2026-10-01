@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tresorit.com",
-    "tested_at": "2026-09-30T20:18:09.260Z"
+    "tested_at": "2026-10-01T07:00:16.148Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.472Z",
+  "scanned_at": "2026-10-01T07:03:54.764Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tresorit.com&hideResults=on",
+    "tested_at": "2026-10-01T07:03:54.764Z"
+  },
   "trackers": {
     "url": "https://tresorit.com",
     "found": [
@@ -29,6 +35,6 @@
         "host": "www.facebook.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:41.595Z"
+    "tested_at": "2026-10-01T07:01:28.135Z"
   }
 }

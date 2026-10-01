@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.412Z",
+  "scanned_at": "2026-10-01T07:00:55.774Z",
   "trackers": {
     "url": "https://someonewhocares.org/hosts/",
     "found": [
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:12.254Z"
+    "tested_at": "2026-10-01T07:00:55.774Z"
   }
 }

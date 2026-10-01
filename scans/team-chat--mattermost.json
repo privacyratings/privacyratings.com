@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.404Z",
+  "github": {
+    "repo": "mattermost/mattermost",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:51.877Z"
+  },
+  "scanned_at": "2026-10-01T07:00:48.338Z",
   "trackers": {
     "url": "https://mattermost.com",
     "found": [
@@ -13,6 +19,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:07.367Z"
+    "tested_at": "2026-10-01T07:00:48.338Z"
   }
 }

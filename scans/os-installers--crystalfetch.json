@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.556Z",
+  "github": {
+    "repo": "TuringSoftware/CrystalFetch",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:08.367Z"
+  },
+  "scanned_at": "2026-10-01T07:01:48.674Z",
   "trackers": {
     "url": "https://github.com/TuringSoftware/CrystalFetch",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:41:06.838Z"
+    "tested_at": "2026-10-01T07:01:48.674Z"
   }
 }

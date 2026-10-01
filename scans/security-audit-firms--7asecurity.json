@@ -6,16 +6,12 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=7asecurity.com",
-    "tested_at": "2026-09-30T20:20:35.177Z"
+    "tested_at": "2026-10-01T07:00:53.051Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.499Z",
+  "scanned_at": "2026-10-01T07:09:28.899Z",
   "trackers": {
     "url": "https://7asecurity.com",
     "found": [
-      {
-        "name": "Google Analytics",
-        "host": "inline code"
-      },
       {
         "name": "Google Fonts",
         "host": "fonts.googleapis.com",
@@ -30,6 +26,6 @@
         "host": "mc.yandex.ru"
       }
     ],
-    "tested_at": "2026-09-30T20:40:54.827Z"
+    "tested_at": "2026-10-01T07:01:39.135Z"
   }
 }

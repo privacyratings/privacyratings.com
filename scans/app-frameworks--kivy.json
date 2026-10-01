@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.624Z",
+  "github": {
+    "repo": "kivy/kivy",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:15.311Z"
+  },
+  "scanned_at": "2026-10-01T07:02:10.555Z",
   "trackers": {
     "url": "https://kivy.org",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:27.365Z"
+    "tested_at": "2026-10-01T07:02:10.555Z"
   }
 }

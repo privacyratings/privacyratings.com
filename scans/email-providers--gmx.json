@@ -22,7 +22,56 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:33.956Z"
+    "tested_at": "2026-10-01T06:59:41.955Z",
+    "imap": {
+      "host": "imap.gmx.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "CHILDREN",
+        "ENABLE",
+        "ID",
+        "IDLE",
+        "LIST-EXTENDED",
+        "LIST-STATUS",
+        "LITERAL-",
+        "MOVE",
+        "NAMESPACE",
+        "SASL-IR",
+        "SORT",
+        "SPECIAL-USE",
+        "THREAD=ORDEREDSUBJECT",
+        "UIDPLUS",
+        "UNSELECT",
+        "WITHIN",
+        "AUTH=LOGIN",
+        "AUTH=PLAIN"
+      ]
+    },
+    "pop3": {
+      "host": "pop.gmx.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "UIDL",
+        "USER",
+        "SASL",
+        "IMPLEMENTATION"
+      ]
+    },
+    "smtp": {
+      "host": "mail.gmx.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "8BITMIME",
+        "AUTH",
+        "SIZE"
+      ]
+    }
   },
   "mail_domain": "gmx.com",
   "observatory": {
@@ -31,9 +80,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gmx.com",
-    "tested_at": "2026-09-30T20:18:58.618Z"
+    "tested_at": "2026-10-01T07:00:25.399Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.476Z",
+  "scanned_at": "2026-10-01T07:03:56.142Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.gmx.com&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.141Z"
+  },
   "trackers": {
     "url": "https://www.gmx.com",
     "found": [
@@ -42,6 +97,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:43.690Z"
+    "tested_at": "2026-10-01T07:01:29.512Z"
   }
 }

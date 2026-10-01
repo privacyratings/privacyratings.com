@@ -1,17 +1,29 @@
 {
   "domain": "windscribe.com",
+  "github": {
+    "repo": "Windscribe/Desktop-App",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:00.398Z"
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=windscribe.com",
-    "tested_at": "2026-09-30T20:17:00.695Z"
+    "tested_at": "2026-10-01T07:00:03.042Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.465Z",
+  "scanned_at": "2026-10-01T07:01:23.413Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=windscribe.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:53.546Z"
+  },
   "trackers": {
     "url": "https://windscribe.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:36.752Z"
+    "tested_at": "2026-10-01T07:01:23.413Z"
   }
 }

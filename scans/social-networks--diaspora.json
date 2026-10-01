@@ -1,7 +1,13 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.294Z",
+  "github": {
+    "repo": "diaspora/diaspora",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:42.064Z"
+  },
+  "scanned_at": "2026-10-01T07:00:18.043Z",
   "trackers": {
-    "error": "HTTP 502",
-    "tested_at": "2026-09-30T20:40:01.983Z"
+    "error": "socket hang up",
+    "tested_at": "2026-10-01T07:00:18.043Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.526Z",
+  "github": {
+    "repo": "fastify/fastify",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:05.141Z"
+  },
+  "scanned_at": "2026-10-01T07:01:44.979Z",
   "trackers": {
     "url": "https://fastify.dev",
     "found": [],
-    "tested_at": "2026-09-30T20:41:02.480Z"
+    "tested_at": "2026-10-01T07:01:44.979Z"
   }
 }

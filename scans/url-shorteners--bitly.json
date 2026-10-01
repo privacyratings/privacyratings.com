@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitly.com",
-    "tested_at": "2026-09-30T20:15:35.020Z"
+    "tested_at": "2026-10-01T06:59:43.420Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.266Z",
+  "scanned_at": "2026-10-01T06:59:46.234Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bitly.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:39.452Z"
+  },
   "trackers": {
     "url": "https://bitly.com",
     "found": [
@@ -30,6 +36,6 @@
         "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:30.140Z"
+    "tested_at": "2026-10-01T06:59:46.234Z"
   }
 }

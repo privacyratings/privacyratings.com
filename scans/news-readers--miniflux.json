@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.305Z",
+  "github": {
+    "repo": "miniflux/v2",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:43.604Z"
+  },
+  "scanned_at": "2026-10-01T06:59:58.630Z",
   "trackers": {
     "url": "https://miniflux.app",
     "found": [],
-    "tested_at": "2026-09-30T20:39:44.510Z"
+    "tested_at": "2026-10-01T06:59:58.630Z"
   }
 }

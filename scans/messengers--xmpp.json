@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.404Z",
+  "github": {
+    "repo": "xsf/xeps",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:51.849Z"
+  },
+  "scanned_at": "2026-10-01T07:00:48.671Z",
   "trackers": {
     "url": "https://xmpp.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:07.369Z"
+    "tested_at": "2026-10-01T07:00:48.671Z"
   }
 }

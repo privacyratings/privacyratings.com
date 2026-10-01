@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.684Z",
+  "github": {
+    "repo": "solidiquis/erdtree",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:24.526Z"
+  },
+  "scanned_at": "2026-10-01T07:02:26.079Z",
   "trackers": {
     "url": "https://github.com/solidiquis/erdtree",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:41:43.128Z"
+    "tested_at": "2026-10-01T07:02:26.079Z"
   }
 }

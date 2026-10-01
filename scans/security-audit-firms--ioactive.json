@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ioactive.com",
-    "tested_at": "2026-09-30T20:20:44.238Z"
+    "tested_at": "2026-10-01T07:00:56.761Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.500Z",
+  "scanned_at": "2026-10-01T07:07:14.086Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 3,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.ioactive.com&hideResults=on",
+    "tested_at": "2026-10-01T07:07:14.086Z"
+  },
   "trackers": {
     "url": "https://www.ioactive.com",
     "found": [
@@ -35,6 +41,6 @@
         "host": "snap.licdn.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:55.885Z"
+    "tested_at": "2026-10-01T07:01:39.244Z"
   }
 }

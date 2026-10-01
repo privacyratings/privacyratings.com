@@ -6,14 +6,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.signwell.com",
-    "tested_at": "2026-09-30T20:22:51.350Z"
+    "tested_at": "2026-10-01T07:01:31.132Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.689Z",
+  "scanned_at": "2026-10-01T07:38:14.091Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.signwell.com&hideResults=on",
-    "tested_at": "2026-09-30T19:56:28.544Z"
+    "tested_at": "2026-10-01T07:38:14.091Z"
   },
   "trackers": {
     "url": "https://www.signwell.com",
@@ -55,6 +55,6 @@
         "host": "www.facebook.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:45.822Z"
+    "tested_at": "2026-10-01T07:02:29.065Z"
   }
 }

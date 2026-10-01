@@ -6,17 +6,17 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.pandadoc.com",
-    "tested_at": "2026-09-30T20:22:49.901Z"
+    "tested_at": "2026-10-01T07:01:30.344Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.688Z",
+  "scanned_at": "2026-10-01T07:31:56.956Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.pandadoc.com&hideResults=on",
-    "tested_at": "2026-09-30T19:54:53.215Z"
+    "tested_at": "2026-10-01T07:31:56.956Z"
   },
   "trackers": {
     "error": "HTTP 429",
-    "tested_at": "2026-09-30T20:41:45.618Z"
+    "tested_at": "2026-10-01T07:02:28.727Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.446Z",
+  "github": {
+    "repo": "spesmilo/electrum",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:56.777Z"
+  },
+  "scanned_at": "2026-10-01T07:01:10.430Z",
   "trackers": {
     "url": "https://electrum.org",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:22.000Z"
+    "tested_at": "2026-10-01T07:01:10.430Z"
   }
 }

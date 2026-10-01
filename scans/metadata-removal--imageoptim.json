@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.400Z",
+  "github": {
+    "repo": "ImageOptim/ImageOptim",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:51.285Z"
+  },
+  "scanned_at": "2026-10-01T07:00:46.498Z",
   "trackers": {
     "url": "https://imageoptim.com/mac",
     "found": [],
-    "tested_at": "2026-09-30T20:40:05.414Z"
+    "tested_at": "2026-10-01T07:00:46.498Z"
   }
 }

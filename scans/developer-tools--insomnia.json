@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.256Z",
+  "github": {
+    "repo": "Kong/insomnia",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:39.258Z"
+  },
+  "scanned_at": "2026-10-01T06:59:45.179Z",
   "trackers": {
     "url": "https://insomnia.rest",
     "found": [
@@ -17,6 +23,6 @@
         "host": "dev.visualwebsiteoptimizer.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:29.005Z"
+    "tested_at": "2026-10-01T06:59:45.178Z"
   }
 }

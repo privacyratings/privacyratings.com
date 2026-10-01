@@ -6,12 +6,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=browserleaks.com",
-    "tested_at": "2026-09-30T20:16:27.250Z"
+    "tested_at": "2026-10-01T06:59:53.291Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.460Z",
+  "scanned_at": "2026-10-01T07:01:19.757Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=browserleaks.com&hideResults=on",
+    "tested_at": "2026-10-01T07:00:54.877Z"
+  },
   "trackers": {
     "url": "https://browserleaks.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:32.105Z"
+    "tested_at": "2026-10-01T07:01:19.757Z"
   }
 }

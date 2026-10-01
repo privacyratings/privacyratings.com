@@ -6,11 +6,17 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.namecheap.com",
-    "tested_at": "2026-09-30T20:17:29.241Z"
+    "tested_at": "2026-10-01T07:00:07.151Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.468Z",
+  "scanned_at": "2026-10-01T07:01:35.281Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.namecheap.com&hideResults=on",
+    "tested_at": "2026-10-01T07:01:35.281Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:40:38.563Z"
+    "tested_at": "2026-10-01T07:01:24.637Z"
   }
 }

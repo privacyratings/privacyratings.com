@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.623Z",
+  "github": {
+    "repo": "ionic-team/ionic-framework",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:15.296Z"
+  },
+  "scanned_at": "2026-10-01T07:02:09.243Z",
   "trackers": {
     "url": "https://ionicframework.com",
     "found": [
@@ -8,6 +14,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:26.829Z"
+    "tested_at": "2026-10-01T07:02:09.243Z"
   }
 }

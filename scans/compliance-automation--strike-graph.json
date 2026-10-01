@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=grc.strikegraph.com",
-    "tested_at": "2026-09-30T20:22:31.469Z"
+    "tested_at": "2026-10-01T07:01:23.733Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.677Z",
+  "scanned_at": "2026-10-01T07:32:16.656Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
@@ -27,6 +27,6 @@
         "host": "js-eu1.hsforms.net"
       }
     ],
-    "tested_at": "2026-09-30T20:41:41.717Z"
+    "tested_at": "2026-10-01T07:02:24.460Z"
   }
 }

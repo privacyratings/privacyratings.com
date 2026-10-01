@@ -6,9 +6,15 @@
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.racknerd.com",
-    "tested_at": "2026-09-30T20:17:45.498Z"
+    "tested_at": "2026-10-01T07:00:11.391Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.470Z",
+  "scanned_at": "2026-10-01T07:01:36.055Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.racknerd.com&hideResults=on",
+    "tested_at": "2026-10-01T07:01:36.055Z"
+  },
   "trackers": {
     "url": "https://www.racknerd.com",
     "found": [
@@ -30,6 +36,6 @@
         "host": "embed.tawk.to"
       }
     ],
-    "tested_at": "2026-09-30T20:40:40.239Z"
+    "tested_at": "2026-10-01T07:01:26.760Z"
   }
 }

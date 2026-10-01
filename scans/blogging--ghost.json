@@ -1,17 +1,29 @@
 {
   "domain": "account.ghost.org",
+  "github": {
+    "repo": "TryGhost/Ghost",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:42.976Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 70,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.ghost.org",
-    "tested_at": "2026-09-30T20:15:45.569Z"
+    "tested_at": "2026-10-01T06:59:45.661Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.302Z",
+  "scanned_at": "2026-10-01T06:59:57.819Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=account.ghost.org&hideResults=on",
+    "tested_at": "2026-10-01T06:59:40.569Z"
+  },
   "trackers": {
     "url": "https://ghost.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:43.609Z"
+    "tested_at": "2026-10-01T06:59:57.819Z"
   }
 }

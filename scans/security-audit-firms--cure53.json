@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cure53.de",
-    "tested_at": "2026-09-30T20:20:40.469Z"
+    "tested_at": "2026-10-01T07:00:55.149Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.500Z",
+  "scanned_at": "2026-10-01T07:07:13.901Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cure53.de&hideResults=on",
+    "tested_at": "2026-10-01T07:07:13.900Z"
+  },
   "trackers": {
     "url": "https://cure53.de",
     "found": [],
-    "tested_at": "2026-09-30T20:40:55.672Z"
+    "tested_at": "2026-10-01T07:01:39.410Z"
   }
 }

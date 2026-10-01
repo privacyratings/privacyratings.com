@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.635Z",
+  "github": {
+    "repo": "litestar-org/litestar",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:16.726Z"
+  },
+  "scanned_at": "2026-10-01T07:02:12.508Z",
   "trackers": {
     "url": "https://litestar.dev",
     "found": [],
-    "tested_at": "2026-09-30T20:41:28.940Z"
+    "tested_at": "2026-10-01T07:02:12.508Z"
   }
 }

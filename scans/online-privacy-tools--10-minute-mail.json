@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=10minutemail.com",
-    "tested_at": "2026-09-30T20:16:21.765Z"
+    "tested_at": "2026-10-01T06:59:52.772Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.459Z",
+  "scanned_at": "2026-10-01T07:01:19.277Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=10minutemail.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:44.078Z"
+  },
   "trackers": {
     "url": "https://10minutemail.com",
     "found": [
@@ -35,6 +41,7 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:31.771Z"
+    "tested_at": "2026-09-30T20:40:31.771Z",
+    "last_error": "HTTP 403"
   }
 }

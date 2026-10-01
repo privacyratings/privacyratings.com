@@ -1,17 +1,29 @@
 {
   "domain": "plausible.io",
+  "github": {
+    "repo": "plausible/analytics",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:39.755Z"
+  },
   "observatory": {
     "grade": "D",
     "score": 30,
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=plausible.io",
-    "tested_at": "2026-09-30T20:15:28.861Z"
+    "tested_at": "2026-10-01T06:59:40.248Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.261Z",
+  "scanned_at": "2026-10-01T06:59:45.719Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=plausible.io&hideResults=on",
+    "tested_at": "2026-10-01T06:59:38.951Z"
+  },
   "trackers": {
     "url": "https://plausible.io",
     "found": [],
-    "tested_at": "2026-09-30T20:39:29.515Z"
+    "tested_at": "2026-10-01T06:59:45.719Z"
   }
 }

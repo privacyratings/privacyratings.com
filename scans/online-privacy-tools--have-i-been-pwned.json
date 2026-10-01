@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=haveibeenpwned.com",
-    "tested_at": "2026-09-30T20:16:30.673Z"
+    "tested_at": "2026-10-01T06:59:55.105Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.460Z",
+  "scanned_at": "2026-10-01T07:01:19.971Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=haveibeenpwned.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:45.283Z"
+  },
   "trackers": {
     "url": "https://haveibeenpwned.com",
     "found": [
@@ -19,6 +25,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:32.550Z"
+    "tested_at": "2026-10-01T07:01:19.970Z"
   }
 }

@@ -1,5 +1,11 @@
 {
   "domain": "tuta.com",
+  "github": {
+    "repo": "tutao/tutanota",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:02.023Z"
+  },
   "mail": {
     "dns": {
       "domain": "tuta.com",
@@ -21,7 +27,16 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:44.354Z"
+    "tested_at": "2026-10-01T07:00:13.737Z",
+    "imap": {
+      "offered": false
+    },
+    "pop3": {
+      "offered": false
+    },
+    "smtp": {
+      "offered": false
+    }
   },
   "mail_domain": "tuta.com",
   "observatory": {
@@ -30,17 +45,17 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tuta.com",
-    "tested_at": "2026-09-30T20:19:37.619Z"
+    "tested_at": "2026-10-01T07:00:34.856Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.481Z",
+  "scanned_at": "2026-10-01T07:07:13.494Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tuta.com&hideResults=on",
-    "tested_at": "2026-09-29T17:53:53.502Z"
+    "tested_at": "2026-10-01T07:07:13.494Z"
   },
   "trackers": {
     "url": "https://tuta.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:47.697Z"
+    "tested_at": "2026-10-01T07:01:33.429Z"
   }
 }

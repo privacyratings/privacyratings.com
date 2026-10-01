@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=play.qobuz.com",
-    "tested_at": "2026-09-30T20:21:45.653Z"
+    "tested_at": "2026-10-01T07:01:13.517Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.594Z",
+  "scanned_at": "2026-10-01T07:23:20.375Z",
   "trackers": {
     "url": "https://www.qobuz.com/us-en/discover",
     "found": [
@@ -17,6 +17,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:41:20.835Z"
+    "tested_at": "2026-10-01T07:02:02.995Z"
   }
 }

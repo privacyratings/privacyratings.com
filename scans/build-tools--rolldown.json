@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.539Z",
+  "github": {
+    "repo": "rolldown/rolldown",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:06.884Z"
+  },
+  "scanned_at": "2026-10-01T07:01:46.969Z",
   "trackers": {
     "url": "https://rolldown.rs",
     "found": [],
-    "tested_at": "2026-09-30T20:41:05.068Z"
+    "tested_at": "2026-10-01T07:01:46.969Z"
   }
 }

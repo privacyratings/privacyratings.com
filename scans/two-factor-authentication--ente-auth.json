@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.389Z",
+  "github": {
+    "repo": "ente/ente",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:49.763Z"
+  },
+  "scanned_at": "2026-10-01T07:00:42.199Z",
   "trackers": {
     "url": "https://ente.com/auth/",
     "found": [
@@ -8,6 +14,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:40:01.315Z"
+    "tested_at": "2026-10-01T07:00:42.199Z"
   }
 }

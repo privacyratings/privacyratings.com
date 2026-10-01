@@ -6,14 +6,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=yousign.app",
-    "tested_at": "2026-09-30T20:22:52.121Z"
+    "tested_at": "2026-10-01T07:01:31.597Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.689Z",
+  "scanned_at": "2026-10-01T07:31:57.081Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=yousign.app&hideResults=on",
-    "tested_at": "2026-09-30T19:57:54.565Z"
+    "tested_at": "2026-10-01T07:31:57.081Z"
   },
   "trackers": {
     "url": "https://youtrust.com",
@@ -23,6 +23,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:41:46.816Z"
+    "tested_at": "2026-10-01T07:02:30.075Z"
   }
 }

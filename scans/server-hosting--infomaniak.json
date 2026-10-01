@@ -6,12 +6,18 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.infomaniak.com",
-    "tested_at": "2026-09-30T20:21:30.501Z"
+    "tested_at": "2026-10-01T07:01:08.959Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.583Z",
+  "scanned_at": "2026-10-01T07:16:54.076Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.infomaniak.com&hideResults=on",
+    "tested_at": "2026-10-01T07:16:54.076Z"
+  },
   "trackers": {
     "url": "https://www.infomaniak.com/en",
     "found": [],
-    "tested_at": "2026-09-30T20:41:15.829Z"
+    "tested_at": "2026-10-01T07:01:59.324Z"
   }
 }

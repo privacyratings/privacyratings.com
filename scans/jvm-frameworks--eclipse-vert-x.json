@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.658Z",
+  "github": {
+    "repo": "eclipse-vertx/vert.x",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:19.983Z"
+  },
+  "scanned_at": "2026-10-01T07:02:17.861Z",
   "trackers": {
     "url": "https://vertx.io",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:34.100Z"
+    "tested_at": "2026-10-01T07:02:17.861Z"
   }
 }

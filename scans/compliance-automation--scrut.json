@@ -6,14 +6,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.scrut.io",
-    "tested_at": "2026-09-30T20:22:29.294Z"
+    "tested_at": "2026-10-01T07:01:23.326Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.676Z",
+  "scanned_at": "2026-10-01T07:30:31.391Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.scrut.io&hideResults=on",
-    "tested_at": "2026-09-30T19:45:10.179Z"
+    "tested_at": "2026-10-01T07:30:31.390Z"
   },
   "trackers": {
     "url": "https://www.scrut.io",
@@ -31,6 +31,6 @@
         "host": "www.clarity.ms"
       }
     ],
-    "tested_at": "2026-09-30T20:41:41.274Z"
+    "tested_at": "2026-10-01T07:02:24.484Z"
   }
 }

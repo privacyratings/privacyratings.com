@@ -1,19 +1,25 @@
 {
   "domain": "opnform.com",
+  "github": {
+    "repo": "OpnForm/OpnForm",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:25.106Z"
+  },
   "observatory": {
     "grade": "C",
     "score": 55,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=opnform.com",
-    "tested_at": "2026-09-30T20:23:06.736Z"
+    "tested_at": "2026-10-01T07:01:32.785Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.690Z",
+  "scanned_at": "2026-10-01T07:31:57.389Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=opnform.com&hideResults=on",
-    "tested_at": "2026-09-30T20:04:15.916Z"
+    "tested_at": "2026-10-01T07:31:57.389Z"
   },
   "trackers": {
     "url": "https://opnform.com",
@@ -28,6 +34,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:46.497Z"
+    "tested_at": "2026-10-01T07:02:29.958Z"
   }
 }

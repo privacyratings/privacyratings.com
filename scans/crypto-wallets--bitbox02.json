@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.445Z",
+  "github": {
+    "repo": "BitBoxSwiss/bitbox02-firmware",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:56.747Z"
+  },
+  "scanned_at": "2026-10-01T07:01:10.065Z",
   "trackers": {
     "url": "https://bitbox.swiss",
     "found": [
@@ -15,6 +21,7 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:22.417Z"
+    "tested_at": "2026-09-30T20:40:22.417Z",
+    "last_error": "HTTP 403"
   }
 }

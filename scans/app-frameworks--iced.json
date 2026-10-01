@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.622Z",
+  "github": {
+    "repo": "iced-rs/iced",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:15.249Z"
+  },
+  "scanned_at": "2026-10-01T07:02:10.454Z",
   "trackers": {
     "url": "https://iced.rs",
     "found": [],
-    "tested_at": "2026-09-30T20:41:27.046Z"
+    "tested_at": "2026-10-01T07:02:10.454Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.271Z",
+  "github": {
+    "repo": "domoticz/domoticz",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:40.453Z"
+  },
+  "scanned_at": "2026-10-01T06:59:47.402Z",
   "trackers": {
     "url": "https://www.domoticz.com",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:31.761Z"
+    "tested_at": "2026-10-01T06:59:47.402Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.566Z",
+  "github": {
+    "repo": "Ulauncher/Ulauncher",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.131Z"
+  },
+  "scanned_at": "2026-10-01T07:01:50.428Z",
   "trackers": {
     "url": "https://ulauncher.io",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:08.855Z"
+    "tested_at": "2026-10-01T07:01:50.428Z"
   }
 }

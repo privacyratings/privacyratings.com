@@ -1,9 +1,8 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.284Z",
+  "scanned_at": "2026-10-01T06:59:51.048Z",
   "trackers": {
-    "url": "https://opentracksapp.com/",
+    "url": "https://opentracksapp.com",
     "found": [],
-    "tested_at": "2026-09-30T13:18:43.270Z",
-    "last_error": "HTTP 503"
+    "tested_at": "2026-10-01T06:59:51.048Z"
   }
 }

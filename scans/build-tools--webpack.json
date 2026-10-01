@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.542Z",
+  "github": {
+    "repo": "webpack/webpack",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:07.262Z"
+  },
+  "scanned_at": "2026-10-01T07:01:47.346Z",
   "trackers": {
     "url": "https://webpack.js.org",
     "found": [],
-    "tested_at": "2026-09-30T20:41:05.098Z"
+    "tested_at": "2026-10-01T07:01:47.346Z"
   }
 }

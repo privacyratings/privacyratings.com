@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.345Z",
+  "github": {
+    "repo": "lieser/dkim_verifier",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:47.011Z"
+  },
+  "scanned_at": "2026-10-01T07:00:30.897Z",
   "trackers": {
     "url": "https://addons.thunderbird.net/en-US/thunderbird/addon/dkim-verifier/",
     "found": [
@@ -9,6 +15,7 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:53.145Z"
+    "tested_at": "2026-09-30T20:39:53.145Z",
+    "last_error": "HTTP 403"
   }
 }

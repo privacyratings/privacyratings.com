@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.496Z",
+  "github": {
+    "repo": "apache/spamassassin",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:03.055Z"
+  },
+  "scanned_at": "2026-10-01T07:01:36.783Z",
   "trackers": {
     "url": "https://spamassassin.apache.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:51.785Z"
+    "tested_at": "2026-10-01T07:01:36.783Z"
   }
 }

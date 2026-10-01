@@ -1,9 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.580Z",
+  "github": {
+    "repo": "Exodus-Privacy/exodus-android-app",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:10.667Z"
+  },
+  "scanned_at": "2026-10-01T07:01:56.121Z",
   "trackers": {
-    "url": "https://exodus-privacy.eu.org/en/page/what/",
+    "url": "https://exodus-privacy.eu.org/en/page/what/#android-app",
     "found": [],
-    "tested_at": "2026-09-30T13:19:09.419Z",
-    "last_error": "HTTP 503"
+    "tested_at": "2026-10-01T07:01:56.121Z"
   }
 }

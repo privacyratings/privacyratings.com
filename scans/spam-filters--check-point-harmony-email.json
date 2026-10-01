@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.checkpoint.com",
-    "tested_at": "2026-09-30T20:19:59.256Z"
+    "tested_at": "2026-10-01T07:00:41.401Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.491Z",
+  "scanned_at": "2026-10-01T07:06:27.956Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 12,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=portal.checkpoint.com&hideResults=on",
+    "tested_at": "2026-10-01T07:06:27.956Z"
+  },
   "trackers": {
     "url": "https://www.checkpoint.com/harmony/email-security/",
     "found": [
@@ -30,6 +36,6 @@
         "host": "dev.visualwebsiteoptimizer.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:49.833Z"
+    "tested_at": "2026-10-01T07:01:35.305Z"
   }
 }

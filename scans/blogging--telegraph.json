@@ -6,12 +6,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=telegra.ph",
-    "tested_at": "2026-09-30T20:18:59.448Z"
+    "tested_at": "2026-10-01T07:00:26.268Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.476Z",
+  "scanned_at": "2026-10-01T07:03:56.235Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=telegra.ph&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.234Z"
+  },
   "trackers": {
     "url": "https://telegra.ph",
     "found": [],
-    "tested_at": "2026-09-30T20:40:44.187Z"
+    "tested_at": "2026-10-01T07:01:30.010Z"
   }
 }

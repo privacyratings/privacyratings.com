@@ -1,14 +1,26 @@
 {
   "domain": "dub.co",
+  "github": {
+    "repo": "dubinc/dub",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:40.113Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 70,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dub.co",
-    "tested_at": "2026-09-30T20:15:35.621Z"
+    "tested_at": "2026-10-01T06:59:43.697Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.266Z",
+  "scanned_at": "2026-10-01T06:59:46.539Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dub.co&hideResults=on",
+    "tested_at": "2026-10-01T06:59:39.507Z"
+  },
   "trackers": {
     "url": "https://dub.co",
     "found": [
@@ -18,6 +30,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:30.382Z"
+    "tested_at": "2026-10-01T06:59:46.538Z"
   }
 }

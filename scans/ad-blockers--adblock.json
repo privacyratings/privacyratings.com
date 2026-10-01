@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.578Z",
+  "scanned_at": "2026-10-01T07:01:52.973Z",
   "trackers": {
     "url": "https://getadblock.com/en/",
     "found": [
@@ -9,6 +9,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:11.353Z"
+    "tested_at": "2026-10-01T07:01:52.973Z"
   }
 }

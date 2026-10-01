@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.408Z",
+  "github": {
+    "repo": "confirmedcode/Lockdown-iOS",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:52.848Z"
+  },
+  "scanned_at": "2026-10-01T07:00:54.280Z",
   "trackers": {
     "url": "https://lockdownprivacy.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:10.580Z"
+    "tested_at": "2026-10-01T07:00:54.280Z"
   }
 }

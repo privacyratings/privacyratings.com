@@ -1,7 +1,13 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.559Z",
+  "github": {
+    "repo": "raspberrypi/rpi-imager",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:08.585Z"
+  },
+  "scanned_at": "2026-10-01T07:01:48.979Z",
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:41:07.706Z"
+    "tested_at": "2026-10-01T07:01:48.979Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.546Z",
+  "github": {
+    "repo": "Blockstream/green_android",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:07.644Z"
+  },
+  "scanned_at": "2026-10-01T07:01:47.991Z",
   "trackers": {
     "url": "https://blockstream.com/app/",
     "found": [
@@ -25,6 +31,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:05.421Z"
+    "tested_at": "2026-10-01T07:01:47.991Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.444Z",
+  "github": {
+    "repo": "usebruno/bruno",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:56.264Z"
+  },
+  "scanned_at": "2026-10-01T07:01:09.064Z",
   "trackers": {
     "url": "https://www.usebruno.com",
     "found": [
@@ -33,6 +39,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:20.783Z"
+    "tested_at": "2026-10-01T07:01:09.064Z"
   }
 }

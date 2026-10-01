@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.404Z",
+  "github": {
+    "repo": "zapek/Xeres",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:52.084Z"
+  },
+  "scanned_at": "2026-10-01T07:00:49.601Z",
   "trackers": {
     "url": "https://xeres.io",
     "found": [],
-    "tested_at": "2026-09-30T20:40:09.006Z"
+    "tested_at": "2026-10-01T07:00:49.601Z"
   }
 }

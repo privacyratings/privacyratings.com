@@ -6,18 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sparkpost.com",
-    "tested_at": "2026-09-30T20:22:28.115Z"
+    "tested_at": "2026-10-01T07:01:22.910Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.676Z",
+  "scanned_at": "2026-10-01T07:28:58.015Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sparkpost.com&hideResults=on",
-    "tested_at": "2026-09-30T19:47:52.656Z"
+    "tested_at": "2026-10-01T07:28:58.015Z"
   },
   "trackers": {
-    "url": "https://bird.com/email-api?sp=true",
+    "url": "https://bird.com/email-api",
     "found": [],
-    "tested_at": "2026-09-30T20:41:41.456Z"
+    "tested_at": "2026-10-01T07:02:24.153Z"
   }
 }

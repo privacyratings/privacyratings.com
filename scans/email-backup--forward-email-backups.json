@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.574Z",
+  "github": {
+    "repo": "forwardemail/forwardemail.net",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.847Z"
+  },
+  "scanned_at": "2026-10-01T07:01:51.873Z",
   "trackers": {
     "url": "https://forwardemail.net/en/faq#how-do-i-export-and-backup-my-mailbox",
     "found": [],
-    "tested_at": "2026-09-30T20:41:09.995Z"
+    "tested_at": "2026-10-01T07:01:51.873Z"
   }
 }

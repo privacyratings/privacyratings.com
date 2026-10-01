@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.600Z",
+  "github": {
+    "repo": "freshframework/fresh",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:12.683Z"
+  },
+  "scanned_at": "2026-10-01T07:02:05.469Z",
   "trackers": {
     "url": "https://usefresh.dev",
     "found": [],
-    "tested_at": "2026-09-30T20:41:22.333Z"
+    "tested_at": "2026-10-01T07:02:05.469Z"
   }
 }

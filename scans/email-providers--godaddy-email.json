@@ -21,7 +21,54 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T20:32:29.151Z"
+    "tested_at": "2026-10-01T07:00:23.008Z",
+    "imap": {
+      "host": "outlook.office365.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4",
+        "IMAP4REV1",
+        "AUTH=XOAUTH2",
+        "LOGINDISABLED",
+        "SASL-IR",
+        "UIDPLUS",
+        "MOVE",
+        "ID",
+        "UNSELECT",
+        "CHILDREN",
+        "IDLE",
+        "NAMESPACE",
+        "LITERAL+"
+      ]
+    },
+    "pop3": {
+      "host": "outlook.office365.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "UIDL",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.office365.com",
+      "port": 587,
+      "tls": "starttls",
+      "extensions": [
+        "SIZE",
+        "PIPELINING",
+        "DSN",
+        "ENHANCEDSTATUSCODES",
+        "AUTH",
+        "8BITMIME",
+        "BINARYMIME",
+        "CHUNKING",
+        "SMTPUTF8"
+      ]
+    }
   },
   "mail_domain": "godaddy.com",
   "observatory": {
@@ -30,11 +77,17 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.godaddy.com",
-    "tested_at": "2026-09-30T20:19:49.723Z"
+    "tested_at": "2026-10-01T07:00:39.478Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.485Z",
+  "scanned_at": "2026-10-01T07:06:27.509Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 3,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.godaddy.com&hideResults=on",
+    "tested_at": "2026-10-01T07:06:27.509Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:40:47.797Z"
+    "tested_at": "2026-10-01T07:01:33.324Z"
   }
 }

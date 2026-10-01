@@ -1,17 +1,29 @@
 {
   "domain": "tymeslot.app",
+  "github": {
+    "repo": "Tymeslot/tymeslot",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:00.787Z"
+  },
   "observatory": {
     "grade": "A+",
     "score": 120,
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tymeslot.app",
-    "tested_at": "2026-09-30T20:17:49.956Z"
+    "tested_at": "2026-10-01T07:00:13.113Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.470Z",
+  "scanned_at": "2026-10-01T07:01:36.310Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tymeslot.app&hideResults=on",
+    "tested_at": "2026-10-01T07:01:36.309Z"
+  },
   "trackers": {
     "url": "https://tymeslot.app",
     "found": [],
-    "tested_at": "2026-09-30T20:40:41.164Z"
+    "tested_at": "2026-10-01T07:01:27.512Z"
   }
 }

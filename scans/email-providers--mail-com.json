@@ -22,7 +22,56 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T20:32:52.690Z"
+    "tested_at": "2026-10-01T07:00:26.577Z",
+    "imap": {
+      "host": "imap.mail.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "CHILDREN",
+        "ENABLE",
+        "ID",
+        "IDLE",
+        "LIST-EXTENDED",
+        "LIST-STATUS",
+        "LITERAL-",
+        "MOVE",
+        "NAMESPACE",
+        "SASL-IR",
+        "SORT",
+        "SPECIAL-USE",
+        "THREAD=ORDEREDSUBJECT",
+        "UIDPLUS",
+        "UNSELECT",
+        "WITHIN",
+        "AUTH=LOGIN",
+        "AUTH=PLAIN"
+      ]
+    },
+    "pop3": {
+      "host": "pop.mail.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "UIDL",
+        "USER",
+        "SASL",
+        "IMPLEMENTATION"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.mail.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "8BITMIME",
+        "AUTH",
+        "SIZE"
+      ]
+    }
   },
   "mail_domain": "mail.com",
   "observatory": {
@@ -31,9 +80,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mail.com",
-    "tested_at": "2026-09-30T20:19:51.511Z"
+    "tested_at": "2026-10-01T07:00:39.772Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.485Z",
+  "scanned_at": "2026-10-01T07:06:27.574Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.mail.com&hideResults=on",
+    "tested_at": "2026-10-01T07:06:27.574Z"
+  },
   "trackers": {
     "url": "https://www.mail.com",
     "found": [
@@ -42,6 +97,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:47.842Z"
+    "tested_at": "2026-10-01T07:01:33.563Z"
   }
 }

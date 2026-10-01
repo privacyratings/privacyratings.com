@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.449Z",
+  "github": {
+    "repo": "nostr-protocol/nips",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:57.770Z"
+  },
+  "scanned_at": "2026-10-01T07:01:12.299Z",
   "trackers": {
     "url": "https://github.com/nostr-protocol/nostr",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:40:23.715Z"
+    "tested_at": "2026-10-01T07:01:12.299Z"
   }
 }

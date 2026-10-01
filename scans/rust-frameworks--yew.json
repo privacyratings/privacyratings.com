@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.657Z",
+  "github": {
+    "repo": "yewstack/yew",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:19.771Z"
+  },
+  "scanned_at": "2026-10-01T07:02:17.229Z",
   "trackers": {
     "url": "https://yew.rs",
     "found": [
@@ -18,6 +24,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:33.625Z"
+    "tested_at": "2026-10-01T07:02:17.229Z"
   }
 }

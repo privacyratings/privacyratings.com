@@ -6,14 +6,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=plivo.com",
-    "tested_at": "2026-09-30T20:22:41.625Z"
+    "tested_at": "2026-10-01T07:01:25.945Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.678Z",
+  "scanned_at": "2026-10-01T07:29:53.468Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=plivo.com&hideResults=on",
-    "tested_at": "2026-09-30T19:52:06.226Z"
+    "tested_at": "2026-10-01T07:29:53.468Z"
   },
   "trackers": {
     "url": "https://www.plivo.com",
@@ -36,6 +36,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:41:41.821Z"
+    "tested_at": "2026-10-01T07:02:24.904Z"
   }
 }

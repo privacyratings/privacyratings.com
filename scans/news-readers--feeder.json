@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.304Z",
+  "github": {
+    "repo": "spacecowboy/Feeder",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:43.321Z"
+  },
+  "scanned_at": "2026-10-01T06:59:57.819Z",
   "trackers": {
     "url": "https://github.com/spacecowboy/Feeder",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:39:43.676Z"
+    "tested_at": "2026-10-01T06:59:57.819Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.600Z",
+  "github": {
+    "repo": "blitz-js/blitz",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:12.225Z"
+  },
+  "scanned_at": "2026-10-01T07:02:05.212Z",
   "trackers": {
     "url": "https://blitzjs.com",
     "found": [],
-    "tested_at": "2026-09-30T20:41:22.071Z"
+    "tested_at": "2026-10-01T07:02:05.212Z"
   }
 }

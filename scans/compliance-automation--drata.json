@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.drata.com",
-    "tested_at": "2026-09-30T20:21:00.615Z"
+    "tested_at": "2026-10-01T07:01:01.342Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.503Z",
+  "scanned_at": "2026-10-01T07:07:14.709Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.drata.com&hideResults=on",
+    "tested_at": "2026-10-01T07:07:14.709Z"
+  },
   "trackers": {
     "url": "https://drata.com",
     "found": [
@@ -26,6 +32,7 @@
         "host": "js.hs-scripts.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:58.833Z"
+    "tested_at": "2026-09-30T20:40:58.833Z",
+    "last_error": "HTTP 403"
   }
 }

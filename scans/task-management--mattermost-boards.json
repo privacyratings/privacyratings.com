@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.688Z",
+  "github": {
+    "repo": "mattermost/mattermost-plugin-boards",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:25.064Z"
+  },
+  "scanned_at": "2026-10-01T07:02:28.178Z",
   "trackers": {
     "url": "https://github.com/mattermost/mattermost-plugin-boards",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:41:45.154Z"
+    "tested_at": "2026-10-01T07:02:28.178Z"
   }
 }

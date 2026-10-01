@@ -3,9 +3,9 @@
     "repo": "Foundry376/Mailspring",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:06.165Z"
+    "checked_at": "2026-10-01T07:00:26.458Z"
   },
-  "scanned_at": "2026-10-01T06:38:11.017Z",
+  "scanned_at": "2026-10-01T07:02:35.346Z",
   "trackers": {
     "url": "https://www.getmailspring.com",
     "found": [
@@ -19,6 +19,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:11.017Z"
+    "tested_at": "2026-10-01T07:02:35.346Z"
   }
 }

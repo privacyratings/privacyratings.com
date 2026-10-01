@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ironvest.com",
-    "tested_at": "2026-09-30T20:15:37.663Z"
+    "tested_at": "2026-10-01T06:59:44.078Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.291Z",
+  "scanned_at": "2026-10-01T06:59:54.780Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=ironvest.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:39.870Z"
+  },
   "trackers": {
     "url": "https://ironvest.com",
     "found": [
@@ -18,6 +24,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:38.369Z"
+    "tested_at": "2026-10-01T06:59:54.780Z"
   }
 }

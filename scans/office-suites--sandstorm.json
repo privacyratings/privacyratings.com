@@ -1,5 +1,11 @@
 {
   "domain": "sandstorm.io",
+  "github": {
+    "repo": "sandstorm-io/sandstorm",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:00.875Z"
+  },
   "observatory": {
     "grade": "D",
     "score": 35,
@@ -8,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sandstorm.io",
     "tested_at": "2026-09-29T17:58:52.879Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.471Z",
+  "scanned_at": "2026-10-01T07:01:27.535Z",
   "trackers": {
     "url": "https://sandstorm.org",
     "found": [
@@ -19,6 +25,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:41.196Z"
+    "tested_at": "2026-10-01T07:01:27.535Z"
   }
 }

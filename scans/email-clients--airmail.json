@@ -1,7 +1,7 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.543Z",
+  "scanned_at": "2026-10-01T07:01:47.757Z",
   "trackers": {
-    "url": "https://airmailapp.com/",
+    "url": "https://airmailapp.com",
     "found": [
       {
         "name": "Crisp",
@@ -9,7 +9,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T16:00:50.993Z",
-    "last_error": "HTTP 429"
+    "tested_at": "2026-10-01T07:01:47.757Z"
   }
 }

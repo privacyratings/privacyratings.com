@@ -1,8 +1,9 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.588Z",
+  "scanned_at": "2026-10-01T07:02:00.109Z",
   "trackers": {
     "url": "https://www.amazon.com/gp/browse.html?node=16571048011&ref=kcp_fd_hz",
     "found": [],
-    "tested_at": "2026-09-30T20:41:17.614Z"
+    "tested_at": "2026-09-30T20:41:17.614Z",
+    "last_error": "HTTP 503"
   }
 }

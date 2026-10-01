@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.393Z",
+  "github": {
+    "repo": "gpg/gpg4win",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:50.414Z"
+  },
+  "scanned_at": "2026-10-01T07:00:44.656Z",
   "trackers": {
     "url": "https://www.gpg4win.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:03.299Z"
+    "tested_at": "2026-10-01T07:00:44.656Z"
   }
 }

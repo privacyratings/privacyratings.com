@@ -22,7 +22,52 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T20:33:59.825Z"
+    "tested_at": "2026-10-01T07:00:29.635Z",
+    "imap": {
+      "host": "imap.titan.email",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "AUTH=PLAIN",
+        "SASL-IR",
+        "ID",
+        "LITERAL-",
+        "APPENDLIMIT=52428800"
+      ]
+    },
+    "pop3": {
+      "host": "pop.titan.email",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "CAPA",
+        "USER",
+        "UIDL",
+        "TOP",
+        "RESP-CODES",
+        "LOGIN-DELAY",
+        "EXPIRE",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.titan.email",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "VRFY",
+        "ETRN",
+        "STARTTLS",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "CHUNKING"
+      ]
+    }
   },
   "mail_domain": "titan.email",
   "observatory": {
@@ -31,9 +76,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.titan.email",
-    "tested_at": "2026-09-30T20:19:53.193Z"
+    "tested_at": "2026-10-01T07:00:40.701Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.486Z",
+  "scanned_at": "2026-10-01T07:06:27.695Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.titan.email&hideResults=on",
+    "tested_at": "2026-10-01T07:06:27.695Z"
+  },
   "trackers": {
     "url": "https://titan.email",
     "found": [
@@ -50,6 +101,6 @@
         "host": "stats.wp.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:49.197Z"
+    "tested_at": "2026-10-01T07:01:34.776Z"
   }
 }

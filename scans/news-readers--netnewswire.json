@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.305Z",
+  "github": {
+    "repo": "Ranchero-Software/NetNewsWire",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:43.620Z"
+  },
+  "scanned_at": "2026-10-01T06:59:58.742Z",
   "trackers": {
     "url": "https://netnewswire.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:44.648Z"
+    "tested_at": "2026-10-01T06:59:58.742Z"
   }
 }

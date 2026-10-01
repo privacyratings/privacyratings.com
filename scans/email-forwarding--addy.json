@@ -1,5 +1,11 @@
 {
   "domain": "addy.io",
+  "github": {
+    "repo": "anonaddy/anonaddy",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:02.075Z"
+  },
   "mail": {
     "dns": {
       "domain": "addy.io",
@@ -22,7 +28,19 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:44.955Z"
+    "tested_at": "2026-10-01T07:00:16.411Z",
+    "imap": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "pop3": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "smtp": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    }
   },
   "mail_domain": "addy.io",
   "observatory": {
@@ -31,18 +49,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
-    "tested_at": "2026-09-30T20:19:40.267Z"
+    "tested_at": "2026-10-01T06:59:47.511Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.482Z",
+  "scanned_at": "2026-10-01T07:06:26.692Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=addy.io&hideResults=on",
-    "tested_at": "2026-09-29T18:00:21.038Z"
+    "tested_at": "2026-10-01T07:06:26.692Z"
   },
   "trackers": {
     "url": "https://addy.io",
     "found": [],
-    "tested_at": "2026-09-30T20:40:47.380Z"
+    "tested_at": "2026-10-01T07:01:33.039Z"
   }
 }

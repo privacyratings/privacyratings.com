@@ -6,12 +6,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bandcamp.com",
-    "tested_at": "2026-09-30T20:15:42.161Z"
+    "tested_at": "2026-10-01T06:59:44.798Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.301Z",
+  "scanned_at": "2026-10-01T06:59:57.058Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bandcamp.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:40.282Z"
+  },
   "trackers": {
     "url": "https://bandcamp.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:42.871Z"
+    "tested_at": "2026-10-01T06:59:57.058Z"
   }
 }

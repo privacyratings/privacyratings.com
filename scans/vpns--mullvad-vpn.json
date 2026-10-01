@@ -1,23 +1,29 @@
 {
   "domain": "mullvad.net",
+  "github": {
+    "repo": "mullvad/mullvadvpn-app",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:10.741Z"
+  },
   "observatory": {
     "grade": "A+",
     "score": 135,
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mullvad.net",
-    "tested_at": "2026-09-30T20:21:26.119Z"
+    "tested_at": "2026-10-01T07:01:07.590Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.583Z",
+  "scanned_at": "2026-10-01T07:13:54.823Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mullvad.net&hideResults=on",
-    "tested_at": "2026-09-29T17:48:21.023Z"
+    "tested_at": "2026-10-01T07:13:54.823Z"
   },
   "trackers": {
     "url": "https://mullvad.net/en",
     "found": [],
-    "tested_at": "2026-09-30T20:41:15.060Z"
+    "tested_at": "2026-10-01T07:01:58.650Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.454Z",
+  "github": {
+    "repo": "OpenShot/openshot-qt",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:58.911Z"
+  },
+  "scanned_at": "2026-10-01T07:01:16.290Z",
   "trackers": {
     "url": "https://www.openshot.org",
     "found": [
@@ -21,6 +27,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:27.271Z"
+    "tested_at": "2026-10-01T07:01:16.290Z"
   }
 }

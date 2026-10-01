@@ -34,27 +34,79 @@
         }
       }
     },
-    "tested_at": "2026-09-30T05:26:36.737Z"
+    "tested_at": "2026-10-01T07:00:32.749Z",
+    "imap": {
+      "host": "imap.gmail.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "UNSELECT",
+        "IDLE",
+        "NAMESPACE",
+        "QUOTA",
+        "ID",
+        "XLIST",
+        "CHILDREN",
+        "X-GM-EXT-1",
+        "XYZZY",
+        "SASL-IR",
+        "AUTH=XOAUTH2",
+        "AUTH=PLAIN",
+        "AUTH=PLAIN-CLIENTTOKEN",
+        "AUTH=OAUTHBEARER"
+      ]
+    },
+    "pop3": {
+      "host": "pop.gmail.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "USER",
+        "RESP-CODES",
+        "EXPIRE",
+        "LOGIN-DELAY",
+        "TOP",
+        "UIDL",
+        "X-GOOGLE-RICO",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "SIZE",
+        "8BITMIME",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "PIPELINING",
+        "CHUNKING",
+        "SMTPUTF8"
+      ]
+    }
   },
   "mail_domain": "gmail.com",
   "observatory": {
-    "grade": "B",
-    "score": 70,
-    "tests_passed": 9,
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.google.com",
-    "tested_at": "2026-09-30T20:21:13.476Z"
+    "tested_at": "2026-10-01T07:01:05.124Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.572Z",
+  "scanned_at": "2026-10-01T07:11:51.463Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.google.com&hideResults=on",
-    "tested_at": "2026-09-29T17:53:54.963Z"
+    "tested_at": "2026-10-01T07:11:51.463Z"
   },
   "trackers": {
-    "url": "https://accounts.google.com/v3/signin/identifier?continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S303870866:1790800869885086",
+    "url": "https://accounts.google.com/v3/signin/identifier?continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1178068010:1790838111233149",
     "found": [],
-    "tested_at": "2026-09-30T20:41:09.915Z"
+    "tested_at": "2026-10-01T07:01:51.544Z"
   }
 }

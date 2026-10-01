@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.434Z",
+  "scanned_at": "2026-10-01T07:01:03.164Z",
   "trackers": {
     "url": "https://www.qfxsoftware.com",
     "found": [
@@ -9,6 +9,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:16.243Z"
+    "tested_at": "2026-10-01T07:01:03.164Z"
   }
 }

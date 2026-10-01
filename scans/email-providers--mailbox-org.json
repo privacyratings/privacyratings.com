@@ -25,7 +25,57 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:38.670Z"
+    "tested_at": "2026-10-01T07:00:36.407Z",
+    "imap": {
+      "host": "imap.mailbox.org",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "SASL-IR",
+        "LOGIN-REFERRALS",
+        "ID",
+        "ENABLE",
+        "IDLE",
+        "UIDPLUS",
+        "LITERAL+",
+        "AUTH=PLAIN",
+        "AUTH=LOGIN",
+        "AUTH=OAUTHBEARER",
+        "AUTH=XOAUTH2"
+      ]
+    },
+    "pop3": {
+      "host": "pop3.mailbox.org",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "CAPA",
+        "TOP",
+        "UIDL",
+        "RESP-CODES",
+        "PIPELINING",
+        "AUTH-RESP-CODE",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.mailbox.org",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "ETRN",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "DSN",
+        "CHUNKING"
+      ]
+    }
   },
   "mail_domain": "mailbox.org",
   "observatory": {
@@ -34,18 +84,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailbox.org",
-    "tested_at": "2026-09-30T20:21:14.129Z"
+    "tested_at": "2026-10-01T07:01:05.262Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.572Z",
+  "scanned_at": "2026-10-01T07:11:51.584Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailbox.org&hideResults=on",
-    "tested_at": "2026-09-29T18:00:19.041Z"
+    "tested_at": "2026-10-01T07:11:51.584Z"
   },
   "trackers": {
     "url": "https://mailbox.org/en/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:10.558Z"
+    "tested_at": "2026-10-01T07:01:53.301Z"
   }
 }

@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.cloudflare.com",
-    "tested_at": "2026-10-01T06:38:07.538Z"
+    "tested_at": "2026-10-01T07:01:02.996Z"
   },
-  "scanned_at": "2026-10-01T06:38:07.922Z",
+  "scanned_at": "2026-10-01T07:31:58.587Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dash.cloudflare.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:06.115Z"
+    "tested_at": "2026-10-01T07:31:58.587Z"
   },
   "trackers": {
     "url": "https://www.cloudflare.com/products/email-routing/",
@@ -29,6 +29,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-10-01T06:38:07.922Z"
+    "tested_at": "2026-10-01T07:02:33.863Z"
   }
 }

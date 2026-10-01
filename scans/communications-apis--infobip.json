@@ -6,14 +6,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=infobip.com",
-    "tested_at": "2026-09-30T20:22:36.835Z"
+    "tested_at": "2026-10-01T07:01:25.869Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.678Z",
+  "scanned_at": "2026-10-01T07:29:53.383Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=infobip.com&hideResults=on",
-    "tested_at": "2026-09-30T19:47:20.888Z"
+    "tested_at": "2026-10-01T07:29:53.383Z"
   },
   "trackers": {
     "url": "https://www.infobip.com",
@@ -47,6 +47,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:41.712Z"
+    "tested_at": "2026-10-01T07:02:24.700Z"
   }
 }

@@ -1,9 +1,9 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.348Z",
+  "scanned_at": "2026-10-01T07:01:04.172Z",
   "trackers": {
     "url": "https://www.gnu.org/software/gnuzilla/",
     "found": [],
     "tested_at": "2026-09-30T13:15:52.592Z",
-    "last_error": "HTTP 503"
+    "last_error": "The operation was aborted"
   }
 }

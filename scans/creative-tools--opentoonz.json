@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.341Z",
+  "github": {
+    "repo": "opentoonz/opentoonz",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:46.460Z"
+  },
+  "scanned_at": "2026-10-01T07:00:23.004Z",
   "trackers": {
     "url": "https://opentoonz.github.io",
     "found": [],
-    "tested_at": "2026-09-30T20:39:51.566Z"
+    "tested_at": "2026-10-01T07:00:23.004Z"
   }
 }

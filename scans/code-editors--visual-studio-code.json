@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.249Z",
+  "github": {
+    "repo": "microsoft/vscode",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:38.678Z"
+  },
+  "scanned_at": "2026-10-01T06:59:43.731Z",
   "trackers": {
     "url": "https://code.visualstudio.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:28.098Z"
+    "tested_at": "2026-10-01T06:59:43.730Z"
   }
 }

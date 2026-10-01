@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.557Z",
+  "scanned_at": "2026-10-01T07:01:51.982Z",
   "trackers": {
     "url": "https://www.microsoft.com/en-us/software-download/windows11",
     "found": [
@@ -16,6 +16,6 @@
         "host": "www.clarity.ms"
       }
     ],
-    "tested_at": "2026-09-30T20:41:10.813Z"
+    "tested_at": "2026-10-01T07:01:51.982Z"
   }
 }

@@ -1,23 +1,29 @@
 {
   "domain": "forwardemail.net",
+  "github": {
+    "repo": "forwardemail/forwardemail.net",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:23.437Z"
+  },
   "observatory": {
     "grade": "A+",
     "score": 125,
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
-    "tested_at": "2026-09-30T20:21:49.560Z"
+    "tested_at": "2026-10-01T07:00:33.903Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.677Z",
+  "scanned_at": "2026-10-01T07:29:21.626Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=forwardemail.net&hideResults=on",
-    "tested_at": "2026-09-30T19:45:11.497Z"
+    "tested_at": "2026-10-01T07:29:21.626Z"
   },
   "trackers": {
     "url": "https://forwardemail.net/en",
     "found": [],
-    "tested_at": "2026-09-30T20:41:41.005Z"
+    "tested_at": "2026-10-01T07:02:24.626Z"
   }
 }

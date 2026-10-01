@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.518Z",
+  "github": {
+    "repo": "mamedev/mame",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:04.571Z"
+  },
+  "scanned_at": "2026-10-01T07:01:44.759Z",
   "trackers": {
     "url": "https://www.mamedev.org",
     "found": [],
-    "tested_at": "2026-09-30T20:41:02.393Z"
+    "tested_at": "2026-10-01T07:01:44.759Z"
   }
 }

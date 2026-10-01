@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.314Z",
+  "github": {
+    "repo": "Kareadita/Kavita",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:44.627Z"
+  },
+  "scanned_at": "2026-10-01T07:00:01.233Z",
   "trackers": {
     "url": "https://www.kavitareader.com",
     "found": [
@@ -14,6 +20,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:47.160Z"
+    "tested_at": "2026-10-01T07:00:01.233Z"
   }
 }

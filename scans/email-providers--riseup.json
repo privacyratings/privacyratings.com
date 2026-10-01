@@ -36,7 +36,54 @@
         }
       }
     },
-    "tested_at": "2026-09-30T05:26:36.769Z"
+    "tested_at": "2026-10-01T06:59:58.232Z",
+    "imap": {
+      "host": "mail.riseup.net",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "SASL-IR",
+        "LOGIN-REFERRALS",
+        "ID",
+        "ENABLE",
+        "IDLE",
+        "LITERAL+",
+        "AUTH=PLAIN",
+        "AUTH=LOGIN"
+      ]
+    },
+    "pop3": {
+      "host": "mail.riseup.net",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "CAPA",
+        "TOP",
+        "UIDL",
+        "RESP-CODES",
+        "PIPELINING",
+        "AUTH-RESP-CODE",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "mail.riseup.net",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "ETRN",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "SMTPUTF8",
+        "CHUNKING"
+      ]
+    }
   },
   "mail_domain": "riseup.net",
   "observatory": {
@@ -45,12 +92,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=riseup.net",
-    "tested_at": "2026-09-30T20:19:21.773Z"
+    "tested_at": "2026-10-01T07:00:29.814Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "scanned_at": "2026-10-01T07:03:56.606Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=riseup.net&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.606Z"
+  },
   "trackers": {
     "url": "https://riseup.net",
     "found": [],
-    "tested_at": "2026-09-30T20:40:45.666Z"
+    "tested_at": "2026-10-01T07:01:30.355Z"
   }
 }

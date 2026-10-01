@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.407Z",
+  "github": {
+    "repo": "Ch4t4r/Nebulo",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:52.589Z"
+  },
+  "scanned_at": "2026-10-01T07:00:51.078Z",
   "trackers": {
     "url": "https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:40:09.568Z"
+    "tested_at": "2026-10-01T07:00:51.078Z"
   }
 }

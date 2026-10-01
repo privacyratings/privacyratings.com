@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.633Z",
+  "github": {
+    "repo": "pallets/flask",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:16.580Z"
+  },
+  "scanned_at": "2026-10-01T07:02:12.496Z",
   "trackers": {
     "url": "https://flask.palletsprojects.com/en/stable/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:29.118Z"
+    "tested_at": "2026-10-01T07:02:12.496Z"
   }
 }

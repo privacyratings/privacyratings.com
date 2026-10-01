@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.675Z",
+  "github": {
+    "repo": "postalserver/postal",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:23.412Z"
+  },
+  "scanned_at": "2026-10-01T07:02:24.300Z",
   "trackers": {
     "url": "https://docs.postalserver.io",
     "found": [],
-    "tested_at": "2026-09-30T20:41:40.597Z"
+    "tested_at": "2026-10-01T07:02:24.300Z"
   }
 }

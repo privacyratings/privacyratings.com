@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.665Z",
+  "github": {
+    "repo": "digitallyinduced/ihp",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:22.029Z"
+  },
+  "scanned_at": "2026-10-01T07:02:20.937Z",
   "trackers": {
     "url": "https://ihp.digitallyinduced.com",
     "found": [
@@ -28,6 +34,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:37.028Z"
+    "tested_at": "2026-10-01T07:02:20.937Z"
   }
 }

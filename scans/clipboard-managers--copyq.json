@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.567Z",
+  "github": {
+    "repo": "hluk/CopyQ",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.304Z"
+  },
+  "scanned_at": "2026-10-01T07:01:50.401Z",
   "trackers": {
     "url": "https://hluk.github.io/CopyQ/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:08.965Z"
+    "tested_at": "2026-10-01T07:01:50.401Z"
   }
 }

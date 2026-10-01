@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.272Z",
+  "scanned_at": "2026-10-01T06:59:46.939Z",
   "trackers": {
     "url": "https://home.google.com/welcome/",
     "found": [
@@ -13,6 +13,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:31.111Z"
+    "tested_at": "2026-10-01T06:59:46.939Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.667Z",
+  "github": {
+    "repo": "excalidraw/excalidraw",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:22.828Z"
+  },
+  "scanned_at": "2026-10-01T07:02:21.487Z",
   "trackers": {
     "url": "https://excalidraw.com",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:37.871Z"
+    "tested_at": "2026-10-01T07:02:21.487Z"
   }
 }

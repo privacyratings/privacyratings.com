@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.608Z",
+  "github": {
+    "repo": "11ty/buildawesome",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:13.706Z"
+  },
+  "scanned_at": "2026-10-01T07:02:06.762Z",
   "trackers": {
     "url": "https://www.11ty.dev",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:24.662Z"
+    "tested_at": "2026-10-01T07:02:06.761Z"
   }
 }

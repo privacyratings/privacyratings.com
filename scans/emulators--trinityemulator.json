@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.521Z",
+  "github": {
+    "repo": "TrinityEmulator/TrinityEmulator",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:04.861Z"
+  },
+  "scanned_at": "2026-10-01T07:01:44.241Z",
   "trackers": {
     "url": "https://github.com/TrinityEmulator/TrinityEmulator",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:41:01.714Z"
+    "tested_at": "2026-10-01T07:01:44.241Z"
   }
 }

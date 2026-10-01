@@ -37,7 +37,54 @@
         }
       }
     },
-    "tested_at": "2026-09-30T20:32:57.758Z"
+    "tested_at": "2026-10-01T07:00:27.988Z",
+    "imap": {
+      "host": "mail.privateemail.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "LOGIN-REFERRALS",
+        "ID",
+        "ENABLE",
+        "IDLE",
+        "SASL-IR",
+        "LITERAL+",
+        "AUTH=PLAIN",
+        "AUTH=LOGIN"
+      ]
+    },
+    "pop3": {
+      "host": "mail.privateemail.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "CAPA",
+        "TOP",
+        "UIDL",
+        "RESP-CODES",
+        "PIPELINING",
+        "AUTH-RESP-CODE",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "mail.privateemail.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "8BITMIME",
+        "AUTH",
+        "BURL",
+        "CHUNKING",
+        "ENHANCEDSTATUSCODES",
+        "SIZE",
+        "STARTTLS",
+        "PIPELINING"
+      ]
+    }
   },
   "mail_domain": "privateemail.com",
   "observatory": {
@@ -46,11 +93,17 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privateemail.com",
-    "tested_at": "2026-09-30T20:19:52.301Z"
+    "tested_at": "2026-10-01T07:00:40.031Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.485Z",
+  "scanned_at": "2026-10-01T07:06:27.645Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=privateemail.com&hideResults=on",
+    "tested_at": "2026-10-01T07:06:27.645Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:40:47.893Z"
+    "tested_at": "2026-10-01T07:01:33.481Z"
   }
 }

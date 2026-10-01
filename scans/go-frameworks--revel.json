@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.654Z",
+  "github": {
+    "repo": "revel/revel",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:19.124Z"
+  },
+  "scanned_at": "2026-10-01T07:02:16.518Z",
   "trackers": {
     "url": "https://revel.github.io",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:32.450Z"
+    "tested_at": "2026-10-01T07:02:16.517Z"
   }
 }

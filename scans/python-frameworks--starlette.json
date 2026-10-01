@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.641Z",
+  "github": {
+    "repo": "Kludex/starlette",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:17.118Z"
+  },
+  "scanned_at": "2026-10-01T07:02:13.078Z",
   "trackers": {
     "url": "https://starlette.dev",
     "found": [
@@ -19,6 +25,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:29.867Z"
+    "tested_at": "2026-10-01T07:02:13.078Z"
   }
 }

@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.duocircle.com",
-    "tested_at": "2026-09-30T20:19:59.946Z"
+    "tested_at": "2026-10-01T07:00:41.812Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.491Z",
+  "scanned_at": "2026-10-01T07:06:28.002Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=portal.duocircle.com&hideResults=on",
+    "tested_at": "2026-10-01T07:06:28.002Z"
+  },
   "trackers": {
     "url": "https://www.duocircle.com",
     "found": [
@@ -17,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:49.983Z"
+    "tested_at": "2026-10-01T07:01:35.393Z"
   }
 }

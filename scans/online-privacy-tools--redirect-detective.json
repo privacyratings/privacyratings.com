@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=redirectdetective.com",
-    "tested_at": "2026-09-30T20:16:35.623Z"
+    "tested_at": "2026-10-01T06:59:57.038Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.461Z",
+  "scanned_at": "2026-10-01T07:01:21.391Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=redirectdetective.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:46.557Z"
+  },
   "trackers": {
     "url": "https://redirectdetective.com",
     "found": [
@@ -18,6 +24,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:34.662Z"
+    "tested_at": "2026-10-01T07:01:21.391Z"
   }
 }

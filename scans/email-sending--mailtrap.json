@@ -6,14 +6,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailtrap.io",
-    "tested_at": "2026-09-30T20:22:11.345Z"
+    "tested_at": "2026-10-01T07:01:20.497Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.675Z",
+  "scanned_at": "2026-10-01T07:26:21.309Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailtrap.io&hideResults=on",
-    "tested_at": "2026-09-30T19:39:46.041Z"
+    "tested_at": "2026-10-01T07:26:21.309Z"
   },
   "trackers": {
     "url": "https://mailtrap.io",
@@ -49,6 +49,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:40.553Z"
+    "tested_at": "2026-10-01T07:02:23.788Z"
   }
 }

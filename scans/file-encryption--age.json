@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.580Z",
+  "github": {
+    "repo": "FiloSottile/age",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:10.325Z"
+  },
+  "scanned_at": "2026-10-01T07:01:55.155Z",
   "trackers": {
     "url": "https://github.com/FiloSottile/age",
     "found": [],
-    "tested_at": "2026-09-30T20:41:12.693Z"
+    "tested_at": "2026-10-01T07:01:55.155Z"
   }
 }

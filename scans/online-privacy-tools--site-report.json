@@ -6,12 +6,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sitereport.netcraft.com",
-    "tested_at": "2026-09-30T20:16:38.061Z"
+    "tested_at": "2026-10-01T06:59:57.923Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.462Z",
+  "scanned_at": "2026-10-01T07:01:21.752Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sitereport.netcraft.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:47.612Z"
+  },
   "trackers": {
     "url": "https://sitereport.netcraft.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:35.028Z"
+    "tested_at": "2026-10-01T07:01:21.752Z"
   }
 }

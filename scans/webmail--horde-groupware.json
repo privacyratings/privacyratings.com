@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.487Z",
+  "github": {
+    "repo": "horde/imp",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:02.546Z"
+  },
+  "scanned_at": "2026-10-01T07:01:34.760Z",
   "trackers": {
     "url": "https://www.horde.org/apps/webmail/",
     "found": [],
-    "tested_at": "2026-09-30T20:40:49.191Z"
+    "tested_at": "2026-10-01T07:01:34.760Z"
   }
 }

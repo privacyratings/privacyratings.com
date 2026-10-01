@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.digitalocean.com",
-    "tested_at": "2026-09-30T20:17:40.035Z"
+    "tested_at": "2026-10-01T07:00:10.688Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.469Z",
+  "scanned_at": "2026-10-01T07:01:35.803Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.digitalocean.com&hideResults=on",
+    "tested_at": "2026-10-01T07:01:35.803Z"
+  },
   "trackers": {
     "url": "https://www.digitalocean.com",
     "found": [
@@ -22,6 +28,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:39.808Z"
+    "tested_at": "2026-10-01T07:01:26.256Z"
   }
 }

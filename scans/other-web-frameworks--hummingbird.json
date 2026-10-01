@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.665Z",
+  "github": {
+    "repo": "hummingbird-project/hummingbird",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:21.942Z"
+  },
+  "scanned_at": "2026-10-01T07:02:20.484Z",
   "trackers": {
     "url": "https://hummingbird.codes/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:36.606Z"
+    "tested_at": "2026-10-01T07:02:20.484Z"
   }
 }

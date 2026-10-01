@@ -3,12 +3,12 @@
     "repo": "SeaDve/Kooha",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:29:14.302Z"
+    "checked_at": "2026-10-01T07:00:25.539Z"
   },
-  "scanned_at": "2026-10-01T06:29:14.302Z",
+  "scanned_at": "2026-10-01T07:02:30.605Z",
   "trackers": {
     "url": "https://github.com/SeaDve/Kooha",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-10-01T06:29:14.034Z"
+    "tested_at": "2026-10-01T07:02:30.605Z"
   }
 }

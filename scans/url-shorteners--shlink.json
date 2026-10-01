@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.268Z",
+  "github": {
+    "repo": "shlinkio/shlink",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:40.318Z"
+  },
+  "scanned_at": "2026-10-01T06:59:46.784Z",
   "trackers": {
     "url": "https://shlink.io",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:31.233Z"
+    "tested_at": "2026-10-01T06:59:46.784Z"
   }
 }

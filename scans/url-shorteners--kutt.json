@@ -1,14 +1,26 @@
 {
   "domain": "kutt.to",
+  "github": {
+    "repo": "thedevs-network/kutt",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:40.212Z"
+  },
   "observatory": {
     "grade": "D-",
     "score": 25,
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kutt.to",
-    "tested_at": "2026-09-30T20:15:36.248Z"
+    "tested_at": "2026-10-01T06:59:43.822Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.267Z",
+  "scanned_at": "2026-10-01T06:59:46.482Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kutt.to&hideResults=on",
+    "tested_at": "2026-10-01T06:59:39.639Z"
+  },
   "trackers": {
     "url": "https://kutt.to",
     "found": [
@@ -19,6 +31,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:30.918Z"
+    "tested_at": "2026-10-01T06:59:46.482Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.347Z",
+  "github": {
+    "repo": "brave/brave-browser",
+    "license": "MPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:47.359Z"
+  },
+  "scanned_at": "2026-10-01T07:00:34.078Z",
   "trackers": {
     "url": "https://brave.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:54.047Z"
+    "tested_at": "2026-10-01T07:00:34.078Z"
   }
 }

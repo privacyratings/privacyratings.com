@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.249Z",
+  "github": {
+    "repo": "zed-industries/zed",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:38.905Z"
+  },
+  "scanned_at": "2026-10-01T06:59:43.645Z",
   "trackers": {
     "url": "https://zed.dev",
     "found": [],
-    "tested_at": "2026-09-30T20:39:28.475Z"
+    "tested_at": "2026-10-01T06:59:43.645Z"
   }
 }

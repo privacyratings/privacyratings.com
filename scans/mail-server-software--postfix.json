@@ -3,12 +3,12 @@
     "repo": "vdukhovni/postfix",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:06.689Z"
+    "checked_at": "2026-10-01T07:00:27.106Z"
   },
-  "scanned_at": "2026-10-01T06:38:13.821Z",
+  "scanned_at": "2026-10-01T07:02:38.396Z",
   "trackers": {
     "url": "https://www.postfix.org",
     "found": [],
-    "tested_at": "2026-10-01T06:38:13.821Z"
+    "tested_at": "2026-10-01T07:02:38.396Z"
   }
 }

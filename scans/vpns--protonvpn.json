@@ -1,17 +1,29 @@
 {
   "domain": "protonvpn.com",
+  "github": {
+    "repo": "ProtonVPN/android-app",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:00.382Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 75,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=protonvpn.com",
-    "tested_at": "2026-09-30T20:16:58.557Z"
+    "tested_at": "2026-10-01T07:00:03.049Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.464Z",
+  "scanned_at": "2026-10-01T07:01:23.712Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=protonvpn.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:53.254Z"
+  },
   "trackers": {
     "url": "https://protonvpn.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:37.333Z"
+    "tested_at": "2026-10-01T07:01:23.712Z"
   }
 }

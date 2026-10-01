@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.394Z",
+  "github": {
+    "repo": "blokadaorg/blokada",
+    "license": "MPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:50.519Z"
+  },
+  "scanned_at": "2026-10-01T07:00:44.683Z",
   "trackers": {
     "url": "https://blokada.org",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:03.643Z"
+    "tested_at": "2026-10-01T07:00:44.683Z"
   }
 }

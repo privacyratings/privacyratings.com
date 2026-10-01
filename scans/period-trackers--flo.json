@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.282Z",
+  "scanned_at": "2026-10-01T06:59:50.340Z",
   "trackers": {
     "url": "https://flo.health",
     "found": [
@@ -13,6 +13,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:33.776Z"
+    "tested_at": "2026-10-01T06:59:50.340Z"
   }
 }

@@ -1,17 +1,29 @@
 {
   "domain": "rallly.co",
+  "github": {
+    "repo": "lukevella/rallly",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:00.717Z"
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rallly.co",
-    "tested_at": "2026-09-30T20:17:49.226Z"
+    "tested_at": "2026-10-01T07:00:12.918Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.470Z",
+  "scanned_at": "2026-10-01T07:01:36.264Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=rallly.co&hideResults=on",
+    "tested_at": "2026-10-01T07:01:36.264Z"
+  },
   "trackers": {
     "url": "https://rallly.co",
     "found": [],
-    "tested_at": "2026-09-30T20:40:40.591Z"
+    "tested_at": "2026-10-01T07:01:27.167Z"
   }
 }

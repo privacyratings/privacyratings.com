@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.451Z",
+  "github": {
+    "repo": "jliljebl/flowblade",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:58.511Z"
+  },
+  "scanned_at": "2026-10-01T07:01:14.572Z",
   "trackers": {
     "url": "https://jliljebl.github.io/flowblade/",
     "found": [],
-    "tested_at": "2026-09-30T20:40:25.824Z"
+    "tested_at": "2026-10-01T07:01:14.572Z"
   }
 }

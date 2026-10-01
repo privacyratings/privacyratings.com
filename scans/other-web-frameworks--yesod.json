@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.667Z",
+  "github": {
+    "repo": "yesodweb/yesod",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:22.880Z"
+  },
+  "scanned_at": "2026-10-01T07:02:21.651Z",
   "trackers": {
     "url": "https://www.yesodweb.com",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:37.510Z"
+    "tested_at": "2026-10-01T07:02:21.651Z"
   }
 }

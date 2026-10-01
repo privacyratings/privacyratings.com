@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.402Z",
+  "github": {
+    "repo": "savoirfairelinux/jami-project",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:51.300Z"
+  },
+  "scanned_at": "2026-10-01T07:00:47.212Z",
   "trackers": {
     "url": "https://jami.net",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:06.432Z"
+    "tested_at": "2026-10-01T07:00:47.212Z"
   }
 }

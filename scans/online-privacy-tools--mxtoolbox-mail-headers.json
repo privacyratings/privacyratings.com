@@ -6,9 +6,15 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mxtoolbox.com",
-    "tested_at": "2026-09-30T20:16:33.416Z"
+    "tested_at": "2026-10-01T06:59:56.279Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.461Z",
+  "scanned_at": "2026-10-01T07:11:13.004Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mxtoolbox.com&hideResults=on",
+    "tested_at": "2026-10-01T07:11:13.004Z"
+  },
   "trackers": {
     "url": "https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx",
     "found": [
@@ -17,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:32.994Z"
+    "tested_at": "2026-10-01T07:01:20.387Z"
   }
 }

@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cleanbrowsing.org",
-    "tested_at": "2026-09-30T20:17:02.458Z"
+    "tested_at": "2026-10-01T07:00:03.709Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.465Z",
+  "scanned_at": "2026-10-01T07:01:34.857Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cleanbrowsing.org&hideResults=on",
+    "tested_at": "2026-10-01T07:01:34.857Z"
+  },
   "trackers": {
     "url": "https://cleanbrowsing.org",
     "found": [
@@ -26,16 +32,12 @@
         "host": "www.googletagmanager.com"
       },
       {
-        "name": "LiveChat",
-        "host": "cdn.livechatinc.com"
-      },
-      {
         "name": "Plausible",
         "host": "plausible.io",
         "soft": true,
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:36.747Z"
+    "tested_at": "2026-10-01T07:01:23.758Z"
   }
 }

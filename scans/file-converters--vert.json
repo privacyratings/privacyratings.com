@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.451Z",
+  "github": {
+    "repo": "VERT-sh/VERT",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:58.266Z"
+  },
+  "scanned_at": "2026-10-01T07:01:13.481Z",
   "trackers": {
     "url": "https://vert.sh",
     "found": [],
-    "tested_at": "2026-09-30T20:40:25.332Z"
+    "tested_at": "2026-10-01T07:01:13.481Z"
   }
 }

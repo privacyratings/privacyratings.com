@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.527Z",
+  "github": {
+    "repo": "hapijs/hapi",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:05.331Z"
+  },
+  "scanned_at": "2026-10-01T07:01:45.465Z",
   "trackers": {
     "url": "https://hapi.dev",
     "found": [],
-    "tested_at": "2026-09-30T20:41:03.107Z"
+    "tested_at": "2026-10-01T07:01:45.464Z"
   }
 }

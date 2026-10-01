@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.649Z",
+  "github": {
+    "repo": "phalcon/cphalcon",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:18.164Z"
+  },
+  "scanned_at": "2026-10-01T07:02:14.961Z",
   "trackers": {
     "url": "https://phalcon.io/en-us",
     "found": [
@@ -18,6 +24,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:31.633Z"
+    "tested_at": "2026-10-01T07:02:14.961Z"
   }
 }

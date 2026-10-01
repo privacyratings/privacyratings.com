@@ -1,17 +1,29 @@
 {
   "domain": "posthog.com",
+  "github": {
+    "repo": "PostHog/posthog",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:39.800Z"
+  },
   "observatory": {
     "grade": "C",
     "score": 50,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=posthog.com",
-    "tested_at": "2026-09-30T20:15:29.264Z"
+    "tested_at": "2026-10-01T06:59:40.633Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.262Z",
+  "scanned_at": "2026-10-01T06:59:45.948Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=posthog.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:39.007Z"
+  },
   "trackers": {
     "url": "https://posthog.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:29.779Z"
+    "tested_at": "2026-10-01T06:59:45.948Z"
   }
 }

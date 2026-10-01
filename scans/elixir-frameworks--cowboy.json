@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.663Z",
+  "github": {
+    "repo": "ninenines/cowboy",
+    "license": "ISC",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:21.027Z"
+  },
+  "scanned_at": "2026-10-01T07:02:19.045Z",
   "trackers": {
     "url": "https://ninenines.eu/",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:36.012Z"
+    "tested_at": "2026-10-01T07:02:19.045Z"
   }
 }

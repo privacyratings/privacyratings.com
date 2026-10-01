@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.575Z",
+  "github": {
+    "repo": "Mailu/Mailu",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.906Z"
+  },
+  "scanned_at": "2026-10-01T07:01:53.105Z",
   "trackers": {
     "url": "https://mailu.io/2024.06/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:11.915Z"
+    "tested_at": "2026-10-01T07:01:53.104Z"
   }
 }

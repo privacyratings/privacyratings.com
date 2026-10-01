@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.450Z",
+  "github": {
+    "repo": "qbittorrent/qBittorrent",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:58.036Z"
+  },
+  "scanned_at": "2026-10-01T07:01:13.141Z",
   "trackers": {
     "url": "https://www.qbittorrent.org",
     "found": [
@@ -10,6 +16,7 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:25.140Z"
+    "tested_at": "2026-09-30T20:40:25.140Z",
+    "last_error": "HTTP 403"
   }
 }

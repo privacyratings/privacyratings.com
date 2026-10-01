@@ -3,9 +3,9 @@
     "repo": "MacPaw/XADMaster",
     "license": "LGPL-2.1",
     "archived": false,
-    "checked_at": "2026-10-01T06:29:14.009Z"
+    "checked_at": "2026-10-01T07:00:25.326Z"
   },
-  "scanned_at": "2026-10-01T06:29:14.032Z",
+  "scanned_at": "2026-10-01T07:02:30.232Z",
   "trackers": {
     "url": "https://theunarchiver.com",
     "found": [
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:29:14.031Z"
+    "tested_at": "2026-10-01T07:02:30.231Z"
   }
 }

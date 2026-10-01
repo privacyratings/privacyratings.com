@@ -3,9 +3,9 @@
     "repo": "Floorp-Projects/Floorp",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:06.944Z"
+    "checked_at": "2026-10-01T07:00:26.969Z"
   },
-  "scanned_at": "2026-10-01T06:38:13.731Z",
+  "scanned_at": "2026-10-01T07:02:37.357Z",
   "trackers": {
     "url": "https://floorp.app",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:13.731Z"
+    "tested_at": "2026-10-01T07:02:37.357Z"
   }
 }

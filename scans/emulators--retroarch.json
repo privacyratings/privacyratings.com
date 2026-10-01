@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.520Z",
+  "github": {
+    "repo": "libretro/RetroArch",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:04.625Z"
+  },
+  "scanned_at": "2026-10-01T07:01:44.737Z",
   "trackers": {
     "url": "https://www.retroarch.com",
     "found": [
@@ -31,6 +37,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:02.426Z"
+    "tested_at": "2026-10-01T07:01:44.737Z"
   }
 }

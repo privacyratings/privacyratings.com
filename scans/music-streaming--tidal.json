@@ -6,11 +6,17 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidal.com",
-    "tested_at": "2026-09-30T20:15:44.011Z"
+    "tested_at": "2026-10-01T06:59:45.195Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.302Z",
+  "scanned_at": "2026-10-01T06:59:57.349Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tidal.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:40.286Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:39:43.216Z"
+    "tested_at": "2026-10-01T06:59:57.349Z"
   }
 }

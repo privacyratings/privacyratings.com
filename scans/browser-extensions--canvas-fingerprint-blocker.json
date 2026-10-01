@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.352Z",
+  "github": {
+    "repo": "joue-quroi/canvas-fingerprint-blocker",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:47.888Z"
+  },
+  "scanned_at": "2026-10-01T07:00:37.699Z",
   "trackers": {
     "url": "https://webextension.org/listing/canvas-fingerprint-blocker.html",
     "found": [
@@ -27,6 +33,7 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:56.781Z"
+    "tested_at": "2026-09-30T20:39:56.781Z",
+    "last_error": "HTTP 403"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.272Z",
+  "github": {
+    "repo": "home-assistant/core",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:40.581Z"
+  },
+  "scanned_at": "2026-10-01T06:59:46.955Z",
   "trackers": {
     "url": "https://www.home-assistant.io",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:31.382Z"
+    "tested_at": "2026-10-01T06:59:46.955Z"
   }
 }

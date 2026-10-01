@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.304Z",
+  "github": {
+    "repo": "yang991178/fluent-reader",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:43.476Z"
+  },
+  "scanned_at": "2026-10-01T06:59:58.197Z",
   "trackers": {
     "url": "https://hyliu.me/fluent-reader/",
     "found": [],
-    "tested_at": "2026-09-30T20:39:44.216Z"
+    "tested_at": "2026-10-01T06:59:58.197Z"
   }
 }

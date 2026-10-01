@@ -1,17 +1,29 @@
 {
   "domain": "desec.io",
+  "github": {
+    "repo": "desec-io/desec-stack",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:00.610Z"
+  },
   "observatory": {
     "grade": "A+",
     "score": 105,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=desec.io",
-    "tested_at": "2026-09-30T20:17:13.170Z"
+    "tested_at": "2026-10-01T07:00:05.569Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.467Z",
+  "scanned_at": "2026-10-01T07:01:24.266Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=desec.io&hideResults=on",
+    "tested_at": "2026-10-01T07:00:56.055Z"
+  },
   "trackers": {
     "url": "https://desec.io",
     "found": [],
-    "tested_at": "2026-09-30T20:40:38.485Z"
+    "tested_at": "2026-10-01T07:01:24.266Z"
   }
 }

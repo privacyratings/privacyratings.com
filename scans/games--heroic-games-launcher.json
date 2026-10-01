@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.450Z",
+  "github": {
+    "repo": "Heroic-Games-Launcher/HeroicGamesLauncher",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:58.217Z"
+  },
+  "scanned_at": "2026-10-01T07:01:13.122Z",
   "trackers": {
     "url": "https://heroicgameslauncher.com",
     "found": [
@@ -10,6 +16,7 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:25.232Z"
+    "tested_at": "2026-09-30T20:40:25.232Z",
+    "last_error": "HTTP 403"
   }
 }

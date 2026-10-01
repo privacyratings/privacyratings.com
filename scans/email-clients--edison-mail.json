@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.550Z",
+  "scanned_at": "2026-10-01T07:01:48.449Z",
   "trackers": {
     "url": "https://www.edisonmail.com",
     "found": [
@@ -24,6 +24,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:41:06.645Z"
+    "tested_at": "2026-10-01T07:01:48.448Z"
   }
 }

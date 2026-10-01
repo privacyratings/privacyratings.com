@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.407Z",
+  "github": {
+    "repo": "getdnsapi/stubby",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:52.620Z"
+  },
+  "scanned_at": "2026-10-01T07:00:51.964Z",
   "trackers": {
     "url": "https://dnsprivacy.org/dns_privacy_daemon_-_stubby/",
     "found": [],
-    "tested_at": "2026-09-30T20:40:10.236Z"
+    "tested_at": "2026-10-01T07:00:51.964Z"
   }
 }

@@ -6,12 +6,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swisscows.com",
-    "tested_at": "2026-09-30T20:21:17.535Z"
+    "tested_at": "2026-10-01T07:01:05.768Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.579Z",
+  "scanned_at": "2026-10-01T07:13:47.295Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=swisscows.com&hideResults=on",
+    "tested_at": "2026-10-01T07:13:47.295Z"
+  },
   "trackers": {
     "url": "https://swisscows.com/en",
     "found": [],
-    "tested_at": "2026-09-30T20:41:12.516Z"
+    "tested_at": "2026-10-01T07:01:55.058Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.330Z",
+  "github": {
+    "repo": "ImageMagick/ImageMagick",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:45.964Z"
+  },
+  "scanned_at": "2026-10-01T07:00:05.007Z",
   "trackers": {
     "url": "https://imagemagick.org",
     "found": [
@@ -8,6 +14,6 @@
         "host": "pagead2.googlesyndication.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:50.087Z"
+    "tested_at": "2026-10-01T07:00:05.006Z"
   }
 }

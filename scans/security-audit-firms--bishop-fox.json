@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bishopfox.com",
-    "tested_at": "2026-09-30T20:20:39.354Z"
+    "tested_at": "2026-10-01T07:00:54.655Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.499Z",
+  "scanned_at": "2026-10-01T07:07:13.856Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bishopfox.com&hideResults=on",
+    "tested_at": "2026-10-01T07:07:13.856Z"
+  },
   "trackers": {
     "url": "https://bishopfox.com",
     "found": [
@@ -17,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:55.149Z"
+    "tested_at": "2026-10-01T07:01:38.817Z"
   }
 }

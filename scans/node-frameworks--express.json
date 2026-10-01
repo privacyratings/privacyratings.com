@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.525Z",
+  "github": {
+    "repo": "expressjs/express",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:05.089Z"
+  },
+  "scanned_at": "2026-10-01T07:01:44.964Z",
   "trackers": {
     "url": "https://expressjs.com",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:02.438Z"
+    "tested_at": "2026-10-01T07:01:44.964Z"
   }
 }

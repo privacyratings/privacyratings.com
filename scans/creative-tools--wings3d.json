@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.458Z",
+  "github": {
+    "repo": "dgud/wings",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:59.823Z"
+  },
+  "scanned_at": "2026-10-01T07:01:19.568Z",
   "trackers": {
     "url": "https://www.wings3d.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:31.203Z"
+    "tested_at": "2026-10-01T07:01:19.568Z"
   }
 }

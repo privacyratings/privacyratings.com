@@ -3,12 +3,12 @@
     "repo": "peazip/PeaZip",
     "license": "LGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:29:14.398Z"
+    "checked_at": "2026-10-01T07:00:25.944Z"
   },
-  "scanned_at": "2026-10-01T06:29:14.398Z",
+  "scanned_at": "2026-10-01T07:02:31.274Z",
   "trackers": {
     "url": "https://peazip.github.io",
     "found": [],
-    "tested_at": "2026-10-01T06:29:14.014Z"
+    "tested_at": "2026-10-01T07:02:31.274Z"
   }
 }

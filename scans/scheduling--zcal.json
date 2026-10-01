@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=zcal.co",
-    "tested_at": "2026-09-30T20:21:59.169Z"
+    "tested_at": "2026-10-01T07:01:17.500Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.670Z",
+  "scanned_at": "2026-10-01T07:29:53.020Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=zcal.co&hideResults=on",
+    "tested_at": "2026-10-01T07:29:53.020Z"
+  },
   "trackers": {
     "url": "https://zcal.co",
     "found": [
@@ -23,6 +29,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:39.280Z"
+    "tested_at": "2026-10-01T07:02:22.827Z"
   }
 }

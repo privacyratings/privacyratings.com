@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.441Z",
+  "github": {
+    "repo": "KashCal/KashCal",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:55.522Z"
+  },
+  "scanned_at": "2026-10-01T07:01:06.474Z",
   "trackers": {
     "url": "https://kashcal.onekash.org",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:19.098Z"
+    "tested_at": "2026-10-01T07:01:06.473Z"
   }
 }

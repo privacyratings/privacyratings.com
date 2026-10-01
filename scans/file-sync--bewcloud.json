@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.443Z",
+  "github": {
+    "repo": "bewcloud/bewcloud",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:55.770Z"
+  },
+  "scanned_at": "2026-10-01T07:01:07.753Z",
   "trackers": {
     "url": "https://bewcloud.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:20.362Z"
+    "tested_at": "2026-10-01T07:01:07.753Z"
   }
 }

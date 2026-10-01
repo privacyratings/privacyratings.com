@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.563Z",
+  "github": {
+    "repo": "microsoft/PowerToys",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:08.920Z"
+  },
+  "scanned_at": "2026-10-01T07:01:49.818Z",
   "trackers": {
     "url": "https://learn.microsoft.com/en-us/windows/powertoys/command-palette/overview",
     "found": [],
-    "tested_at": "2026-09-30T20:41:08.187Z"
+    "tested_at": "2026-10-01T07:01:49.818Z"
   }
 }

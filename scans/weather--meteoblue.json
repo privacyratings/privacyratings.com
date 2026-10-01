@@ -1,7 +1,7 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.591Z",
+  "scanned_at": "2026-10-01T07:02:04.320Z",
   "trackers": {
-    "url": "https://www.meteoblue.com/en/weather/week/council-bluffs_united-states_4852832",
+    "url": "https://www.meteoblue.com/en/weather/week/cheyenne_united-states_5821086",
     "found": [
       {
         "name": "Cloudflare Web Analytics",
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:19.439Z"
+    "tested_at": "2026-10-01T07:02:04.320Z"
   }
 }

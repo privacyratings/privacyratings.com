@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.327Z",
+  "github": {
+    "repo": "lutris/lutris",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:45.616Z"
+  },
+  "scanned_at": "2026-10-01T07:00:04.194Z",
   "trackers": {
     "url": "https://lutris.net",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:49.828Z"
+    "tested_at": "2026-10-01T07:00:04.194Z"
   }
 }

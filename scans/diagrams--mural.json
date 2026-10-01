@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.mural.co",
-    "tested_at": "2026-09-30T20:21:52.104Z"
+    "tested_at": "2026-10-01T07:01:15.415Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.668Z",
+  "scanned_at": "2026-10-01T07:21:28.156Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.mural.co&hideResults=on",
+    "tested_at": "2026-10-01T07:21:28.156Z"
+  },
   "trackers": {
     "url": "https://www.mural.co",
     "found": [
@@ -21,6 +27,6 @@
         "host": "cdn.segment.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:38.334Z"
+    "tested_at": "2026-10-01T07:02:22.087Z"
   }
 }

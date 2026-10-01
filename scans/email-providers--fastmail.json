@@ -31,7 +31,63 @@
         }
       }
     },
-    "tested_at": "2026-09-30T05:26:37.411Z"
+    "tested_at": "2026-10-01T07:00:03.611Z",
+    "imap": {
+      "host": "imap.fastmail.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4",
+        "IMAP4REV1",
+        "IMAP4REV2",
+        "LITERAL+",
+        "ENABLE",
+        "UIDPLUS",
+        "SASL-IR",
+        "NAMESPACE",
+        "CONDSTORE",
+        "SORT",
+        "LIST-EXTENDED",
+        "QRESYNC",
+        "MOVE",
+        "SPECIAL-USE",
+        "CREATE-SPECIAL-USE",
+        "IDLE",
+        "AUTH=PLAIN",
+        "AUTH=LOGIN",
+        "AUTH=XOAUTH2",
+        "AUTH=OAUTHBEARER"
+      ]
+    },
+    "pop3": {
+      "host": "pop.fastmail.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "EXPIRE",
+        "LOGIN-DELAY",
+        "TOP",
+        "UIDL",
+        "PIPELINING",
+        "RESP-CODES",
+        "AUTH-RESP-CODE",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.fastmail.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "AUTH"
+      ]
+    }
   },
   "mail_domain": "fastmail.com",
   "observatory": {
@@ -40,18 +96,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.fastmail.com",
-    "tested_at": "2026-09-30T20:19:26.042Z"
+    "tested_at": "2026-10-01T07:00:32.592Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.480Z",
+  "scanned_at": "2026-10-01T07:05:17.952Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.fastmail.com&hideResults=on",
-    "tested_at": "2026-09-29T18:06:40.591Z"
+    "tested_at": "2026-10-01T07:05:17.952Z"
   },
   "trackers": {
     "url": "https://www.fastmail.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:46.099Z"
+    "tested_at": "2026-10-01T07:01:31.471Z"
   }
 }

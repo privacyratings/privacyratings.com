@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T06:38:06.256Z",
+  "scanned_at": "2026-10-01T07:02:32.817Z",
   "trackers": {
     "url": "https://www.techsmith.com/snagit/",
     "found": [
@@ -13,6 +13,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:06.256Z"
+    "tested_at": "2026-10-01T07:02:32.817Z"
   }
 }

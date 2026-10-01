@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.282Z",
+  "github": {
+    "repo": "Euki-Inc/Euki-Android",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:41.062Z"
+  },
+  "scanned_at": "2026-10-01T06:59:50.274Z",
   "trackers": {
     "url": "https://eukiapp.org",
     "found": [
@@ -12,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:33.671Z"
+    "tested_at": "2026-10-01T06:59:50.274Z"
   }
 }

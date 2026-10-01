@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.307Z",
+  "github": {
+    "repo": "ReadYouApp/ReadYou",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:43.840Z"
+  },
+  "scanned_at": "2026-10-01T06:59:58.770Z",
   "trackers": {
     "url": "https://github.com/ReadYouApp/ReadYou",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:39:44.847Z"
+    "tested_at": "2026-10-01T06:59:58.770Z"
   }
 }

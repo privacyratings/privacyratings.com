@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.527Z",
+  "github": {
+    "repo": "meteor/meteor",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:05.579Z"
+  },
+  "scanned_at": "2026-10-01T07:01:45.408Z",
   "trackers": {
     "url": "https://www.meteor.com",
     "found": [
@@ -19,6 +25,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:03.110Z"
+    "tested_at": "2026-10-01T07:01:45.407Z"
   }
 }

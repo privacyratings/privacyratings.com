@@ -1,14 +1,26 @@
 {
   "domain": "www.simpleanalytics.com",
+  "github": {
+    "repo": "simpleanalytics/scripts",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:39.872Z"
+  },
   "observatory": {
     "grade": "B-",
     "score": 65,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.simpleanalytics.com",
-    "tested_at": "2026-09-30T20:15:29.863Z"
+    "tested_at": "2026-10-01T06:59:41.047Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.263Z",
+  "scanned_at": "2026-10-01T06:59:46.652Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.simpleanalytics.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:39.117Z"
+  },
   "trackers": {
     "url": "https://www.simpleanalytics.com",
     "found": [
@@ -19,6 +31,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:30.426Z"
+    "tested_at": "2026-10-01T06:59:46.652Z"
   }
 }

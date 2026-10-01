@@ -1,7 +1,13 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.681Z",
+  "github": {
+    "repo": "NordSecurity/libtelio",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:23.920Z"
+  },
+  "scanned_at": "2026-10-01T07:02:25.584Z",
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:41:42.452Z"
+    "tested_at": "2026-10-01T07:02:25.584Z"
   }
 }

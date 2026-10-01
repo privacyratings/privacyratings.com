@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.576Z",
+  "github": {
+    "repo": "duckduckgo/Android",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:10.097Z"
+  },
+  "scanned_at": "2026-10-01T07:01:52.604Z",
   "trackers": {
     "url": "https://duckduckgo.com/app/unsupported",
     "found": [],
-    "tested_at": "2026-09-30T20:41:10.569Z"
+    "tested_at": "2026-10-01T07:01:52.604Z"
   }
 }

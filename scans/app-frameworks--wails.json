@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.629Z",
+  "github": {
+    "repo": "wailsapp/wails",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:16.203Z"
+  },
+  "scanned_at": "2026-10-01T07:02:11.938Z",
   "trackers": {
     "url": "https://wails.io",
     "found": [
@@ -10,6 +16,7 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:28.490Z"
+    "tested_at": "2026-09-30T20:41:28.490Z",
+    "last_error": "HTTP 403"
   }
 }

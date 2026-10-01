@@ -6,14 +6,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=brevo.com",
-    "tested_at": "2026-09-30T20:22:00.525Z"
+    "tested_at": "2026-10-01T07:01:18.265Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.673Z",
+  "scanned_at": "2026-10-01T07:26:05.480Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=brevo.com&hideResults=on",
-    "tested_at": "2026-09-30T19:39:42.338Z"
+    "tested_at": "2026-10-01T07:26:05.480Z"
   },
   "trackers": {
     "url": "https://www.brevo.com",
@@ -25,6 +25,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:39.533Z"
+    "tested_at": "2026-10-01T07:02:23.080Z"
   }
 }

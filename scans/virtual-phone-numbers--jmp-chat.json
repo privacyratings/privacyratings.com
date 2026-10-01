@@ -6,12 +6,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=jmp.chat",
-    "tested_at": "2026-09-30T20:16:42.560Z"
+    "tested_at": "2026-10-01T06:59:58.679Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.462Z",
+  "scanned_at": "2026-10-01T07:01:21.097Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=jmp.chat&hideResults=on",
+    "tested_at": "2026-10-01T06:59:48.342Z"
+  },
   "trackers": {
     "url": "https://jmp.chat",
     "found": [],
-    "tested_at": "2026-09-30T20:40:34.078Z"
+    "tested_at": "2026-10-01T07:01:21.097Z"
   }
 }

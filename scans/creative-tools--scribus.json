@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.343Z",
+  "github": {
+    "repo": "scribusproject/scribus",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:46.660Z"
+  },
+  "scanned_at": "2026-10-01T07:00:30.456Z",
   "trackers": {
     "url": "https://www.scribus.net",
     "found": [],
-    "tested_at": "2026-09-30T20:39:52.230Z"
+    "tested_at": "2026-10-01T07:00:30.456Z"
   }
 }

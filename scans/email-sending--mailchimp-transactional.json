@@ -6,14 +6,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mandrillapp.com",
-    "tested_at": "2026-09-30T20:22:05.335Z"
+    "tested_at": "2026-10-01T07:01:18.527Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.674Z",
+  "scanned_at": "2026-10-01T07:29:16.374Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mandrillapp.com&hideResults=on",
-    "tested_at": "2026-09-30T19:42:49.217Z"
+    "tested_at": "2026-10-01T07:29:16.374Z"
   },
   "trackers": {
     "url": "https://mailchimp.com/features/transactional-email/",
@@ -28,6 +28,6 @@
         "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:40.036Z"
+    "tested_at": "2026-10-01T07:02:23.355Z"
   }
 }

@@ -6,14 +6,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cognitoforms.com",
-    "tested_at": "2026-09-30T20:23:02.190Z"
+    "tested_at": "2026-10-01T07:01:31.895Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.689Z",
+  "scanned_at": "2026-10-01T07:31:57.190Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.cognitoforms.com&hideResults=on",
-    "tested_at": "2026-09-30T19:59:13.122Z"
+    "tested_at": "2026-10-01T07:31:57.190Z"
   },
   "trackers": {
     "url": "https://www.cognitoforms.com",
@@ -37,6 +37,6 @@
         "host": "dev.visualwebsiteoptimizer.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:46.166Z"
+    "tested_at": "2026-10-01T07:02:29.337Z"
   }
 }

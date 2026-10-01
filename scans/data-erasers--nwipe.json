@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.401Z",
+  "github": {
+    "repo": "martijnvanbrummelen/nwipe",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:51.251Z"
+  },
+  "scanned_at": "2026-10-01T07:00:46.389Z",
   "trackers": {
     "url": "https://github.com/martijnvanbrummelen/nwipe",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:40:05.374Z"
+    "tested_at": "2026-10-01T07:00:46.389Z"
   }
 }

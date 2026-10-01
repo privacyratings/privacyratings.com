@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.638Z",
+  "github": {
+    "repo": "Pylons/pyramid",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:16.900Z"
+  },
+  "scanned_at": "2026-10-01T07:02:12.685Z",
   "trackers": {
     "url": "https://trypyramid.com",
     "found": [],
-    "tested_at": "2026-09-30T20:41:29.525Z"
+    "tested_at": "2026-10-01T07:02:12.685Z"
   }
 }

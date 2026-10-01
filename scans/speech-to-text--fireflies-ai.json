@@ -6,14 +6,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.fireflies.ai",
-    "tested_at": "2026-10-01T06:38:05.980Z"
+    "tested_at": "2026-10-01T07:01:34.898Z"
   },
-  "scanned_at": "2026-10-01T06:38:06.677Z",
+  "scanned_at": "2026-10-01T07:31:58.337Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.fireflies.ai&hideResults=on",
-    "tested_at": "2026-10-01T06:38:06.285Z"
+    "tested_at": "2026-10-01T07:31:58.337Z"
   },
   "trackers": {
     "url": "https://fireflies.ai",
@@ -23,6 +23,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-10-01T06:38:06.511Z"
+    "tested_at": "2026-10-01T07:02:32.953Z"
   }
 }

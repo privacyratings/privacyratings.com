@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.449Z",
+  "github": {
+    "repo": "tt-rss/tt-rss",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:57.808Z"
+  },
+  "scanned_at": "2026-10-01T07:01:12.531Z",
   "trackers": {
     "url": "https://tt-rss.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:24.316Z"
+    "tested_at": "2026-10-01T07:01:12.531Z"
   }
 }

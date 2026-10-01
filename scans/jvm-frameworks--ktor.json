@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.660Z",
+  "github": {
+    "repo": "ktorio/ktor",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:20.254Z"
+  },
+  "scanned_at": "2026-10-01T07:02:18.609Z",
   "trackers": {
     "url": "https://ktor.io",
     "found": [
@@ -12,6 +18,6 @@
         "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:34.631Z"
+    "tested_at": "2026-10-01T07:02:18.609Z"
   }
 }

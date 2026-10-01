@@ -3,9 +3,9 @@
     "repo": "Zackriya-Solutions/meetily",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:06.261Z"
+    "checked_at": "2026-10-01T07:00:26.217Z"
   },
-  "scanned_at": "2026-10-01T06:38:07.643Z",
+  "scanned_at": "2026-10-01T07:02:33.516Z",
   "trackers": {
     "url": "https://meetily.ai",
     "found": [
@@ -18,6 +18,6 @@
         "host": "us.i.posthog.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:07.643Z"
+    "tested_at": "2026-10-01T07:02:33.516Z"
   }
 }

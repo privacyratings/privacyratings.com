@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.645Z",
+  "github": {
+    "repo": "jeremyevans/roda",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:17.639Z"
+  },
+  "scanned_at": "2026-10-01T07:02:14.383Z",
   "trackers": {
     "url": "https://roda.jeremyevans.net",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:30.646Z"
+    "tested_at": "2026-10-01T07:02:14.383Z"
   }
 }

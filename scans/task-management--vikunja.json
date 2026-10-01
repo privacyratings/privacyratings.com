@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.442Z",
+  "github": {
+    "repo": "go-vikunja/vikunja",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:55.709Z"
+  },
+  "scanned_at": "2026-10-01T07:01:07.246Z",
   "trackers": {
     "url": "https://vikunja.io",
     "found": [
@@ -16,6 +22,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:19.404Z"
+    "tested_at": "2026-10-01T07:01:07.246Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.251Z",
+  "github": {
+    "repo": "gnachman/iTerm2",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:38.960Z"
+  },
+  "scanned_at": "2026-10-01T06:59:43.446Z",
   "trackers": {
     "url": "https://iterm2.com",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:28.196Z"
+    "tested_at": "2026-10-01T06:59:43.446Z"
   }
 }

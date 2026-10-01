@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.304Z",
+  "github": {
+    "repo": "FreshRSS/FreshRSS",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:43.607Z"
+  },
+  "scanned_at": "2026-10-01T06:59:58.769Z",
   "trackers": {
     "url": "https://freshrss.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:45.561Z"
+    "tested_at": "2026-10-01T06:59:58.769Z"
   }
 }

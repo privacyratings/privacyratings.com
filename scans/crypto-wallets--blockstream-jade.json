@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.287Z",
+  "github": {
+    "repo": "Blockstream/Jade",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:41.487Z"
+  },
+  "scanned_at": "2026-10-01T06:59:51.841Z",
   "trackers": {
     "url": "https://blockstream.com/jade/",
     "found": [
@@ -25,6 +31,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:34.903Z"
+    "tested_at": "2026-10-01T06:59:51.841Z"
   }
 }

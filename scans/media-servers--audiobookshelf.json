@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.313Z",
+  "github": {
+    "repo": "advplyr/audiobookshelf",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:44.575Z"
+  },
+  "scanned_at": "2026-10-01T07:00:01.147Z",
   "trackers": {
     "url": "https://audiobookshelf.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:46.586Z"
+    "tested_at": "2026-10-01T07:00:01.147Z"
   }
 }

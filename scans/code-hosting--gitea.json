@@ -1,5 +1,11 @@
 {
   "domain": "gitea.io",
+  "github": {
+    "repo": "go-gitea/gitea",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:01.360Z"
+  },
   "observatory": {
     "grade": "F",
     "score": 0,
@@ -8,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=gitea.io",
     "tested_at": "2026-09-29T17:59:43.715Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.473Z",
+  "scanned_at": "2026-10-01T07:01:28.521Z",
   "trackers": {
     "url": "https://about.gitea.com",
     "found": [
@@ -32,6 +38,6 @@
         "host": "js.hs-scripts.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:42.157Z"
+    "tested_at": "2026-10-01T07:01:28.521Z"
   }
 }

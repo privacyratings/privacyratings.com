@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.390Z",
+  "github": {
+    "repo": "iKenndac/Tofu",
+    "license": "ISC",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:49.938Z"
+  },
+  "scanned_at": "2026-10-01T07:00:42.767Z",
   "trackers": {
     "url": "https://www.tofuauth.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:02.007Z"
+    "tested_at": "2026-10-01T07:00:42.767Z"
   }
 }

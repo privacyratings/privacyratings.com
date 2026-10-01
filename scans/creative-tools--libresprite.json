@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.340Z",
+  "github": {
+    "repo": "LibreSprite/LibreSprite",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:46.215Z"
+  },
+  "scanned_at": "2026-10-01T07:00:22.257Z",
   "trackers": {
     "url": "https://libresprite.github.io",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:51.460Z"
+    "tested_at": "2026-10-01T07:00:22.257Z"
   }
 }

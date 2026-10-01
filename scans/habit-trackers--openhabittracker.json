@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.443Z",
+  "github": {
+    "repo": "Jinjinov/OpenHabitTracker",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:56.005Z"
+  },
+  "scanned_at": "2026-10-01T07:01:09.350Z",
   "trackers": {
     "url": "https://openhabittracker.net",
     "found": [
@@ -17,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:20.733Z"
+    "tested_at": "2026-10-01T07:01:09.350Z"
   }
 }

@@ -6,9 +6,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=doodle.com",
-    "tested_at": "2026-09-30T20:21:34.311Z"
+    "tested_at": "2026-10-01T07:01:09.955Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.585Z",
+  "scanned_at": "2026-10-01T07:20:20.096Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=doodle.com&hideResults=on",
+    "tested_at": "2026-10-01T07:20:20.096Z"
+  },
   "trackers": {
     "url": "https://doodle.com/en/",
     "found": [
@@ -22,6 +28,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:16.368Z"
+    "tested_at": "2026-10-01T07:01:59.856Z"
   }
 }

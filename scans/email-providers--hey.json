@@ -21,7 +21,16 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:33.425Z"
+    "tested_at": "2026-10-01T06:59:39.412Z",
+    "imap": {
+      "offered": false
+    },
+    "pop3": {
+      "offered": false
+    },
+    "smtp": {
+      "offered": false
+    }
   },
   "mail_domain": "hey.com",
   "observatory": {
@@ -30,12 +39,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.hey.com",
-    "tested_at": "2026-09-30T20:19:01.020Z"
+    "tested_at": "2026-10-01T07:00:26.056Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.476Z",
+  "scanned_at": "2026-10-01T07:03:56.190Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.hey.com&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.190Z"
+  },
   "trackers": {
     "url": "https://www.hey.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:43.995Z"
+    "tested_at": "2026-10-01T07:01:29.621Z"
   }
 }

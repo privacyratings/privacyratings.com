@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.heimdalsecurity.com",
-    "tested_at": "2026-09-30T20:20:14.726Z"
+    "tested_at": "2026-10-01T07:00:46.423Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.492Z",
+  "scanned_at": "2026-10-01T07:06:28.096Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dashboard.heimdalsecurity.com&hideResults=on",
+    "tested_at": "2026-10-01T07:06:28.096Z"
+  },
   "trackers": {
     "url": "https://heimdalsecurity.com/enterprise-security/products/email-security",
     "found": [
@@ -31,6 +37,6 @@
         "host": "dev.visualwebsiteoptimizer.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:51.130Z"
+    "tested_at": "2026-10-01T07:01:36.965Z"
   }
 }

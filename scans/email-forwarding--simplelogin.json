@@ -1,5 +1,11 @@
 {
   "domain": "simplelogin.io",
+  "github": {
+    "repo": "simple-login/app",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:02.313Z"
+  },
   "mail": {
     "dns": {
       "domain": "simplelogin.io",
@@ -22,7 +28,19 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:45.644Z"
+    "tested_at": "2026-10-01T07:00:17.977Z",
+    "imap": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "pop3": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "smtp": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    }
   },
   "mail_domain": "simplelogin.io",
   "observatory": {
@@ -31,18 +49,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=simplelogin.io",
-    "tested_at": "2026-09-30T20:19:42.696Z"
+    "tested_at": "2026-10-01T07:00:35.988Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.482Z",
+  "scanned_at": "2026-10-01T07:06:27.043Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=simplelogin.io&hideResults=on",
-    "tested_at": "2026-09-29T18:02:59.120Z"
+    "tested_at": "2026-10-01T07:06:27.042Z"
   },
   "trackers": {
     "url": "https://simplelogin.io",
     "found": [],
-    "tested_at": "2026-09-30T20:40:47.681Z"
+    "tested_at": "2026-10-01T07:01:33.592Z"
   }
 }

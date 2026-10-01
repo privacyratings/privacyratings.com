@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T21:34:18.817Z",
+  "github": {
+    "repo": "Betterbird/thunderbird-patches",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:25.194Z"
+  },
+  "scanned_at": "2026-10-01T07:02:30.693Z",
   "trackers": {
     "url": "https://www.betterbird.eu",
     "found": [],
-    "tested_at": "2026-09-30T21:34:18.816Z"
+    "tested_at": "2026-10-01T07:02:30.693Z"
   }
 }

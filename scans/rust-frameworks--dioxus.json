@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.655Z",
+  "github": {
+    "repo": "DioxusLabs/dioxus",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:19.414Z"
+  },
+  "scanned_at": "2026-10-01T07:02:16.572Z",
   "trackers": {
     "url": "https://dioxuslabs.com",
     "found": [
@@ -19,6 +25,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:33.073Z"
+    "tested_at": "2026-10-01T07:02:16.572Z"
   }
 }

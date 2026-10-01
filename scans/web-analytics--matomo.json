@@ -1,17 +1,33 @@
 {
   "domain": "matomo.org",
+  "github": {
+    "repo": "matomo-org/matomo",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:39.533Z"
+  },
   "observatory": {
     "grade": "B",
     "score": 75,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=matomo.org",
-    "tested_at": "2026-09-30T20:15:20.744Z"
+    "tested_at": "2026-10-01T06:59:39.038Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.260Z",
+  "scanned_at": "2026-10-01T06:59:45.768Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 12,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=matomo.org&hideResults=on",
+    "tested_at": "2026-10-01T06:59:39.069Z"
+  },
   "trackers": {
     "url": "https://matomo.org",
     "found": [
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
+      },
       {
         "name": "Matomo Cloud",
         "host": "cdn.matomo.cloud",
@@ -19,6 +35,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:29.674Z"
+    "tested_at": "2026-10-01T06:59:45.768Z"
   }
 }

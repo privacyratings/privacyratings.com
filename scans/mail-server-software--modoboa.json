@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.575Z",
+  "github": {
+    "repo": "modoboa/modoboa",
+    "license": "ISC",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:10.047Z"
+  },
+  "scanned_at": "2026-10-01T07:01:53.418Z",
   "trackers": {
     "url": "https://modoboa.org/en/",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:11.176Z"
+    "tested_at": "2026-10-01T07:01:53.418Z"
   }
 }

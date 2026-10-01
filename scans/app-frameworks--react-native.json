@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.627Z",
+  "github": {
+    "repo": "react/react-native",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:16.068Z"
+  },
+  "scanned_at": "2026-10-01T07:02:11.239Z",
   "trackers": {
     "url": "https://reactnative.dev",
     "found": [
@@ -12,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:28.088Z"
+    "tested_at": "2026-10-01T07:02:11.239Z"
   }
 }

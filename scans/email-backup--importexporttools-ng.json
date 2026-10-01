@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.498Z",
+  "github": {
+    "repo": "thunderbird/import-export-tools-ng",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:03.431Z"
+  },
+  "scanned_at": "2026-10-01T07:01:38.156Z",
   "trackers": {
     "url": "https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng/",
     "found": [
@@ -9,6 +15,7 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:53.534Z"
+    "tested_at": "2026-09-30T20:40:53.534Z",
+    "last_error": "HTTP 403"
   }
 }

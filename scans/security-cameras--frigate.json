@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.275Z",
+  "github": {
+    "repo": "blakeblackshear/frigate",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:40.848Z"
+  },
+  "scanned_at": "2026-10-01T06:59:48.002Z",
   "trackers": {
     "url": "https://frigate.video",
     "found": [
@@ -13,6 +19,6 @@
         "host": "www.clarity.ms"
       }
     ],
-    "tested_at": "2026-09-30T20:39:32.243Z"
+    "tested_at": "2026-10-01T06:59:48.002Z"
   }
 }

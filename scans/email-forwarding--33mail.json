@@ -27,7 +27,19 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:36.021Z"
+    "tested_at": "2026-10-01T07:00:01.601Z",
+    "imap": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "pop3": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "smtp": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    }
   },
   "mail_domain": "33mail.com",
   "observatory": {
@@ -36,9 +48,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.33mail.com",
-    "tested_at": "2026-09-30T20:19:24.742Z"
+    "tested_at": "2026-10-01T07:00:32.260Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.479Z",
+  "scanned_at": "2026-10-01T07:05:17.833Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.33mail.com&hideResults=on",
+    "tested_at": "2026-10-01T07:05:17.833Z"
+  },
   "trackers": {
     "url": "https://www.33mail.com",
     "found": [
@@ -60,6 +78,6 @@
         "host": "www.facebook.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:45.691Z"
+    "tested_at": "2026-10-01T07:01:31.540Z"
   }
 }

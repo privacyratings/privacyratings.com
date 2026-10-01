@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.599Z",
+  "github": {
+    "repo": "analogjs/analog",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:12.028Z"
+  },
+  "scanned_at": "2026-10-01T07:02:05.196Z",
   "trackers": {
     "url": "https://analogjs.org",
     "found": [
@@ -12,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:22.315Z"
+    "tested_at": "2026-10-01T07:02:05.196Z"
   }
 }

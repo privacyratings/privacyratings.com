@@ -6,14 +6,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailersend.com",
-    "tested_at": "2026-09-30T20:22:05.717Z"
+    "tested_at": "2026-10-01T07:01:18.956Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.674Z",
+  "scanned_at": "2026-10-01T07:26:05.840Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailersend.com&hideResults=on",
-    "tested_at": "2026-09-30T19:39:45.622Z"
+    "tested_at": "2026-10-01T07:26:05.840Z"
   },
   "trackers": {
     "url": "https://www.mailersend.com",
@@ -33,6 +33,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:41:39.826Z"
+    "tested_at": "2026-10-01T07:02:23.365Z"
   }
 }

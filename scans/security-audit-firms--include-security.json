@@ -6,9 +6,15 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=includesecurity.com",
-    "tested_at": "2026-09-30T20:20:42.701Z"
+    "tested_at": "2026-10-01T07:00:56.112Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.500Z",
+  "scanned_at": "2026-10-01T07:07:14.035Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=includesecurity.com&hideResults=on",
+    "tested_at": "2026-10-01T07:07:14.035Z"
+  },
   "trackers": {
     "url": "https://includesecurity.com",
     "found": [
@@ -17,6 +23,6 @@
         "host": "stats.wp.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:55.838Z"
+    "tested_at": "2026-10-01T07:01:39.269Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.403Z",
+  "github": {
+    "repo": "blueprint-freespeech/ricochet-refresh",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:51.587Z"
+  },
+  "scanned_at": "2026-10-01T07:00:47.913Z",
   "trackers": {
     "url": "https://www.ricochetrefresh.net",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:06.826Z"
+    "tested_at": "2026-10-01T07:00:47.912Z"
   }
 }

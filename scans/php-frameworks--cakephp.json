@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.647Z",
+  "github": {
+    "repo": "cakephp/cakephp",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:17.820Z"
+  },
+  "scanned_at": "2026-10-01T07:02:14.562Z",
   "trackers": {
     "url": "https://cakephp.org",
     "found": [
@@ -21,6 +27,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:31.113Z"
+    "tested_at": "2026-10-01T07:02:14.562Z"
   }
 }

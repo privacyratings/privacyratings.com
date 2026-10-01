@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.515Z",
+  "github": {
+    "repo": "azahar-emu/azahar",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:04.326Z"
+  },
+  "scanned_at": "2026-10-01T07:01:43.720Z",
   "trackers": {
     "url": "https://azahar-emu.org",
     "found": [],
-    "tested_at": "2026-09-30T20:41:01.216Z"
+    "tested_at": "2026-10-01T07:01:43.720Z"
   }
 }

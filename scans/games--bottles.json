@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.325Z",
+  "github": {
+    "repo": "bottlesdevs/Bottles",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:45.501Z"
+  },
+  "scanned_at": "2026-10-01T07:00:03.606Z",
   "trackers": {
     "url": "https://usebottles.com",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:49.472Z"
+    "tested_at": "2026-10-01T07:00:03.606Z"
   }
 }

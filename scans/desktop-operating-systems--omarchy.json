@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.514Z",
+  "github": {
+    "repo": "omacom/omarchy",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:04.158Z"
+  },
+  "scanned_at": "2026-10-01T07:01:43.237Z",
   "trackers": {
     "url": "https://omarchy.org",
     "found": [
@@ -16,6 +22,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:00.581Z"
+    "tested_at": "2026-10-01T07:01:43.237Z"
   }
 }

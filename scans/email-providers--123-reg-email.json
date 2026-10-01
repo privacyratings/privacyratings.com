@@ -21,7 +21,51 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T20:30:58.266Z"
+    "tested_at": "2026-10-01T07:00:19.269Z",
+    "imap": {
+      "host": "imap.secureserver.net",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "UNSELECT",
+        "ID",
+        "CHILDREN",
+        "NAMESPACE",
+        "IDLE",
+        "UIDPLUS",
+        "AUTH=PLAIN"
+      ]
+    },
+    "pop3": {
+      "host": "pop.secureserver.net",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "CAPA",
+        "TOP",
+        "UIDL",
+        "RESP-CODES",
+        "PIPELINING",
+        "AUTH-RESP-CODE",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtpout.secureserver.net",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "HELP",
+        "AUTH",
+        "SIZE",
+        "PIPELINING",
+        "8BITMIME",
+        "OK"
+      ]
+    }
   },
   "mail_domain": "123-reg.co.uk",
   "observatory": {
@@ -30,9 +74,15 @@
     "tests_passed": 5,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.123-reg.co.uk",
-    "tested_at": "2026-09-30T20:19:45.272Z"
+    "tested_at": "2026-10-01T07:00:37.681Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.483Z",
+  "scanned_at": "2026-10-01T07:06:27.254Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.123-reg.co.uk&hideResults=on",
+    "tested_at": "2026-10-01T07:06:27.254Z"
+  },
   "trackers": {
     "url": "https://www.123-reg.co.uk/email-hosting/",
     "found": [
@@ -42,6 +92,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:48.616Z"
+    "tested_at": "2026-10-01T07:01:33.951Z"
   }
 }

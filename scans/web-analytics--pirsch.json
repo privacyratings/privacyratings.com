@@ -1,17 +1,29 @@
 {
   "domain": "pirsch.io",
+  "github": {
+    "repo": "pirsch-analytics/pirsch",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:39.641Z"
+  },
   "observatory": {
     "grade": "D",
     "score": 30,
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=pirsch.io",
-    "tested_at": "2026-09-30T20:15:27.300Z"
+    "tested_at": "2026-10-01T06:59:40.270Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.261Z",
+  "scanned_at": "2026-10-01T06:59:46.040Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=pirsch.io&hideResults=on",
+    "tested_at": "2026-10-01T06:59:39.162Z"
+  },
   "trackers": {
     "url": "https://pirsch.io",
     "found": [],
-    "tested_at": "2026-09-30T20:39:30.544Z"
+    "tested_at": "2026-10-01T06:59:46.040Z"
   }
 }

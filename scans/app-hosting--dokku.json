@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.508Z",
+  "github": {
+    "repo": "dokku/dokku",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:04.084Z"
+  },
+  "scanned_at": "2026-10-01T07:01:42.094Z",
   "trackers": {
     "url": "https://dokku.com",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:59.639Z"
+    "tested_at": "2026-10-01T07:01:42.094Z"
   }
 }

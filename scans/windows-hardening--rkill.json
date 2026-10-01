@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.436Z",
+  "scanned_at": "2026-10-01T07:01:03.492Z",
   "trackers": {
     "url": "https://www.bleepingcomputer.com/download/rkill/",
     "found": [
@@ -21,6 +21,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:16.952Z"
+    "tested_at": "2026-10-01T07:01:03.491Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.664Z",
+  "github": {
+    "repo": "CrowCpp/Crow",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:21.710Z"
+  },
+  "scanned_at": "2026-10-01T07:02:19.996Z",
   "trackers": {
     "url": "https://crowcpp.org",
     "found": [],
-    "tested_at": "2026-09-30T20:41:36.065Z"
+    "tested_at": "2026-10-01T07:02:19.996Z"
   }
 }

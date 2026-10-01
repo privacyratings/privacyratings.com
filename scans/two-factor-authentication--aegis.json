@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.387Z",
+  "github": {
+    "repo": "beemdevelopment/Aegis",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:49.529Z"
+  },
+  "scanned_at": "2026-10-01T07:00:41.770Z",
   "trackers": {
     "url": "https://getaegis.app",
     "found": [],
-    "tested_at": "2026-09-30T20:40:00.686Z"
+    "tested_at": "2026-10-01T07:00:41.770Z"
   }
 }

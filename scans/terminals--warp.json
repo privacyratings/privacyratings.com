@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.254Z",
+  "scanned_at": "2026-10-01T06:59:45.173Z",
   "trackers": {
     "url": "https://www.warp.dev",
     "found": [
@@ -32,6 +32,6 @@
         "host": "dev.visualwebsiteoptimizer.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:28.719Z"
+    "tested_at": "2026-10-01T06:59:45.173Z"
   }
 }

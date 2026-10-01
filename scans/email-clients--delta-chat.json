@@ -3,12 +3,12 @@
     "repo": "chatmail/core",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:06.097Z"
+    "checked_at": "2026-10-01T07:00:26.427Z"
   },
-  "scanned_at": "2026-10-01T06:38:10.795Z",
+  "scanned_at": "2026-10-01T07:02:35.306Z",
   "trackers": {
     "url": "https://delta.chat",
     "found": [],
-    "tested_at": "2026-10-01T06:38:10.795Z"
+    "tested_at": "2026-10-01T07:02:35.306Z"
   }
 }

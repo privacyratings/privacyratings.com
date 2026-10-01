@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.523Z",
+  "github": {
+    "repo": "xemu-project/xemu",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:04.866Z"
+  },
+  "scanned_at": "2026-10-01T07:01:44.881Z",
   "trackers": {
     "url": "https://xemu.app",
     "found": [],
-    "tested_at": "2026-09-30T20:41:02.169Z"
+    "tested_at": "2026-10-01T07:01:44.881Z"
   }
 }

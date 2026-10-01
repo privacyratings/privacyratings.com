@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.650Z",
+  "github": {
+    "repo": "slimphp/Slim",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:18.163Z"
+  },
+  "scanned_at": "2026-10-01T07:02:14.870Z",
   "trackers": {
     "url": "https://www.slimframework.com",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:31.380Z"
+    "tested_at": "2026-10-01T07:02:14.870Z"
   }
 }

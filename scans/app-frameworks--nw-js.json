@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.626Z",
+  "github": {
+    "repo": "nwjs/nw.js",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:15.826Z"
+  },
+  "scanned_at": "2026-10-01T07:02:10.754Z",
   "trackers": {
     "url": "https://nwjs.io",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:27.952Z"
+    "tested_at": "2026-10-01T07:02:10.753Z"
   }
 }

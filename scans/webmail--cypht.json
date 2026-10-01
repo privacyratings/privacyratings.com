@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.486Z",
+  "github": {
+    "repo": "cypht-org/cypht",
+    "license": "LGPL-2.1",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:02.601Z"
+  },
+  "scanned_at": "2026-10-01T07:01:34.291Z",
   "trackers": {
     "url": "https://www.cypht.org",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:48.386Z"
+    "tested_at": "2026-10-01T07:01:34.290Z"
   }
 }

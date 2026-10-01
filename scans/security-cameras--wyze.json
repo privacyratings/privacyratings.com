@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.277Z",
+  "scanned_at": "2026-10-01T06:59:48.907Z",
   "trackers": {
     "url": "https://www.wyze.com",
     "found": [
@@ -12,6 +12,6 @@
         "host": "www.clarity.ms"
       }
     ],
-    "tested_at": "2026-09-30T20:39:32.756Z"
+    "tested_at": "2026-10-01T06:59:48.907Z"
   }
 }

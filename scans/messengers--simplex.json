@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.403Z",
+  "github": {
+    "repo": "simplex-chat/simplex-chat",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:51.745Z"
+  },
+  "scanned_at": "2026-10-01T07:00:48.361Z",
   "trackers": {
     "url": "https://simplex.chat",
     "found": [],
-    "tested_at": "2026-09-30T20:40:07.187Z"
+    "tested_at": "2026-10-01T07:00:48.361Z"
   }
 }

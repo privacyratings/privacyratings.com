@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.350Z",
+  "github": {
+    "repo": "AdguardTeam/AdGuardHome",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:47.654Z"
+  },
+  "scanned_at": "2026-10-01T07:00:37.040Z",
   "trackers": {
     "url": "https://adguard.com/en/adguard-home/overview.html",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:56.440Z"
+    "tested_at": "2026-10-01T07:00:37.040Z"
   }
 }

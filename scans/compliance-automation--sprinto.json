@@ -6,11 +6,17 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.sprinto.com",
-    "tested_at": "2026-09-30T20:21:02.745Z"
+    "tested_at": "2026-10-01T07:01:02.059Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.504Z",
+  "scanned_at": "2026-10-01T07:07:14.917Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.sprinto.com&hideResults=on",
+    "tested_at": "2026-10-01T07:07:14.917Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:40:58.761Z"
+    "tested_at": "2026-10-01T07:01:41.412Z"
   }
 }

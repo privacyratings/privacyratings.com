@@ -1,17 +1,23 @@
 {
   "domain": "adguard-dns.io",
+  "github": {
+    "repo": "AdguardTeam/AdGuardDNS",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:10.885Z"
+  },
   "observatory": {
     "grade": "F",
     "score": 5,
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=adguard-dns.io",
-    "tested_at": "2026-09-30T20:21:28.561Z"
+    "tested_at": "2026-10-01T07:01:08.468Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.583Z",
+  "scanned_at": "2026-10-01T07:16:55.004Z",
   "trackers": {
     "url": "https://adguard-dns.io/en/welcome.html",
     "found": [],
-    "tested_at": "2026-09-30T20:41:14.969Z"
+    "tested_at": "2026-10-01T07:01:58.262Z"
   }
 }

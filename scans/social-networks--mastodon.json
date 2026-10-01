@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.449Z",
+  "github": {
+    "repo": "mastodon/mastodon",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:57.733Z"
+  },
+  "scanned_at": "2026-10-01T07:01:12.524Z",
   "trackers": {
     "url": "https://joinmastodon.org",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:24.289Z"
+    "tested_at": "2026-10-01T07:01:12.524Z"
   }
 }

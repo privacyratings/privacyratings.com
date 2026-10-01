@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.568Z",
+  "github": {
+    "repo": "TermiT/Flycut",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.362Z"
+  },
+  "scanned_at": "2026-10-01T07:01:50.421Z",
   "trackers": {
     "url": "https://github.com/TermiT/Flycut",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:41:08.855Z"
+    "tested_at": "2026-10-01T07:01:50.421Z"
   }
 }

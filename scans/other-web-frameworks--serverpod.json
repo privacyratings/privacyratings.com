@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.666Z",
+  "github": {
+    "repo": "serverpod/serverpod",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:22.445Z"
+  },
+  "scanned_at": "2026-10-01T07:02:21.496Z",
   "trackers": {
     "url": "https://serverpod.dev/",
     "found": [
@@ -16,6 +22,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:41:37.610Z"
+    "tested_at": "2026-10-01T07:02:21.496Z"
   }
 }

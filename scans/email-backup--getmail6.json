@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.497Z",
+  "github": {
+    "repo": "getmail6/getmail6",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:03.074Z"
+  },
+  "scanned_at": "2026-10-01T07:01:38.193Z",
   "trackers": {
     "url": "https://getmail6.org/",
     "found": [],
-    "tested_at": "2026-09-30T20:40:53.532Z"
+    "tested_at": "2026-10-01T07:01:38.193Z"
   }
 }

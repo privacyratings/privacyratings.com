@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.385Z",
+  "github": {
+    "repo": "redlib-org/redlib",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:49.187Z"
+  },
+  "scanned_at": "2026-10-01T07:00:41.067Z",
   "trackers": {
     "url": "https://github.com/redlib-org/redlib",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:39:59.827Z"
+    "tested_at": "2026-10-01T07:00:41.067Z"
   }
 }

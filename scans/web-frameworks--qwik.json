@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.534Z",
+  "github": {
+    "repo": "QwikDev/qwik",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:06.333Z"
+  },
+  "scanned_at": "2026-10-01T07:01:46.771Z",
   "trackers": {
     "url": "https://qwik.dev",
     "found": [
@@ -14,6 +20,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:04.967Z"
+    "tested_at": "2026-10-01T07:01:46.771Z"
   }
 }

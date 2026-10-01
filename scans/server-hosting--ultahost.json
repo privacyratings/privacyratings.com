@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ultahost.com",
-    "tested_at": "2026-09-30T20:17:47.900Z"
+    "tested_at": "2026-10-01T07:00:11.808Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.470Z",
+  "scanned_at": "2026-10-01T07:01:36.163Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=ultahost.com&hideResults=on",
+    "tested_at": "2026-10-01T07:01:36.163Z"
+  },
   "trackers": {
     "url": "https://ultahost.com",
     "found": [
@@ -30,6 +36,7 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:40.420Z"
+    "tested_at": "2026-09-30T20:40:40.420Z",
+    "last_error": "HTTP 403"
   }
 }

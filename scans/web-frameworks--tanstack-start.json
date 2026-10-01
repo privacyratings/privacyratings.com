@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.605Z",
+  "github": {
+    "repo": "TanStack/router",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:13.206Z"
+  },
+  "scanned_at": "2026-10-01T07:02:06.865Z",
   "trackers": {
     "url": "https://tanstack.com/start/latest",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:23.953Z"
+    "tested_at": "2026-10-01T07:02:06.865Z"
   }
 }

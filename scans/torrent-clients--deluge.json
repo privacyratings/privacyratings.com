@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.321Z",
+  "github": {
+    "repo": "deluge-torrent/deluge",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:45.245Z"
+  },
+  "scanned_at": "2026-10-01T07:00:03.272Z",
   "trackers": {
     "url": "https://deluge-torrent.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:49.004Z"
+    "tested_at": "2026-10-01T07:00:03.272Z"
   }
 }

@@ -21,7 +21,54 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:39.391Z"
+    "tested_at": "2026-10-01T07:00:39.672Z",
+    "imap": {
+      "host": "outlook.office365.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4",
+        "IMAP4REV1",
+        "AUTH=XOAUTH2",
+        "LOGINDISABLED",
+        "SASL-IR",
+        "UIDPLUS",
+        "MOVE",
+        "ID",
+        "UNSELECT",
+        "CHILDREN",
+        "IDLE",
+        "NAMESPACE",
+        "LITERAL+"
+      ]
+    },
+    "pop3": {
+      "host": "outlook.office365.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "UIDL",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp-mail.outlook.com",
+      "port": 587,
+      "tls": "starttls",
+      "extensions": [
+        "SIZE",
+        "PIPELINING",
+        "DSN",
+        "ENHANCEDSTATUSCODES",
+        "AUTH",
+        "8BITMIME",
+        "BINARYMIME",
+        "CHUNKING",
+        "SMTPUTF8"
+      ]
+    }
   },
   "mail_domain": "outlook.com",
   "observatory": {
@@ -30,18 +77,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=outlook.live.com",
-    "tested_at": "2026-09-30T20:21:16.551Z"
+    "tested_at": "2026-10-01T07:01:05.494Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.572Z",
+  "scanned_at": "2026-10-01T07:11:51.720Z",
   "ssllabs": {
     "grade": "A+",
-    "endpoints": 8,
+    "endpoints": 16,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=outlook.live.com&hideResults=on",
-    "tested_at": "2026-09-29T18:00:19.211Z"
+    "tested_at": "2026-10-01T07:11:51.720Z"
   },
   "trackers": {
     "url": "https://outlook.live.com/mail/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:09.852Z"
+    "tested_at": "2026-10-01T07:01:51.135Z"
   }
 }

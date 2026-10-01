@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.344Z",
+  "github": {
+    "repo": "synfig/synfig",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:46.694Z"
+  },
+  "scanned_at": "2026-10-01T07:00:26.886Z",
   "trackers": {
     "url": "https://www.synfig.org",
     "found": [
@@ -13,6 +19,6 @@
         "host": "stats.wp.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:53.894Z"
+    "tested_at": "2026-10-01T07:00:26.886Z"
   }
 }

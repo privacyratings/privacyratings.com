@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.356Z",
+  "scanned_at": "2026-10-01T07:00:39.833Z",
   "trackers": {
     "url": "https://www.netcraft.com/resources/apps-and-extensions/browser-extension",
     "found": [
@@ -13,6 +13,6 @@
         "host": "js-eu1.hs-scripts.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:59.428Z"
+    "tested_at": "2026-10-01T07:00:39.833Z"
   }
 }

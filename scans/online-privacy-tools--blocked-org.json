@@ -1,17 +1,29 @@
 {
   "domain": "www.blocked.org.uk",
+  "github": {
+    "repo": "openrightsgroup/blocked-org-uk",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:00.117Z"
+  },
   "observatory": {
     "grade": "F",
     "score": 0,
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.blocked.org.uk",
-    "tested_at": "2026-09-30T20:16:25.585Z"
+    "tested_at": "2026-10-01T06:59:53.515Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.460Z",
+  "scanned_at": "2026-10-01T07:01:19.946Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.blocked.org.uk&hideResults=on",
+    "tested_at": "2026-10-01T06:59:45.075Z"
+  },
   "trackers": {
     "url": "https://www.blocked.org.uk",
     "found": [],
-    "tested_at": "2026-09-30T20:40:32.611Z"
+    "tested_at": "2026-10-01T07:01:19.946Z"
   }
 }

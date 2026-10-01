@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.555Z",
+  "github": {
+    "repo": "sylpheed-mail/sylpheed",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:08.189Z"
+  },
+  "scanned_at": "2026-10-01T07:01:48.733Z",
   "trackers": {
     "url": "https://sylpheed.sraoss.jp/en/",
     "found": [
@@ -12,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:07.257Z"
+    "tested_at": "2026-10-01T07:01:48.733Z"
   }
 }

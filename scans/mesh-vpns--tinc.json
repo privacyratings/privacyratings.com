@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.681Z",
+  "github": {
+    "repo": "gsliepen/tinc",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:24.011Z"
+  },
+  "scanned_at": "2026-10-01T07:02:26.087Z",
   "trackers": {
     "url": "https://www.tinc-vpn.org",
     "found": [],
-    "tested_at": "2026-09-30T20:41:43.123Z"
+    "tested_at": "2026-10-01T07:02:26.087Z"
   }
 }

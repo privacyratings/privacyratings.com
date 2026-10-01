@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.312Z",
+  "github": {
+    "repo": "strawberrymusicplayer/strawberry",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:44.505Z"
+  },
+  "scanned_at": "2026-10-01T07:00:01.406Z",
   "trackers": {
     "url": "https://www.strawberrymusicplayer.org",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:47.047Z"
+    "tested_at": "2026-10-01T07:00:01.406Z"
   }
 }

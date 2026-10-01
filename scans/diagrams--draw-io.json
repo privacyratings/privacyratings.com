@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.667Z",
+  "github": {
+    "repo": "jgraph/drawio",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:22.660Z"
+  },
+  "scanned_at": "2026-10-01T07:02:21.147Z",
   "trackers": {
     "url": "https://www.drawio.com",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:37.986Z"
+    "tested_at": "2026-10-01T07:02:21.146Z"
   }
 }

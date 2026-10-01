@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.604Z",
+  "github": {
+    "repo": "solidjs/solid",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:12.951Z"
+  },
+  "scanned_at": "2026-10-01T07:02:06.115Z",
   "trackers": {
     "url": "https://www.solidjs.com",
     "found": [
@@ -10,6 +16,7 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:23.387Z"
+    "tested_at": "2026-09-30T20:41:23.387Z",
+    "last_error": "HTTP 403"
   }
 }

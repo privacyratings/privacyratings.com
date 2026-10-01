@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.612Z",
+  "github": {
+    "repo": "getpelican/pelican",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:14.213Z"
+  },
+  "scanned_at": "2026-10-01T07:02:07.858Z",
   "trackers": {
     "url": "https://getpelican.com",
     "found": [],
-    "tested_at": "2026-09-30T20:41:25.410Z"
+    "tested_at": "2026-10-01T07:02:07.858Z"
   }
 }

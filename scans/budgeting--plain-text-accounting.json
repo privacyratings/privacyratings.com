@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.448Z",
+  "scanned_at": "2026-10-01T07:01:11.892Z",
   "trackers": {
     "url": "https://plaintextaccounting.org",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:23.561Z"
+    "tested_at": "2026-10-01T07:01:11.892Z"
   }
 }

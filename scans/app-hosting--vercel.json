@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=vercel.com",
-    "tested_at": "2026-09-30T20:21:12.593Z"
+    "tested_at": "2026-10-01T07:01:04.887Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.513Z",
+  "scanned_at": "2026-10-01T07:11:51.172Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=vercel.com&hideResults=on",
+    "tested_at": "2026-10-01T07:11:51.172Z"
+  },
   "trackers": {
     "url": "https://vercel.com",
     "found": [],
-    "tested_at": "2026-09-30T20:41:00.857Z"
+    "tested_at": "2026-10-01T07:01:42.977Z"
   }
 }

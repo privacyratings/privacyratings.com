@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.439Z",
+  "github": {
+    "repo": "utmapp/UTM",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:54.798Z"
+  },
+  "scanned_at": "2026-10-01T07:01:03.905Z",
   "trackers": {
     "url": "https://mac.getutm.app",
     "found": [
@@ -8,6 +14,6 @@
         "host": "www.google-analytics.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:17.108Z"
+    "tested_at": "2026-10-01T07:01:03.905Z"
   }
 }

@@ -1,17 +1,29 @@
 {
   "domain": "writefreely.org",
+  "github": {
+    "repo": "writefreely/writefreely",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:01.837Z"
+  },
   "observatory": {
     "grade": "D-",
     "score": 25,
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=writefreely.org",
-    "tested_at": "2026-09-30T20:19:11.128Z"
+    "tested_at": "2026-10-01T07:00:31.015Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "scanned_at": "2026-10-01T07:03:56.655Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=writefreely.org&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.655Z"
+  },
   "trackers": {
     "url": "https://writefreely.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:45.347Z"
+    "tested_at": "2026-10-01T07:01:31.885Z"
   }
 }

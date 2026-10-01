@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.651Z",
+  "github": {
+    "repo": "gobuffalo/buffalo",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:18.479Z"
+  },
+  "scanned_at": "2026-10-01T07:02:15.834Z",
   "trackers": {
     "url": "https://gobuffalo.io",
     "found": [],
-    "tested_at": "2026-09-30T20:41:32.148Z"
+    "tested_at": "2026-10-01T07:02:15.834Z"
   }
 }

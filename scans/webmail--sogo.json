@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.488Z",
+  "github": {
+    "repo": "Alinto/sogo",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:02.777Z"
+  },
+  "scanned_at": "2026-10-01T07:01:35.264Z",
   "trackers": {
     "url": "https://www.sogo.nu",
     "found": [
@@ -17,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:49.446Z"
+    "tested_at": "2026-10-01T07:01:35.264Z"
   }
 }

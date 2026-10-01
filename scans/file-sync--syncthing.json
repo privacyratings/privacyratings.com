@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.443Z",
+  "github": {
+    "repo": "syncthing/syncthing",
+    "license": "MPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:55.947Z"
+  },
+  "scanned_at": "2026-10-01T07:01:07.751Z",
   "trackers": {
     "url": "https://syncthing.net",
     "found": [],
-    "tested_at": "2026-09-30T20:40:19.779Z"
+    "tested_at": "2026-10-01T07:01:07.751Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.681Z",
+  "github": {
+    "repo": "openziti/ziti",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:23.922Z"
+  },
+  "scanned_at": "2026-10-01T07:02:25.795Z",
   "trackers": {
     "url": "https://netfoundry.io/docs/openziti/",
     "found": [
@@ -12,6 +18,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:41:43.136Z"
+    "tested_at": "2026-10-01T07:02:25.795Z"
   }
 }

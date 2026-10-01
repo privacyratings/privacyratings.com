@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.449Z",
+  "github": {
+    "repo": "Chocobozzz/PeerTube",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:57.798Z"
+  },
+  "scanned_at": "2026-10-01T07:01:13.421Z",
   "trackers": {
     "url": "https://joinpeertube.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:24.902Z"
+    "tested_at": "2026-10-01T07:01:13.421Z"
   }
 }

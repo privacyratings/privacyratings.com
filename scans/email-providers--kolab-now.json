@@ -35,7 +35,109 @@
         }
       }
     },
-    "tested_at": "2026-09-30T05:26:34.312Z"
+    "tested_at": "2026-10-01T06:59:50.211Z",
+    "imap": {
+      "host": "imap.kolabnow.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "LITERAL+",
+        "ID",
+        "ENABLE",
+        "ACL",
+        "ANNOTATE-EXPERIMENT-1",
+        "BINARY",
+        "CATENATE",
+        "CHILDREN",
+        "CONDSTORE",
+        "CREATE-SPECIAL-USE",
+        "ESEARCH",
+        "ESORT",
+        "LIST-EXTENDED",
+        "LIST-MYRIGHTS",
+        "LIST-STATUS",
+        "METADATA",
+        "MOVE",
+        "MULTIAPPEND",
+        "NAMESPACE",
+        "OBJECTID",
+        "PREVIEW",
+        "QRESYNC",
+        "QUOTA",
+        "RIGHTS=KXTEN",
+        "SAVEDATE",
+        "SEARCH=FUZZY",
+        "SORT",
+        "SORT=DISPLAY",
+        "SPECIAL-USE",
+        "STATUS=SIZE",
+        "THREAD=ORDEREDSUBJECT",
+        "THREAD=REFERENCES",
+        "UIDPLUS",
+        "UNSELECT",
+        "URLAUTH",
+        "URLAUTH=BINARY",
+        "WITHIN",
+        "DIGEST=SHA1",
+        "LIST-METADATA",
+        "NO_ATOMIC_RENAME",
+        "SCAN",
+        "SORT=MODSEQ",
+        "SORT=UID",
+        "THREAD=REFS",
+        "X-CREATEDMODSEQ",
+        "X-REPLICATION",
+        "X-SIEVE-MAILBOX",
+        "XLIST",
+        "XMOVE",
+        "MUPDATE=MUPDATE://MUPDATE.KOLABNOW.COM/",
+        "AUTH=PLAIN",
+        "AUTH=LOGIN",
+        "SASL-IR",
+        "COMPRESS=DEFLATE",
+        "X-QUOTA=STORAGE",
+        "X-QUOTA=MESSAGE",
+        "X-QUOTA=X-ANNOTATION-STORAGE",
+        "X-QUOTA=X-NUM-FOLDERS",
+        "IDLE",
+        "APPENDLIMIT=4294967295"
+      ]
+    },
+    "pop3": {
+      "host": "pop.kolabnow.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "SASL",
+        "EXPIRE",
+        "LOGIN-DELAY",
+        "TOP",
+        "UIDL",
+        "PIPELINING",
+        "RESP-CODES",
+        "AUTH-RESP-CODE",
+        "USER",
+        "IMPLEMENTATION"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.kolabnow.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "VRFY",
+        "ETRN",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "DSN",
+        "SMTPUTF8"
+      ]
+    }
   },
   "mail_domain": "kolabnow.com",
   "observatory": {
@@ -44,12 +146,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kolabnow.com",
-    "tested_at": "2026-09-30T20:19:06.457Z"
+    "tested_at": "2026-10-01T07:00:27.688Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "scanned_at": "2026-10-01T07:03:56.467Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kolabnow.com&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.467Z"
+  },
   "trackers": {
     "url": "https://kolabnow.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:44.942Z"
+    "tested_at": "2026-10-01T07:01:30.504Z"
   }
 }

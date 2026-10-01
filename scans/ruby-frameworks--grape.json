@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.643Z",
+  "github": {
+    "repo": "ruby-grape/grape",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:17.401Z"
+  },
+  "scanned_at": "2026-10-01T07:02:13.963Z",
   "trackers": {
     "url": "https://www.ruby-grape.org",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:30.568Z"
+    "tested_at": "2026-10-01T07:02:13.963Z"
   }
 }

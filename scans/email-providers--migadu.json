@@ -27,7 +27,49 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:34.862Z"
+    "tested_at": "2026-10-01T06:59:54.639Z",
+    "imap": {
+      "host": "imap.migadu.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV2",
+        "IMAP4REV1",
+        "SASL-IR",
+        "LITERAL-",
+        "AUTH=PLAIN"
+      ]
+    },
+    "pop3": {
+      "host": "pop.migadu.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "UIDL",
+        "USER",
+        "RESP-CODES",
+        "PIPELINING",
+        "SASL",
+        "AUTH-RESP-CODE",
+        "IMPLEMENTATION"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.migadu.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "8BITMIME",
+        "ENHANCEDSTATUSCODES",
+        "CHUNKING",
+        "AUTH",
+        "SMTPUTF8",
+        "SIZE"
+      ]
+    }
   },
   "mail_domain": "migadu.com",
   "observatory": {
@@ -36,12 +78,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=migadu.com",
-    "tested_at": "2026-09-30T20:18:38.391Z"
+    "tested_at": "2026-10-01T07:00:28.780Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "scanned_at": "2026-10-01T07:03:56.514Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=migadu.com&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.514Z"
+  },
   "trackers": {
     "url": "https://migadu.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:45.348Z"
+    "tested_at": "2026-10-01T07:01:31.675Z"
   }
 }

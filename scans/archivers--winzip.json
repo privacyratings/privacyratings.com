@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.586Z",
+  "scanned_at": "2026-10-01T07:01:59.817Z",
   "trackers": {
     "url": "https://www.winzip.com/en/",
     "found": [
@@ -12,6 +12,6 @@
         "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:16.921Z"
+    "tested_at": "2026-10-01T07:01:59.817Z"
   }
 }

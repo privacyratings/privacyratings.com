@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.391Z",
+  "github": {
+    "repo": "cryptomator/cryptomator",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:50.017Z"
+  },
+  "scanned_at": "2026-10-01T07:00:42.905Z",
   "trackers": {
     "url": "https://cryptomator.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:02.473Z"
+    "tested_at": "2026-10-01T07:00:42.905Z"
   }
 }

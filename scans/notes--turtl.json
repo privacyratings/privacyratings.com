@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.441Z",
+  "github": {
+    "repo": "turtl/desktop",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:55.252Z"
+  },
+  "scanned_at": "2026-10-01T07:01:06.072Z",
   "trackers": {
     "url": "https://turtlapp.com",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:18.542Z"
+    "tested_at": "2026-10-01T07:01:06.072Z"
   }
 }

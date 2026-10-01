@@ -3,9 +3,9 @@
     "repo": "greenshot/greenshot",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:29:14.282Z"
+    "checked_at": "2026-10-01T07:00:25.494Z"
   },
-  "scanned_at": "2026-10-01T06:29:14.282Z",
+  "scanned_at": "2026-10-01T07:02:31.250Z",
   "trackers": {
     "url": "https://getgreenshot.org",
     "found": [
@@ -38,6 +38,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:29:14.115Z"
+    "tested_at": "2026-10-01T07:02:31.250Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.420Z",
+  "github": {
+    "repo": "openwrt/openwrt",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:53.777Z"
+  },
+  "scanned_at": "2026-10-01T07:00:58.595Z",
   "trackers": {
     "url": "https://openwrt.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:13.702Z"
+    "tested_at": "2026-10-01T07:00:58.595Z"
   }
 }

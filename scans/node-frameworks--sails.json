@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.528Z",
+  "github": {
+    "repo": "balderdashy/sails",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:05.711Z"
+  },
+  "scanned_at": "2026-10-01T07:01:45.538Z",
   "trackers": {
     "url": "https://sailsjs.com",
     "found": [
@@ -23,6 +29,6 @@
         "host": "www.facebook.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:03.492Z"
+    "tested_at": "2026-10-01T07:01:45.538Z"
   }
 }

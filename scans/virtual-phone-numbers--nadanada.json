@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nadanada.me",
-    "tested_at": "2026-09-30T20:16:44.060Z"
+    "tested_at": "2026-10-01T06:59:59.464Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.463Z",
+  "scanned_at": "2026-10-01T07:01:21.667Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=nadanada.me&hideResults=on",
+    "tested_at": "2026-10-01T06:59:48.929Z"
+  },
   "trackers": {
     "url": "https://nadanada.me",
     "found": [],
-    "tested_at": "2026-09-30T20:40:35.421Z"
+    "tested_at": "2026-10-01T07:01:21.667Z"
   }
 }

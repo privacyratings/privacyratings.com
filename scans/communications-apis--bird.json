@@ -6,18 +6,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bird.com",
-    "tested_at": "2026-09-30T20:22:34.418Z"
+    "tested_at": "2026-10-01T07:01:24.571Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.677Z",
+  "scanned_at": "2026-10-01T07:44:20.332Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bird.com&hideResults=on",
-    "tested_at": "2026-09-30T19:46:04.018Z"
+    "tested_at": "2026-10-01T07:44:20.332Z"
   },
   "trackers": {
     "url": "https://bird.com",
     "found": [],
-    "tested_at": "2026-09-30T20:41:41.373Z"
+    "tested_at": "2026-10-01T07:02:24.753Z"
   }
 }

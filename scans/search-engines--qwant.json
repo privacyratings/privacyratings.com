@@ -6,12 +6,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.qwant.com",
-    "tested_at": "2026-09-30T20:15:52.988Z"
+    "tested_at": "2026-10-01T06:59:46.898Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.453Z",
+  "scanned_at": "2026-10-01T07:01:15.977Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.qwant.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:41.226Z"
+  },
   "trackers": {
     "url": "https://www.qwant.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:26.963Z"
+    "tested_at": "2026-10-01T07:01:15.977Z"
   }
 }

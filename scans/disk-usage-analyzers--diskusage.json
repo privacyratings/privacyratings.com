@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.683Z",
+  "github": {
+    "repo": "IvanVolosyuk/diskusage",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:24.162Z"
+  },
+  "scanned_at": "2026-10-01T07:02:25.901Z",
   "trackers": {
     "url": "https://f-droid.org/packages/com.google.android.diskusage/",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:41:43.123Z"
+    "tested_at": "2026-10-01T07:02:25.901Z"
   }
 }

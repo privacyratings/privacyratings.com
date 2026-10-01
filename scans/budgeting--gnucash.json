@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.448Z",
+  "github": {
+    "repo": "Gnucash/gnucash",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:57.509Z"
+  },
+  "scanned_at": "2026-10-01T07:01:11.982Z",
   "trackers": {
     "url": "https://www.gnucash.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:24.078Z"
+    "tested_at": "2026-10-01T07:01:11.981Z"
   }
 }

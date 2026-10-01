@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.506Z",
+  "github": {
+    "repo": "caprover/caprover",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:03.892Z"
+  },
+  "scanned_at": "2026-10-01T07:01:41.651Z",
   "trackers": {
     "url": "https://caprover.com",
     "found": [
@@ -12,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:59.176Z"
+    "tested_at": "2026-10-01T07:01:41.651Z"
   }
 }

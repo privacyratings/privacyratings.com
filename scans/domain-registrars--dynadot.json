@@ -6,9 +6,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.dynadot.com",
-    "tested_at": "2026-09-30T20:17:15.203Z"
+    "tested_at": "2026-10-01T07:00:05.604Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.467Z",
+  "scanned_at": "2026-10-01T07:01:24.584Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.dynadot.com&hideResults=on",
+    "tested_at": "2026-10-01T07:00:56.154Z"
+  },
   "trackers": {
     "url": "https://www.dynadot.com",
     "found": [
@@ -22,6 +28,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:38.369Z"
+    "tested_at": "2026-10-01T07:01:24.584Z"
   }
 }

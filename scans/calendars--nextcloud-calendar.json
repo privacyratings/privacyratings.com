@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.442Z",
+  "github": {
+    "repo": "nextcloud/calendar",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:55.486Z"
+  },
+  "scanned_at": "2026-10-01T07:01:07.177Z",
   "trackers": {
     "url": "https://apps.nextcloud.com/apps/calendar",
     "found": [],
-    "tested_at": "2026-09-30T20:40:19.355Z"
+    "tested_at": "2026-10-01T07:01:07.177Z"
   }
 }

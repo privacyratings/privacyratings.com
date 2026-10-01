@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.686Z",
+  "github": {
+    "repo": "adileo/squirreldisk",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:24.822Z"
+  },
+  "scanned_at": "2026-10-01T07:02:27.529Z",
   "trackers": {
     "url": "https://www.squirreldisk.com",
     "found": [],
-    "tested_at": "2026-09-30T20:41:44.514Z"
+    "tested_at": "2026-10-01T07:02:27.529Z"
   }
 }

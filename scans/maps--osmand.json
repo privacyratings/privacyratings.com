@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.234Z",
+  "github": {
+    "repo": "osmandapp/OsmAnd",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:38.187Z"
+  },
+  "scanned_at": "2026-10-01T06:59:39.365Z",
   "trackers": {
     "url": "https://osmand.net",
     "found": [],
-    "tested_at": "2026-09-30T20:39:26.787Z"
+    "tested_at": "2026-10-01T06:59:39.365Z"
   }
 }

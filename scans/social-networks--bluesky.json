@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.294Z",
+  "github": {
+    "repo": "bluesky-social/social-app",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:42.051Z"
+  },
+  "scanned_at": "2026-10-01T06:59:54.813Z",
   "trackers": {
     "url": "https://bsky.app",
     "found": [],
-    "tested_at": "2026-09-30T20:39:38.321Z"
+    "tested_at": "2026-10-01T06:59:54.813Z"
   }
 }

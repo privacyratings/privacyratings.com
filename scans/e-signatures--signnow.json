@@ -6,14 +6,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.signnow.com",
-    "tested_at": "2026-09-30T20:22:50.470Z"
+    "tested_at": "2026-10-01T07:01:30.829Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.689Z",
+  "scanned_at": "2026-10-01T07:31:47.817Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.signnow.com&hideResults=on",
-    "tested_at": "2026-09-30T19:57:56.736Z"
+    "tested_at": "2026-10-01T07:31:47.816Z"
   },
   "trackers": {
     "url": "https://www.signnow.com",
@@ -33,6 +33,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:45.894Z"
+    "tested_at": "2026-10-01T07:02:29.110Z"
   }
 }

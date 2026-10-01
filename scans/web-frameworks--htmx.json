@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.600Z",
+  "github": {
+    "repo": "bigskysoftware/htmx",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:12.432Z"
+  },
+  "scanned_at": "2026-10-01T07:02:05.629Z",
   "trackers": {
     "url": "https://htmx.org",
     "found": [],
-    "tested_at": "2026-09-30T20:41:22.263Z"
+    "tested_at": "2026-10-01T07:02:05.629Z"
   }
 }

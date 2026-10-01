@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.646Z",
+  "github": {
+    "repo": "rails/rails",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:17.679Z"
+  },
+  "scanned_at": "2026-10-01T07:02:14.447Z",
   "trackers": {
     "url": "https://rubyonrails.org",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:30.656Z"
+    "tested_at": "2026-10-01T07:02:14.447Z"
   }
 }

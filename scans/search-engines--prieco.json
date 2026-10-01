@@ -6,12 +6,19 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=prieco.net",
-    "tested_at": "2026-09-30T20:15:52.352Z"
+    "tested_at": "2026-10-01T06:59:46.688Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.453Z",
+  "scanned_at": "2026-10-01T07:01:14.920Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=prieco.net&hideResults=on",
+    "tested_at": "2026-10-01T06:59:41.177Z"
+  },
   "trackers": {
     "url": "https://prieco.net",
     "found": [],
-    "tested_at": "2026-09-30T20:40:26.822Z"
+    "tested_at": "2026-09-30T20:40:26.822Z",
+    "last_error": "HTTP 403"
   }
 }

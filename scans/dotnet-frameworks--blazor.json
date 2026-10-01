@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.662Z",
+  "github": {
+    "repo": "dotnet/aspnetcore",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:20.768Z"
+  },
+  "scanned_at": "2026-10-01T07:02:19.986Z",
   "trackers": {
     "url": "https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor",
     "found": [],
-    "tested_at": "2026-09-30T20:41:35.060Z"
+    "tested_at": "2026-10-01T07:02:19.986Z"
   }
 }

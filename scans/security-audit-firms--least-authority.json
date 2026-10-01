@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=leastauthority.com",
-    "tested_at": "2026-09-30T20:20:45.838Z"
+    "tested_at": "2026-10-01T07:00:57.085Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.501Z",
+  "scanned_at": "2026-10-01T07:07:14.219Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=leastauthority.com&hideResults=on",
+    "tested_at": "2026-10-01T07:07:14.219Z"
+  },
   "trackers": {
     "url": "https://leastauthority.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:56.600Z"
+    "tested_at": "2026-10-01T07:01:40.063Z"
   }
 }

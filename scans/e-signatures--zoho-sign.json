@@ -6,18 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sign.zoho.com",
-    "tested_at": "2026-09-30T20:23:01.899Z"
+    "tested_at": "2026-10-01T07:01:31.479Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.689Z",
+  "scanned_at": "2026-10-01T07:31:57.126Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sign.zoho.com&hideResults=on",
-    "tested_at": "2026-09-30T19:59:30.888Z"
+    "tested_at": "2026-10-01T07:31:57.126Z"
   },
   "trackers": {
     "url": "https://www.zoho.com/sign/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:45.858Z"
+    "tested_at": "2026-10-01T07:02:29.237Z"
   }
 }

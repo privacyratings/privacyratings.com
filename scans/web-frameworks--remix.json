@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.603Z",
+  "github": {
+    "repo": "remix-run/remix",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:12.924Z"
+  },
+  "scanned_at": "2026-10-01T07:02:06.126Z",
   "trackers": {
     "url": "https://remix.run",
     "found": [],
-    "tested_at": "2026-09-30T20:41:23.008Z"
+    "tested_at": "2026-10-01T07:02:06.126Z"
   }
 }

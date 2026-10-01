@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.446Z",
+  "github": {
+    "repo": "WalletWasabi/WalletWasabi",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:57.006Z"
+  },
+  "scanned_at": "2026-10-01T07:01:11.262Z",
   "trackers": {
     "url": "https://www.wasabiwallet.io",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:22.774Z"
+    "tested_at": "2026-10-01T07:01:11.262Z"
   }
 }

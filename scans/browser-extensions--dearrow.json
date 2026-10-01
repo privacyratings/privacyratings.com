@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.353Z",
+  "github": {
+    "repo": "ajayyy/DeArrow",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:48.119Z"
+  },
+  "scanned_at": "2026-10-01T07:00:38.680Z",
   "trackers": {
     "url": "https://dearrow.ajay.app",
     "found": [],
-    "tested_at": "2026-09-30T20:39:57.358Z"
+    "tested_at": "2026-10-01T07:00:38.680Z"
   }
 }

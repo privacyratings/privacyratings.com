@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.399Z",
+  "github": {
+    "repo": "TrackerControl/tracker-control-android",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:51.038Z"
+  },
+  "scanned_at": "2026-10-01T07:00:45.595Z",
   "trackers": {
     "url": "https://trackercontrol.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:05.079Z"
+    "tested_at": "2026-10-01T07:00:45.595Z"
   }
 }

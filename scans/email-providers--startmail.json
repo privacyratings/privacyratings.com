@@ -33,7 +33,40 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:43.429Z"
+    "tested_at": "2026-10-01T07:00:12.561Z",
+    "imap": {
+      "host": "imap.startmail.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "SASL-IR",
+        "LOGIN-REFERRALS",
+        "ID",
+        "ENABLE",
+        "IDLE",
+        "XLIST",
+        "LITERAL+",
+        "AUTH=PLAIN"
+      ]
+    },
+    "pop3": {
+      "offered": false
+    },
+    "smtp": {
+      "host": "smtp.startmail.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "DSN",
+        "SMTPUTF8"
+      ]
+    }
   },
   "mail_domain": "startmail.com",
   "observatory": {
@@ -42,18 +75,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startmail.com",
-    "tested_at": "2026-09-30T20:19:36.038Z"
+    "tested_at": "2026-10-01T07:00:33.344Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.481Z",
+  "scanned_at": "2026-10-01T07:06:03.108Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.startmail.com&hideResults=on",
-    "tested_at": "2026-09-29T18:00:20.881Z"
+    "tested_at": "2026-10-01T07:06:03.108Z"
   },
   "trackers": {
     "url": "https://www.startmail.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:47.034Z"
+    "tested_at": "2026-10-01T07:01:32.739Z"
   }
 }

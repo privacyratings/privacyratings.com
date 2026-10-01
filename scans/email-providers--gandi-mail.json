@@ -22,7 +22,53 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T20:31:27.108Z"
+    "tested_at": "2026-10-01T07:00:22.629Z",
+    "imap": {
+      "host": "mail.gandi.net",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "LOGIN-REFERRALS",
+        "ID",
+        "ENABLE",
+        "IDLE",
+        "SASL-IR",
+        "LITERAL+",
+        "AUTH=PLAIN"
+      ]
+    },
+    "pop3": {
+      "host": "mail.gandi.net",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "CAPA",
+        "TOP",
+        "UIDL",
+        "RESP-CODES",
+        "PIPELINING",
+        "AUTH-RESP-CODE",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "mail.gandi.net",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "VRFY",
+        "ETRN",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "DSN"
+      ]
+    }
   },
   "mail_domain": "gandi.net",
   "observatory": {
@@ -31,9 +77,15 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=webmail.gandi.net",
-    "tested_at": "2026-09-30T20:19:47.882Z"
+    "tested_at": "2026-10-01T07:00:37.859Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.484Z",
+  "scanned_at": "2026-10-01T07:06:27.457Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=webmail.gandi.net&hideResults=on",
+    "tested_at": "2026-10-01T07:06:27.457Z"
+  },
   "trackers": {
     "url": "https://www.gandi.net/en/domain/email",
     "found": [
@@ -43,6 +95,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:47.583Z"
+    "tested_at": "2026-10-01T07:01:33.370Z"
   }
 }

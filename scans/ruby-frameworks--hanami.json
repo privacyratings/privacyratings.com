@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.643Z",
+  "github": {
+    "repo": "hanami/hanami",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:17.464Z"
+  },
+  "scanned_at": "2026-10-01T07:02:14.318Z",
   "trackers": {
     "url": "https://hanakai.org/hanami",
     "found": [],
-    "tested_at": "2026-09-30T20:41:30.408Z"
+    "tested_at": "2026-10-01T07:02:14.318Z"
   }
 }

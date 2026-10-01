@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.565Z",
+  "github": {
+    "repo": "ospfranco/sol",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.074Z"
+  },
+  "scanned_at": "2026-10-01T07:01:49.995Z",
   "trackers": {
     "url": "https://sol.ospfranco.com",
     "found": [],
-    "tested_at": "2026-09-30T20:41:08.658Z"
+    "tested_at": "2026-10-01T07:01:49.995Z"
   }
 }

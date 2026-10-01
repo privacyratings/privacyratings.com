@@ -3,9 +3,9 @@
     "repo": "LibreCAD/LibreCAD",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:06.068Z"
+    "checked_at": "2026-10-01T07:00:26.418Z"
   },
-  "scanned_at": "2026-10-01T06:38:08.904Z",
+  "scanned_at": "2026-10-01T07:02:34.389Z",
   "trackers": {
     "url": "https://librecad.org",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:08.904Z"
+    "tested_at": "2026-10-01T07:02:34.389Z"
   }
 }

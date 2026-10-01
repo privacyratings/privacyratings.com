@@ -6,11 +6,17 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lucid.app",
-    "tested_at": "2026-09-30T20:21:49.145Z"
+    "tested_at": "2026-10-01T07:01:14.553Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.668Z",
+  "scanned_at": "2026-10-01T07:25:52.061Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=lucid.app&hideResults=on",
+    "tested_at": "2026-10-01T07:25:52.061Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:41:38.185Z"
+    "tested_at": "2026-10-01T07:02:21.681Z"
   }
 }

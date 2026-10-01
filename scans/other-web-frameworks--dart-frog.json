@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.664Z",
+  "github": {
+    "repo": "dart-frog-dev/dart_frog",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:21.744Z"
+  },
+  "scanned_at": "2026-10-01T07:02:19.875Z",
   "trackers": {
     "url": "https://dart-frog.dev/",
     "found": [
@@ -10,6 +16,7 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:36.065Z"
+    "tested_at": "2026-09-30T20:41:36.065Z",
+    "last_error": "HTTP 403"
   }
 }

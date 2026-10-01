@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.440Z",
+  "github": {
+    "repo": "standardnotes/app",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:55.249Z"
+  },
+  "scanned_at": "2026-10-01T07:01:06.002Z",
   "trackers": {
     "url": "https://standardnotes.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:18.284Z"
+    "tested_at": "2026-10-01T07:01:06.002Z"
   }
 }

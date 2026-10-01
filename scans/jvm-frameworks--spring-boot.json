@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.661Z",
+  "github": {
+    "repo": "spring-projects/spring-boot",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:20.525Z"
+  },
+  "scanned_at": "2026-10-01T07:02:18.381Z",
   "trackers": {
     "url": "https://spring.io/projects/spring-boot/",
     "found": [
@@ -19,6 +25,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:34.589Z"
+    "tested_at": "2026-10-01T07:02:18.381Z"
   }
 }

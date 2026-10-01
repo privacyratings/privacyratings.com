@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.493Z",
+  "scanned_at": "2026-10-01T07:01:36.459Z",
   "trackers": {
     "url": "https://www.libraesva.com",
     "found": [
@@ -19,6 +19,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:50.969Z"
+    "tested_at": "2026-10-01T07:01:36.459Z"
   }
 }

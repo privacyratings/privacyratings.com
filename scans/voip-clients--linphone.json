@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.405Z",
+  "github": {
+    "repo": "BelledonneCommunications/linphone-desktop",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:52.198Z"
+  },
+  "scanned_at": "2026-10-01T07:00:50.190Z",
   "trackers": {
     "url": "https://www.linphone.org",
     "found": [
@@ -19,6 +25,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:08.593Z"
+    "tested_at": "2026-10-01T07:00:50.190Z"
   }
 }

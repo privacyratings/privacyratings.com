@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.383Z",
+  "github": {
+    "repo": "searxng/searxng",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:48.796Z"
+  },
+  "scanned_at": "2026-10-01T07:00:41.084Z",
   "trackers": {
     "url": "https://docs.searxng.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:59.771Z"
+    "tested_at": "2026-10-01T07:00:41.084Z"
   }
 }

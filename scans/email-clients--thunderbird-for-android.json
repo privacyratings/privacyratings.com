@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.345Z",
+  "github": {
+    "repo": "thunderbird/thunderbird-android",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:46.780Z"
+  },
+  "scanned_at": "2026-10-01T07:00:27.960Z",
   "trackers": {
     "url": "https://www.thunderbird.net/en-US/mobile/",
     "found": [],
-    "tested_at": "2026-09-30T20:39:52.981Z"
+    "tested_at": "2026-10-01T07:00:27.960Z"
   }
 }

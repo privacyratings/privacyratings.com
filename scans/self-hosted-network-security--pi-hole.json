@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.417Z",
+  "github": {
+    "repo": "pi-hole/pi-hole",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:53.539Z"
+  },
+  "scanned_at": "2026-10-01T07:00:56.735Z",
   "trackers": {
     "url": "https://pi-hole.net",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:12.864Z"
+    "tested_at": "2026-10-01T07:00:56.735Z"
   }
 }

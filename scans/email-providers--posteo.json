@@ -33,7 +33,54 @@
         }
       }
     },
-    "tested_at": "2026-09-30T05:26:43.150Z"
+    "tested_at": "2026-10-01T07:00:10.491Z",
+    "imap": {
+      "host": "posteo.de",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "LITERAL+",
+        "SASL-IR",
+        "LOGIN-REFERRALS",
+        "ID",
+        "ENABLE",
+        "IDLE",
+        "AUTH=PLAIN",
+        "AUTH=LOGIN"
+      ]
+    },
+    "pop3": {
+      "host": "posteo.de",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "CAPA",
+        "TOP",
+        "UIDL",
+        "RESP-CODES",
+        "PIPELINING",
+        "AUTH-RESP-CODE",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "posteo.de",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "VRFY",
+        "ETRN",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "DSN"
+      ]
+    }
   },
   "mail_domain": "posteo.de",
   "observatory": {
@@ -42,18 +89,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=posteo.de",
-    "tested_at": "2026-09-30T20:19:28.360Z"
+    "tested_at": "2026-10-01T07:00:28.679Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.480Z",
+  "scanned_at": "2026-10-01T07:05:18.046Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=posteo.de&hideResults=on",
-    "tested_at": "2026-09-29T18:00:19.344Z"
+    "tested_at": "2026-10-01T07:05:18.046Z"
   },
   "trackers": {
     "url": "https://posteo.de/en",
     "found": [],
-    "tested_at": "2026-09-30T20:40:46.309Z"
+    "tested_at": "2026-10-01T07:01:32.311Z"
   }
 }

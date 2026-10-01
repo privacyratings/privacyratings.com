@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.516Z",
+  "github": {
+    "repo": "cemu-project/Cemu",
+    "license": "MPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:04.349Z"
+  },
+  "scanned_at": "2026-10-01T07:01:43.737Z",
   "trackers": {
     "url": "https://cemu.info",
     "found": [],
-    "tested_at": "2026-09-30T20:41:02.086Z"
+    "tested_at": "2026-10-01T07:01:43.736Z"
   }
 }

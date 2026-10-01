@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.335Z",
+  "github": {
+    "repo": "Ardour/ardour",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:45.976Z"
+  },
+  "scanned_at": "2026-10-01T07:00:18.748Z",
   "trackers": {
     "url": "https://ardour.org",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:50.920Z"
+    "tested_at": "2026-10-01T07:00:18.748Z"
   }
 }

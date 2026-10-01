@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.288Z",
+  "github": {
+    "repo": "feather-wallet/feather",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:41.611Z"
+  },
+  "scanned_at": "2026-10-01T06:59:52.622Z",
   "trackers": {
     "url": "https://featherwallet.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:35.891Z"
+    "tested_at": "2026-10-01T06:59:52.622Z"
   }
 }

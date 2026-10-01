@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.247Z",
+  "github": {
+    "repo": "pulsar-edit/pulsar",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:38.721Z"
+  },
+  "scanned_at": "2026-10-01T06:59:41.457Z",
   "trackers": {
     "url": "https://pulsar-edit.dev",
     "found": [],
-    "tested_at": "2026-09-30T20:39:27.584Z"
+    "tested_at": "2026-10-01T06:59:41.457Z"
   }
 }

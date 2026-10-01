@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.549Z",
+  "github": {
+    "repo": "ZeusLN/zeus",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:08.024Z"
+  },
+  "scanned_at": "2026-10-01T07:01:48.316Z",
   "trackers": {
     "url": "https://zeusln.com",
     "found": [],
-    "tested_at": "2026-09-30T20:41:06.351Z"
+    "tested_at": "2026-10-01T07:01:48.316Z"
   }
 }

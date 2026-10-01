@@ -1,5 +1,11 @@
 {
   "domain": "ksuite.infomaniak.com",
+  "github": {
+    "repo": "Infomaniak/android-kMail",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:01.776Z"
+  },
   "mail": {
     "dns": {
       "domain": "ik.me",
@@ -36,7 +42,50 @@
         }
       }
     },
-    "tested_at": "2026-09-30T05:26:35.687Z"
+    "tested_at": "2026-10-01T06:59:47.869Z",
+    "imap": {
+      "host": "mail.infomaniak.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "UIDPLUS",
+        "IDLE",
+        "LITERAL",
+        "+",
+        "QUOTA",
+        "AUTH=PLAIN",
+        "AUTH=LOGIN"
+      ]
+    },
+    "pop3": {
+      "host": "mail.infomaniak.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "LAST",
+        "TOP",
+        "USER",
+        "PIPELINING",
+        "UIDL",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "mail.infomaniak.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "ETRN",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "DSN",
+        "AUTH"
+      ]
+    }
   },
   "mail_domain": "ik.me",
   "observatory": {
@@ -45,12 +94,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ksuite.infomaniak.com",
-    "tested_at": "2026-09-30T20:19:02.654Z"
+    "tested_at": "2026-10-01T07:00:28.307Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.477Z",
+  "scanned_at": "2026-10-01T07:03:56.379Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=ksuite.infomaniak.com&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.379Z"
+  },
   "trackers": {
     "url": "https://www.infomaniak.com/en/ksuite/service-mail",
     "found": [],
-    "tested_at": "2026-09-30T20:40:45.342Z"
+    "tested_at": "2026-10-01T07:01:30.813Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.664Z",
+  "github": {
+    "repo": "elixir-plug/plug",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:21.476Z"
+  },
+  "scanned_at": "2026-10-01T07:02:19.261Z",
   "trackers": {
     "url": "https://github.com/elixir-plug/plug",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-09-30T20:41:35.464Z"
+    "tested_at": "2026-10-01T07:02:19.261Z"
   }
 }

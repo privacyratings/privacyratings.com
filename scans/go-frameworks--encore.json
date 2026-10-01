@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.652Z",
+  "github": {
+    "repo": "encoredev/encore",
+    "license": "MPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:18.692Z"
+  },
+  "scanned_at": "2026-10-01T07:02:15.849Z",
   "trackers": {
     "url": "https://encore.dev",
     "found": [
@@ -20,6 +26,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:41:31.906Z"
+    "tested_at": "2026-10-01T07:02:15.849Z"
   }
 }

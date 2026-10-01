@@ -6,11 +6,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=njal.la",
-    "tested_at": "2026-09-30T20:17:43.788Z"
+    "tested_at": "2026-10-01T07:00:11.619Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.469Z",
+  "scanned_at": "2026-10-01T07:01:36.004Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=njal.la&hideResults=on",
+    "tested_at": "2026-10-01T07:01:36.004Z"
+  },
   "trackers": {
-    "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:40:39.796Z"
+    "url": "https://njal.la/servers/",
+    "found": [],
+    "tested_at": "2026-10-01T07:01:27.208Z"
   }
 }

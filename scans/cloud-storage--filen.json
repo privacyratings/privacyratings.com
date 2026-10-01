@@ -1,17 +1,29 @@
 {
   "domain": "filen.io",
+  "github": {
+    "repo": "FilenCloudDienste/filen-desktop",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:01.051Z"
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=filen.io",
-    "tested_at": "2026-09-30T20:17:54.070Z"
+    "tested_at": "2026-10-01T07:00:13.755Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.471Z",
+  "scanned_at": "2026-10-01T07:01:36.721Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 8,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=filen.io&hideResults=on",
+    "tested_at": "2026-10-01T07:01:36.721Z"
+  },
   "trackers": {
     "url": "https://filen.io",
     "found": [],
-    "tested_at": "2026-09-30T20:40:41.507Z"
+    "tested_at": "2026-10-01T07:01:28.239Z"
   }
 }

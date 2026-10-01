@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.638Z",
+  "github": {
+    "repo": "pallets/quart",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:16.956Z"
+  },
+  "scanned_at": "2026-10-01T07:02:13.067Z",
   "trackers": {
     "url": "https://quart.palletsprojects.com/en/latest/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:29.824Z"
+    "tested_at": "2026-10-01T07:02:13.067Z"
   }
 }

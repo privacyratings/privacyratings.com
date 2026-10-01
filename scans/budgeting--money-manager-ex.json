@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.292Z",
+  "github": {
+    "repo": "moneymanagerex/moneymanagerex",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:41.987Z"
+  },
+  "scanned_at": "2026-10-01T06:59:54.045Z",
   "trackers": {
     "url": "https://moneymanagerex.org",
     "found": [
@@ -16,6 +22,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:39:37.748Z"
+    "tested_at": "2026-10-01T06:59:54.045Z"
   }
 }

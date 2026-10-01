@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.598Z",
+  "github": {
+    "repo": "trpc/trpc",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:11.977Z"
+  },
+  "scanned_at": "2026-10-01T07:02:04.840Z",
   "trackers": {
     "url": "https://trpc.io",
     "found": [
@@ -12,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:21.606Z"
+    "tested_at": "2026-10-01T07:02:04.840Z"
   }
 }

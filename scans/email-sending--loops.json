@@ -6,14 +6,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=loops.so",
-    "tested_at": "2026-09-30T20:22:04.741Z"
+    "tested_at": "2026-10-01T07:01:18.493Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.674Z",
+  "scanned_at": "2026-10-01T07:26:05.616Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=loops.so&hideResults=on",
-    "tested_at": "2026-09-30T19:42:57.914Z"
+    "tested_at": "2026-10-01T07:26:05.616Z"
   },
   "trackers": {
     "url": "https://loops.so",
@@ -40,6 +40,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:39.940Z"
+    "tested_at": "2026-10-01T07:02:23.475Z"
   }
 }

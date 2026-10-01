@@ -3,9 +3,9 @@
     "repo": "stalwartlabs/stalwart",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:06.772Z"
+    "checked_at": "2026-10-01T07:00:26.875Z"
   },
-  "scanned_at": "2026-10-01T06:38:13.436Z",
+  "scanned_at": "2026-10-01T07:02:36.766Z",
   "trackers": {
     "url": "https://stalw.art",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:13.436Z"
+    "tested_at": "2026-10-01T07:02:36.766Z"
   }
 }

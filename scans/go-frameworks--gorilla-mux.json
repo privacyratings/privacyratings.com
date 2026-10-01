@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.653Z",
+  "github": {
+    "repo": "gorilla/mux",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:18.888Z"
+  },
+  "scanned_at": "2026-10-01T07:02:16.265Z",
   "trackers": {
     "url": "https://gorilla.github.io",
     "found": [],
-    "tested_at": "2026-09-30T20:41:32.587Z"
+    "tested_at": "2026-10-01T07:02:16.265Z"
   }
 }

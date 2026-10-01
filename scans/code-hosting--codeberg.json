@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=codeberg.org",
-    "tested_at": "2026-09-30T20:15:48.415Z"
+    "tested_at": "2026-10-01T06:59:46.473Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.444Z",
+  "scanned_at": "2026-10-01T07:01:08.461Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=codeberg.org&hideResults=on",
+    "tested_at": "2026-10-01T06:59:40.974Z"
+  },
   "trackers": {
     "url": "https://codeberg.org",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

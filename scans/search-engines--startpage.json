@@ -6,11 +6,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startpage.com",
-    "tested_at": "2026-09-30T20:15:56.225Z"
+    "tested_at": "2026-10-01T06:59:47.124Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.454Z",
+  "scanned_at": "2026-10-01T07:01:15.810Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.startpage.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:41.197Z"
+  },
   "trackers": {
-    "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:40:27.098Z"
+    "url": "https://www.startpage.com",
+    "found": [],
+    "tested_at": "2026-10-01T07:01:15.810Z"
   }
 }

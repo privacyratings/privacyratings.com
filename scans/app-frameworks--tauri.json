@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.627Z",
+  "github": {
+    "repo": "tauri-apps/tauri",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:16.009Z"
+  },
+  "scanned_at": "2026-10-01T07:02:11.470Z",
   "trackers": {
     "url": "https://tauri.app",
     "found": [],
-    "tested_at": "2026-09-30T20:41:28.146Z"
+    "tested_at": "2026-10-01T07:02:11.470Z"
   }
 }

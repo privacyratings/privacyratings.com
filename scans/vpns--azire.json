@@ -6,12 +6,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.azirevpn.com",
-    "tested_at": "2026-09-30T20:16:51.940Z"
+    "tested_at": "2026-10-01T07:00:01.655Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.463Z",
+  "scanned_at": "2026-10-01T07:01:23.055Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.azirevpn.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:51.727Z"
+  },
   "trackers": {
     "url": "https://www.azirevpn.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:36.338Z"
+    "tested_at": "2026-10-01T07:01:23.055Z"
   }
 }

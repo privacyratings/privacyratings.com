@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.406Z",
+  "scanned_at": "2026-10-01T07:00:50.288Z",
   "trackers": {
     "url": "https://betterstack.com",
     "found": [
@@ -46,6 +46,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:09.133Z"
+    "tested_at": "2026-10-01T07:00:50.288Z"
   }
 }

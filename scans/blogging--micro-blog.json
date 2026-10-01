@@ -6,12 +6,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=micro.blog",
-    "tested_at": "2026-09-30T20:15:46.562Z"
+    "tested_at": "2026-10-01T06:59:46.183Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.303Z",
+  "scanned_at": "2026-10-01T06:59:57.784Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=micro.blog&hideResults=on",
+    "tested_at": "2026-10-01T06:59:40.748Z"
+  },
   "trackers": {
     "url": "https://micro.blog",
     "found": [],
-    "tested_at": "2026-09-30T20:39:43.899Z"
+    "tested_at": "2026-10-01T06:59:57.784Z"
   }
 }

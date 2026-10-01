@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.535Z",
+  "github": {
+    "repo": "react/react",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:06.657Z"
+  },
+  "scanned_at": "2026-10-01T07:01:46.594Z",
   "trackers": {
     "url": "https://react.dev",
     "found": [
@@ -12,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:04.182Z"
+    "tested_at": "2026-10-01T07:01:46.594Z"
   }
 }

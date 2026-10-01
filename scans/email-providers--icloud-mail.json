@@ -28,7 +28,41 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:33.344Z"
+    "tested_at": "2026-10-01T06:59:41.689Z",
+    "imap": {
+      "host": "imap.mail.me.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "XAPPLEPUSHSERVICE",
+        "IMAP4",
+        "IMAP4REV1",
+        "SASL-IR",
+        "AUTH=ATOKEN",
+        "AUTH=PLAIN",
+        "AUTH=ATOKEN2",
+        "AUTH=XOAUTH2"
+      ]
+    },
+    "pop3": {
+      "offered": false
+    },
+    "smtp": {
+      "host": "smtp.mail.me.com",
+      "port": 587,
+      "tls": "starttls",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "ETRN",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "DSN",
+        "SMTPUTF8",
+        "CHUNKING"
+      ]
+    }
   },
   "mail_domain": "icloud.com",
   "observatory": {
@@ -37,12 +71,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
-    "tested_at": "2026-09-30T20:19:01.730Z"
+    "tested_at": "2026-10-01T07:00:26.550Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.477Z",
+  "scanned_at": "2026-10-01T07:03:56.314Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 3,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.icloud.com&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.313Z"
+  },
   "trackers": {
     "url": "https://www.icloud.com/mail",
     "found": [],
-    "tested_at": "2026-09-30T20:40:44.244Z"
+    "tested_at": "2026-10-01T07:01:29.720Z"
   }
 }

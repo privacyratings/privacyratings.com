@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.285Z",
+  "github": {
+    "repo": "wger-project/wger",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:41.241Z"
+  },
+  "scanned_at": "2026-10-01T06:59:51.310Z",
   "trackers": {
     "url": "https://wger.de",
     "found": [],
-    "tested_at": "2026-09-30T20:39:34.697Z"
+    "tested_at": "2026-10-01T06:59:51.309Z"
   }
 }

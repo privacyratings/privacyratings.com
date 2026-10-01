@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.289Z",
+  "github": {
+    "repo": "haveno-dex/haveno",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:41.835Z"
+  },
+  "scanned_at": "2026-10-01T06:59:53.252Z",
   "trackers": {
     "url": "https://haveno.exchange",
     "found": [],
-    "tested_at": "2026-09-30T20:39:36.366Z"
+    "tested_at": "2026-10-01T06:59:53.252Z"
   }
 }

@@ -6,13 +6,12 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovhcloud.com",
-    "tested_at": "2026-09-30T20:21:33.533Z"
+    "tested_at": "2026-10-01T07:01:09.780Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.583Z",
+  "scanned_at": "2026-10-01T07:17:29.628Z",
   "trackers": {
     "url": "https://us.ovhcloud.com/",
     "found": [],
-    "tested_at": "2026-09-30T16:02:51.506Z",
-    "last_error": "Too many redirects"
+    "tested_at": "2026-10-01T07:01:58.432Z"
   }
 }

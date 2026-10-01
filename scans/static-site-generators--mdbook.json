@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.611Z",
+  "github": {
+    "repo": "rust-lang/mdBook",
+    "license": "MPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:14.001Z"
+  },
+  "scanned_at": "2026-10-01T07:02:07.181Z",
   "trackers": {
     "url": "https://rust-lang.github.io/mdBook/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:24.702Z"
+    "tested_at": "2026-10-01T07:02:07.181Z"
   }
 }

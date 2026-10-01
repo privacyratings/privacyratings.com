@@ -6,11 +6,17 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.linode.com",
-    "tested_at": "2026-09-30T20:17:43.055Z"
+    "tested_at": "2026-10-01T07:00:11.121Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.469Z",
+  "scanned_at": "2026-10-01T07:01:35.958Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.linode.com&hideResults=on",
+    "tested_at": "2026-10-01T07:01:35.958Z"
+  },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-09-30T20:40:40.185Z"
+    "tested_at": "2026-10-01T07:01:26.678Z"
   }
 }

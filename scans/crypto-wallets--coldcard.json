@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.287Z",
+  "github": {
+    "repo": "Coldcard/firmware",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:41.595Z"
+  },
+  "scanned_at": "2026-10-01T06:59:53.149Z",
   "trackers": {
     "url": "https://coldcard.com",
     "found": [
@@ -23,6 +29,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:36.356Z"
+    "tested_at": "2026-10-01T06:59:53.149Z"
   }
 }

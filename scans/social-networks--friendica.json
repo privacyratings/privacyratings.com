@@ -1,8 +1,15 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.294Z",
+  "github": {
+    "repo": "friendica/friendica",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:42.076Z"
+  },
+  "scanned_at": "2026-10-01T07:00:24.549Z",
   "trackers": {
     "url": "https://friendi.ca",
     "found": [],
-    "tested_at": "2026-09-30T20:39:40.455Z"
+    "tested_at": "2026-09-30T20:39:40.455Z",
+    "last_error": "The operation was aborted"
   }
 }

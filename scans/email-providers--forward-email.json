@@ -1,5 +1,11 @@
 {
   "domain": "forwardemail.net",
+  "github": {
+    "repo": "forwardemail/forwardemail.net",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.657Z"
+  },
   "mail": {
     "dns": {
       "domain": "forwardemail.net",
@@ -34,7 +40,62 @@
         }
       }
     },
-    "tested_at": "2026-09-30T05:26:36.865Z"
+    "tested_at": "2026-10-01T07:00:31.333Z",
+    "imap": {
+      "host": "imap.forwardemail.net",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "XAPPLEPUSHSERVICE",
+        "IMAP4REV1",
+        "APPENDLIMIT=52428800",
+        "AUTH=PLAIN",
+        "AUTH=PLAIN-CLIENTTOKEN",
+        "CHILDREN",
+        "CONDSTORE",
+        "ENABLE",
+        "ID",
+        "IDLE",
+        "MOVE",
+        "NAMESPACE",
+        "QUOTA",
+        "SASL-IR",
+        "SPECIAL-USE",
+        "UIDPLUS",
+        "UNSELECT",
+        "UTF8=ACCEPT",
+        "XLIST"
+      ]
+    },
+    "pop3": {
+      "host": "pop3.forwardemail.net",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "UIDL",
+        "USER",
+        "RESP-CODES",
+        "SASL",
+        "PIPELINING"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.forwardemail.net",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "8BITMIME",
+        "SMTPUTF8",
+        "ENHANCEDSTATUSCODES",
+        "DSN",
+        "AUTH",
+        "REQUIRETLS",
+        "SIZE"
+      ]
+    }
   },
   "mail_domain": "forwardemail.net",
   "observatory": {
@@ -43,18 +104,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
-    "tested_at": "2026-09-30T20:20:28.527Z"
+    "tested_at": "2026-10-01T07:00:33.903Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.571Z",
+  "scanned_at": "2026-10-01T07:11:51.299Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=forwardemail.net&hideResults=on",
-    "tested_at": "2026-09-29T17:46:51.121Z"
+    "tested_at": "2026-10-01T07:11:51.299Z"
   },
   "trackers": {
     "url": "https://forwardemail.net/en",
     "found": [],
-    "tested_at": "2026-09-30T20:41:09.415Z"
+    "tested_at": "2026-10-01T07:01:51.066Z"
   }
 }

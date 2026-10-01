@@ -1,17 +1,29 @@
 {
   "domain": "amiunique.org",
+  "github": {
+    "repo": "DIVERSIFY-project/amiunique",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:00.049Z"
+  },
   "observatory": {
     "grade": "D",
     "score": 30,
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=amiunique.org",
-    "tested_at": "2026-09-30T20:16:22.336Z"
+    "tested_at": "2026-10-01T06:59:53.080Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.459Z",
+  "scanned_at": "2026-10-01T07:01:20.403Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=amiunique.org&hideResults=on",
+    "tested_at": "2026-10-01T06:59:44.448Z"
+  },
   "trackers": {
     "url": "https://amiunique.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:32.251Z"
+    "tested_at": "2026-10-01T07:01:20.403Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.447Z",
+  "github": {
+    "repo": "firefly-iii/firefly-iii",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:57.306Z"
+  },
+  "scanned_at": "2026-10-01T07:01:11.783Z",
   "trackers": {
     "url": "https://www.firefly-iii.org",
     "found": [
@@ -15,6 +21,7 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:23.708Z"
+    "tested_at": "2026-09-30T20:40:23.708Z",
+    "last_error": "HTTP 403"
   }
 }

@@ -6,12 +6,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=clarity.microsoft.com",
-    "tested_at": "2026-09-30T20:15:26.543Z"
+    "tested_at": "2026-10-01T06:59:39.715Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.260Z",
+  "scanned_at": "2026-10-01T06:59:45.743Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=clarity.microsoft.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:38.806Z"
+  },
   "trackers": {
     "url": "https://clarity.microsoft.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:29.449Z"
+    "tested_at": "2026-10-01T06:59:45.743Z"
   }
 }

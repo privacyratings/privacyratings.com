@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.664Z",
+  "github": {
+    "repo": "nitrogen/nitrogen",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:21.367Z"
+  },
+  "scanned_at": "2026-10-01T07:02:19.489Z",
   "trackers": {
     "url": "https://nitrogenproject.com/",
     "found": [
@@ -12,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:35.542Z"
+    "tested_at": "2026-10-01T07:02:19.489Z"
   }
 }

@@ -6,9 +6,15 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.cal.com",
-    "tested_at": "2026-09-30T20:21:55.431Z"
+    "tested_at": "2026-10-01T07:01:16.162Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.669Z",
+  "scanned_at": "2026-10-01T07:23:20.585Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.cal.com&hideResults=on",
+    "tested_at": "2026-10-01T07:23:20.585Z"
+  },
   "trackers": {
     "url": "https://cal.com/ai",
     "found": [
@@ -40,6 +46,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:38.770Z"
+    "tested_at": "2026-10-01T07:02:22.455Z"
   }
 }

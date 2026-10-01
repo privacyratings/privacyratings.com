@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.666Z",
+  "github": {
+    "repo": "luckyframework/lucky",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:22.328Z"
+  },
+  "scanned_at": "2026-10-01T07:02:21.076Z",
   "trackers": {
     "url": "https://luckyframework.org",
     "found": [],
-    "tested_at": "2026-09-30T20:41:37.582Z"
+    "tested_at": "2026-10-01T07:02:21.076Z"
   }
 }

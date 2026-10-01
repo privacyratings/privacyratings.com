@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T06:38:12.544Z",
+  "scanned_at": "2026-10-01T07:02:36.113Z",
   "trackers": {
     "url": "https://sparkmailapp.com",
     "found": [
@@ -16,6 +16,6 @@
         "host": "www.facebook.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:12.544Z"
+    "tested_at": "2026-10-01T07:02:36.113Z"
   }
 }

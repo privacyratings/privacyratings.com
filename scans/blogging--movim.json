@@ -1,14 +1,26 @@
 {
   "domain": "movim.eu",
+  "github": {
+    "repo": "movim/movim",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:01.694Z"
+  },
   "observatory": {
     "grade": "D",
     "score": 30,
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=movim.eu",
-    "tested_at": "2026-09-30T20:18:54.125Z"
+    "tested_at": "2026-10-01T07:00:23.106Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.475Z",
+  "scanned_at": "2026-10-01T07:03:55.989Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=movim.eu&hideResults=on",
+    "tested_at": "2026-10-01T07:03:55.989Z"
+  },
   "trackers": {
     "url": "https://movim.eu",
     "found": [
@@ -18,6 +30,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:43.790Z"
+    "tested_at": "2026-10-01T07:01:29.349Z"
   }
 }

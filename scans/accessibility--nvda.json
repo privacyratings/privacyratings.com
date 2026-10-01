@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.238Z",
+  "github": {
+    "repo": "nvaccess/nvda",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:38.388Z"
+  },
+  "scanned_at": "2026-10-01T06:59:40.104Z",
   "trackers": {
     "url": "https://www.nvaccess.org",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:26.783Z"
+    "tested_at": "2026-10-01T06:59:40.104Z"
   }
 }

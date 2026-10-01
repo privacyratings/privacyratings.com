@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.649Z",
+  "github": {
+    "repo": "livewire/livewire",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:18.151Z"
+  },
+  "scanned_at": "2026-10-01T07:02:14.847Z",
   "trackers": {
     "url": "https://livewire.laravel.com",
     "found": [
@@ -10,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:31.305Z"
+    "tested_at": "2026-10-01T07:02:14.847Z"
   }
 }

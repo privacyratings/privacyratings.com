@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.658Z",
+  "github": {
+    "repo": "apache/grails-core",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:20.003Z"
+  },
+  "scanned_at": "2026-10-01T07:02:17.390Z",
   "trackers": {
     "url": "https://grails.apache.org",
     "found": [],
-    "tested_at": "2026-09-30T20:41:33.629Z"
+    "tested_at": "2026-10-01T07:02:17.390Z"
   }
 }

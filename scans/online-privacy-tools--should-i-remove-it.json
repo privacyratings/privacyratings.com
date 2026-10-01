@@ -6,9 +6,15 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.shouldiremoveit.com",
-    "tested_at": "2026-09-30T20:16:37.070Z"
+    "tested_at": "2026-10-01T06:59:57.028Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.461Z",
+  "scanned_at": "2026-10-01T07:01:20.923Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.shouldiremoveit.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:46.946Z"
+  },
   "trackers": {
     "url": "https://www.shouldiremoveit.com",
     "found": [
@@ -36,6 +42,7 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:33.441Z"
+    "tested_at": "2026-09-30T20:40:33.441Z",
+    "last_error": "HTTP 403"
   }
 }

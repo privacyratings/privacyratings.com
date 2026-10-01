@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.257Z",
+  "github": {
+    "repo": "mountain-loop/yaak",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:39.399Z"
+  },
+  "scanned_at": "2026-10-01T06:59:45.641Z",
   "trackers": {
     "url": "https://yaak.app",
     "found": [],
-    "tested_at": "2026-09-30T20:39:29.120Z"
+    "tested_at": "2026-10-01T06:59:45.641Z"
   }
 }

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.618Z",
+  "github": {
+    "repo": "ionic-team/capacitor",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:14.768Z"
+  },
+  "scanned_at": "2026-10-01T07:02:08.083Z",
   "trackers": {
     "url": "https://capacitorjs.com",
     "found": [
@@ -14,6 +20,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:26.015Z"
+    "tested_at": "2026-10-01T07:02:08.083Z"
   }
 }

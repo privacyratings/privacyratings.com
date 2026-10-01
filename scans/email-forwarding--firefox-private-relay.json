@@ -1,5 +1,11 @@
 {
   "domain": "relay.firefox.com",
+  "github": {
+    "repo": "mozilla/fx-private-relay",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:02.284Z"
+  },
   "mail": {
     "dns": {
       "domain": "mozmail.com",
@@ -21,7 +27,19 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:44.598Z"
+    "tested_at": "2026-10-01T07:00:16.990Z",
+    "imap": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "pop3": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "smtp": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    }
   },
   "mail_domain": "mozmail.com",
   "observatory": {
@@ -30,18 +48,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=relay.firefox.com",
-    "tested_at": "2026-09-30T20:19:42.181Z"
+    "tested_at": "2026-10-01T07:00:35.502Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.482Z",
+  "scanned_at": "2026-10-01T07:06:26.818Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=relay.firefox.com&hideResults=on",
-    "tested_at": "2026-09-29T18:06:56.916Z"
+    "tested_at": "2026-10-01T07:06:26.818Z"
   },
   "trackers": {
     "url": "https://relay.firefox.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:46.871Z"
+    "tested_at": "2026-10-01T07:01:32.669Z"
   }
 }

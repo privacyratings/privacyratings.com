@@ -1,5 +1,11 @@
 {
   "domain": "runbox.com",
+  "github": {
+    "repo": "runbox/runbox7",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:01.977Z"
+  },
   "mail": {
     "dns": {
       "domain": "runbox.com",
@@ -21,7 +27,50 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:46.714Z"
+    "tested_at": "2026-10-01T07:00:16.598Z",
+    "imap": {
+      "host": "mail.runbox.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "UIDPLUS",
+        "CHILDREN",
+        "NAMESPACE",
+        "THREAD=ORDEREDSUBJECT",
+        "THREAD=REFERENCES",
+        "SORT",
+        "QUOTA",
+        "IDLE",
+        "AUTH=PLAIN"
+      ]
+    },
+    "pop3": {
+      "host": "mail.runbox.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "USER",
+        "UIDL",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "mail.runbox.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "SIZE",
+        "8BITMIME",
+        "PIPELINING",
+        "PIPE_CONNECT",
+        "AUTH",
+        "CHUNKING",
+        "HELP"
+      ]
+    }
   },
   "mail_domain": "runbox.com",
   "observatory": {
@@ -30,17 +79,17 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=runbox.com",
-    "tested_at": "2026-09-30T20:19:33.016Z"
+    "tested_at": "2026-10-01T07:00:33.401Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.481Z",
+  "scanned_at": "2026-10-01T07:08:13.758Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=runbox.com&hideResults=on",
-    "tested_at": "2026-09-29T18:02:58.749Z"
+    "tested_at": "2026-10-01T07:08:13.758Z"
   },
   "trackers": {
     "url": "https://runbox.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:47.024Z"
+    "tested_at": "2026-10-01T07:01:33.519Z"
   }
 }

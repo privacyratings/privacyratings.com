@@ -23,7 +23,54 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:35.947Z"
+    "tested_at": "2026-10-01T07:00:00.726Z",
+    "imap": {
+      "host": "imap.zoho.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "UNSELECT",
+        "CHILDREN",
+        "XLIST",
+        "NAMESPACE",
+        "IDLE",
+        "MOVE",
+        "ID",
+        "AUTH=PLAIN",
+        "SASL-IR",
+        "AUTH=XOAUTH2",
+        "UIDPLUS",
+        "ESEARCH",
+        "LIST-EXTENDED",
+        "LIST-STATUS",
+        "WITHIN",
+        "LITERAL-",
+        "ACL",
+        "CONDSTORE"
+      ]
+    },
+    "pop3": {
+      "host": "pop.zoho.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "USER",
+        "TOP",
+        "UIDL",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.zoho.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "AUTH",
+        "SIZE"
+      ]
+    }
   },
   "mail_domain": "zohomail.com",
   "observatory": {
@@ -32,12 +79,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.zoho.com",
-    "tested_at": "2026-09-30T20:19:22.622Z"
+    "tested_at": "2026-10-01T07:00:32.085Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.479Z",
+  "scanned_at": "2026-10-01T07:05:17.723Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.zoho.com&hideResults=on",
+    "tested_at": "2026-10-01T07:05:17.723Z"
+  },
   "trackers": {
     "url": "https://www.zoho.com/mail/",
     "found": [],
-    "tested_at": "2026-09-30T20:40:45.648Z"
+    "tested_at": "2026-10-01T07:01:31.450Z"
   }
 }

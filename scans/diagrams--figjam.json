@@ -6,12 +6,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.figma.com",
-    "tested_at": "2026-09-30T20:21:48.483Z"
+    "tested_at": "2026-10-01T07:01:14.211Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.668Z",
+  "scanned_at": "2026-10-01T07:20:56.135Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.figma.com&hideResults=on",
+    "tested_at": "2026-10-01T07:20:56.135Z"
+  },
   "trackers": {
     "url": "https://www.figma.com/figjam/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:37.959Z"
+    "tested_at": "2026-10-01T07:02:22.074Z"
   }
 }

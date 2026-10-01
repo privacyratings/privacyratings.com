@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.islegitsite.com",
-    "tested_at": "2026-09-30T20:16:32.431Z"
+    "tested_at": "2026-10-01T06:59:55.633Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.461Z",
+  "scanned_at": "2026-10-01T07:01:20.018Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.islegitsite.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:45.598Z"
+  },
   "trackers": {
     "url": "https://www.islegitsite.com",
     "found": [
@@ -29,6 +35,7 @@
         "host": "pagead2.googlesyndication.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:32.964Z"
+    "tested_at": "2026-09-30T20:40:32.964Z",
+    "last_error": "HTTP 403"
   }
 }

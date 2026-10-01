@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.320Z",
+  "github": {
+    "repo": "Piwigo/Piwigo",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:45.136Z"
+  },
+  "scanned_at": "2026-10-01T07:00:03.376Z",
   "trackers": {
     "url": "https://piwigo.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:48.846Z"
+    "tested_at": "2026-10-01T07:00:03.375Z"
   }
 }

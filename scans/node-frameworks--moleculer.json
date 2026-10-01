@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.597Z",
+  "github": {
+    "repo": "moleculerjs/moleculer",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:11.651Z"
+  },
+  "scanned_at": "2026-10-01T07:02:04.457Z",
   "trackers": {
     "url": "https://moleculer.services",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:21.775Z"
+    "tested_at": "2026-10-01T07:02:04.457Z"
   }
 }

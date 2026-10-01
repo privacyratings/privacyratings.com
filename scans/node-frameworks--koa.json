@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.527Z",
+  "github": {
+    "repo": "koajs/koa",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:05.429Z"
+  },
+  "scanned_at": "2026-10-01T07:01:45.401Z",
   "trackers": {
     "url": "https://koajs.com",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:02.791Z"
+    "tested_at": "2026-10-01T07:01:45.401Z"
   }
 }

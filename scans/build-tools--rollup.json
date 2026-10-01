@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.539Z",
+  "github": {
+    "repo": "rollup/rollup",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:07.003Z"
+  },
+  "scanned_at": "2026-10-01T07:01:47.310Z",
   "trackers": {
     "url": "https://rollupjs.org",
     "found": [],
-    "tested_at": "2026-09-30T20:41:05.027Z"
+    "tested_at": "2026-10-01T07:01:47.310Z"
   }
 }

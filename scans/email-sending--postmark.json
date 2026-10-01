@@ -6,14 +6,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=postmarkapp.com",
-    "tested_at": "2026-09-30T20:22:24.363Z"
+    "tested_at": "2026-10-01T07:01:20.940Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.675Z",
+  "scanned_at": "2026-10-01T07:27:29.076Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=postmarkapp.com&hideResults=on",
-    "tested_at": "2026-09-30T19:42:49.518Z"
+    "tested_at": "2026-10-01T07:27:29.076Z"
   },
   "trackers": {
     "url": "https://postmarkapp.com",
@@ -27,6 +27,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:40.464Z"
+    "tested_at": "2026-10-01T07:02:23.855Z"
   }
 }

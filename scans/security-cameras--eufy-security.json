@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.590Z",
+  "scanned_at": "2026-10-01T07:02:01.682Z",
   "trackers": {
     "url": "https://www.eufy.com/eufy-local-security",
     "found": [
@@ -8,6 +8,6 @@
         "host": "dev.visualwebsiteoptimizer.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:20.031Z"
+    "tested_at": "2026-10-01T07:02:01.682Z"
   }
 }

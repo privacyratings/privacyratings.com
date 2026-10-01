@@ -1,14 +1,26 @@
 {
   "domain": "app.trycomp.ai",
+  "github": {
+    "repo": "trycompai/comp",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:03.586Z"
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.trycomp.ai",
-    "tested_at": "2026-09-30T20:20:59.700Z"
+    "tested_at": "2026-10-01T07:01:01.187Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.503Z",
+  "scanned_at": "2026-10-01T07:07:14.657Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.trycomp.ai&hideResults=on",
+    "tested_at": "2026-10-01T07:07:14.657Z"
+  },
   "trackers": {
     "url": "https://www.trycomp.ai",
     "found": [
@@ -17,6 +29,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:40:57.976Z"
+    "tested_at": "2026-10-01T07:01:41.163Z"
   }
 }

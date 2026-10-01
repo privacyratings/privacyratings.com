@@ -1,17 +1,29 @@
 {
   "domain": "swetrix.com",
+  "github": {
+    "repo": "Swetrix/swetrix",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:39.991Z"
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swetrix.com",
-    "tested_at": "2026-09-30T20:15:32.540Z"
+    "tested_at": "2026-10-01T06:59:41.939Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.264Z",
+  "scanned_at": "2026-10-01T06:59:46.548Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=swetrix.com&hideResults=on",
+    "tested_at": "2026-10-01T06:59:39.332Z"
+  },
   "trackers": {
     "url": "https://swetrix.com",
     "found": [],
-    "tested_at": "2026-09-30T20:39:30.895Z"
+    "tested_at": "2026-10-01T06:59:46.548Z"
   }
 }

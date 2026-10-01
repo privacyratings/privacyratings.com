@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.412Z",
+  "github": {
+    "repo": "hyphanet/fred",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:53.326Z"
+  },
+  "scanned_at": "2026-10-01T07:00:55.550Z",
   "trackers": {
     "url": "https://www.hyphanet.org/",
     "found": [],
-    "tested_at": "2026-09-30T20:40:12.114Z"
+    "tested_at": "2026-10-01T07:00:55.550Z"
   }
 }

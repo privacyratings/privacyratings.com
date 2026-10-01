@@ -21,7 +21,62 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T20:31:21.230Z"
+    "tested_at": "2026-10-01T07:00:21.217Z",
+    "imap": {
+      "host": "imap.aol.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "SASL-IR",
+        "AUTH=PLAIN",
+        "AUTH=XOAUTH2",
+        "AUTH=OAUTHBEARER",
+        "ID",
+        "MOVE",
+        "NAMESPACE",
+        "XYMHIGHESTMODSEQ",
+        "UIDPLUS",
+        "LITERAL+",
+        "CHILDREN",
+        "UNSELECT",
+        "X-MSG-EXT",
+        "OBJECTID",
+        "IDLE",
+        "ENABLE",
+        "UIDONLY",
+        "X-UIDONLY",
+        "LIST-EXTENDED",
+        "LIST-STATUS",
+        "SPECIAL-USE",
+        "PARTIAL",
+        "APPENDLIMIT=41697280"
+      ]
+    },
+    "pop3": {
+      "host": "pop.aol.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "IMPLEMENTATION",
+        "TOP",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.aol.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "SIZE",
+        "AUTH"
+      ]
+    }
   },
   "mail_domain": "aol.com",
   "observatory": {
@@ -30,12 +85,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.aol.com",
-    "tested_at": "2026-09-30T20:19:47.483Z"
+    "tested_at": "2026-10-01T07:00:38.898Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.483Z",
+  "scanned_at": "2026-10-01T07:06:27.385Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.aol.com&hideResults=on",
+    "tested_at": "2026-10-01T07:06:27.385Z"
+  },
   "trackers": {
     "url": "https://mail.aol.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:47.715Z"
+    "tested_at": "2026-10-01T07:01:33.168Z"
   }
 }

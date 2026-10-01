@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.660Z",
+  "github": {
+    "repo": "playframework/playframework",
+    "license": "Apache-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:20.343Z"
+  },
+  "scanned_at": "2026-10-01T07:02:18.354Z",
   "trackers": {
     "url": "https://www.playframework.com",
     "found": [
@@ -15,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:34.556Z"
+    "tested_at": "2026-10-01T07:02:18.353Z"
   }
 }

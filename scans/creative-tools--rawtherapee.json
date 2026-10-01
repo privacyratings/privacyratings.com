@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.455Z",
+  "github": {
+    "repo": "RawTherapee/RawTherapee",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:59.148Z"
+  },
+  "scanned_at": "2026-10-01T07:01:17.466Z",
   "trackers": {
     "url": "https://rawtherapee.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:28.318Z"
+    "tested_at": "2026-10-01T07:01:17.466Z"
   }
 }

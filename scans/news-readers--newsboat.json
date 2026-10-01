@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.307Z",
+  "github": {
+    "repo": "newsboat/newsboat",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:43.876Z"
+  },
+  "scanned_at": "2026-10-01T06:59:59.954Z",
   "trackers": {
     "url": "https://newsboat.org",
     "found": [],
-    "tested_at": "2026-09-30T20:39:45.667Z"
+    "tested_at": "2026-10-01T06:59:59.954Z"
   }
 }

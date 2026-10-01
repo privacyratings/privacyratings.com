@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.567Z",
+  "github": {
+    "repo": "Clipy/Clipy",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.165Z"
+  },
+  "scanned_at": "2026-10-01T07:01:50.421Z",
   "trackers": {
     "url": "https://clipy-app.com",
     "found": [
@@ -14,6 +20,6 @@
         "host": "connect.facebook.net"
       }
     ],
-    "tested_at": "2026-09-30T20:41:09.031Z"
+    "tested_at": "2026-10-01T07:01:50.421Z"
   }
 }

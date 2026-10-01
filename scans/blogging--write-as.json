@@ -1,17 +1,29 @@
 {
   "domain": "write.as",
+  "github": {
+    "repo": "writefreely/writefreely",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:43.319Z"
+  },
   "observatory": {
     "grade": "D-",
     "score": 25,
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=write.as",
-    "tested_at": "2026-09-30T20:15:47.819Z"
+    "tested_at": "2026-10-01T06:59:46.189Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.303Z",
+  "scanned_at": "2026-10-01T06:59:57.851Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=write.as&hideResults=on",
+    "tested_at": "2026-10-01T06:59:40.920Z"
+  },
   "trackers": {
     "url": "https://write.as",
     "found": [],
-    "tested_at": "2026-09-30T20:39:43.890Z"
+    "tested_at": "2026-10-01T06:59:57.851Z"
   }
 }

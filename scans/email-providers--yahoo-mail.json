@@ -5,9 +5,9 @@
       "domain": "yahoo.com",
       "dnssec": false,
       "mx": [
+        "mta7.am0.yahoodns.net",
         "mta6.am0.yahoodns.net",
-        "mta5.am0.yahoodns.net",
-        "mta7.am0.yahoodns.net"
+        "mta5.am0.yahoodns.net"
       ],
       "spf": true,
       "dmarc": "reject",
@@ -23,7 +23,66 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-09-30T05:26:35.256Z"
+    "tested_at": "2026-10-01T07:00:00.197Z",
+    "imap": {
+      "host": "imap.mail.yahoo.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "SASL-IR",
+        "AUTH=PLAIN",
+        "AUTH=XOAUTH2",
+        "AUTH=OAUTHBEARER",
+        "ID",
+        "MOVE",
+        "NAMESPACE",
+        "XYMHIGHESTMODSEQ",
+        "UIDPLUS",
+        "LITERAL+",
+        "CHILDREN",
+        "UNSELECT",
+        "X-MSG-EXT",
+        "OBJECTID",
+        "IDLE",
+        "ENABLE",
+        "UIDONLY",
+        "X-UIDONLY",
+        "LIST-EXTENDED",
+        "LIST-STATUS",
+        "SPECIAL-USE",
+        "PARTIAL",
+        "APPENDLIMIT=41697280"
+      ]
+    },
+    "pop3": {
+      "host": "pop.mail.yahoo.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "IMPLEMENTATION",
+        "EXPIRE-NEVER",
+        "PIPELINING",
+        "RESP-CODES",
+        "TOP",
+        "UIDL",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.mail.yahoo.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "SIZE",
+        "AUTH"
+      ]
+    }
   },
   "mail_domain": "yahoo.com",
   "observatory": {
@@ -32,9 +91,15 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yahoo.com",
-    "tested_at": "2026-09-30T20:19:22.352Z"
+    "tested_at": "2026-10-01T07:00:31.819Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.479Z",
+  "scanned_at": "2026-10-01T07:10:38.076Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.yahoo.com&hideResults=on",
+    "tested_at": "2026-10-01T07:10:38.076Z"
+  },
   "trackers": {
     "url": "https://mail.yahoo.com",
     "found": [
@@ -43,6 +108,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-09-30T20:40:45.471Z"
+    "tested_at": "2026-10-01T07:01:31.122Z"
   }
 }

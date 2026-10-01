@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gandi.net",
-    "tested_at": "2026-09-30T20:17:15.832Z"
+    "tested_at": "2026-10-01T07:00:06.151Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.467Z",
+  "scanned_at": "2026-10-01T07:03:36.878Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.gandi.net&hideResults=on",
+    "tested_at": "2026-10-01T07:03:36.878Z"
+  },
   "trackers": {
     "url": "https://www.gandi.net/en",
     "found": [
@@ -18,6 +24,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:40:38.263Z"
+    "tested_at": "2026-10-01T07:01:24.572Z"
   }
 }

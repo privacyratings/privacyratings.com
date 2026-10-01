@@ -6,9 +6,15 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sec-consult.com",
-    "tested_at": "2026-09-30T20:20:54.063Z"
+    "tested_at": "2026-10-01T07:00:58.792Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.502Z",
+  "scanned_at": "2026-10-01T07:07:14.418Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sec-consult.com&hideResults=on",
+    "tested_at": "2026-10-01T07:07:14.418Z"
+  },
   "trackers": {
     "url": "https://sec-consult.com",
     "found": [
@@ -17,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:57.835Z"
+    "tested_at": "2026-10-01T07:01:41.323Z"
   }
 }

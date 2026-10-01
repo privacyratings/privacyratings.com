@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.341Z",
+  "github": {
+    "repo": "pencil2d/pencil",
+    "license": "GPL-2.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:46.437Z"
+  },
+  "scanned_at": "2026-10-01T07:00:23.244Z",
   "trackers": {
     "url": "https://www.pencil2d.org",
     "found": [
@@ -22,6 +28,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:39:51.718Z"
+    "tested_at": "2026-10-01T07:00:23.244Z"
   }
 }

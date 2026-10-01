@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.650Z",
+  "github": {
+    "repo": "spiral/framework",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:18.250Z"
+  },
+  "scanned_at": "2026-10-01T07:02:15.478Z",
   "trackers": {
     "url": "https://spiral.dev",
     "found": [
@@ -17,6 +23,6 @@
         "host": "snap.licdn.com"
       }
     ],
-    "tested_at": "2026-09-30T20:41:31.592Z"
+    "tested_at": "2026-10-01T07:02:15.478Z"
   }
 }

@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.573Z",
+  "github": {
+    "repo": "mozilla/releases-comm-central",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:09.845Z"
+  },
+  "scanned_at": "2026-10-01T07:01:51.432Z",
   "trackers": {
     "url": "https://www.thunderbird.net/en-US/",
     "found": [],
-    "tested_at": "2026-09-30T20:41:10.101Z"
+    "tested_at": "2026-10-01T07:01:51.431Z"
   }
 }

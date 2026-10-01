@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.620Z",
+  "github": {
+    "repo": "framework7io/framework7",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T07:00:15.059Z"
+  },
+  "scanned_at": "2026-10-01T07:02:09.156Z",
   "trackers": {
     "url": "https://framework7.io",
     "found": [
@@ -28,6 +34,7 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:41:26.744Z"
+    "tested_at": "2026-09-30T20:41:26.744Z",
+    "last_error": "HTTP 403"
   }
 }

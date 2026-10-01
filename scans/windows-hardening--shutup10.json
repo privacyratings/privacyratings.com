@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.436Z",
+  "scanned_at": "2026-10-01T07:01:04.174Z",
   "trackers": {
     "url": "https://www.oo-software.com/en/shutup10",
     "found": [
@@ -12,6 +12,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-09-30T20:40:17.282Z"
+    "tested_at": "2026-10-01T07:01:04.174Z"
   }
 }

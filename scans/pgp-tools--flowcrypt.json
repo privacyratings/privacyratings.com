@@ -1,13 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.393Z",
+  "github": {
+    "repo": "FlowCrypt/flowcrypt-browser",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:59:50.246Z"
+  },
+  "scanned_at": "2026-10-01T07:00:43.466Z",
   "trackers": {
     "url": "https://flowcrypt.com",
-    "found": [
-      {
-        "name": "Mouseflow",
-        "host": "cdn.mouseflow.com"
-      }
-    ],
-    "tested_at": "2026-09-30T20:40:02.666Z"
+    "found": [],
+    "tested_at": "2026-10-01T07:00:43.466Z"
   }
 }

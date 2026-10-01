@@ -33,7 +33,59 @@
         }
       }
     },
-    "tested_at": "2026-09-30T05:26:34.857Z"
+    "tested_at": "2026-10-01T06:59:55.126Z",
+    "imap": {
+      "host": "imap.purelymail.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "LITERAL+",
+        "CHILDREN",
+        "I18NLEVEL=1",
+        "NAMESPACE",
+        "IDLE",
+        "ENABLE",
+        "CONDSTORE",
+        "QRESYNC",
+        "ANNOTATION",
+        "AUTH=PLAIN",
+        "SASL-IR",
+        "RIGHTS=",
+        "WITHIN",
+        "ESEARCH",
+        "ESORT",
+        "SEARCHRES",
+        "SORT",
+        "MOVE",
+        "UIDPLUS",
+        "UNSELECT",
+        "COMPRESS=DEFLATE"
+      ]
+    },
+    "pop3": {
+      "host": "pop3.purelymail.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "PIPELINING",
+        "USER",
+        "STLS"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.purelymail.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "AUTH",
+        "PIPELINING",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "SIZE"
+      ]
+    }
   },
   "mail_domain": "purelymail.com",
   "observatory": {
@@ -42,12 +94,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=purelymail.com",
-    "tested_at": "2026-09-30T20:19:20.870Z"
+    "tested_at": "2026-10-01T07:00:29.077Z"
   },
-  "scanned_at": "2026-09-30T20:41:47.478Z",
+  "scanned_at": "2026-10-01T07:03:56.561Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=purelymail.com&hideResults=on",
+    "tested_at": "2026-10-01T07:03:56.561Z"
+  },
   "trackers": {
     "url": "https://purelymail.com",
     "found": [],
-    "tested_at": "2026-09-30T20:40:45.268Z"
+    "tested_at": "2026-10-01T07:01:30.180Z"
   }
 }
