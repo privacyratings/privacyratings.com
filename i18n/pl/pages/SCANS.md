@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Testy automatyczne
 
 Usługi hostowane (kategorie z `type: service`) są testowane automatycznie, gdy ich plik oceny zawiera pole `domain`. Dostawcy poczty i usługi przekierowania z polem `mail_domain` otrzymują też test poczty.

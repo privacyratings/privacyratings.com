@@ -1,6 +1,6 @@
 ---
 title: Jurisdictions, Five Eyes and privacy
-description: Where rated companies are based, which countries are in the Five, Nine and Fourteen Eyes, and why Privacy Ratings shows jurisdiction but scores what providers actually do.
+description: Where rated companies are based, which countries are in the Five, Nine and Fourteen Eyes, and why Privacy Ratings shows jurisdiction but scores what providers do.
 ---
 
 # Jurisdictions, Five Eyes and privacy
@@ -27,12 +27,12 @@ Sources: [UKUSA Agreement](https://en.wikipedia.org/wiki/UKUSA_Agreement), [Forw
 
 ## How Privacy Ratings handles it
 
-**Jurisdiction is shown, not scored.** Location alone is a weak signal:
+**Jurisdiction appears on each page but does not affect the score.** Location alone is a weak signal:
 
 - Proton, in Switzerland and outside all Eyes arrangements, complied with 8,313 of 9,301 legal orders in its most recent yearly report. [Source](https://proton.me/legal/transparency)
 - Proton VPN, same company and same country, complied with none because it keeps no logs. [Source](https://proton.me/legal/transparency)
 - Mullvad, in Fourteen Eyes Sweden, has passed audits confirming its VPN servers keep no customer data. [Source](https://mullvad.net/en/blog/vpn-server-audit-found-no-information-leakage-or-logging-of-customer-data)
 
-What a provider can hand over depends on what data it keeps and who holds the keys. So the scores measure that: encryption, logging, audits, **transparency reports** and **user notice**. Each page still shows the country, its Eyes membership, EU or GDPR coverage, and whether the [CLOUD Act](/cloud-act/) applies, so readers can weigh jurisdiction themselves.
+The data a provider keeps, and who holds the keys, decide what it can hand over. The scores measure those things: encryption, logging, audits, **transparency reports** and **user notice**. Each page still shows the country, its Eyes membership, EU or GDPR coverage, and whether the [CLOUD Act](/cloud-act/) applies, so you can weigh jurisdiction yourself.
 
 ## Countries

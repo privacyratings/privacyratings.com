@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Lý do Privacy Ratings tồn tại
 
 Các hướng dẫn về quyền riêng tư giúp hàng triệu người chọn ứng dụng và dịch vụ tốt hơn. Nhiều hướng dẫn làm rất tốt. Nhưng phần lớn có chung những điểm yếu:

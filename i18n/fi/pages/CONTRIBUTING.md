@@ -1,4 +1,4 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # Osallistuminen
 
 Kaikki tapahtuu GitHubissa. Muuta foorumia, chattia tai rekisteröitävää tiliä ei ole.

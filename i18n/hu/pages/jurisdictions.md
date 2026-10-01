@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Joghatóságok, Five Eyes és adatvédelem
 
 Minden vállalat annak az országnak a törvényeit követi, ahol a székhelye van. Ezek a törvények határozzák meg, mely hatóságok követelhetnek adatokat, milyen eljárásra van ehhez szükségük, és tájékoztathatja-e a vállalat a felhasználókat. A Privacy Ratings minden vállalat joghatóságát feltünteti az értékelő oldalán, a kategóriatáblázatokban és az alábbi országoldalakon.

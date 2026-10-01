@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Yönetişim
 
 Kararların nasıl alındığı, editörün seçimlerinin nasıl yapıldığı ve çıkar çatışmalarının nasıl ele alındığı.

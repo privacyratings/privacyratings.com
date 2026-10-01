@@ -1,7 +1,7 @@
-<!-- source: 2f40b8f7e8ef -->
+<!-- source: 37558129142b -->
 # Vad är CLOUD Act?
 
-**Clarifying Lawful Overseas Use of Data Act (CLOUD Act)** är en amerikansk lag som besvarar en fråga: kan amerikanska myndigheter få ut data från ett amerikanskt företag när dessa data lagras i ett annat land? Svaret är ja.
+**Clarifying Lawful Overseas Use of Data Act (CLOUD Act)** är en amerikansk lag som låter amerikanska myndigheter få ut data från ett amerikanskt företag när dessa data lagras i ett annat land.
 
 ## Vad lagen gör
 
@@ -21,11 +21,11 @@ Avtal gäller med **Storbritannien** och **Australien**. Förhandlingar har till
 
 Alla företag som omfattas av amerikansk jurisdiktion: Google, Microsoft, Apple, Amazon, Cloudflare och mindre amerikanska tjänster, inklusive Forward Email. Se [alla bedömda tjänster baserade i USA](/jurisdictions/united-states/).
 
-Lagen kan också nå **icke-amerikanska tjänster som lagrar data hos amerikanska molnleverantörer**, eftersom molnleverantören själv kan få en begäran. Därför är den användbara frågan inte bara ”var finns företaget?” utan också ”vilka data finns, och vem har nycklarna?”
+Lagen kan också nå **icke-amerikanska tjänster som lagrar data hos amerikanska molnleverantörer**, eftersom molnleverantören själv kan få en begäran. De användbara frågorna är därför var företaget är baserat, vilka data som finns och vem som har nycklarna.
 
 ## Varför kryptering och minimala data betyder mer än platsen
 
-Lagar ändras, och varje land har ett sätt att tvinga fram data. Det viktigaste är vad en leverantör **kan** lämna ut:
+Lagar ändras, och varje land har ett sätt att tvinga fram data. Det avgörande är vad en leverantör **kan** lämna ut:
 
 | Situation | Vad en begäran kan nå |
 | --- | --- |
@@ -34,13 +34,13 @@ Lagar ändras, och varje land har ett sätt att tvinga fram data. Det viktigaste
 | E-post krypterad med nycklar som härleds från användarens lösenord | Kontouppgifter och anslutningsdata, inte meddelandenas innehåll |
 | Inga loggar sparas | Ingenting om aktivitet |
 
-Verkliga exempel:
+Exempel:
 
 - **Proton (Schweiz, utanför alla Eyes-samarbeten)** efterkom 8 313 av 9 301 schweiziska rättsliga beslut i sin senaste årsrapport och lämnade ut kontoinformation som företaget har. [Källa: Protons transparensrapport](https://proton.me/legal/transparency)
 - **Proton VPN (samma företag, samma land)** efterkom inga, eftersom tjänsten inte sparar några loggar. [Källa: Protons transparensrapport](https://proton.me/legal/transparency)
 - **Tuta (Tyskland)** kan av en tysk domare beordras att lämna ut brevlådor eller övervaka dem i realtid. Totalsträckskrypterad e-post förblir krypterad. [Källa: Tutas transparensrapport](https://tuta.com/blog/transparency-report)
 
-Samma företag i samma land får mycket olika resultat beroende på vilka data som finns. Därför visar Privacy Ratings jurisdiktionen på varje sida men poängsätter vad leverantörerna faktiskt gör. Se [hur jurisdiktion hanteras](/jurisdictions/).
+Samma företag i samma land får olika resultat beroende på vilka data som finns. Därför visar Privacy Ratings jurisdiktionen i varje bedömning och poängsätter vad leverantörerna gör. Se [hur jurisdiktion hanteras](/jurisdictions/).
 
 ## Hur CLOUD Act gäller för Forward Email
 
@@ -50,7 +50,7 @@ Forward Email är baserat i USA och omfattas av CLOUD Act. Dess [tekniska whitep
 - **Ingen loggning av e-postinnehåll eller metadata till disk.** Forward Email sparar inga uppgifter om vem användarna skriver till.
 - **Begränsade data.** Det som skulle kunna lämnas ut är grundläggande kontoinformation (som kontots e-postadress, registreringsdatum och betalningsuppgifter) och begränsade loggar över IP-adresser som kan sparas tillfälligt för säkerhet och förebyggande av missbruk.
 - **Endast giltiga rättsliga förfaranden.** Förfrågningar kräver en stämning, ett domstolsbeslut eller ett husrannsakningsbeslut. Förfrågningar från utanför USA måste komma via en amerikansk domstol, ett avtal om ömsesidig rättslig hjälp eller ett CLOUD Act-avtal som uppfyller amerikanska rättsliga krav.
-- **Information och invändningar.** Användarna informeras när lagen tillåter det, och alltför breda förfrågningar bestrids.
+- **Information och invändningar.** Forward Email informerar användarna när lagen tillåter det och bestrider alltför breda förfrågningar.
 
 Forward Email förvaltar Privacy Ratings. Dess bedömning använder samma kriterier som för alla andra leverantörer. Se [bedömningen av Forward Email](/email-providers/forward-email/) och [reglerna för styrning](/governance/).
 

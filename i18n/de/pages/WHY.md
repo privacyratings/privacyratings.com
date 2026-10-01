@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Warum es Privacy Ratings gibt
 
 Datenschutz-Leitfäden helfen Millionen Menschen, bessere Apps und Dienste zu wählen. Viele leisten hervorragende Arbeit. Doch die meisten teilen dieselben Schwächen:

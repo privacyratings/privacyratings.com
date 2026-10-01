@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Khu vực pháp lý, Five Eyes và quyền riêng tư
 
 Mọi công ty đều tuân theo luật của quốc gia nơi công ty đặt trụ sở. Những luật đó quyết định cơ quan nào có thể yêu cầu dữ liệu, cần quy trình gì, và công ty có được thông báo cho người dùng hay không. Privacy Ratings hiển thị khu vực pháp lý của mỗi công ty trên trang đánh giá, trong bảng danh mục và trên các trang quốc gia bên dưới.

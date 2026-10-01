@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Kiểm tra tự động
 
 Các dịch vụ được lưu trữ (danh mục có `type: service`) được kiểm tra tự động khi tệp đánh giá của chúng có `domain`. Nhà cung cấp email và dịch vụ chuyển tiếp có `mail_domain` cũng được kiểm tra email.

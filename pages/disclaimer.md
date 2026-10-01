@@ -9,11 +9,11 @@ Privacy Ratings is an informational resource. Please read this page before relyi
 
 ## Ratings can be wrong
 
-Ratings, grades, scores, test results, jurisdictions and descriptions are compiled from public sources and automated tests. Products, policies, ownership and laws change often, sources can be incomplete, and mistakes happen. **Any information on this site may be inaccurate, incomplete or out of date.** Always check the linked evidence and the provider's own documentation before making a decision.
+Ratings, grades, scores, test results, jurisdictions and descriptions are compiled from public sources and automated tests. Products, policies, ownership and laws change often, sources can be incomplete, and mistakes happen. **Any information on this site may be inaccurate, incomplete or out of date.** Check the linked evidence and the provider's own documentation before making a decision.
 
 ## Anyone can submit a correction
 
-If something is wrong, [open a correction on GitHub](https://github.com/privacyratings/privacyratings.com/issues/new?template=correction.yml) or use "Report a correction" on any rating page. Vendors are welcome to submit evidence for their own products. Corrections are reviewed in public under the [governance rules](/governance/).
+If something is wrong, [open a correction on GitHub](https://github.com/privacyratings/privacyratings.com/issues/new?template=correction.yml) or use "Report a correction" on any rating page. Vendors are welcome to submit evidence for their own products. Maintainers review corrections in public under the [governance rules](/governance/).
 
 ## Not advice
 
@@ -25,7 +25,7 @@ This site and its data are provided "as is" and "as available", without warranti
 
 ## Trademarks and third-party content
 
-Product names, logos and trademarks belong to their owners and are used only to identify the products being rated. Their use does not imply affiliation or endorsement. Linked third-party sites are outside our control and are covered by their own terms and policies.
+Product names, logos and trademarks belong to their owners and are used only to identify the products being rated. Their use does not imply affiliation or endorsement. Linked third-party sites are outside the control of Privacy Ratings and are covered by their own terms and policies.
 
 ## Conflicts of interest
 

@@ -6,7 +6,7 @@ website: https://www.datapacket.com
 domain: www.datapacket.com
 pick: true
 pick_reason: >-
-  Dedicated hardware on its own network, open port 25, configurable reverse DNS and native IPv6. A solid base for running mail servers without sharing hardware with other customers.
+  Dedicated hardware on its own network, open port 25, configurable reverse DNS and native IPv6. Suited to running mail servers without sharing hardware with other customers.
 criteria:
   port_25:
     answer: yes

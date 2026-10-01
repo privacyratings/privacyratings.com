@@ -1,4 +1,4 @@
-<!-- source: d8cb2828f7f2 -->
+<!-- source: 0525a4f38455 -->
 # Haftungsausschluss
 
 Privacy Ratings ist eine Informationsquelle. Bitte lesen Sie diese Seite, bevor Sie sich auf etwas verlassen, das hier veröffentlicht ist.

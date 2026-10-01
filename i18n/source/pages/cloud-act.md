@@ -1,7 +1,7 @@
-<!-- source: 2f40b8f7e8ef -->
+<!-- source: 37558129142b -->
 # What is the CLOUD Act?
 
-The **Clarifying Lawful Overseas Use of Data Act (CLOUD Act)** is a US law that answers one question: can US authorities get data from a US company when that data is stored in another country? The answer is yes.
+The **Clarifying Lawful Overseas Use of Data Act (CLOUD Act)** is a US law that lets US authorities get data from a US company when that data is stored in another country.
 
 ## What it does
 
@@ -21,11 +21,11 @@ Agreements are in force with the **United Kingdom** and **Australia**. Negotiati
 
 Every company subject to US jurisdiction: Google, Microsoft, Apple, Amazon, Cloudflare, and smaller US services, including Forward Email. See [all rated services based in the United States](/jurisdictions/united-states/).
 
-It can also reach **non-US services that store data with US cloud providers**, since the cloud provider itself can receive a request. This is why the useful question is not only "where is the company?" but also "what data exists, and who holds the keys?"
+It can also reach **non-US services that store data with US cloud providers**, since the cloud provider itself can receive a request. So the useful questions are where the company is based, what data exists, and who holds the keys.
 
 ## Why encryption and minimal data matter more than location
 
-Laws change, and every country has a way to compel data. What matters most is what a provider **can** hand over:
+Laws change, and every country has a way to compel data. The deciding factor is what a provider **can** hand over:
 
 | Situation | What a request can reach |
 | --- | --- |
@@ -34,13 +34,13 @@ Laws change, and every country has a way to compel data. What matters most is wh
 | Mail encrypted with keys derived from the user's password | Account details and connection data, not message contents |
 | No logs kept | Nothing about activity |
 
-Real examples:
+Examples:
 
 - **Proton (Switzerland, outside all Eyes arrangements)** complied with 8,313 of 9,301 Swiss legal orders in its most recent yearly report, providing account information it holds. [Source: Proton transparency report](https://proton.me/legal/transparency)
 - **Proton VPN (same company, same country)** complied with none, because it keeps no logs. [Source: Proton transparency report](https://proton.me/legal/transparency)
 - **Tuta (Germany)** can be ordered by a German judge to hand over mailboxes or monitor them in real time. End-to-end encrypted mail stays encrypted. [Source: Tuta transparency report](https://tuta.com/blog/transparency-report)
 
-The same company in the same country gets very different results depending on what data exists. That is why Privacy Ratings shows jurisdiction on every page but scores what providers actually do. See [how jurisdiction is handled](/jurisdictions/).
+The same company in the same country gets different results depending on what data exists. For that reason Privacy Ratings shows jurisdiction on each rating and scores what providers do. See [how jurisdiction is handled](/jurisdictions/).
 
 ## How the CLOUD Act applies to Forward Email
 
@@ -50,7 +50,7 @@ Forward Email is based in the United States and is subject to the CLOUD Act. Its
 - **No logging of email content or metadata to disk.** Forward Email does not keep records of who users write to.
 - **Limited data.** What could be disclosed is basic account information (such as the account email address, sign-up date and payment details) and limited IP address logs that may be kept temporarily for security and abuse prevention.
 - **Valid legal process only.** Requests need a subpoena, court order or search warrant. Requests from outside the US must come through a US court, a mutual legal assistance treaty, or a CLOUD Act agreement that meets US legal requirements.
-- **Notice and challenges.** Users are notified when the law allows, and overbroad requests are challenged.
+- **Notice and challenges.** Forward Email notifies users when the law allows and challenges overbroad requests.
 
 Forward Email maintains Privacy Ratings. Its rating uses the same criteria as every other provider. See [the Forward Email rating](/email-providers/forward-email/) and [the governance rules](/governance/).
 

@@ -1,7 +1,7 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # Jak přispět
 
-Vše probíhá na GitHubu. Neexistuje žádné jiné fórum, chat ani účet, ke kterému byste se museli registrovat.
+Příspěvky probíhají na GitHubu, bez jakéhokoli jiného fóra, chatu nebo účtu, ke kterému byste se museli registrovat.
 
 | Co chcete udělat | Co použít |
 | --- | --- |
@@ -46,14 +46,14 @@ criteria:
 Optional notes in Markdown.
 ```
 
-Pravidla (automaticky kontrolovaná pomocí `npm test`):
+`npm test` kontroluje tato pravidla:
 
 - `answer` je jedna z hodnot `yes`, `partial`, `no`, `unknown` nebo `n/a`.
 - `yes` a `partial` potřebují odkaz `evidence`. `no` potřebuje `note` nebo `evidence`.
-- Důkazy musí pocházet z primárního zdroje: oficiální dokumentace, zdrojový kód, licenční soubor, zpráva z auditu nebo reprodukovatelný test. Ne recenze, příspěvky na fórech ani marketingové stránky bez podrobností.
+- Důkazy musí pocházet z primárního zdroje: oficiální dokumentace, zdrojový kód, licenční soubor, zpráva z auditu nebo reprodukovatelný test. Recenze, příspěvky na fórech a marketingové stránky bez podrobností se nepočítají.
 - Odkazy musí začínat `https://` a nesmí obsahovat referral ani sledovací parametry.
-- Automatická kritéria (`tls`, `security_headers`, `web_standards`, `mail_standards`, `imap_standards`, `pop3_standards`, `smtp_standards`, `transport_security`) vyplňují testy. Nenastavujte je ručně.
-- `no_trackers` kontroluje také [test sledovačů](SCANS.md#website-trackers). Pokud domovská stránka načítá sledovač třetí strany, odpověď bude „no“ bez ohledu na obsah souboru.
+- Automatické testy vyplňují svá kritéria (`tls`, `security_headers`, `web_standards`, `mail_standards`, `imap_standards`, `pop3_standards`, `smtp_standards`, `transport_security`). Nenastavujte je ručně.
+- [Test sledovačů](SCANS.md#website-trackers) kontroluje také `no_trackers`. Pokud domovská stránka načítá sledovač třetí strany, odpověď bude „no“ bez ohledu na obsah souboru.
 - Vynechte každé kritérium, pro které zatím nemáte důkazy. Počítá se jako `unknown`.
 - `jurisdiction` je místo, kde má společnost právní sídlo (nikoli kde jsou její servery). Pokud země chybí, přidejte ji do [`jurisdictions.yml`](jurisdictions.yml). Každá poznámka tam potřebuje zdroj.
 - `pick`, `pick_reason` a `disclosure` přidávají pouze správci. Pro seřazení dvou voleb použijte `pick: 1` a `pick: 2`. Viz [GOVERNANCE.md](GOVERNANCE.md).
@@ -72,7 +72,7 @@ Tím vznikne soubor, ve kterém jsou všechna kritéria uvedena jako `unknown`. 
 
 ## Styl psaní
 
-- Jednoduchý, neutrální jazyk. Popisujte, co něco dělá, ne jak je to skvělé.
+- Jednoduchý, neutrální jazyk. Popisujte, co něco dělá, bez chvály.
 - Krátké věty. Popisy mají méně než 300 znaků.
 - Žádná první osoba, žádná data v textu, žádná marketingová tvrzení.
 - Věci pojmenovávejte tak, jak to dělá výrobce.
@@ -89,7 +89,7 @@ npm run serve      # preview at http://localhost:8080
 
 ## Přidání stránky
 
-Vložte soubor Markdown s `title` a `description` do [`pages/`](pages/). Zveřejní se na `/<file-name>/` spolu s kopií v Markdownu, strukturovanými daty a záznamem v mapě webu.
+Vložte soubor Markdown s `title` a `description` do [`pages/`](pages/). Sestavení ho zveřejní na `/<file-name>/` spolu s kopií v Markdownu, strukturovanými daty a záznamem v mapě webu.
 
 ## Přidání kategorie nebo kritéria
 
@@ -109,7 +109,7 @@ Web vychází ve 25 jazycích. Zdrojem je angličtina a každý další jazyk je
 | `entries.json` | Popisy hodnocení, zdůvodnění doporučení a prohlášení o střetu zájmů |
 | `pages/*.md` | Celé dokumenty, jako je tento |
 
-Každý soubor JSON přiřazuje anglickému textu jeho překlad. Když se anglický text změní, starý překlad už neodpovídá, a proto se zobrazuje angličtina, dokud někdo nový text nepřeloží. Nic zastaralého se nikdy nezobrazí.
+Každý soubor JSON přiřazuje anglickému textu jeho překlad. Když se anglický text změní, starý překlad už neodpovídá, a proto web zobrazuje angličtinu, dokud někdo nový text nepřeloží, a nikdy nezobrazí zastaralý překlad.
 
 1. Spusťte `npm run build`. Zapíše aktuální anglické seznamy do `i18n/source/`.
 2. Spusťte `npm run i18n:check` a zjistěte, co v jednotlivých jazycích chybí, nebo `node scripts/i18n-check.js de ui` pro podrobnosti o jednom jazyce a souboru.

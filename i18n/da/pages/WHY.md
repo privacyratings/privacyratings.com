@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Hvorfor Privacy Ratings findes
 
 Guider om privatliv hjælper millioner af mennesker med at vælge bedre apps og tjenester. Mange gør et fremragende stykke arbejde. Men de fleste har de samme svagheder:

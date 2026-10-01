@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Miksi Privacy Ratings on olemassa
 
 Tietosuojaoppaat auttavat miljoonia ihmisiä valitsemaan parempia sovelluksia ja palveluita. Monet tekevät erinomaista työtä. Useimmilla on kuitenkin samat heikkoudet:

@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Otomatik testler
 
 Barındırılan hizmetler (`type: service` olan kategoriler), değerlendirme dosyalarında bir `domain` bulunduğunda otomatik olarak test edilir. `mail_domain` alanı olan e-posta sağlayıcıları ve yönlendirme hizmetleri ayrıca bir e-posta testinden de geçer.

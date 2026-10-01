@@ -7,4 +7,4 @@
 - **Security problems:** see [SECURITY.md](../SECURITY.md). Never report them in public.
 - **News:** follow [@privacyratings on X](https://x.com/privacyratings).
 
-How to contribute is in [CONTRIBUTING.md](../CONTRIBUTING.md).
+[CONTRIBUTING.md](../CONTRIBUTING.md) explains how to contribute.

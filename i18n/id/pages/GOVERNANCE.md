@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Tata kelola
 
 Cara keputusan dibuat, cara pilihan ditentukan, dan cara konflik kepentingan ditangani.

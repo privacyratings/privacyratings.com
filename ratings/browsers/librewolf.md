@@ -1,6 +1,6 @@
 ---
 name: LibreWolf
-description: Independent fork of Firefox with privacy-focused default settings. Telemetry is removed, uBlock Origin is included and Resist Fingerprinting is enabled.
+description: Independent fork of Firefox with telemetry removed, uBlock Origin included and Resist Fingerprinting enabled by default.
 website: https://librewolf.net
 source: https://codeberg.org/librewolf/source
 criteria:

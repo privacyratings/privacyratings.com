@@ -1,6 +1,6 @@
 ---
 name: Authenticator
-description: Simple open source two-factor authentication app for iOS that stores secrets encrypted in the iOS keychain. The app never connects to the internet.
+description: Open source two-factor authentication app for iOS that stores secrets encrypted in the iOS keychain. The app never connects to the internet.
 website: https://mattrubin.me/authenticator/
 source: https://github.com/mattrubin/Authenticator
 imported_from: awesome-privacy

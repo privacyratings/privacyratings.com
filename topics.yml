@@ -25,11 +25,11 @@
     Services funded by advertising are left out of this list. See [all email providers](/email-providers/) for the full comparison, including Gmail and Outlook.com.
   faq:
     - q: What is the most private email service?
-      a: The most private services encrypt stored mail, publish their code, have no ads or trackers, and have been independently audited. The list above is ranked by those criteria, with our picks first. Always check the evidence for the features you need.
+      a: The most private services encrypt stored mail, publish their code, have no ads or trackers, and have been independently audited. The list above is ranked by those criteria, with our picks first. Check the evidence for the features you need.
     - q: Is Gmail private?
       a: Gmail scans mail for spam and security, uses account activity across Google services for advertising, and does not encrypt stored mail with a key only you hold. See the full Gmail rating and private alternatives to Gmail.
     - q: Does jurisdiction matter for private email?
-      a: Jurisdiction decides which laws can compel a provider to hand over data, but what a provider can hand over depends mostly on what it stores and who holds the keys. Each rating shows the country, Eyes alliance membership and whether the CLOUD Act applies.
+      a: Jurisdiction decides which laws can compel a provider to hand over data. The data it can hand over depends mostly on what it stores and who holds the keys. Each rating shows the country, Eyes alliance membership and whether the CLOUD Act applies.
 
 - slug: secure-email
   title: "Secure email: encrypted, audited email services compared"
@@ -148,7 +148,7 @@
   require: { no_logs_audited: [yes, partial] }
   limit: 20
   intro: |
-    Every VPN claims not to keep logs. This list includes only VPNs whose no-logs policy has been checked by an independent audit (yes) or is at least published (partial), with the report linked on each page.
+    Most VPNs claim not to keep logs. This list includes only VPNs with a no-logs policy checked by an independent audit (yes) or at least published (partial), with the report linked on each page.
   faq:
     - q: Can a VPN see my traffic?
       a: Yes. A VPN sees where your traffic goes instead of your internet provider, which is why an audited no-logs policy, anonymous payment and open-source apps matter.
@@ -160,7 +160,7 @@
   categories: [password-managers]
   limit: 25
   intro: |
-    A password manager holds the keys to everything else, so its code, encryption and audits matter more than features. Every password manager below is rated on the same public criteria.
+    A password manager stores the logins to your other accounts, so its code, encryption and audits matter more than its features. Every password manager below is rated on the same public criteria.
   faq:
     - q: Are open-source password managers safer?
       a: Open source lets anyone check how vaults are encrypted. Combined with independent audits and end-to-end encryption, it is the strongest evidence of security.
@@ -172,7 +172,7 @@
   categories: [cloud-storage]
   limit: 30
   intro: |
-    Private cloud storage keeps your files away from advertising and, ideally, encrypts them with keys only you hold. For storage you run yourself, see [file sync and backup](/file-sync/).
+    Private cloud storage keeps your files away from advertising, and the best services encrypt them with keys only you hold. For storage you run yourself, see [file sync and backup](/file-sync/).
   faq:
     - q: Is Google Drive private?
       a: Google Drive does not use file contents for ads, but files are not end-to-end encrypted by default and Google can access them. See Google Drive alternatives.

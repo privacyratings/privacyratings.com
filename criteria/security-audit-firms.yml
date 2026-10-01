@@ -25,7 +25,7 @@
   yes: Regular public research, advisories or open-source tools.
   partial: Occasional publications.
   no: None.
-  why: Published research shows real expertise and helps defenders.
+  why: Published research shows expertise and helps defenders.
   verify: Link the research or advisories page.
 
 - id: no_trackers

@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Jurisdições, Five Eyes e privacidade
 
 Toda empresa segue as leis do país onde está sediada. Essas leis definem quais autoridades podem exigir dados, qual procedimento precisam seguir e se a empresa pode avisar os usuários. O Privacy Ratings mostra a jurisdição de cada empresa na sua página de avaliação, nas tabelas das categorias e nas páginas de países abaixo.

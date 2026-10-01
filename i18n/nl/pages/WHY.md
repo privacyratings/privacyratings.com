@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Waarom Privacy Ratings bestaat
 
 Privacygidsen helpen miljoenen mensen betere apps en diensten te kiezen. Veel ervan doen uitstekend werk. Maar de meeste hebben dezelfde zwakke punten:

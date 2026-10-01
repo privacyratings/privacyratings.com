@@ -38,7 +38,7 @@
   yes: Funded by payments, donations or grants. No ads, no data sales, and no sharing of user data with ad networks.
   partial: No ads based on user data and no data sales, but ads are opt-in or contextual, or the vendor shares website or app data with ad networks to advertise its own product (retargeting).
   no: Funded by advertising, shows ads based on user data, or sells or shares user data for other companies' advertising.
-  why: When ads pay the bills, collecting data about you is part of the business.
+  why: An ad-funded product earns more when it collects more data about you.
   verify: Link the pricing page, funding page or privacy policy.
 
 - id: independent_audit
@@ -59,7 +59,7 @@
   yes: Publishes a transparency report with request counts and outcomes, updated at least once a year.
   partial: Publishes a policy on requests or a warrant canary, but no counts.
   no: Publishes nothing about government requests.
-  why: Jurisdiction alone says little. What a provider actually hands over, and how often, shows how well it protects users under the law it lives with.
+  why: Jurisdiction alone says little. Request counts and outcomes show how much a provider hands over, and how often, under its local law.
   verify: Link the transparency report or government request policy.
 
 - id: user_notice

@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Automatikus tesztek
 
 A hosztolt szolgáltatásokat (a `type: service` típusú kategóriákban) automatikusan teszteljük, ha az értékelőfájljukban szerepel `domain`. A `mail_domain` mezővel rendelkező e-mail-szolgáltatók és továbbítószolgáltatások e-mail-tesztet is kapnak.

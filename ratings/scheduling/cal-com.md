@@ -7,7 +7,7 @@ jurisdiction: US
 platforms:
   - web
 pick: 1
-pick_reason: Booking pages, team round-robin, routing forms and workflows with calendar and video integrations, in a mature hosted service. The MIT-licensed Cal.diy edition covers self-hosting for anyone who needs to run it on their own server.
+pick_reason: Booking pages, team round-robin, routing forms and workflows with calendar and video integrations, in a hosted service. The MIT-licensed Cal.diy edition covers self-hosting on your own server.
 criteria:
   open_source:
     answer: no

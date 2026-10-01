@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Rechtsordnungen, Five Eyes und Datenschutz
 
 Jedes Unternehmen folgt den Gesetzen des Landes, in dem es seinen Sitz hat. Diese Gesetze bestimmen, welche Behörden Daten verlangen können, welches Verfahren sie dafür brauchen und ob das Unternehmen Nutzer informieren darf. Privacy Ratings zeigt die Rechtsordnung jedes Unternehmens auf seiner Bewertungsseite, in den Kategorietabellen und auf den Länderseiten unten.

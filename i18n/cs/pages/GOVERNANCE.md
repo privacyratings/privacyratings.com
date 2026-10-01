@@ -1,11 +1,11 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Správa projektu
 
-Jak se přijímají rozhodnutí, jak se vybírají naše volby a jak se řeší střet zájmů.
+Pravidla pro rozhodování, naše volby a střet zájmů.
 
 ## Správci
 
-Správci kontrolují a slučují pull requesty, třídí issues a moderují Discussions. Správci jsou uvedeni v souboru [`.github/CODEOWNERS`](.github/CODEOWNERS). Správcem se může stát kdokoli, kdo má za sebou řadu přesných a dobře podložených příspěvků.
+Správci kontrolují a slučují pull requesty, třídí issues a moderují Discussions. Uvádí je soubor [`.github/CODEOWNERS`](.github/CODEOWNERS). Správcem se může stát kdokoli, kdo má za sebou řadu přesných a dobře podložených příspěvků.
 
 ## Jak se přijímají změny
 
@@ -17,20 +17,19 @@ Správci kontrolují a slučují pull requesty, třídí issues a moderují Disc
 
 ## Změny kritérií
 
-Kritéria určují každé skóre, takže změny v `criteria/` vyžadují větší péči:
+Kritéria určují každé skóre, takže pro změny v `criteria/` platí přísnější pravidla:
 
 - Nejprve otevřete issue „Criteria change“ nebo diskuzi v Discussions.
 - Pull request zůstává otevřený alespoň 7 dní pro veřejné připomínky.
 - Musí ho schválit dva správci.
-- Identifikátory kritérií se po zveřejnění nikdy nepřejmenovávají. Kritérium se vyřazuje odstraněním v pull requestu, který vysvětlí proč.
+- Po zveřejnění si identifikátor kritéria ponechává svůj název. Kritérium se vyřazuje odstraněním v pull requestu, který vysvětlí proč.
 
 ## Naše volby
 
-- Každá kategorie může mít až dvě naše volby.
 - Volba musí mít `pick_reason`, který výběr srozumitelně vysvětluje.
 - Každá kategorie má nejvýše dvě volby, seřazené pomocí `pick: 1` a `pick: 2`.
-- Naše volby jsou redakční. Zobrazují se odděleně a nikdy nemění skóre.
-- Kdokoli může volbu zpochybnit v kategorii Discussions „Picks“. Na námitky se odpovídá veřejně.
+- Naše volby jsou redakční. Web je zobrazuje odděleně a nikdy nemění skóre.
+- Kdokoli může volbu zpochybnit v kategorii Discussions „Picks“. Správci na námitky odpovídají veřejně.
 
 ## Střet zájmů
 
@@ -40,7 +39,7 @@ Pravidla pro spřízněné položky:
 
 - Každá spřízněná položka nese `disclosure`, které se zobrazuje v horní části její stránky.
 - Pull request, který zvyšuje skóre spřízněné položky nebo z ní dělá naši volbu, musí u každé změněné odpovědi odkazovat na důkazy a před sloučením zůstat otevřený alespoň 7 dní.
-- Pull request, který snižuje skóre spřízněné položky s platnými důkazy, se slučuje jako kterýkoli jiný.
+- Správci slučují pull request, který snižuje skóre spřízněné položky s platnými důkazy, jako kterýkoli jiný.
 - Správci musí přidat upozornění ke každé položce, se kterou mají oni nebo jejich zaměstnavatel finanční či osobní spojení.
 
 ## Peníze

@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Testes automatizados
 
 Os serviços hospedados (categorias com `type: service`) são testados automaticamente quando seu arquivo de avaliação tem um `domain`. Provedores de e-mail e serviços de encaminhamento com um `mail_domain` também passam por um teste de e-mail.

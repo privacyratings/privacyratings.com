@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Tests automatisés
 
 Les services hébergés (catégories avec `type: service`) sont testés automatiquement lorsque leur fichier d'évaluation contient un `domain`. Les fournisseurs d'e-mail et les services de transfert qui ont un `mail_domain` font aussi l'objet d'un test e-mail.

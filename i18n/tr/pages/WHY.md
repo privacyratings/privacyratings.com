@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Privacy Ratings neden var
 
 Gizlilik rehberleri milyonlarca insanın daha iyi uygulamalar ve hizmetler seçmesine yardımcı olur. Birçoğu mükemmel iş çıkarır. Ancak çoğunun zayıf yönleri ortaktır:

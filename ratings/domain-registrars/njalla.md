@@ -1,6 +1,6 @@
 ---
 name: Njalla
-description: Privacy-focused domain service run by njalla.srl in Costa Rica. Njalla registers domains in its own name and grants customers full usage rights, and accepts cryptocurrency.
+description: Domain service run by njalla.srl in Costa Rica. Njalla registers domains in its own name and grants customers full usage rights, and accepts cryptocurrency.
 website: https://njal.la/domains/
 jurisdiction: CR
 domain: njal.la

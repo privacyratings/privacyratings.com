@@ -1,6 +1,6 @@
 ---
 name: Firefox Focus
-description: Private browser from Mozilla for Android and iOS that blocks trackers by default and erases history, cookies and passwords with one tap. Sold as Firefox Klar in some countries.
+description: Browser from Mozilla for Android and iOS that blocks trackers by default and erases history, cookies and passwords with one tap. Sold as Firefox Klar in some countries.
 website: https://www.firefox.com/en-US/mobile/focus/
 family: mozilla
 source: https://github.com/mozilla-firefox/firefox/tree/main/mobile/android/focus-android
@@ -27,7 +27,7 @@ criteria:
   tracker_blocking:
     answer: yes
     evidence: https://www.firefox.com/en-US/mobile/focus/
-    note: Blocks a wide range of trackers by default, including advertising, analytics and social trackers.
+    note: Blocks advertising, analytics, social and other trackers by default.
   fingerprinting_protection:
     answer: no
     note: Blocks known fingerprinting scripts, but no randomization or standardization of fingerprinting data is documented.

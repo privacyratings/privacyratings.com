@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Jurisdiktioner, Five Eyes och integritet
 
 Varje företag följer lagarna i det land där det är baserat. Dessa lagar avgör vilka myndigheter som kan kräva ut data, vilket förfarande de behöver och om företaget får informera användarna. Privacy Ratings visar varje företags jurisdiktion på dess bedömningssida, i kategoritabellerna och på landsidorna nedan.
@@ -23,12 +23,12 @@ Källor: [UKUSA-avtalet](https://en.wikipedia.org/wiki/UKUSA_Agreement), [Forwar
 
 ## Hur Privacy Ratings hanterar det
 
-**Jurisdiktionen visas, men poängsätts inte.** Platsen i sig är en svag signal:
+**Jurisdiktionen visas på varje sida men påverkar inte poängen.** Platsen i sig är en svag signal:
 
 - Proton, i Schweiz och utanför alla Eyes-samarbeten, efterkom 8 313 av 9 301 rättsliga beslut i sin senaste årsrapport. [Källa](https://proton.me/legal/transparency)
 - Proton VPN, samma företag och samma land, efterkom inga eftersom tjänsten inte sparar några loggar. [Källa](https://proton.me/legal/transparency)
 - Mullvad, i Fourteen Eyes-landet Sverige, har klarat granskningar som bekräftar att dess VPN-servrar inte sparar några kunddata. [Källa](https://mullvad.net/en/blog/vpn-server-audit-found-no-information-leakage-or-logging-of-customer-data)
 
-Vad en leverantör kan lämna ut beror på vilka data den sparar och vem som har nycklarna. Därför mäter poängen just det: kryptering, loggning, granskningar, **transparensrapporter** och **information till användare**. Varje sida visar ändå landet, dess Eyes-medlemskap, om EU eller GDPR gäller och om [CLOUD Act](/cloud-act/) är tillämplig, så att läsarna själva kan väga in jurisdiktionen.
+Vilka data en leverantör sparar, och vem som har nycklarna, avgör vad den kan lämna ut. Poängen mäter just det: kryptering, loggning, granskningar, **transparensrapporter** och **information till användare**. Varje sida visar ändå landet, dess Eyes-medlemskap, om EU eller GDPR gäller och om [CLOUD Act](/cloud-act/) är tillämplig, så att du själv kan väga in jurisdiktionen.
 
 ## Länder

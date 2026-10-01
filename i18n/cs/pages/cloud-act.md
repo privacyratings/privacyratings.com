@@ -1,7 +1,7 @@
-<!-- source: 2f40b8f7e8ef -->
+<!-- source: 37558129142b -->
 # Co je CLOUD Act?
 
-**Clarifying Lawful Overseas Use of Data Act (CLOUD Act)** je americký zákon, který odpovídá na jednu otázku: mohou americké úřady získat data od americké společnosti, když jsou tato data uložena v jiné zemi? Odpověď zní ano.
+**Clarifying Lawful Overseas Use of Data Act (CLOUD Act)** je americký zákon, který americkým úřadům umožňuje získat data od americké společnosti, když jsou tato data uložena v jiné zemi.
 
 ## Co dělá
 
@@ -21,11 +21,11 @@ Dohody platí se **Spojeným královstvím** a **Austrálií**. Jednání byla o
 
 Každé společnosti, která podléhá americké jurisdikci: Google, Microsoft, Apple, Amazon, Cloudflare a menších amerických služeb, včetně Forward Email. Viz [všechny hodnocené služby se sídlem ve Spojených státech](/jurisdictions/united-states/).
 
-Může zasáhnout i **neamerické služby, které ukládají data u amerických cloudových poskytovatelů**, protože žádost může dostat přímo cloudový poskytovatel. Proto užitečná otázka nezní jen „kde sídlí společnost?“, ale také „jaká data existují a kdo drží klíče?“
+Může zasáhnout i **neamerické služby, které ukládají data u amerických cloudových poskytovatelů**, protože žádost může dostat přímo cloudový poskytovatel. Užitečné otázky tedy jsou, kde společnost sídlí, jaká data existují a kdo drží klíče.
 
 ## Proč šifrování a minimum dat znamenají víc než umístění
 
-Zákony se mění a každá země má způsob, jak si data vynutit. Nejdůležitější je, co poskytovatel **může** vydat:
+Zákony se mění a každá země má způsob, jak si data vynutit. Rozhodující je, co poskytovatel **může** vydat:
 
 | Situace | Kam žádost dosáhne |
 | --- | --- |
@@ -34,13 +34,13 @@ Zákony se mění a každá země má způsob, jak si data vynutit. Nejdůležit
 | Pošta šifrovaná klíči odvozenými z hesla uživatele | Údaje o účtu a připojení, nikoli obsah zpráv |
 | Neuchovávají se žádné záznamy | Nic o aktivitě |
 
-Skutečné příklady:
+Příklady:
 
 - **Proton (Švýcarsko, mimo všechna uskupení Eyes)** podle své poslední výroční zprávy vyhověl 8 313 z 9 301 švýcarských právních příkazů a poskytl informace o účtech, které má. [Zdroj: zpráva o transparentnosti Proton](https://proton.me/legal/transparency)
 - **Proton VPN (stejná společnost, stejná země)** nevyhověl žádnému, protože neuchovává žádné záznamy. [Zdroj: zpráva o transparentnosti Proton](https://proton.me/legal/transparency)
 - **Tuta (Německo)** může německý soudce nařídit vydání schránek nebo jejich sledování v reálném čase. Pošta šifrovaná end-to-end zůstává šifrovaná. [Zdroj: zpráva o transparentnosti Tuta](https://tuta.com/blog/transparency-report)
 
-Stejná společnost ve stejné zemi dosahuje velmi odlišných výsledků podle toho, jaká data existují. Proto Privacy Ratings zobrazuje jurisdikci na každé stránce, ale hodnotí, co poskytovatelé skutečně dělají. Viz [jak se zachází s jurisdikcí](/jurisdictions/).
+Stejná společnost ve stejné zemi dosahuje odlišných výsledků podle toho, jaká data existují. Proto Privacy Ratings zobrazuje jurisdikci u každého hodnocení a hodnotí, co poskytovatelé dělají. Viz [jak se zachází s jurisdikcí](/jurisdictions/).
 
 ## Jak se CLOUD Act vztahuje na Forward Email
 
@@ -50,7 +50,7 @@ Forward Email sídlí ve Spojených státech a podléhá CLOUD Act. Jeho [techni
 - **Žádné zaznamenávání obsahu ani metadat e-mailů na disk.** Forward Email nevede záznamy o tom, komu uživatelé píší.
 - **Omezená data.** Vydat by šlo základní údaje o účtu (například e-mailovou adresu účtu, datum registrace a platební údaje) a omezené záznamy IP adres, které mohou být dočasně uchovávány kvůli zabezpečení a prevenci zneužití.
 - **Pouze platný právní proces.** Žádosti vyžadují předvolání (subpoena), soudní příkaz nebo příkaz k prohlídce. Žádosti ze zahraničí musí přijít přes americký soud, smlouvu o vzájemné právní pomoci nebo dohodu podle CLOUD Act, která splňuje americké právní požadavky.
-- **Oznámení a námitky.** Uživatelé jsou informováni, pokud to zákon dovoluje, a příliš široké žádosti jsou napadány.
+- **Oznámení a námitky.** Forward Email informuje uživatele, pokud to zákon dovoluje, a napadá příliš široké žádosti.
 
 Forward Email spravuje Privacy Ratings. Jeho hodnocení používá stejná kritéria jako u každého jiného poskytovatele. Viz [hodnocení Forward Email](/email-providers/forward-email/) a [pravidla správy projektu](/governance/).
 

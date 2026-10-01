@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Mengapa Privacy Ratings ada
 
 Panduan privasi membantu jutaan orang memilih aplikasi dan layanan yang lebih baik. Banyak di antaranya melakukan pekerjaan yang sangat baik. Namun, sebagian besar memiliki kelemahan yang sama:

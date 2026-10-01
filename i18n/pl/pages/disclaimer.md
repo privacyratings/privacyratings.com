@@ -1,4 +1,4 @@
-<!-- source: d8cb2828f7f2 -->
+<!-- source: 0525a4f38455 -->
 # Zastrzeżenia
 
 Privacy Ratings to zasób informacyjny. Przeczytaj tę stronę, zanim zaczniesz polegać na czymkolwiek, co tu opublikowano.

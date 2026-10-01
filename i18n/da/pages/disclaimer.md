@@ -1,4 +1,4 @@
-<!-- source: d8cb2828f7f2 -->
+<!-- source: 0525a4f38455 -->
 # Ansvarsfraskrivelse
 
 Privacy Ratings er en informationsressource. Læs denne side, før du forlader dig på noget, der offentliggøres her.

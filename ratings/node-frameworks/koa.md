@@ -24,5 +24,5 @@ platforms:
   - macos
   - windows
 pick: 1
-pick_reason: A small, modern core built on async middleware, from the team behind Express. MIT licensed, with no telemetry.
+pick_reason: A small core built on async middleware, from the team behind Express. MIT licensed, with no telemetry.
 ---

@@ -1,7 +1,7 @@
 ---
 name: DuckDuckGo
 description: >-
-  Private search engine that does not save search history or tie searches to IP addresses. Ads are based on the search, not a profile.
+  Search engine that does not save search history or tie searches to IP addresses. Ads are based on the search terms instead of a profile.
 website: https://duckduckgo.com
 jurisdiction: US
 source: https://github.com/duckduckgo

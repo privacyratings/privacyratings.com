@@ -1,4 +1,4 @@
-<!-- source: 2f40b8f7e8ef -->
+<!-- source: 37558129142b -->
 # 什么是 CLOUD Act？
 
 **《澄清境外数据合法使用法》（Clarifying Lawful Overseas Use of Data Act，简称 CLOUD Act）** 是一部美国法律，它回答了一个问题：当美国公司的数据存储在其他国家时，美国当局能否获取这些数据？答案是可以。

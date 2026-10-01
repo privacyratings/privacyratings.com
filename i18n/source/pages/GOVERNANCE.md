@@ -1,11 +1,11 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Governance
 
-How decisions are made, how picks are chosen and how conflicts of interest are handled.
+Rules for decisions, picks and conflicts of interest.
 
 ## Maintainers
 
-Maintainers review and merge pull requests, triage issues and moderate Discussions. Maintainers are listed in [`.github/CODEOWNERS`](.github/CODEOWNERS). Anyone can become a maintainer after a record of accurate, well-sourced contributions.
+Maintainers review and merge pull requests, triage issues and moderate Discussions. [`.github/CODEOWNERS`](.github/CODEOWNERS) lists them. Anyone can become a maintainer after a record of accurate, well-sourced contributions.
 
 ## How changes are accepted
 
@@ -17,20 +17,19 @@ Maintainers review and merge pull requests, triage issues and moderate Discussio
 
 ## Criteria changes
 
-Criteria define every score, so changes to `criteria/` need more care:
+Criteria define every score, so changes to `criteria/` have stricter rules:
 
 - Open a "Criteria change" issue or a Discussion first.
 - The pull request stays open for at least 7 days for public comment.
 - It needs approval from two maintainers.
-- Criterion ids are never renamed once published. Retire a criterion by removing it in a pull request that explains why.
+- Once published, a criterion id keeps its name. Retire a criterion by removing it in a pull request that explains why.
 
 ## Picks
 
-- Each category can have up to two picks.
 - A pick must have a `pick_reason` that explains the choice in plain language.
 - Each category has at most two picks, ordered with `pick: 1` and `pick: 2`.
-- Picks are editorial. They are shown separately and never change scores.
-- Anyone can challenge a pick in the "Picks" Discussions category. Challenges are answered publicly.
+- Picks are editorial. The site shows them separately, and they never change scores.
+- Anyone can challenge a pick in the "Picks" Discussions category. Maintainers answer challenges in public.
 
 ## Conflicts of interest
 
@@ -40,7 +39,7 @@ Rules for affiliated entries:
 
 - Each affiliated entry carries a `disclosure` shown at the top of its page.
 - A pull request that raises an affiliated entry's score, or makes it a pick, must link evidence for every changed answer and stay open for at least 7 days before merging.
-- A pull request that lowers an affiliated entry's score with valid evidence is merged like any other.
+- Maintainers merge a pull request that lowers an affiliated entry's score with valid evidence like any other.
 - Maintainers must add a disclosure to any entry they, or their employer, have a financial or personal connection to.
 
 ## Money

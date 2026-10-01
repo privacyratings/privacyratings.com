@@ -1,6 +1,6 @@
 ---
 name: FFmpeg
-description: Cross-platform command-line tools and libraries to record, convert and stream audio and video, supporting a very wide range of codecs and formats.
+description: Cross-platform command-line tools and libraries to record, convert and stream audio and video, supporting a wide range of codecs and formats.
 website: https://ffmpeg.org
 source: https://code.ffmpeg.org/FFmpeg/FFmpeg
 criteria:

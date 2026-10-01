@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Automatische Tests
 
 Gehostete Dienste (Kategorien mit `type: service`) werden automatisch getestet, wenn ihre Bewertungsdatei eine `domain` enthält. E-Mail-Anbieter und Weiterleitungsdienste mit einer `mail_domain` erhalten zusätzlich einen E-Mail-Test.

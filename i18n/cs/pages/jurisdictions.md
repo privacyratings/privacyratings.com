@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Jurisdikce, Five Eyes a soukromí
 
 Každá společnost se řídí zákony země, ve které sídlí. Tyto zákony určují, které úřady mohou požadovat data, jaký postup k tomu potřebují a zda o tom společnost smí informovat uživatele. Privacy Ratings ukazuje jurisdikci každé společnosti na stránce jejího hodnocení, v tabulkách kategorií a na stránkách zemí níže.
@@ -23,12 +23,12 @@ Zdroje: [Dohoda UKUSA](https://en.wikipedia.org/wiki/UKUSA_Agreement), [technick
 
 ## Jak to řeší Privacy Ratings
 
-**Jurisdikce se zobrazuje, ale nehodnotí.** Samotné umístění je slabý ukazatel:
+**Jurisdikce se zobrazuje na každé stránce, ale neovlivňuje skóre.** Samotné umístění je slabý ukazatel:
 
 - Proton, sídlící ve Švýcarsku a mimo všechna uskupení Eyes, podle své poslední výroční zprávy vyhověl 8 313 z 9 301 právních příkazů. [Zdroj](https://proton.me/legal/transparency)
 - Proton VPN, stejná společnost ve stejné zemi, nevyhověl žádnému, protože neuchovává žádné záznamy. [Zdroj](https://proton.me/legal/transparency)
 - Mullvad, sídlící ve Švédsku, které patří do Fourteen Eyes, prošel audity potvrzujícími, že jeho servery VPN neuchovávají žádná data zákazníků. [Zdroj](https://mullvad.net/en/blog/vpn-server-audit-found-no-information-leakage-or-logging-of-customer-data)
 
-Co může poskytovatel vydat, závisí na tom, jaká data uchovává a kdo drží klíče. Skóre proto měří právě to: šifrování, zaznamenávání, audity, **zprávy o transparentnosti** a **informování uživatelů**. Každá stránka přesto ukazuje zemi, její členství v uskupeních Eyes, pokrytí EU nebo GDPR a to, zda se uplatní [CLOUD Act](/cloud-act/), aby si čtenáři mohli jurisdikci zvážit sami.
+Data, která poskytovatel uchovává, a to, kdo drží klíče, rozhodují o tom, co může vydat. Skóre měří právě tyto věci: šifrování, zaznamenávání, audity, **zprávy o transparentnosti** a **informování uživatelů**. Každá stránka přesto ukazuje zemi, její členství v uskupeních Eyes, pokrytí EU nebo GDPR a to, zda se uplatní [CLOUD Act](/cloud-act/), abyste si jurisdikci mohli zvážit sami.
 
 ## Země

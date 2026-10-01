@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # 自动测试
 
 当托管服务（`type: service` 的类别）的评级文件中含有 `domain` 时，会自动接受测试。含有 `mail_domain` 的电子邮件服务商和转发服务还会接受电子邮件测试。

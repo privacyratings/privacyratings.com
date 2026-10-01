@@ -1,4 +1,4 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # Współtworzenie
 
 Wszystko odbywa się na GitHubie. Nie ma innego forum, czatu ani konta do założenia.

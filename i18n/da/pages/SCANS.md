@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Automatiske test
 
 Hostede tjenester (kategorier med `type: service`) testes automatisk, når deres vurderingsfil har et `domain`. E-mailudbydere og videresendelsestjenester med et `mail_domain` får også en e-mailtest.

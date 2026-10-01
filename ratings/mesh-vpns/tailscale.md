@@ -41,5 +41,5 @@ criteria:
     note: Clients send logs to Tailscale by default, including connection open and close events. The --no-logs-no-support flag or TS_NO_LOGS_NO_SUPPORT turns this off.
 alternatives_page: true
 pick: 1
-pick_reason: A WireGuard mesh that works on every platform, with NAT traversal and DERP relays when a direct connection fails. Keys are created on each device, so the coordination server and relays never see traffic. The clients are open source under BSD-3-Clause, ACLs and SSO come built in, and the open-source Headscale server can replace the hosted coordination server for full self-hosting.
+pick_reason: A WireGuard mesh for Windows, macOS, Linux, Android and iOS, with NAT traversal and DERP relays when a direct connection fails. Keys are created on each device, so the coordination server and relays never see traffic. The clients are open source under BSD-3-Clause, ACLs and SSO come built in, and the open-source Headscale server can replace the hosted coordination server for full self-hosting.
 ---

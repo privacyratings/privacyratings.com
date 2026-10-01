@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Automaattiset testit
 
 Isännöidyt palvelut (kategoriat, joissa on `type: service`) testataan automaattisesti, kun niiden arviotiedostossa on `domain`. Sähköpostipalvelut ja edelleenlähetyspalvelut, joilla on `mail_domain`, saavat lisäksi sähköpostitestin.

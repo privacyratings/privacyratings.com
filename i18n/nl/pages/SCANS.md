@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Geautomatiseerde tests
 
 Gehoste diensten (categorieën met `type: service`) worden automatisch getest wanneer hun beoordelingsbestand een `domain` heeft. E-mailproviders en doorstuurdiensten met een `mail_domain` krijgen ook een e-mailtest.

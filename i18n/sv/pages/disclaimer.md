@@ -1,15 +1,15 @@
-<!-- source: d8cb2828f7f2 -->
+<!-- source: 0525a4f38455 -->
 # Ansvarsfriskrivning
 
 Privacy Ratings är en informationsresurs. Läs den här sidan innan du förlitar dig på något som publiceras här.
 
 ## Bedömningarna kan vara fel
 
-Bedömningar, betyg, poäng, testresultat, jurisdiktioner och beskrivningar sammanställs från offentliga källor och automatiska tester. Produkter, policyer, ägarförhållanden och lagar ändras ofta, källor kan vara ofullständiga och misstag händer. **All information på den här webbplatsen kan vara felaktig, ofullständig eller inaktuell.** Kontrollera alltid de länkade beläggen och leverantörens egen dokumentation innan du fattar ett beslut.
+Bedömningar, betyg, poäng, testresultat, jurisdiktioner och beskrivningar sammanställs från offentliga källor och automatiska tester. Produkter, policyer, ägarförhållanden och lagar ändras ofta, källor kan vara ofullständiga och misstag händer. **All information på den här webbplatsen kan vara felaktig, ofullständig eller inaktuell.** Kontrollera de länkade beläggen och leverantörens egen dokumentation innan du fattar ett beslut.
 
 ## Vem som helst kan skicka in en rättelse
 
-Om något är fel kan du [öppna en rättelse på GitHub](https://github.com/privacyratings/privacyratings.com/issues/new?template=correction.yml) eller använda ”Rapportera en rättelse” på valfri bedömningssida. Leverantörer är välkomna att skicka in belägg för sina egna produkter. Rättelser granskas öppet enligt [reglerna för styrning](/governance/).
+Om något är fel kan du [öppna en rättelse på GitHub](https://github.com/privacyratings/privacyratings.com/issues/new?template=correction.yml) eller använda ”Rapportera en rättelse” på valfri bedömningssida. Leverantörer är välkomna att skicka in belägg för sina egna produkter. Förvaltarna granskar rättelser öppet enligt [reglerna för styrning](/governance/).
 
 ## Ingen rådgivning
 
@@ -21,7 +21,7 @@ Den här webbplatsen och dess data tillhandahålls ”i befintligt skick” och 
 
 ## Varumärken och innehåll från tredje part
 
-Produktnamn, logotyper och varumärken tillhör sina ägare och används endast för att identifiera de produkter som bedöms. Användningen innebär inte någon anknytning eller rekommendation. Länkade webbplatser från tredje part ligger utanför vår kontroll och omfattas av sina egna villkor och policyer.
+Produktnamn, logotyper och varumärken tillhör sina ägare och används endast för att identifiera de produkter som bedöms. Användningen innebär inte någon anknytning eller rekommendation. Länkade webbplatser från tredje part ligger utanför Privacy Ratings kontroll och omfattas av sina egna villkor och policyer.
 
 ## Intressekonflikter
 

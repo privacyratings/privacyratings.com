@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Giurisdizioni, Five Eyes e privacy
 
 Ogni azienda segue le leggi del paese in cui ha sede. Queste leggi stabiliscono quali autorità possono richiedere dati, quale procedura devono seguire e se l'azienda può informare gli utenti. Privacy Ratings indica la giurisdizione di ogni azienda nella sua pagina di valutazione, nelle tabelle delle categorie e nelle pagine dei paesi qui sotto.

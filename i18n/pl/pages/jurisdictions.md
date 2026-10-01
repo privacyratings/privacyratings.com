@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Jurysdykcje, Five Eyes i prywatność
 
 Każda firma przestrzega prawa kraju, w którym ma siedzibę. To prawo decyduje, które organy mogą żądać danych, jakiej procedury potrzebują i czy firma może poinformować użytkowników. Privacy Ratings pokazuje jurysdykcję każdej firmy na stronie jej oceny, w tabelach kategorii i na stronach krajów poniżej.

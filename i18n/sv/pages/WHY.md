@@ -1,7 +1,7 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Varför Privacy Ratings finns
 
-Integritetsguider hjälper miljontals människor att välja bättre appar och tjänster. Många gör ett utmärkt arbete. Men de flesta har samma svagheter:
+Integritetsguider hjälper miljontals människor att välja bättre appar och tjänster, och många gör ett utmärkt arbete. De flesta har också samma svagheter:
 
 - **Otydliga regler.** En tjänst tas med eller utesluts, och skälet finns i en forumtråd, en privat diskussion eller är inte publicerat alls.
 - **Bara godkänt eller underkänt.** En lista säger ”rekommenderas” eller ingenting. Den visar inte hur nära något kom, eller vad som skulle ändra resultatet.
@@ -18,36 +18,36 @@ Många av dessa guider började som listor på GitHub. Formatet ”awesome”-li
 
 Formatet har en svaghet: de flesta listor är beroende av en eller två frivilliga. När en förvaltare går vidare blir listan tyst, arkiveras eller delas upp i forkar som var och en blir inaktuell. Läsarna kan inte avgöra vilken kopia som är aktuell, och ingenting i en lista testas eller poängsätts.
 
-**Privacy Ratings stöds och drivs av ett företag, [Forward Email](https://forwardemail.net).** Det är inte beroende av frivilliga som kan lämna eller arkivera repositoriet. Data är strukturerade i stället för en enda README, så att de kan valideras, poängsättas och testas automatiskt varje dag. Och eftersom allt har öppen källkod och är licensierat under CC BY-SA kan communityn alltid kopiera, kontrollera och förbättra det.
+**Privacy Ratings stöds och drivs av ett företag, [Forward Email](https://forwardemail.net).** Det är inte beroende av frivilliga som kan lämna eller arkivera repositoriet. Data finns i strukturerade filer i stället för en enda README, så skript validerar, poängsätter och testar dem varje dag. Koden har öppen källkod och innehållet är licensierat under CC BY-SA, så vem som helst kan kopiera, kontrollera och förbättra det.
 
 ## Vad som är annorlunda
 
 **Varje regel är offentlig.** Varje kategori har en kort lista med frågor som viktas från 1 till 3. Frågorna, vad varje svar betyder och hur det kan kontrolleras finns i mappen [`criteria/`](criteria/). Se [kriterierna](https://privacyratings.com/criteria/).
 
-**Varje svar har belägg.** Ett ”ja” eller ”delvis” måste länka till en källa som vem som helst kan kontrollera: dokumentation, källkod, en licensfil eller en granskningsrapport. Allt utan belägg räknas som ”okänt” och ger noll poäng. En post får ett bokstavsbetyg först när tillräckligt många av dess svar stöds av belägg.
+**Svaren kräver belägg.** Ett ”ja” eller ”delvis” måste länka till en källa som vem som helst kan kontrollera: dokumentation, källkod, en licensfil eller en granskningsrapport. Allt utan belägg räknas som ”okänt” och ger noll poäng. En post får ett bokstavsbetyg först när tillräckligt många av dess svar stöds av belägg.
 
-**Poäng, inte bara listor.** Varje post får en poäng från 0 till 100, så att läsarna kan se hur tjänsterna står sig mot varandra och exakt var var och en brister.
+**Poäng från 0 till 100.** Varje post får en poäng, så att du kan se hur tjänsterna står sig mot varandra och var var och en brister.
 
-**Automatiska säkerhetstester.** Hostade tjänster testas enligt ett schema med Qualys SSL Labs, Mozilla HTTP Observatory och Internet.nl (inklusive Internet.nl:s e-posttest för e-postleverantörer). Resultaten sparas i repositoriet och länkas från varje sida. Se [SCANS.md](SCANS.md).
+**Automatiska säkerhetstester.** Scan-arbetsflödet testar hostade tjänster enligt ett schema med Qualys SSL Labs, Mozilla HTTP Observatory och Internet.nl (inklusive Internet.nl:s e-posttest för e-postleverantörer). Det sparar resultaten i repositoriet, och varje sida länkar till dem. Se [SCANS.md](SCANS.md).
 
-**Öppet redovisad jurisdiktion.** Varje sida visar var företaget är baserat, om landet ingår i Five, Nine eller Fourteen Eyes, om GDPR gäller och om amerikanska CLOUD Act når det. Jurisdiktionen visas men poängsätts inte, eftersom vad en leverantör kan lämna ut främst beror på vad den sparar och vem som har nycklarna. Se [jurisdiktioner](https://privacyratings.com/jurisdictions/) och [CLOUD Act](https://privacyratings.com/cloud-act/).
+**Öppet redovisad jurisdiktion.** Varje bedömning visar var företaget är baserat, om landet ingår i Five, Nine eller Fourteen Eyes, om GDPR gäller och om amerikanska CLOUD Act når det. Poängen utelämnar jurisdiktionen, eftersom vad en leverantör kan lämna ut främst beror på vad den sparar och vem som har nycklarna. Se [jurisdiktioner](https://privacyratings.com/jurisdictions/) och [CLOUD Act](https://privacyratings.com/cloud-act/).
 
-**Allt sker på GitHub.** Förslag och rättelser är ärenden på GitHub. Ändringar är pull requests. Diskussioner förs i GitHub Discussions. Det finns inget separat forum, ingen chattserver och inget kontosystem. Varje ändring av varje bedömning har en offentlig historik.
+**Bidrag sker på GitHub.** Förslag och rättelser är ärenden på GitHub, ändringar är pull requests och diskussioner förs i GitHub Discussions. Det finns inget separat forum, ingen chattserver och inget kontosystem, och Git sparar en offentlig historik över varje ändring av varje bedömning.
 
-**Öppna data.** Bedömningarna är vanliga Markdown- och YAML-filer, och hela datamängden publiceras som JSON. Innehållet är licensierat under CC BY-SA 4.0, så vem som helst kan återanvända det.
+**Öppna data.** Bedömningarna är vanliga Markdown- och YAML-filer, och bygget publicerar hela datamängden som JSON. Innehållet är licensierat under CC BY-SA 4.0, så vem som helst kan återanvända det.
 
-**Rekommendationer märks som rekommendationer.** Förvaltarna väljer en eller två rekommendationer per kategori och motiverar var och en. Rekommendationerna visas separat och ändrar aldrig poängen, så läsaren kan alltid skilja redaktionella bedömningar från uppmätta resultat.
+**Rekommendationer märks som rekommendationer.** Förvaltarna väljer en eller två rekommendationer per kategori och motiverar var och en. Rekommendationerna visas separat och ändrar aldrig poängen, så du kan skilja redaktionella bedömningar från uppmätta resultat.
 
 ## Vem som förvaltar det
 
-Privacy Ratings stöds, finansieras och förvaltas av [Forward Email](https://forwardemail.net), en integritetsfokuserad e-posttjänst som också bedöms här. Det gör att projektet förvaltas långsiktigt, men det är också en intressekonflikt, så den hanteras öppet:
+Privacy Ratings stöds, finansieras och förvaltas av [Forward Email](https://forwardemail.net), en integritetsfokuserad e-posttjänst som också bedöms här. Den finansieringen gör att projektet förvaltas långsiktigt. Det är också en intressekonflikt, och projektet hanterar den öppet:
 
-- Forward Email poängsätts enligt samma kriterier som alla andra e-postleverantörer.
+- Forward Emails poäng bygger på samma kriterier som alla andra e-postleverantörers.
 - Dess post har en upplysning, och det har även varje post med någon annan koppling till förvaltarna.
 - Ändringar som höjer poängen för en anknuten post måste länka till belägg och vara öppna för offentlig granskning innan de sammanfogas. Se [GOVERNANCE.md](GOVERNANCE.md).
 - Det finns inga affiliatelänkar, betalda placeringar eller sponsringar. Valideringen avvisar länkar med hänvisningsparametrar.
 
-Om en bedömning ser fel ut, öppna ett ärende eller en pull request med belägg. Det är hela processen.
+Om en bedömning ser fel ut är hela processen att öppna ett ärende eller en pull request med belägg.
 
 ## Tack
 

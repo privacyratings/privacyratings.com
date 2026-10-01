@@ -1,7 +1,7 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # 기여하기
 
-모든 일은 GitHub에서 이루어집니다. 가입해야 하는 별도의 포럼, 채팅, 계정은 없습니다.
+기여는 GitHub에서 이루어지며, 가입해야 하는 별도의 포럼, 채팅, 계정은 없습니다.
 
 | 하려는 일 | 사용할 것 |
 | --- | --- |
@@ -46,14 +46,14 @@ criteria:
 Optional notes in Markdown.
 ```
 
-규칙(`npm test`로 자동 확인):
+`npm test`가 다음 규칙을 확인합니다:
 
 - `answer`는 `yes`, `partial`, `no`, `unknown`, `n/a` 중 하나입니다.
 - `yes`와 `partial`에는 `evidence` 링크가 필요합니다. `no`에는 `note` 또는 `evidence`가 필요합니다.
 - 근거는 1차 자료여야 합니다: 공식 문서, 소스 코드, 라이선스 파일, 감사 보고서 또는 재현 가능한 테스트. 리뷰, 포럼 게시물, 구체적인 내용이 없는 마케팅 페이지는 해당하지 않습니다.
 - 링크는 `https://`여야 하며 추천인이나 추적 매개변수를 포함해서는 안 됩니다.
-- 자동 기준(`tls`, `security_headers`, `web_standards`, `mail_standards`, `imap_standards`, `pop3_standards`, `smtp_standards`, `transport_security`)은 테스트로 채워집니다. 직접 설정하지 마세요.
-- `no_trackers`는 [추적기 테스트](SCANS.md#website-trackers)로도 확인됩니다. 홈페이지가 제3자 추적기를 불러오면, 파일 내용과 관계없이 답변이 "no"가 됩니다.
+- 자동 테스트가 해당 기준(`tls`, `security_headers`, `web_standards`, `mail_standards`, `imap_standards`, `pop3_standards`, `smtp_standards`, `transport_security`)을 채웁니다. 직접 설정하지 마세요.
+- [추적기 테스트](SCANS.md#website-trackers)도 `no_trackers`를 확인합니다. 홈페이지가 제3자 추적기를 불러오면, 파일 내용과 관계없이 답변이 "no"가 됩니다.
 - 아직 근거가 없는 기준은 생략하세요. `unknown`으로 간주됩니다.
 - `jurisdiction`은 서버 위치가 아니라 회사가 법적으로 소재한 곳입니다. 국가가 없으면 [`jurisdictions.yml`](jurisdictions.yml)에 추가하세요. 그곳의 모든 메모에는 출처가 필요합니다.
 - `pick`, `pick_reason`, `disclosure`는 관리자만 추가합니다. 추천 두 개의 순서를 정하려면 `pick: 1`과 `pick: 2`를 사용합니다. [GOVERNANCE.md](GOVERNANCE.md)를 참고하세요.
@@ -72,7 +72,7 @@ npm run new -- vpns "Example VPN" https://example.com
 
 ## 작성 스타일
 
-- 평이하고 중립적인 표현. 얼마나 훌륭한지가 아니라 무엇을 하는지 설명합니다.
+- 평이하고 중립적인 표현. 칭찬하지 말고 무엇을 하는지 설명합니다.
 - 짧은 문장. 설명은 300자 이내로 씁니다.
 - 1인칭, 본문 속 날짜, 마케팅 주장은 쓰지 않습니다.
 - 이름은 업체가 부르는 방식대로 씁니다.
@@ -89,7 +89,7 @@ npm run serve      # preview at http://localhost:8080
 
 ## 페이지 추가하기
 
-`title`과 `description`이 있는 Markdown 파일을 [`pages/`](pages/)에 넣으세요. `/<file-name>/`에 Markdown 사본, 구조화된 데이터, 사이트맵 항목과 함께 게시됩니다.
+`title`과 `description`이 있는 Markdown 파일을 [`pages/`](pages/)에 넣으세요. 빌드가 이 파일을 `/<file-name>/`에 Markdown 사본, 구조화된 데이터, 사이트맵 항목과 함께 게시합니다.
 
 ## 카테고리나 기준 추가하기
 
@@ -109,7 +109,7 @@ npm run serve      # preview at http://localhost:8080
 | `entries.json` | 평가 설명, 추천 이유, 공개 사항 |
 | `pages/*.md` | 이 문서와 같은 전체 문서 |
 
-각 JSON 파일은 영어 텍스트를 번역문에 대응시킵니다. 영어가 바뀌면 기존 번역은 더 이상 일치하지 않으므로, 누군가 새 텍스트를 번역할 때까지 영어가 표시됩니다. 오래된 내용은 절대 표시되지 않습니다.
+각 JSON 파일은 영어 텍스트를 번역문에 대응시킵니다. 영어가 바뀌면 기존 번역은 더 이상 일치하지 않으므로, 사이트는 누군가 새 텍스트를 번역할 때까지 영어를 표시하며 오래된 번역은 절대 표시하지 않습니다.
 
 1. `npm run build`를 실행합니다. 현재 영어 목록을 `i18n/source/`에 기록합니다.
 2. `npm run i18n:check`를 실행해 각 언어에서 빠진 부분을 확인하거나, 한 언어와 파일의 세부 내용은 `node scripts/i18n-check.js de ui`로 확인합니다.

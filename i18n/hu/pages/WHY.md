@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Miért létezik a Privacy Ratings?
 
 Az adatvédelmi útmutatók emberek millióinak segítenek jobb alkalmazásokat és szolgáltatásokat választani. Sokan kiváló munkát végeznek. A legtöbbjüknek azonban ugyanazok a gyengeségei:

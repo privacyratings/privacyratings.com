@@ -1,6 +1,6 @@
 ---
 name: Shotcut
-description: A free, open source, cross-platform video editor based on FFmpeg and MLT, with support for a wide range of formats and resolutions.
+description: A free, open source, cross-platform video editor based on FFmpeg and MLT, with support for many formats and resolutions.
 website: https://shotcut.org
 source: https://github.com/mltframework/shotcut
 criteria:

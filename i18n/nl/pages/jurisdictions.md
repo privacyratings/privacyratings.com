@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Jurisdicties, Five Eyes en privacy
 
 Elk bedrijf volgt de wetten van het land waar het gevestigd is. Die wetten bepalen welke autoriteiten gegevens kunnen opeisen, welke procedure ze daarvoor nodig hebben en of het bedrijf gebruikers mag informeren. Privacy Ratings toont de jurisdictie van elk bedrijf op de beoordelingspagina, in de tabellen per categorie en op de landenpagina's hieronder.

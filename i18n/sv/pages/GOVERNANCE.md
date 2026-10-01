@@ -1,11 +1,11 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Styrning
 
-Hur beslut fattas, hur rekommendationer väljs och hur intressekonflikter hanteras.
+Regler för beslut, rekommendationer och intressekonflikter.
 
 ## Förvaltare
 
-Förvaltarna granskar och sammanfogar pull requests, sorterar ärenden och modererar Discussions. Förvaltarna listas i [`.github/CODEOWNERS`](.github/CODEOWNERS). Vem som helst kan bli förvaltare efter att ha gjort korrekta bidrag med goda källor.
+Förvaltarna granskar och sammanfogar pull requests, sorterar ärenden och modererar Discussions. [`.github/CODEOWNERS`](.github/CODEOWNERS) listar dem. Vem som helst kan bli förvaltare efter att ha gjort korrekta bidrag med goda källor.
 
 ## Hur ändringar godkänns
 
@@ -17,20 +17,19 @@ Förvaltarna granskar och sammanfogar pull requests, sorterar ärenden och moder
 
 ## Ändringar av kriterier
 
-Kriterierna bestämmer varje poäng, så ändringar i `criteria/` kräver större noggrannhet:
+Kriterierna bestämmer varje poäng, så ändringar i `criteria/` har striktare regler:
 
 - Öppna först ett ärende av typen ”Criteria change” eller en diskussion.
 - Pull requesten förblir öppen i minst 7 dagar för offentliga kommentarer.
 - Den kräver godkännande från två förvaltare.
-- Kriteriers id:n byts aldrig namn på efter publicering. Ett kriterium avvecklas genom att tas bort i en pull request som förklarar varför.
+- När ett kriteriums id väl har publicerats behåller det sitt namn. Ett kriterium avvecklas genom att tas bort i en pull request som förklarar varför.
 
 ## Rekommendationer
 
-- Varje kategori kan ha upp till två rekommendationer.
 - En rekommendation måste ha en `pick_reason` som förklarar valet på ett enkelt språk.
 - Varje kategori har högst två rekommendationer, ordnade med `pick: 1` och `pick: 2`.
-- Rekommendationerna är redaktionella. De visas separat och ändrar aldrig poängen.
-- Vem som helst kan ifrågasätta en rekommendation i kategorin ”Picks” i Discussions. Invändningar besvaras offentligt.
+- Rekommendationerna är redaktionella. Webbplatsen visar dem separat, och de ändrar aldrig poängen.
+- Vem som helst kan ifrågasätta en rekommendation i kategorin ”Picks” i Discussions. Förvaltarna besvarar invändningar offentligt.
 
 ## Intressekonflikter
 
@@ -40,7 +39,7 @@ Regler för anknutna poster:
 
 - Varje anknuten post har en `disclosure` (upplysning) som visas överst på dess sida.
 - En pull request som höjer en anknuten posts poäng, eller gör den till en rekommendation, måste länka till belägg för varje ändrat svar och vara öppen i minst 7 dagar innan den sammanfogas.
-- En pull request som sänker en anknuten posts poäng med giltiga belägg sammanfogas som vilken annan som helst.
+- Förvaltarna sammanfogar en pull request som sänker en anknuten posts poäng med giltiga belägg som vilken annan som helst.
 - Förvaltare måste lägga till en upplysning på varje post som de själva, eller deras arbetsgivare, har en ekonomisk eller personlig koppling till.
 
 ## Pengar

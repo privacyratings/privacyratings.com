@@ -1,4 +1,4 @@
-<!-- source: d8cb2828f7f2 -->
+<!-- source: 0525a4f38455 -->
 # Sorumluluk reddi
 
 Privacy Ratings bilgilendirme amaçlı bir kaynaktır. Burada yayımlanan herhangi bir şeye güvenmeden önce lütfen bu sayfayı okuyun.

@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Zarządzanie
 
 Jak podejmowane są decyzje, jak dokonywane są wybory i jak traktowane są konflikty interesów.

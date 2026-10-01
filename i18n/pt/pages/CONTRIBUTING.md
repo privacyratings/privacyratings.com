@@ -1,4 +1,4 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # Como contribuir
 
 Tudo acontece no GitHub. Não há outro fórum, chat ou conta para criar.

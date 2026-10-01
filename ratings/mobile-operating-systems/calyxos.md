@@ -1,6 +1,6 @@
 ---
 name: CalyxOS
-description: An open source, de-Googled Android OS focused on privacy and security, with optional microG, a built-in firewall and encrypted backups.
+description: An open source, de-Googled Android OS with optional microG, a built-in firewall and encrypted backups.
 website: https://calyxos.org
 source: https://gitlab.com/CalyxOS
 criteria:

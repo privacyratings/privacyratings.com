@@ -1,0 +1,2857 @@
+[
+ {
+  "file": "ad-blockers/adguard-home.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Self-hosted DNS server that blocks ads and trackers for every device on a network. Includes a web dashboard, encrypted DNS support and parental controls."
+   }
+  ]
+ },
+ {
+  "file": "ad-blockers/wipr.md",
+  "hits": [
+   {
+    "field": "note:blocks_by_default",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Blocks ads, trackers and cookie notices by default with a single one-time purchase and no tiers; nobody can pay to have ads unblocked."
+   }
+  ]
+ },
+ {
+  "file": "ai-assistants/chatgpt.md",
+  "hits": [
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Publishes counts of government requests for user data every six months."
+   },
+   {
+    "field": "note:no_training",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Chats are used for training by default. The Improve the model for everyone setting turns this off."
+   }
+  ]
+ },
+ {
+  "file": "ai-assistants/claude.md",
+  "hits": [
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Publishes counts of government requests for user data every six months."
+   }
+  ]
+ },
+ {
+  "file": "ai-assistants/google-gemini.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Google collects activity, device and usage data across its services, including Gemini, and this cannot be fully turned off."
+   }
+  ]
+ },
+ {
+  "file": "ai-assistants/jan.md",
+  "hits": [
+   {
+    "field": "note:runs_locally",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Runs fully offline on the user's own computer."
+   },
+   {
+    "field": "note:chat_retention",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Conversation history is stored locally and never leaves the computer."
+   }
+  ]
+ },
+ {
+  "file": "ai-assistants/llama-cpp.md",
+  "hits": [
+   {
+    "field": "note:no_training",
+    "tags": [
+     "adverb",
+     "extreme"
+    ],
+    "text": "Runs entirely on the user's hardware, so prompts are never sent anywhere."
+   },
+   {
+    "field": "note:chat_retention",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No server copy exists; everything stays on the user's machine."
+   }
+  ]
+ },
+ {
+  "file": "ai-assistants/lm-studio.md",
+  "hits": [
+   {
+    "field": "note:runs_locally",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Models run entirely on the user's own computer and can work offline."
+   }
+  ]
+ },
+ {
+  "file": "ai-assistants/microsoft-copilot.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "adverb"
+    ],
+    "text": "The Android app includes Adjust and Sentry, and Microsoft collects diagnostic data that cannot be fully turned off."
+   },
+   {
+    "field": "note:chat_retention",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Conversations are stored for 18 months by default and can be deleted at any time."
+   }
+  ]
+ },
+ {
+  "file": "ai-assistants/ollama.md",
+  "hits": [
+   {
+    "field": "note:no_training",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Local prompts never reach Ollama, and prompts sent to cloud models are not used for training."
+   }
+  ]
+ },
+ {
+  "file": "app-stores/izzyondroid.md",
+  "hits": [
+   {
+    "field": "note:tracker_info",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every app page lists its anti-features, permissions and library scan results."
+   }
+  ]
+ },
+ {
+  "file": "blogging/bear-blog.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No ads, and the privacy policy states collected information is never shared with or sold to other organizations for commercial purposes."
+   }
+  ]
+ },
+ {
+  "file": "blogging/mataroa.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by premium subscriptions. The methodology page commits to no ads and never selling user data."
+   }
+  ]
+ },
+ {
+  "file": "blogging/medium.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Hosted publishing platform for articles and blogs, with a paid membership that unlocks member-only stories and pays writers."
+   }
+  ]
+ },
+ {
+  "file": "blogging/micro-blog.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions with no ads, and the privacy policy states data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "blogging/pico.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid pico+ memberships. The privacy policy states user data is never shared with third parties."
+   }
+  ]
+ },
+ {
+  "file": "blogging/telegraph.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Minimal publishing tool from Telegram for posting formatted articles with images, without an account. Pages are public to anyone with the link."
+   },
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No third-party trackers are loaded, but every page loads a Telegram sync script from t.me, and no privacy policy covers Telegraph."
+   }
+  ]
+ },
+ {
+  "file": "blogging/write-as.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid plans with no ads, and the privacy policy states data is never shared for advertising."
+   }
+  ]
+ },
+ {
+  "file": "blogging/write-freely.md",
+  "hits": [
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The developer publishes a quarterly warrant canary and a policy of reviewing every legal request, but no request counts."
+   }
+  ]
+ },
+ {
+  "file": "browser-extensions/amiunique-timeline.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No third-party trackers, but the extension sends a browser fingerprint and hashed IP address to the AmIUnique server every four hours, and this cannot be turned off."
+   }
+  ]
+ },
+ {
+  "file": "browser-extensions/facebook-container.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Firefox extension from Mozilla that isolates Facebook, Instagram and Messenger in a separate container so that Facebook cannot easily link activity on other websites to the user's account."
+   }
+  ]
+ },
+ {
+  "file": "browser-extensions/firefox-multi-account-containers.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The add-on shows no ads, and Mozilla states it never sells user data."
+   }
+  ]
+ },
+ {
+  "file": "browsers/cromite.md",
+  "hits": [
+   {
+    "field": "note:fingerprinting_protection",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Canvas, client rect, media and audio fingerprinting mitigations are built in. The project notes they are not comprehensive."
+   }
+  ]
+ },
+ {
+  "file": "browsers/microsoft-edge.md",
+  "hits": [
+   {
+    "field": "note:no_google_services",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Required diagnostic data and other Microsoft services are built in and cannot be fully turned off."
+   }
+  ]
+ },
+ {
+  "file": "browsers/palemoon.md",
+  "hits": [
+   {
+    "field": "note:security_updates",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Mozilla security fixes are ported selectively to its own platform in releases every few weeks to months."
+   }
+  ]
+ },
+ {
+  "file": "browsers/seamonkey.md",
+  "hits": [
+   {
+    "field": "note:security_updates",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Releases on the older 2.53 platform come every few months with backported fixes, so security fixes lag upstream by weeks or more."
+   }
+  ]
+ },
+ {
+  "file": "budgeting/monarch.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions and says financial data is never sold, but the privacy policy says advertising partners receive device, IP and web analytics data for targeted advertising."
+   }
+  ]
+ },
+ {
+  "file": "budgeting/plain-text-accounting.md",
+  "hits": [
+   {
+    "field": "note:open_source",
+    "tags": [
+     "jargon"
+    ],
+    "text": "An ecosystem of tools rather than one product. The main tools are open source: Ledger (BSD-3-Clause), hledger (GPL-3.0) and Beancount (GPL-2.0)."
+   }
+  ]
+ },
+ {
+  "file": "budgeting/ynab.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Subscription budgeting app based on zero-based budgeting, where every unit of income is assigned a job, with optional bank account syncing."
+   }
+  ]
+ },
+ {
+  "file": "clipboard-managers/maccy.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Open-source clipboard manager for macOS that keeps a searchable history of copied items, stored locally on the computer, with keyboard-first navigation."
+   },
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No telemetry or analytics in the source code. The website states everything is stored on the computer."
+   }
+  ]
+ },
+ {
+  "file": "clipboard-managers/paste.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions, with no ads. The policy states personal data is never sold, and clipboard data is not stored on the vendor's servers."
+   }
+  ]
+ },
+ {
+  "file": "cloud-storage/google-drive.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Google collects activity, device and usage data across its services, including Drive, and this cannot be fully turned off."
+   },
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No ads in Drive, and Google states Drive content is never used for advertising. Extra storage is sold as a subscription."
+   }
+  ]
+ },
+ {
+  "file": "cloud-storage/koofr.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid storage plans. The privacy policy states data is never sold or given to advertisers."
+   }
+  ]
+ },
+ {
+  "file": "cloud-storage/tresorit.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid subscriptions. The privacy policy states personal data is never sold."
+   },
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "A transparency report with request counts was published, but it is not updated every year."
+   }
+  ]
+ },
+ {
+  "file": "creative-tools/synfig-studio.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "A 2D vector animation program that uses bones and interpolated keyframes to create animation without drawing every frame."
+   }
+  ]
+ },
+ {
+  "file": "creative-tools/vidcutter.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "A cross-platform tool written in Python for cutting and joining video files."
+   }
+  ]
+ },
+ {
+  "file": "crypto-exchanges/bisq.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Data is stored locally and never sent to a central server, and the software contains no telemetry. The website uses no advertising trackers."
+   }
+  ]
+ },
+ {
+  "file": "crypto-exchanges/hodl-hodl.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by trading fees, with no ads. The privacy policy states personal data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "crypto-wallets/bitbox02.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by hardware sales. The privacy policy states user information is never sold, rented or leased."
+   }
+  ]
+ },
+ {
+  "file": "cryptocurrencies/bitcoin.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Decentralized cryptocurrency and payment network. Every transaction, address and amount is recorded on a public blockchain, so payments are pseudonymous rather than private."
+   }
+  ]
+ },
+ {
+  "file": "cryptocurrencies/monero.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Cryptocurrency that hides the sender, receiver and amount of every transaction by default, using ring signatures, stealth addresses and RingCT."
+   }
+  ]
+ },
+ {
+  "file": "customer-support/zendesk.md",
+  "hits": [
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Publishes counts of government requests and disclosures about every six months."
+   }
+  ]
+ },
+ {
+  "file": "data-broker-removal/deleteme.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions. The terms state Abine will never sell the personal information users submit, though it must be shared with data brokers to process opt-outs."
+   }
+  ]
+ },
+ {
+  "file": "data-broker-removal/easyoptouts.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions. The security page states user information is never sold."
+   }
+  ]
+ },
+ {
+  "file": "data-broker-removal/incogni.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions. The privacy policy states customer personal information is not and has never been sold."
+   }
+  ]
+ },
+ {
+  "file": "data-broker-removal/kanary.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions. The privacy page states Kanary never sells or shares personal information."
+   }
+  ]
+ },
+ {
+  "file": "data-broker-removal/permission-slip.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions, with no ads in the app. DeleteMe's terms state it will never sell the personal information users submit."
+   }
+  ]
+ },
+ {
+  "file": "data-broker-removal/privacy-bee.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions. The privacy policy states personal data is never sold and not shared for behavioral advertising."
+   }
+  ]
+ },
+ {
+  "file": "desktop-operating-systems/alpine-linux.md",
+  "hits": [
+   {
+    "field": "note:open_source",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Built entirely from open source packages. Each package lists its license."
+   }
+  ]
+ },
+ {
+  "file": "desktop-operating-systems/debian.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "adverb"
+    ],
+    "text": "A community-developed Linux distribution made entirely of free software, known for stable releases and a large package archive, and the base of many other distributions."
+   },
+   {
+    "field": "note:open_source",
+    "tags": [
+     "adverb"
+    ],
+    "text": "The Debian Social Contract requires the main archive to be entirely free software."
+   }
+  ]
+ },
+ {
+  "file": "desktop-operating-systems/elementary-os.md",
+  "hits": [
+   {
+    "field": "note:open_source",
+    "tags": [
+     "adverb"
+    ],
+    "text": "The elementary OS platform is entirely open source and built on free and open source software."
+   }
+  ]
+ },
+ {
+  "file": "desktop-operating-systems/qubes-os.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by donations and grants. User data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "developer-tools/bruno.md",
+  "hits": [
+   {
+    "field": "note:open_source",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Open core. The main app is MIT licensed, but features in the paid Pro and Ultimate editions are proprietary."
+   }
+  ]
+ },
+ {
+  "file": "diagrams/microsoft-visio.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Visio, like other Microsoft 365 apps, always sends required diagnostic data to Microsoft, which cannot be turned off."
+   }
+  ]
+ },
+ {
+  "file": "disk-usage-analyzers/diskonaut.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Terminal disk space navigator written in Rust that shows a folder as an interactive treemap and can delete files while tracking the space freed."
+   }
+  ]
+ },
+ {
+  "file": "disk-usage-analyzers/squirreldisk.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No third-party analytics, but the app downloads the sponsor list at every launch, and the vendor uses that request to count launches and daily users by country, city and app version. This cannot be turned off. Daily sponsor view totals are also sent unless turned off in Settings."
+   }
+  ]
+ },
+ {
+  "file": "dns-hosting/amazon-route-53.md",
+  "hits": [
+   {
+    "field": "note:api_access",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every AWS account can manage hosted zones and records through the Route 53 API."
+   }
+  ]
+ },
+ {
+  "file": "dns-hosting/bunny-dns.md",
+  "hits": [
+   {
+    "field": "note:api_access",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Zones and records are managed through the bunny.net API on every account."
+   }
+  ]
+ },
+ {
+  "file": "dns-hosting/cloudflare-dns.md",
+  "hits": [
+   {
+    "field": "pick_reason",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Free on every plan, one of the fastest DNS networks, a complete API, and hardware security key login. DNSSEC is automatic when the domain is also registered with Cloudflare Registrar."
+   },
+   {
+    "field": "note:api_access",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The DNS API is available on every plan, including the free plan."
+   }
+  ]
+ },
+ {
+  "file": "dns-hosting/desec.md",
+  "hits": [
+   {
+    "field": "note:dnssec",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every hosted zone is signed with DNSSEC automatically. The DS record is added at the registrar."
+   },
+   {
+    "field": "note:api_access",
+    "tags": [
+     "extreme"
+    ],
+    "text": "All records are managed through the REST API, which every free account can use."
+   }
+  ]
+ },
+ {
+  "file": "dns-hosting/dnsimple.md",
+  "hits": [
+   {
+    "field": "note:dnssec",
+    "tags": [
+     "extreme"
+    ],
+    "text": "DNSSEC is included on every plan and turned on per domain with automatic key rotation. The DS record is added at the registrar."
+   },
+   {
+    "field": "note:api_access",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Full API access is included on every plan."
+   }
+  ]
+ },
+ {
+  "file": "dns-hosting/luadns.md",
+  "hits": [
+   {
+    "field": "note:api_access",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The REST API is included in every package, including the free plan."
+   }
+  ]
+ },
+ {
+  "file": "dns-resolvers/clean-browsing.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid filtering plans. The policy states personal data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "dns-resolvers/cloudflare.md",
+  "hits": [
+   {
+    "field": "note:dnssec_validation",
+    "tags": [
+     "extreme"
+    ],
+    "text": "1.1.1.1 validates DNSSEC on every query."
+   }
+  ]
+ },
+ {
+  "file": "dns-resolvers/nextdns.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The Android app has no known trackers on Exodus, and the policy states user data is never shared."
+   },
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid plans. The policy states data is never sold or shared."
+   }
+  ]
+ },
+ {
+  "file": "dns-resolvers/uncensoreddns.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Paid for by the operator, with sponsored hosting for anycast nodes. The FAQ states data is never sold."
+   },
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The FAQ states the operator has never been contacted by authorities, and that this will change if it happens. No request counts are published."
+   }
+  ]
+ },
+ {
+  "file": "domain-registrars/hover.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The privacy policy lists Facebook Ads, Google Ads, LinkedIn Ads and Microsoft Ads among the services used, though registration data is never sold."
+   },
+   {
+    "field": "note:free_whois_privacy",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Free and on by default, but not available for every extension."
+   },
+   {
+    "field": "note:registry_lock",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Transfer lock is supported on every domain that allows it. No registry lock service is documented."
+   }
+  ]
+ },
+ {
+  "file": "domain-registrars/namesilo.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "US domain registrar with flat renewal pricing and free WHOIS privacy, email forwarding and DNS on every domain."
+   }
+  ]
+ },
+ {
+  "file": "domain-registrars/njalla.md",
+  "hits": [
+   {
+    "field": "note:free_whois_privacy",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Njalla owns every domain on the customer's behalf, so the customer's details never appear in WHOIS, at no extra cost."
+   }
+  ]
+ },
+ {
+  "file": "domain-registrars/orange-website.md",
+  "hits": [
+   {
+    "field": "note:user_notice",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The FAQ states clients are informed every time a third party contacts the company about them."
+   },
+   {
+    "field": "note:free_whois_privacy",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Private WHOIS is listed among the features included with every domain."
+   }
+  ]
+ },
+ {
+  "file": "domain-registrars/porkbun.md",
+  "hits": [
+   {
+    "field": "note:registry_lock",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Domains are transfer-locked and must be unlocked before transfer. No registry lock service is documented."
+   }
+  ]
+ },
+ {
+  "file": "domain-registrars/spaceship.md",
+  "hits": [
+   {
+    "field": "note:free_whois_privacy",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Free for life on nearly all domains, but not every extension supports it."
+   },
+   {
+    "field": "note:two_factor",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Two-step verification is required at every account login."
+   }
+  ]
+ },
+ {
+  "file": "email-clients/apple-mail.md",
+  "hits": [
+   {
+    "field": "note:remote_content_blocked",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Mail Privacy Protection loads remote content privately through relays instead of blocking it. Remote content can be fully blocked in settings."
+   }
+  ]
+ },
+ {
+  "file": "email-clients/mailbird.md",
+  "hits": [
+   {
+    "field": "note:remote_content_blocked",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Remote images load only when allowed for a message or sender, unless Always show remote images is turned on."
+   }
+  ]
+ },
+ {
+  "file": "email-clients/mimestream.md",
+  "hits": [
+   {
+    "field": "note:no_cloud_relay",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Syncs directly with the Gmail API and keeps tokens on the device, but Private Push notifications, on by default on recent macOS, pass through a Mimestream relay that never receives credentials or message content."
+   }
+  ]
+ },
+ {
+  "file": "email-clients/sylpheed.md",
+  "hits": [
+   {
+    "field": "note:remote_content_blocked",
+    "tags": [
+     "extreme"
+    ],
+    "text": "HTML mail is converted to plain text for display, so remote content is never loaded."
+   }
+  ]
+ },
+ {
+  "file": "email-forwarding/addy.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid plans. No ads, and personal information is never sold or shared."
+   }
+  ]
+ },
+ {
+  "file": "email-forwarding/forward-email.md",
+  "hits": [
+   {
+    "field": "note:no_mail_storage",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Forwarded mail is processed in memory and never written to disk. SMTP error logs keep the envelope and headers, not the body, for 7 days."
+   },
+   {
+    "field": "note:open_protocols",
+    "tags": [
+     "extreme"
+    ],
+    "text": "IMAP, POP3 and SMTP work with any client on every paid plan, with no bridge app."
+   },
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Custom domains are supported on every plan, including the free plan."
+   }
+  ]
+ },
+ {
+  "file": "email-forwarding/improvmx.md",
+  "hits": [
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Works with custom domains on every plan, including the free one."
+   }
+  ]
+ },
+ {
+  "file": "email-forwarding/simplelogin.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by the Premium plan. No ads, and the privacy policy states data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/123-reg-email.md",
+  "hits": [
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every plan uses your own domain."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/countermail.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid accounts. Account data is never shared or sold."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/fastmail.md",
+  "hits": [
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Available on every plan above Basic."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/forward-email.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Open-source email service with encrypted mailboxes, custom domains, and IMAP, POP3, SMTP, CalDAV and CardDAV on every paid plan."
+   },
+   {
+    "field": "note:open_protocols",
+    "tags": [
+     "extreme"
+    ],
+    "text": "IMAP, POP3, SMTP, CalDAV and CardDAV on every paid plan, with no bridge app."
+   },
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Unlimited domains on every plan."
+   },
+   {
+    "field": "note:anonymous_signup",
+    "tags": [
+     "adverb",
+     "extreme"
+    ],
+    "text": "Free forwarding is set up entirely with DNS records, with no account at all. Paid mailboxes need only an email address and password, never a phone number."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/gandi-mail.md",
+  "hits": [
+   {
+    "field": "note:open_protocols",
+    "tags": [
+     "extreme"
+    ],
+    "text": "IMAP, POP3 and SMTP work with any client on every plan."
+   },
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every mailbox uses your own domain, registered with Gandi or elsewhere."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/godaddy-email.md",
+  "hits": [
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The service is built for custom domains on every plan."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/icloud-mail.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Email service included with every Apple Account, with @icloud.com addresses and custom domains for iCloud+ subscribers."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/infomaniak-mail.md",
+  "hits": [
+   {
+    "field": "note:encrypted_storage",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Encrypted messages are stored with keys Infomaniak holds and unlocks at login."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/mailfence.md",
+  "hits": [
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Publishes counts of legal requests and disclosures every six months, with a warrant canary."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/migadu.md",
+  "hits": [
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The service is built for custom domains on every plan."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/namecheap-private-email.md",
+  "hits": [
+   {
+    "field": "note:open_protocols",
+    "tags": [
+     "extreme"
+    ],
+    "text": "IMAP, POP3 and SMTP work with any client on every plan."
+   },
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The service is built for custom domains on every plan."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/protonmail.md",
+  "hits": [
+   {
+    "field": "note:e2ee",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Always end-to-end encrypted between Proton users. Password-protected messages or PGP for other recipients. Subject lines are not end-to-end encrypted."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/purelymail.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid plans. Purelymail states it will never sell or monetize user data."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/riseup.md",
+  "hits": [
+   {
+    "field": "note:encrypted_storage",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Mail is stored encrypted per user and can only be unlocked with the user's password. Older accounts must opt in."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/runbox.md",
+  "hits": [
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every plan includes at least one custom domain."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/tuta.md",
+  "hits": [
+   {
+    "field": "note:e2ee",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Mail between Tuta users is always end-to-end encrypted, including subject lines. Password-protected mail is available for other recipients."
+   },
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Available on paid plans from Revolutionary up."
+   }
+  ]
+ },
+ {
+  "file": "email-providers/zoho-mail.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid plans. Zoho states that it never shows ads or sells data, including on free plans."
+   },
+   {
+    "field": "note:custom_domains",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Available on every plan, including the free one."
+   }
+  ]
+ },
+ {
+  "file": "email-sending/mailersend.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid plans and states personal data is never sold, but third-party partners use cookies on the website for advertising on other sites."
+   }
+  ]
+ },
+ {
+  "file": "email-sending/plunk.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by per-email pricing. The privacy policy states data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "file-converters/handbrake.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "A video transcoder that converts video from nearly any format to modern codecs such as H.264, H.265 and AV1, with presets for common devices."
+   }
+  ]
+ },
+ {
+  "file": "file-encryption/bitlocker.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Part of Windows, which sends required diagnostic data to Microsoft that can only be fully turned off on Enterprise and Education editions."
+   }
+  ]
+ },
+ {
+  "file": "file-encryption/kryptor.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Open source command-line tool for encrypting and signing files with a passphrase, symmetric key or public keys, using modern primitives with no configuration options."
+   }
+  ]
+ },
+ {
+  "file": "file-sync/syncthing.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Open source, peer-to-peer continuous file synchronization between two or more devices. Data is encrypted in transit and never stored on a central server."
+   }
+  ]
+ },
+ {
+  "file": "firewalls/radio-silence.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Paid network monitor and outbound firewall for macOS that lists every app's connections and blocks chosen apps from reaching the internet."
+   }
+  ]
+ },
+ {
+  "file": "games/itch-io.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by a share of game sales chosen by each creator. The FAQ states ads are never placed on creator pages."
+   }
+  ]
+ },
+ {
+  "file": "home-design/sketchup.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "3D modeling software from Trimble for architecture, interior and landscape design, available as a desktop application and as SketchUp for Web in the browser."
+   }
+  ]
+ },
+ {
+  "file": "maps/apple-maps.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Apple's built-in mapping and navigation app for Apple devices, with turn-by-turn directions, transit, place information and a web version."
+   }
+  ]
+ },
+ {
+  "file": "maps/comaps.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Community-run, non-profit offline maps and navigation app built on OpenStreetMap data. Search and routing run on the device."
+   }
+  ]
+ },
+ {
+  "file": "maps/google-maps.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Google's mapping and navigation service with traffic, public transit, Street View, business listings and reviews, available on the web and as mobile apps."
+   }
+  ]
+ },
+ {
+  "file": "maps/here-wego.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Free maps and navigation app from HERE Technologies, with driving, transit and walking directions, offline maps and a web version."
+   }
+  ]
+ },
+ {
+  "file": "maps/magic-earth.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Navigation app using OpenStreetMap data, with offline maps, traffic, public transit and activity recording, and paid premium features. Run by Magic Lane International B.V."
+   }
+  ]
+ },
+ {
+  "file": "maps/mapy-com.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Map and navigation service from the Czech company Seznam.cz, formerly Mapy.cz, with offline maps, tourist and cycling routes, and a web version. Coverage is most detailed in Central Europe."
+   }
+  ]
+ },
+ {
+  "file": "maps/organic-maps.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Offline maps and navigation app built on OpenStreetMap data, run by Organic Maps OÜ in Estonia. Governance disputes among contributors led to the CoMaps fork."
+   }
+  ]
+ },
+ {
+  "file": "maps/osmand.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Offline maps and navigation app built on OpenStreetMap data, with routing for driving, cycling and hiking, contour lines, GPX tracks and plugins. Developed by OsmAnd BV."
+   }
+  ]
+ },
+ {
+  "file": "maps/waze.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Community-driven navigation app owned by Google, with live traffic, hazard and police reports shared by drivers, route suggestions and fuel prices."
+   }
+  ]
+ },
+ {
+  "file": "mesh-vpns/defguard.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Self-hosted WireGuard VPN platform with multi-factor authentication on every connection, identity management and access rules, from a company in Poland."
+   }
+  ]
+ },
+ {
+  "file": "mesh-vpns/firezone.md",
+  "hits": [
+   {
+    "field": "note:device_keys",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Traffic is end-to-end encrypted with WireGuard between clients and gateways on your own infrastructure. Firezone states it can never decrypt traffic, including through its relays."
+   }
+  ]
+ },
+ {
+  "file": "mesh-vpns/husarnet.md",
+  "hits": [
+   {
+    "field": "note:device_keys",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Each device's address is derived from its own public key, and packets never leave devices unencrypted. Base servers only relay when a direct connection fails."
+   }
+  ]
+ },
+ {
+  "file": "mesh-vpns/netbird.md",
+  "hits": [
+   {
+    "field": "note:device_keys",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The client creates the WireGuard private key, which never leaves the device. The management service only distributes public keys, and relays cannot decrypt traffic."
+   }
+  ]
+ },
+ {
+  "file": "mesh-vpns/tailscale.md",
+  "hits": [
+   {
+    "field": "pick_reason",
+    "tags": [
+     "extreme"
+    ],
+    "text": "A WireGuard mesh for Windows, macOS, Linux, Android and iOS, with NAT traversal and DERP relays when a direct connection fails. Keys are created on each device, so the coordination server and relays never see traffic. The clients are open source under BSD-3-Clause, ACLs and SSO come built in, and the open-source Headscale server can replace the hosted coordination server for full self-hosting."
+   },
+   {
+    "field": "note:device_keys",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Each device creates its own WireGuard key pair. The private key never leaves the device, and DERP relays only forward encrypted packets."
+   }
+  ]
+ },
+ {
+  "file": "mesh-vpns/tinc.md",
+  "hits": [
+   {
+    "field": "note:self_hosted_control",
+    "tags": [
+     "extreme"
+    ],
+    "text": "There is no central server. Every node is configured and run by its owner."
+   }
+  ]
+ },
+ {
+  "file": "messengers/berty.md",
+  "hits": [
+   {
+    "field": "note:decentralized",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Peer to peer over IPFS, with optional offline transports such as Bluetooth; anyone can run a replication node."
+   }
+  ]
+ },
+ {
+  "file": "messengers/conversations.md",
+  "hits": [
+   {
+    "field": "note:decentralized",
+    "tags": [
+     "extreme"
+    ],
+    "text": "XMPP is federated, so users on different servers can message each other and anyone can run a server."
+   }
+  ]
+ },
+ {
+  "file": "messengers/cwtch.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Decentralized, metadata-resistant messenger from the non-profit Open Privacy Research Society. Contacts talk peer to peer over Tor onion services, and optional group chats use untrusted servers that anyone can run."
+   },
+   {
+    "field": "note:decentralized",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Peer to peer over Tor, with no central Cwtch service; anyone can host a group server."
+   }
+  ]
+ },
+ {
+  "file": "messengers/dino.md",
+  "hits": [
+   {
+    "field": "note:decentralized",
+    "tags": [
+     "extreme"
+    ],
+    "text": "XMPP is federated, so users on different servers can message each other and anyone can run a server."
+   }
+  ]
+ },
+ {
+  "file": "messengers/facebook-messenger.md",
+  "hits": [
+   {
+    "field": "note:e2ee_default",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Personal chats and calls are end-to-end encrypted by default, but not every chat type is, such as chats with businesses and community chats."
+   }
+  ]
+ },
+ {
+  "file": "messengers/google-messages.md",
+  "hits": [
+   {
+    "field": "note:e2ee_default",
+    "tags": [
+     "extreme"
+    ],
+    "text": "RCS chats, including groups, are end-to-end encrypted automatically only when all participants use a supporting app; SMS and MMS are never encrypted."
+   }
+  ]
+ },
+ {
+  "file": "messengers/keybase.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The privacy policy states Keybase will never run ads or sell user data."
+   },
+   {
+    "field": "note:no_phone_number",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The privacy policy states Keybase never requires a phone number or an email address."
+   }
+  ]
+ },
+ {
+  "file": "messengers/matrix.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Open standard and federated network for real-time chat and calls, with end-to-end encryption through the Olm and Megolm protocols. Anyone can run a homeserver, and many clients such as Element support it."
+   },
+   {
+    "field": "note:metadata_protection",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Homeservers see room membership, senders and timestamps, and share them with every server in a room."
+   },
+   {
+    "field": "note:decentralized",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Federated protocol; anyone can run a homeserver."
+   }
+  ]
+ },
+ {
+  "file": "messengers/signal.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by donations to the non-profit Signal Foundation; the terms state it never sells or monetizes personal data."
+   }
+  ]
+ },
+ {
+  "file": "messengers/simplex.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "End-to-end encrypted messenger that has no user identifiers of any kind, not even random ones. Messages pass through relay servers that anyone can run."
+   },
+   {
+    "field": "note:decentralized",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Anyone can run SMP and XFTP relay servers, and users on different servers can message each other."
+   }
+  ]
+ },
+ {
+  "file": "messengers/telegram.md",
+  "hits": [
+   {
+    "field": "note:no_phone_number",
+    "tags": [
+     "extreme"
+    ],
+    "text": "A phone number is required to sign up, but it can be hidden from everyone and contacts can be reached by username."
+   }
+  ]
+ },
+ {
+  "file": "messengers/xmpp.md",
+  "hits": [
+   {
+    "field": "note:decentralized",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Federated; anyone can run a server that talks to other servers."
+   }
+  ]
+ },
+ {
+  "file": "mobile-operating-systems/e-os.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by sales of Murena phones and cloud plans and by donations; the privacy policy says data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "mobile-security-apps/afwall.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Free app funded by donations and an optional paid unlocker, with no ads."
+   }
+  ]
+ },
+ {
+  "file": "mobile-security-apps/insular.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Fully open-source fork of Island that isolates Android apps in a work profile, where they can be cloned, frozen or hidden. Distributed through F-Droid."
+   }
+  ]
+ },
+ {
+  "file": "music-streaming/amazon-music.md",
+  "hits": [
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Amazon publishes information request reports for its consumer services every six months."
+   }
+  ]
+ },
+ {
+  "file": "music-streaming/apple-music.md",
+  "hits": [
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Apple publishes government request counts by country every six months."
+   }
+  ]
+ },
+ {
+  "file": "music-streaming/youtube-music.md",
+  "hits": [
+   {
+    "field": "note:transparency_report",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Google publishes government request counts and outcomes every six months."
+   }
+  ]
+ },
+ {
+  "file": "newsletters/keila.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid hosting plans; the policy says data is never rented or sold."
+   }
+  ]
+ },
+ {
+  "file": "newsletters/phplist.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by hosted plans; the policy says contact lists are never sold, shared or rented."
+   }
+  ]
+ },
+ {
+  "file": "notes/obsidian.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Knowledge base and note-taking app that works on local Markdown files, with links between notes, a graph view and a large community plugin and theme ecosystem. Optional paid sync and publishing services."
+   }
+  ]
+ },
+ {
+  "file": "office-suites/microsoft-365.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The apps always send required diagnostic data to Microsoft, which cannot be turned off."
+   }
+  ]
+ },
+ {
+  "file": "online-privacy-tools/am-i-unique.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "A research project run by Inria with no ads; the policy states records are never shared."
+   }
+  ]
+ },
+ {
+  "file": "online-privacy-tools/blocked-org.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by donations to Open Rights Group, which states it never sells personal data."
+   }
+  ]
+ },
+ {
+  "file": "online-privacy-tools/xodus.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Exodus Privacy's report site that analyzes Android apps and lists the trackers and permissions found in each one, with a report for every analyzed app version."
+   }
+  ]
+ },
+ {
+  "file": "password-managers/2of3-by-ente.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Splits a recovery key, password or other secret into three cards with Shamir secret sharing, so that any two cards recover it. It runs entirely in the browser and includes an offline recovery page."
+   },
+   {
+    "field": "note:e2ee_vault",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Secrets are split in the browser and never sent to a server."
+   }
+  ]
+ },
+ {
+  "file": "password-managers/aliasvault.md",
+  "hits": [
+   {
+    "field": "note:e2ee_vault",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Vault data, including received emails, is end-to-end encrypted with the master password, which is never sent to the server."
+   }
+  ]
+ },
+ {
+  "file": "password-managers/apple-passwords.md",
+  "hits": [
+   {
+    "field": "note:e2ee_vault",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Passwords and Keychain are always end-to-end encrypted, and Apple does not have the keys."
+   }
+  ]
+ },
+ {
+  "file": "password-managers/bitwarden.md",
+  "hits": [
+   {
+    "field": "pick_reason",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Syncs across desktop, mobile and browser apps and supports sharing with family or a team. End-to-end encrypted, audited every year, and it can be self-hosted."
+   }
+  ]
+ },
+ {
+  "file": "password-managers/browserpass.md",
+  "hits": [
+   {
+    "field": "pick_reason",
+    "tags": [
+     "extreme"
+    ],
+    "text": "For people who want no password company at all. Every password is a GPG-encrypted file in a folder you control, synced with Git if you like, and Browserpass fills it into the browser."
+   }
+  ]
+ },
+ {
+  "file": "password-managers/enpass.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid plans, and the privacy notice says Enpass never sells personal data."
+   }
+  ]
+ },
+ {
+  "file": "password-managers/keepassdx.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Open source password and passkey manager for Android that stores data in encrypted KeePass (KDB and KDBX) database files. It supports autofill, TOTP and biometric unlock, with no built-in cloud service."
+   }
+  ]
+ },
+ {
+  "file": "password-managers/lesspass.md",
+  "hits": [
+   {
+    "field": "note:e2ee_vault",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No vault exists: passwords are generated on the device and never stored or synced."
+   },
+   {
+    "field": "note:export",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Passwords are derived on demand and never stored, so there is no vault to export."
+   }
+  ]
+ },
+ {
+  "file": "password-managers/papervault.md",
+  "hits": [
+   {
+    "field": "note:export",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Vaults and keys are printed or saved to digital media, and any PaperVault instance can unlock them."
+   }
+  ]
+ },
+ {
+  "file": "period-trackers/clue.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions, and health data is never shared with advertisers, but with consent device IDs and app events are shared through Adjust with ad networks such as Meta and TikTok."
+   }
+  ]
+ },
+ {
+  "file": "photo-management/photoprism.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid memberships, with no ads. The privacy policy states data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "scheduling/cal-ai.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid usage. The privacy policy states personal data is never sold and booking data is not used for advertising profiles."
+   }
+  ]
+ },
+ {
+  "file": "scheduling/cal-com.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid plans. The privacy policy states personal data is never sold and booking data is not used for advertising profiles."
+   }
+  ]
+ },
+ {
+  "file": "scheduling/tymeslot.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid plans. The privacy policy states personal information is never sold."
+   }
+  ]
+ },
+ {
+  "file": "screen-recording/screen-studio.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid subscriptions and licenses. The policy states that data of identifiable users is never shared."
+   }
+  ]
+ },
+ {
+  "file": "screen-recording/snagit.md",
+  "hits": [
+   {
+    "field": "note:no_account_needed",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Subscriptions are activated by signing in to a TechSmith account. Licenses unlocked with a software key work without signing in."
+   }
+  ]
+ },
+ {
+  "file": "search-engines/google-search.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Search activity is collected with cookie, device and account identifiers for personalization and ads, and this cannot be fully turned off."
+   }
+  ]
+ },
+ {
+  "file": "search-engines/prieco.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No ads are shown, and the project states it never shares or sells user data."
+   },
+   {
+    "field": "note:no_search_logs",
+    "tags": [
+     "extreme"
+    ],
+    "text": "IP addresses are never stored or logged."
+   }
+  ]
+ },
+ {
+  "file": "secret-sharing/privatebin.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Open source, self-hosted pastebin that encrypts text and files in the browser with AES-256-GCM, so the server never sees the content. Supports expiry, burn after reading, passwords and discussions."
+   }
+  ]
+ },
+ {
+  "file": "self-hosted-network-security/pi-hole.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Self-hosted DNS sinkhole that blocks ads, trackers and malware domains for every device on a network, with a web interface for query logs and blocklist management."
+   }
+  ]
+ },
+ {
+  "file": "self-hosted-network-security/wireguard.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "VPN protocol and implementation built on modern cryptography such as Curve25519 and ChaCha20-Poly1305, included in the Linux kernel and available as apps for other platforms."
+   }
+  ]
+ },
+ {
+  "file": "server-hosting/buyvm.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by paid hosting, and the privacy policy says client information is never shared with third parties."
+   }
+  ]
+ },
+ {
+  "file": "server-hosting/dartnode.md",
+  "hits": [
+   {
+    "field": "note:anonymous_payment",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Cryptocurrency is accepted, though identity verification can be required at any time."
+   }
+  ]
+ },
+ {
+  "file": "server-hosting/digitalocean.md",
+  "hits": [
+   {
+    "field": "note:anonymous_payment",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Stablecoin payment is offered to some customers, and every account needs a verified payment method."
+   }
+  ]
+ },
+ {
+  "file": "server-hosting/exoscale.md",
+  "hits": [
+   {
+    "field": "note:ipv6",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every instance includes a free public IPv4 and IPv6 address."
+   }
+  ]
+ },
+ {
+  "file": "server-hosting/linode.md",
+  "hits": [
+   {
+    "field": "note:ipv6",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every Linode is created with an IPv6 address."
+   }
+  ]
+ },
+ {
+  "file": "server-hosting/njalla.md",
+  "hits": [
+   {
+    "field": "note:ipv6",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every server includes one IPv4 and one IPv6 address."
+   }
+  ]
+ },
+ {
+  "file": "server-hosting/ovhcloud.md",
+  "hits": [
+   {
+    "field": "note:ipv6",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every VPS is delivered with an IPv6 address."
+   }
+  ]
+ },
+ {
+  "file": "server-hosting/upcloud.md",
+  "hits": [
+   {
+    "field": "note:reverse_dns",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Reverse DNS for every IP address can be changed in the control panel or through the API at no cost."
+   },
+   {
+    "field": "note:ipv6",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Every cloud server gets one IPv4 and one IPv6 address by default."
+   }
+  ]
+ },
+ {
+  "file": "smart-home/gladys-assistant.md",
+  "hits": [
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Each instance sends usage statistics, including an instance ID, device count and integrations in use, with every update check, and there is no setting to turn this off."
+   },
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by Gladys Plus subscriptions. The privacy policy states data is never sold or shared for advertising."
+   }
+  ]
+ },
+ {
+  "file": "speech-to-text/anarlog.md",
+  "hits": [
+   {
+    "field": "note:no_training",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The policy states notes, transcripts and audio are never used to train AI models."
+   }
+  ]
+ },
+ {
+  "file": "speech-to-text/apple-dictation.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No ads in Dictation; Apple states dictation data is not used to build marketing profiles and is never sold."
+   }
+  ]
+ },
+ {
+  "file": "speech-to-text/macwhisper.md",
+  "hits": [
+   {
+    "field": "note:no_training",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Processing is entirely local."
+   }
+  ]
+ },
+ {
+  "file": "speech-to-text/whisper-cpp.md",
+  "hits": [
+   {
+    "field": "note:runs_locally",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Inference runs entirely on the local device."
+   },
+   {
+    "field": "note:no_training",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Processing is entirely local."
+   }
+  ]
+ },
+ {
+  "file": "speech-to-text/whisper.md",
+  "hits": [
+   {
+    "field": "note:no_training",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Processing is entirely local."
+   }
+  ]
+ },
+ {
+  "file": "speech-to-text/wispr-flow.md",
+  "hits": [
+   {
+    "field": "note:runs_locally",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Transcription always occurs in the cloud."
+   }
+  ]
+ },
+ {
+  "file": "static-site-generators/material-for-mkdocs.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Documentation theme for MkDocs with search, navigation and many Markdown extensions. The project is in maintenance mode and receives only critical bug and security fixes."
+   }
+  ]
+ },
+ {
+  "file": "static-site-generators/starlight.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Documentation website framework built on Astro, with navigation, search, internationalization and theming included."
+   }
+  ]
+ },
+ {
+  "file": "status-pages/instatus.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions, and the privacy policy says personal information is never sold."
+   }
+  ]
+ },
+ {
+  "file": "status-pages/oneuptime.md",
+  "hits": [
+   {
+    "field": "note:no_visitor_tracking",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Hosted status pages on oneuptime.com load Google Tag Manager, while self-hosted installs never load it."
+   }
+  ]
+ },
+ {
+  "file": "status-pages/upptime.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Uptime monitor and status page that runs entirely in your own GitHub repository, using GitHub Actions, Issues and Pages."
+   },
+   {
+    "field": "body",
+    "tags": [
+     "question"
+    ],
+    "text": "\nForward Email's status page, [status.forwardemail.net](https://status.forwardemail.net), runs on Upptime and loads no trackers. Documentation is at [upptime.js.org](https://upptime.js.org).\n\n## Contributions from the Forward Email team\n\nThe Forward Email team, which maintains this site, contributes to Upptime under the GitHub account [titanism](https://github.com/titanism). Contributions include:\n\n- [Light and dark themes](https://github.com/upptime/status-page/commit/a8a3782) that follow the visitor's system setting, and [fixes to initial page loading](https://github.com/upptime/status-page/commit/9104d06) in the status page.\n- [Sending SMS alerts to multiple numbers](https://github.com/upptime/uptime-monitor/commit/7766780).\n- [IPv6 monitoring](https://github.com/upptime/uptime-monitor/commit/fcebd9e) and a [fix to IPv6 checks](https://github.com/upptime/uptime-monitor/commit/3cc3be2).\n- An [SSL certificate expiry check](https://github.com/upptime/uptime-monitor/commit/1793600).\n- Core reliability fixes: [TCP ping false positives](https://github.com/upptime/uptime-monitor/commit/a5d7ec8) and [retries on failed HTTP checks](https://github.com/upptime/uptime-monitor/commit/35da82a).\n\nSee all [uptime-monitor](https://github.com/upptime/uptime-monitor/commits?author=titanism) and [status-page](https://github.com/upptime/status-page/commits?author=titanism) commits.\n"
+   }
+  ]
+ },
+ {
+  "file": "task-management/basecamp.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions with no ads in the product, and data is never sold. Visitors who click Basecamp ads may get an ad-company script that sends conversion data to the ad network."
+   }
+  ]
+ },
+ {
+  "file": "team-chat/stoat.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "No ads; the privacy policy states data is never sold to third parties."
+   }
+  ]
+ },
+ {
+  "file": "translation/firefox-translations.md",
+  "hits": [
+   {
+    "field": "note:offline",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Translation runs entirely on the device, and text is not sent to cloud servers."
+   },
+   {
+    "field": "note:no_retention",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Text is translated locally and never leaves the device."
+   }
+  ]
+ },
+ {
+  "file": "translation/libretranslate.md",
+  "hits": [
+   {
+    "field": "note:offline",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Can be self-hosted so translation runs entirely on your own server with local models."
+   }
+  ]
+ },
+ {
+  "file": "two-factor-authentication/2fas.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The apps are free and donation-supported, and the privacy policy says personal information is never sold."
+   }
+  ]
+ },
+ {
+  "file": "two-factor-authentication/authenticator.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Open source two-factor authentication app for iOS that stores secrets encrypted in the iOS keychain. The app never connects to the internet."
+   },
+   {
+    "field": "note:no_trackers",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The app never connects to the internet, and the website loads no scripts."
+   }
+  ]
+ },
+ {
+  "file": "two-factor-authentication/ente-auth.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Free, open source TOTP authenticator for mobile, desktop and web. Works fully offline, or with an Ente account to sync codes across devices with end-to-end encrypted backups."
+   }
+  ]
+ },
+ {
+  "file": "video-calls/galene.md",
+  "hits": [
+   {
+    "field": "note:no_account_needed",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Invitation links allow password-less login, and groups can let anyone join with any name."
+   }
+  ]
+ },
+ {
+  "file": "virtual-cards/ironvest.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions. The privacy policy states personal data is never sold or shared for cross-context behavioral advertising."
+   }
+  ]
+ },
+ {
+  "file": "virtual-cards/mysudo.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions. The privacy policy states personal information is never sold, traded or exchanged."
+   }
+  ]
+ },
+ {
+  "file": "virtual-cards/revolut.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The privacy notice says data is never sold, but names, email addresses and app events may be shared with social media platforms for targeted ads."
+   }
+  ]
+ },
+ {
+  "file": "virtual-phone-numbers/pikasim.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by eSIM and phone plan sales; the privacy policy states data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "vpns/mullvad-vpn.md",
+  "hits": [
+   {
+    "field": "pick_reason",
+    "tags": [
+     "adverb",
+     "extreme"
+    ],
+    "text": "No email, no name and no card needed. A stable, flat price, WireGuard on every platform, fully open-source apps, and repeated public audits of both the apps and the server infrastructure."
+   },
+   {
+    "field": "note:open_source",
+    "tags": [
+     "adverb"
+    ],
+    "text": "All apps are open source under GPL-3.0. Server infrastructure is not fully published."
+   },
+   {
+    "field": "note:open_source_clients",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Apps for every platform are open source under GPL-3.0."
+   }
+  ]
+ },
+ {
+  "file": "vpns/protonvpn.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "extreme"
+    ],
+    "text": "VPN service from Proton in Switzerland with open-source apps on every platform and a free plan without ads."
+   }
+  ]
+ },
+ {
+  "file": "vpns/riseupvpn.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "adverb"
+    ],
+    "text": "Entirely funded by user donations. No ads."
+   }
+  ]
+ },
+ {
+  "file": "vpns/tunnelbear.md",
+  "hits": [
+   {
+    "field": "note:independent_audit",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Cure53 audits the apps and servers every year, and the full audit report is public."
+   }
+  ]
+ },
+ {
+  "file": "wearables/fitbit.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Fitbit says it never sells personal data, but the Play data safety listing declares use of app interactions, name and email for advertising or marketing."
+   }
+  ]
+ },
+ {
+  "file": "web-analytics/goatcounter.md",
+  "hits": [
+   {
+    "field": "note:no_personal_data",
+    "tags": [
+     "extreme"
+    ],
+    "text": "IP addresses and User-Agent headers are only held in memory for session counting and never stored to disk."
+   }
+  ]
+ },
+ {
+  "file": "web-analytics/matomo.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by Matomo Cloud subscriptions and paid plugins. The privacy policy states personal data is never sold."
+   }
+  ]
+ },
+ {
+  "file": "web-analytics/pirsch.md",
+  "hits": [
+   {
+    "field": "note:no_personal_data",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The visitor's IP address is never stored or logged."
+   }
+  ]
+ },
+ {
+  "file": "web-analytics/plausible-analytics.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions. The privacy policy states data is never sold or used for advertising."
+   }
+  ]
+ },
+ {
+  "file": "web-analytics/simple-analytics.md",
+  "hits": [
+   {
+    "field": "note:no_ads",
+    "tags": [
+     "extreme"
+    ],
+    "text": "Funded by subscriptions. The privacy policy states data is never sold to third parties."
+   }
+  ]
+ },
+ {
+  "file": "webmail/roundcube.md",
+  "hits": [
+   {
+    "field": "note:remote_content_blocked",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The default show_images setting never loads remote images without asking."
+   }
+  ]
+ },
+ {
+  "file": "webmail/sogo.md",
+  "hits": [
+   {
+    "field": "note:remote_content_blocked",
+    "tags": [
+     "extreme"
+    ],
+    "text": "The default SOGoMailDisplayRemoteInlineImages setting is never, so remote images load only on request."
+   }
+  ]
+ },
+ {
+  "file": "wikis/mediawiki.md",
+  "hits": [
+   {
+    "field": "description",
+    "tags": [
+     "jargon"
+    ],
+    "text": "Wiki software developed by the Wikimedia Foundation that runs Wikipedia. Self-hosted PHP application with page history, templates, a visual editor and a large extension ecosystem."
+   }
+  ]
+ }
+]

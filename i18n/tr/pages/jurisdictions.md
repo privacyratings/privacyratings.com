@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Yargı bölgeleri, Five Eyes ve gizlilik
 
 Her şirket, merkezinin bulunduğu ülkenin yasalarına uyar. Bu yasalar hangi makamların veri talep edebileceğini, hangi sürecin gerektiğini ve şirketin kullanıcıları bilgilendirip bilgilendiremeyeceğini belirler. Privacy Ratings, her şirketin yargı bölgesini değerlendirme sayfasında, kategori tablolarında ve aşağıdaki ülke sayfalarında gösterir.

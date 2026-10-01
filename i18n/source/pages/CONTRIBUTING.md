@@ -1,7 +1,7 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # Contributing
 
-Everything happens on GitHub. There is no other forum, chat or account to sign up for.
+Contributions happen on GitHub, with no other forum, chat or account to sign up for.
 
 | To do this | Use |
 | --- | --- |
@@ -46,14 +46,14 @@ criteria:
 Optional notes in Markdown.
 ```
 
-Rules (checked automatically by `npm test`):
+`npm test` checks these rules:
 
 - `answer` is one of `yes`, `partial`, `no`, `unknown` or `n/a`.
 - `yes` and `partial` need an `evidence` link. `no` needs a `note` or `evidence`.
-- Evidence must be a primary source: official documentation, source code, a license file, an audit report or a reproducible test. Not reviews, forum posts or marketing pages without detail.
+- Evidence must be a primary source: official documentation, source code, a license file, an audit report or a reproducible test. Reviews, forum posts and marketing pages without detail do not count.
 - Links must be `https://` and must not contain referral or tracking parameters.
-- Automated criteria (`tls`, `security_headers`, `web_standards`, `mail_standards`, `imap_standards`, `pop3_standards`, `smtp_standards`, `transport_security`) are filled in by tests. Do not set them by hand.
-- `no_trackers` is also checked by the [tracker test](SCANS.md#website-trackers). If the home page loads a third-party tracker, the answer becomes "no" whatever the file says.
+- The automated tests fill in their criteria (`tls`, `security_headers`, `web_standards`, `mail_standards`, `imap_standards`, `pop3_standards`, `smtp_standards`, `transport_security`). Do not set them by hand.
+- The [tracker test](SCANS.md#website-trackers) also checks `no_trackers`. If the home page loads a third-party tracker, the answer becomes "no" whatever the file says.
 - Leave out any criterion that has no evidence yet. It counts as `unknown`.
 - `jurisdiction` is where the company is legally based (not where its servers are). Add a country to [`jurisdictions.yml`](jurisdictions.yml) if it is missing. Every note there needs a source.
 - Only maintainers add `pick`, `pick_reason` and `disclosure`. Use `pick: 1` and `pick: 2` to order two picks. See [GOVERNANCE.md](GOVERNANCE.md).
@@ -72,7 +72,7 @@ This creates a file that lists every criterion as `unknown`. Fill in what you ca
 
 ## Writing style
 
-- Plain, neutral language. Describe what something does, not how great it is.
+- Plain, neutral language. Describe what something does without praising it.
 - Short sentences. Descriptions stay under 300 characters.
 - No first person, no dates in prose, no marketing claims.
 - Name things the way the vendor does.
@@ -89,7 +89,7 @@ npm run serve      # preview at http://localhost:8080
 
 ## Adding a page
 
-Put a Markdown file with a `title` and `description` in [`pages/`](pages/). It is published at `/<file-name>/` with a Markdown copy, structured data and a sitemap entry.
+Put a Markdown file with a `title` and `description` in [`pages/`](pages/). The build publishes it at `/<file-name>/` with a Markdown copy, structured data and a sitemap entry.
 
 ## Adding a category or criterion
 
@@ -109,7 +109,7 @@ The site is published in 25 languages. English is the source, and every other la
 | `entries.json` | Rating descriptions, pick reasons and disclosures |
 | `pages/*.md` | Whole documents such as this one |
 
-Each JSON file maps the English text to its translation. When the English changes, the old translation no longer matches, so the English shows until someone translates the new text. Nothing out of date is ever shown.
+Each JSON file maps the English text to its translation. When the English changes, the old translation no longer matches, so the site shows the English until someone translates the new text and never shows an out-of-date translation.
 
 1. Run `npm run build`. It writes the current English lists to `i18n/source/`.
 2. Run `npm run i18n:check` to see what is missing in each language, or `node scripts/i18n-check.js de ui` for the details of one language and file.

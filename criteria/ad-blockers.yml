@@ -5,7 +5,7 @@
   yes: Blocks ads and trackers by default, for free.
   partial: Needs extra lists or configuration.
   no: Allows "acceptable ads" by default, or blocking is paid.
-  why: Allowlists paid for by advertisers defeat the purpose.
+  why: Allowlists paid for by advertisers let their ads and trackers through.
   verify: Link the documentation or filter list settings.
 
 - id: no_data_collection

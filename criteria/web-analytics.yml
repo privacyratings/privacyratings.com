@@ -15,7 +15,7 @@
   yes: No IP addresses or personal data stored, and no data shared for ads.
   partial: Personal data is anonymized by default, or stored only in self-hosted setups.
   no: Stores personal data or shares it for advertising.
-  why: Visitor analytics should count visits, not profile people.
+  why: Counting visits needs no profile of each visitor.
   verify: Link the data policy.
 
 - id: self_hostable

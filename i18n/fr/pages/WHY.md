@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Pourquoi Privacy Ratings existe
 
 Les guides sur la vie privée aident des millions de personnes à choisir de meilleures applications et de meilleurs services. Beaucoup font un excellent travail. Mais la plupart partagent les mêmes faiblesses :

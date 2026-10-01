@@ -1,4 +1,4 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # Katkıda bulunma
 
 Her şey GitHub'da gerçekleşir. Kaydolmanız gereken başka bir forum, sohbet veya hesap yoktur.

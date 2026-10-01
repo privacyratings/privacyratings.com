@@ -1,4 +1,4 @@
-<!-- source: d8cb2828f7f2 -->
+<!-- source: 0525a4f38455 -->
 # Tuyên bố miễn trừ trách nhiệm
 
 Privacy Ratings là một nguồn thông tin tham khảo. Vui lòng đọc trang này trước khi dựa vào bất kỳ nội dung nào được công bố tại đây.

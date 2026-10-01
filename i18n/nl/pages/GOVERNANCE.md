@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Bestuur
 
 Hoe beslissingen worden genomen, hoe keuzes worden gemaakt en hoe met belangenconflicten wordt omgegaan.

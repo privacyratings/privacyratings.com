@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Uji otomatis
 
 Layanan yang di-host (kategori dengan `type: service`) diuji secara otomatis jika berkas penilaiannya memiliki `domain`. Penyedia email dan layanan penerusan dengan `mail_domain` juga mendapat uji email.

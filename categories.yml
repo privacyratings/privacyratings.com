@@ -191,7 +191,7 @@
       name: Security audit firms
       type: service
       common: false
-      description: Independent firms that audit software and services for security and privacy. What matters is whether their reports are public.
+      description: Independent firms that audit software and services for security and privacy. The ratings focus on whether their reports are public.
       scans:
         - ssllabs
         - observatory
@@ -689,7 +689,7 @@
     - id: ai-assistants
       name: AI assistants
       type: service
-      description: AI chatbots and assistants, hosted and local. What happens to prompts and whether they train models.
+      description: AI chatbots and assistants, hosted and local, rated on how they keep prompts and whether they train models on them.
       scans:
         - ssllabs
         - observatory
@@ -912,7 +912,7 @@
     - id: period-trackers
       name: Period trackers
       type: app
-      description: Menstrual cycle and fertility tracking apps. Cycle data is highly sensitive health data.
+      description: Menstrual cycle and fertility tracking apps. Cycle data is sensitive health data.
       seo_title: Private period tracker apps compared
       h1: Period tracker privacy ratings
     - id: fitness-trackers

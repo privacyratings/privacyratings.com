@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Styring
 
 Hvordan beslutninger træffes, hvordan anbefalinger vælges, og hvordan interessekonflikter håndteres.

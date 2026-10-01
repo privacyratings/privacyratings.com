@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Pruebas automáticas
 
 Los servicios alojados (categorías con `type: service`) se prueban automáticamente cuando su archivo de valoración tiene un `domain`. Los proveedores de correo y los servicios de reenvío con un `mail_domain` también reciben una prueba de correo.

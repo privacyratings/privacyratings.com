@@ -1,4 +1,4 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # Đóng góp
 
 Mọi hoạt động đều diễn ra trên GitHub. Không có diễn đàn, kênh trò chuyện hay tài khoản nào khác cần đăng ký.

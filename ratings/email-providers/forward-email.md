@@ -1,7 +1,7 @@
 ---
 name: Forward Email
 description: >-
-  Open-source email service with encrypted mailboxes, custom domains, and IMAP, POP3, SMTP, CalDAV and CardDAV on every plan.
+  Open-source email service with encrypted mailboxes, custom domains, and IMAP, POP3, SMTP, CalDAV and CardDAV on every paid plan.
 website: https://forwardemail.net
 smtp_host: smtp.forwardemail.net
 pop3_host: pop3.forwardemail.net
@@ -14,7 +14,7 @@ domain: forwardemail.net
 mail_domain: forwardemail.net
 pick: true
 pick_reason: >-
-  The whole service, not just the apps, is published on GitHub. Each mailbox is a separately encrypted SQLite file, every standard protocol works with any app, and custom domains are included on low-cost plans.
+  The whole service is published on GitHub, server code included. Each mailbox is a separately encrypted SQLite file, IMAP, POP3, SMTP, CalDAV and CardDAV work with any app, and custom domains are included on low-cost plans.
 disclosure: >-
   Privacy Ratings is maintained by the team behind Forward Email. This entry is scored by the same criteria as every other email provider, and changes to it are reviewed under the published conflict-of-interest rules.
 criteria:

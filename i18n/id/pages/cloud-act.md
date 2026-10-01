@@ -1,4 +1,4 @@
-<!-- source: 2f40b8f7e8ef -->
+<!-- source: 37558129142b -->
 # Apa itu CLOUD Act?
 
 **Clarifying Lawful Overseas Use of Data Act (CLOUD Act)** adalah undang-undang AS yang menjawab satu pertanyaan: dapatkah otoritas AS memperoleh data dari perusahaan AS jika data tersebut disimpan di negara lain? Jawabannya adalah ya.

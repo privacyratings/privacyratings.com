@@ -1,4 +1,4 @@
-<!-- source: 2f40b8f7e8ef -->
+<!-- source: 37558129142b -->
 # CLOUD Act nedir?
 
 **Clarifying Lawful Overseas Use of Data Act (CLOUD Act)**, tek bir soruyu yanıtlayan bir ABD yasasıdır: ABD makamları, bir ABD şirketinden başka bir ülkede saklanan verileri alabilir mi? Yanıt evettir.

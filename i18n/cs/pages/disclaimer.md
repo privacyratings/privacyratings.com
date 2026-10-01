@@ -1,15 +1,15 @@
-<!-- source: d8cb2828f7f2 -->
+<!-- source: 0525a4f38455 -->
 # Prohlášení o odpovědnosti
 
 Privacy Ratings je informační zdroj. Než se budete spoléhat na cokoli, co je zde zveřejněno, přečtěte si prosím tuto stránku.
 
 ## Hodnocení mohou být chybná
 
-Hodnocení, známky, skóre, výsledky testů, jurisdikce a popisy jsou sestaveny z veřejných zdrojů a automatických testů. Produkty, zásady, vlastnictví i zákony se často mění, zdroje mohou být neúplné a chyby se stávají. **Jakékoli informace na tomto webu mohou být nepřesné, neúplné nebo zastaralé.** Než se rozhodnete, vždy si zkontrolujte odkazované důkazy a vlastní dokumentaci poskytovatele.
+Hodnocení, známky, skóre, výsledky testů, jurisdikce a popisy jsou sestaveny z veřejných zdrojů a automatických testů. Produkty, zásady, vlastnictví i zákony se často mění, zdroje mohou být neúplné a chyby se stávají. **Jakékoli informace na tomto webu mohou být nepřesné, neúplné nebo zastaralé.** Než se rozhodnete, zkontrolujte si odkazované důkazy a vlastní dokumentaci poskytovatele.
 
 ## Opravu může navrhnout kdokoli
 
-Pokud je něco špatně, [otevřete opravu na GitHubu](https://github.com/privacyratings/privacyratings.com/issues/new?template=correction.yml) nebo použijte „Nahlásit opravu“ na stránce libovolného hodnocení. Výrobci mohou předkládat důkazy ke svým vlastním produktům. Opravy se posuzují veřejně podle [pravidel správy projektu](/governance/).
+Pokud je něco špatně, [otevřete opravu na GitHubu](https://github.com/privacyratings/privacyratings.com/issues/new?template=correction.yml) nebo použijte „Nahlásit opravu“ na stránce libovolného hodnocení. Výrobci mohou předkládat důkazy ke svým vlastním produktům. Správci posuzují opravy veřejně podle [pravidel správy projektu](/governance/).
 
 ## Nejde o poradenství
 
@@ -21,7 +21,7 @@ Tento web a jeho data jsou poskytovány „tak, jak jsou“ a „tak, jak jsou d
 
 ## Ochranné známky a obsah třetích stran
 
-Názvy produktů, loga a ochranné známky patří jejich vlastníkům a používají se pouze k identifikaci hodnocených produktů. Jejich použití neznamená žádné propojení ani doporučení. Odkazované weby třetích stran nemáme pod kontrolou a vztahují se na ně jejich vlastní podmínky a zásady.
+Názvy produktů, loga a ochranné známky patří jejich vlastníkům a používají se pouze k identifikaci hodnocených produktů. Jejich použití neznamená žádné propojení ani doporučení. Odkazované weby třetích stran nemá Privacy Ratings pod kontrolou a vztahují se na ně jejich vlastní podmínky a zásady.
 
 ## Střet zájmů
 

@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Gouvernance
 
 Comment les décisions sont prises, comment les choix sont faits et comment les conflits d'intérêts sont gérés.

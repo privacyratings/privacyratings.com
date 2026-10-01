@@ -1,4 +1,4 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # Sådan bidrager du
 
 Alt foregår på GitHub. Der er intet andet forum, ingen chat og ingen konto, du skal oprette.

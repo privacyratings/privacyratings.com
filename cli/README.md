@@ -26,7 +26,7 @@ npm install -g privacyratings
 
 Or run it once without installing: `npx privacyratings`.
 
-The installers download the binary for your system from the [latest GitHub release](https://github.com/privacyratings/privacyratings.com/releases/latest) and check its SHA-256 checksum before installing it. `install.sh` installs to `/usr/local/bin` when you can write to it, and otherwise to `~/.local/bin`, without sudo. Set `PRIVACYRATINGS_BIN_DIR` to choose another folder; sudo is only used if you pick one you cannot write to. The standalone binaries need glibc on Linux; on Alpine and other musl systems, use npm.
+The installers download the binary for your system from the [latest GitHub release](https://github.com/privacyratings/privacyratings.com/releases/latest) and check its SHA-256 checksum before installing it. `install.sh` installs to `/usr/local/bin` when you can write to it, and otherwise to `~/.local/bin`, without sudo. Set `PRIVACYRATINGS_BIN_DIR` to choose another folder; the installer uses sudo only if you pick one you cannot write to. The standalone binaries need glibc on Linux; on Alpine and other musl systems, use npm.
 
 ## Use
 
@@ -36,7 +36,7 @@ privacyratings "gmail alternatives"     # interactive search, starting with a qu
 privacyratings search vpn --picks       # print matching ratings
 privacyratings show "Proton Mail"       # every criterion, with notes and evidence links
 privacyratings open bitwarden           # open the rating in your browser
-privacyratings picks password-managers  # our picks in one category
+privacyratings picks password-managers  # the picks in one category
 privacyratings categories               # every category and its id
 privacyratings search email --json      # JSON for scripts
 ```
@@ -56,13 +56,13 @@ Output is plain text when piped, and follows [`NO_COLOR`](https://no-color.org) 
 
 ## Updates
 
-The tool checks for a new release once a day, in a background process that never slows down the command you ran. The standalone binary downloads the new version from GitHub over HTTPS, checks its size and SHA-256 checksum, checks that it runs, and then replaces itself; it never moves to an older version or a prerelease. A global npm install runs `npm install -g privacyratings@<version>`. Other installs, like `npx` or a project dependency, only print a notice. Run `privacyratings update` to update right away. If the binary is in a folder you cannot write to, updating needs `sudo privacyratings update`.
+The tool checks for a new release once a day, in a background process, so the command you ran does not wait for it. The standalone binary downloads the new version from GitHub over HTTPS, checks its size and SHA-256 checksum, checks that it runs, and then replaces itself; it never moves to an older version or a prerelease. A global npm install runs `npm install -g privacyratings@<version>`. Other installs, like `npx` or a project dependency, only print a notice. Run `privacyratings update` to update right away. If the binary is in a folder you cannot write to, updating needs `sudo privacyratings update`.
 
 To turn automatic updates off, set `PRIVACYRATINGS_NO_UPDATE=1` or pass `--no-update`. They are also off when `CI` is set.
 
 ## Data and privacy
 
-Ratings are downloaded from `https://privacyratings.com/api/` and cached for an hour, so the tool works offline with the last data it saw. The cache lives in `~/.cache/privacyratings` on Linux, `~/Library/Caches/privacyratings` on macOS and `%LOCALAPPDATA%\privacyratings\cache` on Windows. Set `PRIVACYRATINGS_CACHE` to use another folder. The folder is created readable only by you, and a folder that other users can write to (like `/tmp` itself) is not used.
+The tool downloads ratings from `https://privacyratings.com/api/` and caches them for an hour, so the tool works offline with the last data it saw. The cache lives in `~/.cache/privacyratings` on Linux, `~/Library/Caches/privacyratings` on macOS and `%LOCALAPPDATA%\privacyratings\cache` on Windows. Set `PRIVACYRATINGS_CACHE` to use another folder. The tool creates the folder readable only by you, and does not use a folder that other users can write to (like `/tmp` itself).
 
 The tool sends no analytics or telemetry. Its only requests are for ratings data and, once a day, the latest release from the GitHub API.
 

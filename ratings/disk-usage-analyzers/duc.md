@@ -1,6 +1,6 @@
 ---
 name: Duc
-description: Tools for indexing disk usage into a database and browsing it from the command line, an ncurses interface, a graphical viewer or a CGI web page. Built for very large file systems.
+description: Tools for indexing disk usage into a database and browsing it from the command line, an ncurses interface, a graphical viewer or a CGI web page. Built for large file systems.
 website: https://duc.zevv.nl
 source: https://github.com/zevv/duc
 platforms:

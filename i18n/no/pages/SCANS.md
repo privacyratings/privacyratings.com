@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Automatiske tester
 
 Vertsbaserte tjenester (kategorier med `type: service`) testes automatisk når vurderingsfilen har et `domain`. E-postleverandører og videresendingstjenester med et `mail_domain` får også en e-posttest.

@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Dlaczego istnieje Privacy Ratings
 
 Poradniki o prywatności pomagają milionom ludzi wybierać lepsze aplikacje i usługi. Wiele z nich wykonuje świetną pracę. Większość ma jednak te same słabości:

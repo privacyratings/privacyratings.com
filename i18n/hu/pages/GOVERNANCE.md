@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Irányítás
 
 Hogyan születnek a döntések, hogyan választjuk ki az ajánlásokat, és hogyan kezeljük az összeférhetetlenséget.

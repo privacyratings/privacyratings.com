@@ -1,6 +1,6 @@
 ---
 name: Accrescent
-description: Android app store focused on security and privacy, with signing key pinning, signed repository metadata and unattended updates. Developers upload apps signed with their own keys, and it is still in alpha.
+description: Android app store with signing key pinning, signed repository metadata and unattended updates. Developers upload apps signed with their own keys, and it is still in alpha.
 website: https://accrescent.app
 source: https://github.com/accrescent/accrescent
 platforms:

@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Jurisdiksjoner, Five Eyes og personvern
 
 Hvert selskap følger lovene i landet der det hører hjemme. Disse lovene avgjør hvilke myndigheter som kan kreve data, hvilken prosess de må følge, og om selskapet kan fortelle det til brukerne. Privacy Ratings viser jurisdiksjonen til hvert selskap på vurderingssiden, i kategoritabellene og på landsidene nedenfor.

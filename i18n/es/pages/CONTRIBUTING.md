@@ -1,4 +1,4 @@
-<!-- source: 38b6fc4b567c -->
+<!-- source: f2ab6af4acf3 -->
 # Cómo contribuir
 
 Todo ocurre en GitHub. No hay ningún otro foro, chat ni cuenta en la que registrarse.

@@ -1,6 +1,6 @@
 ---
 name: Monero
-description: Privacy-focused cryptocurrency that hides the sender, receiver and amount of every transaction by default, using ring signatures, stealth addresses and RingCT.
+description: Cryptocurrency that hides the sender, receiver and amount of every transaction by default, using ring signatures, stealth addresses and RingCT.
 website: https://www.getmonero.org
 source: https://github.com/monero-project/monero
 imported_from: awesome-privacy

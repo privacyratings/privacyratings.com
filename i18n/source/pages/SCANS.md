@@ -1,7 +1,7 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Automated tests
 
-Hosted services (categories with `type: service`) are tested automatically when their rating file has a `domain`. Email providers and forwarding services with a `mail_domain` also get an email test.
+The Scan workflow tests hosted services (categories with `type: service`) when their rating file has a `domain`. Email providers and forwarding services with a `mail_domain` also get an email test.
 
 | Test | What it checks | Criterion | Yes | Partial | No |
 | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ Email providers and forwarding services with a `mail_domain` also get these test
 | POP3 `CAPA` | Implicit TLS on 995, CAPA (RFC 2449), UIDL. Falls back to STLS on 110 | `pop3_standards` | Implicit TLS, CAPA and UIDL |
 | SMTP `EHLO` | Submission over implicit TLS on 465, SMTPUTF8, 8BITMIME, PIPELINING, AUTH. Falls back to STARTTLS on 587 | `smtp_standards` | Implicit TLS and all four extensions |
 
-Server names come from `imap_host`, `pop3_host` and `smtp_host` in the rating file, or from the provider's RFC 6186 SRV records. Set a host to `false` when the provider does not offer that protocol. Capabilities are what each server advertises before login, and the full lists are shown on each rating page.
+Server names come from `imap_host`, `pop3_host` and `smtp_host` in the rating file, or from the provider's RFC 6186 SRV records. Set a host to `false` when the provider does not offer that protocol. Capabilities are what each server advertises before login, and each rating page shows the full lists.
 
 ## Website trackers
 
@@ -35,33 +35,33 @@ Every entry with a website, apps included, gets a tracker test run by [`scripts/
 | Fonts, embeds, error reporting, support chat or consent tools | Listed on the page, not scored |
 | Nothing | The answer in the rating file is used |
 
-When the website is a code host or app store page (GitHub, GitLab, Codeberg, SourceForge, F-Droid, Google Play and similar), the test is skipped, because that page is not run by the project.
+The test skips websites on a code host or app store (GitHub, GitLab, Codeberg, SourceForge, F-Droid, Google Play and similar), because the project does not run that page.
 
 The test only sees trackers written into the page itself. Trackers added later by scripts, and telemetry inside apps, still need evidence in the rating file, such as a privacy policy or an [Exodus Privacy](https://reports.exodus-privacy.eu.org) report.
 
-SRS and ARC cannot be seen from outside without sending mail, so they are criteria answered with evidence instead of tests.
+An outside test cannot see SRS and ARC without sending mail, so ratings answer those criteria with evidence instead.
 
-Automated checks that have not run yet show as "Not tested yet" and are left out of the score, so a provider is never marked down for a test that has not happened.
+Automated checks that have not run yet show as "Not tested yet" and stay out of the score, so a test that has not happened cannot lower a provider's score.
 
-For SSL Labs, the weakest grade across all of a domain's IP addresses is used.
+The SSL Labs result is the weakest grade across all of a domain's IP addresses.
 
 Hardenize no longer offers a public API, so each page links to its public report instead of scoring it.
 
 ## Schedule
 
-The [Scan workflow](.github/workflows/scan.yml) runs every day and tests the 40 entries with the oldest results (Internet.nl follows its own limits, below), so every service is tested regularly without overloading the free APIs. Results are saved to [`scans/`](scans/) as JSON, committed to the repository and published with the site. Each page shows when its tests last ran.
+The [Scan workflow](.github/workflows/scan.yml) runs every day and tests the 40 entries with the oldest results (Internet.nl follows its own limits, below), so each service gets tested regularly without overloading the free APIs. It saves the results to [`scans/`](scans/) as JSON and commits them, and the site publishes them. Each page shows when its tests last ran.
 
 A failed test keeps the previous result and records the error, so a temporary outage does not change a score.
 
 ### Internet.nl limits
 
-The Internet.nl batch API is used within its [terms of use](https://github.com/internetstandards/Internet.nl-API-docs/blob/main/terms-of-use.md):
+The scan uses the Internet.nl batch API within its [terms of use](https://github.com/internetstandards/Internet.nl-API-docs/blob/main/terms-of-use.md):
 
 - At most 2 batch requests in any 7 days. The website test and the email test are separate requests, so one full round uses both.
 - At most 5000 domains per request. When more domains have the test, the ones with missing or oldest results go first and the rest wait for a later request.
 - No single-domain requests, so `--only` skips Internet.nl.
 
-Every request is recorded in `scans/internetnl-requests.json`, which is committed with the results even when a run fails. A run that finds the weekly limit reached skips Internet.nl and keeps the existing results. Batches take hours, so request status is checked every 5 minutes, and a request still running when the run ends is collected by a later run instead of being sent again. Internet.nl ignores `--limit`, and only runs on the default branch use the Internet.nl credentials, so all runs share one record.
+The scan records each request in `scans/internetnl-requests.json` and commits that file with the results, even when a run fails. A run that finds the weekly limit reached skips Internet.nl and keeps the existing results. Batches take hours, so the scan checks request status every 5 minutes, and a later run collects any request still running when a run ends instead of sending it again. Internet.nl ignores `--limit`, and only runs on the default branch use the Internet.nl credentials, so all runs share one record.
 
 This website re-uses test results provided by the [Internet.nl](https://internet.nl) test tool.
 
@@ -71,7 +71,7 @@ All settings are optional repository secrets (Settings › Secrets and variables
 
 | Secret | Purpose |
 | --- | --- |
-| `SSLLABS_EMAIL` | Email registered with the [SSL Labs API v4](https://github.com/ssllabs/ssllabs-scan/blob/master/ssllabs-api-docs-v4.md). Without it, the v3 API is used. Registration needs an organization email address. |
+| `SSLLABS_EMAIL` | Email registered with the [SSL Labs API v4](https://github.com/ssllabs/ssllabs-scan/blob/master/ssllabs-api-docs-v4.md). Without it, the scan uses the v3 API. Registration needs an organization email address. |
 | `INTERNETNL_USERNAME`, `INTERNETNL_PASSWORD` | Account for the [Internet.nl batch API](https://internet.nl/faqs/batch-and-dashboard/). Without them, pages link to the public Internet.nl tests and the Internet.nl criteria stay "unknown". |
 | `INTERNETNL_API` | Batch API base URL, for a [self-hosted Internet.nl](https://github.com/internetstandards/Internet.nl) instance. Defaults to `https://batch.internet.nl/api/batch/v2`. |
 

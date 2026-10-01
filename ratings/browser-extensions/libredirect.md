@@ -1,6 +1,6 @@
 ---
 name: LibRedirect
-description: "Browser extension that redirects popular sites such as YouTube, Reddit and Twitter to privacy-respecting alternative frontends."
+description: "Browser extension that redirects sites such as YouTube, Reddit and Twitter to alternative frontends."
 website: https://libredirect.manerakai.com
 source: https://github.com/libredirect/browser_extension
 imported_from: awesome-privacy

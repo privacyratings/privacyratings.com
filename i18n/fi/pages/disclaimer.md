@@ -1,4 +1,4 @@
-<!-- source: d8cb2828f7f2 -->
+<!-- source: 0525a4f38455 -->
 # Vastuuvapauslauseke
 
 Privacy Ratings on tiedotusresurssi. Lue tämä sivu ennen kuin luotat mihinkään täällä julkaistuun.

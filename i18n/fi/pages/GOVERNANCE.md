@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Hallinto
 
 Miten päätökset tehdään, miten suositukset valitaan ja miten eturistiriidat käsitellään.

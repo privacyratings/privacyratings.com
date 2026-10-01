@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Lainkäyttöalueet, Five Eyes ja tietosuoja
 
 Jokainen yritys noudattaa sen maan lakeja, jossa sen kotipaikka on. Nämä lait ratkaisevat, mitkä viranomaiset voivat vaatia tietoja, mitä menettelyä ne tarvitsevat ja voiko yritys kertoa asiasta käyttäjille. Privacy Ratings näyttää kunkin yrityksen lainkäyttöalueen sen arviosivulla, kategoriataulukoissa ja alla olevilla maasivuilla.

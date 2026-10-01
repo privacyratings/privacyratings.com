@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Hvorfor Privacy Ratings finnes
 
 Personvernguider hjelper millioner av mennesker med å velge bedre apper og tjenester. Mange gjør et utmerket arbeid. Men de fleste har de samme svakhetene:

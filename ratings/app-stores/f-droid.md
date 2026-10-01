@@ -1,6 +1,6 @@
 ---
 name: F-Droid
-description: F-Droid is an installable catalogue of FOSS applications for Android. The client enables you to browse, install, and keep track of updates on your device.
+description: Installable catalogue of FOSS applications for Android, with a client that browses, installs and tracks updates of apps on your device.
 website: https://f-droid.org
 source: https://gitlab.com/fdroid/fdroidclient
 criteria:

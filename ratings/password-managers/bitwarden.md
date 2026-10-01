@@ -1,7 +1,7 @@
 ---
 name: Bitwarden
 description: >-
-  Open-source, end-to-end encrypted password manager with apps for every platform and an option to self-host.
+  Open-source, end-to-end encrypted password manager with apps for Windows, macOS, Linux, Android, iOS, the web and browsers, and an option to self-host.
 website: https://bitwarden.com
 jurisdiction: US
 source: https://github.com/bitwarden/clients
@@ -9,7 +9,7 @@ platforms: [windows, macos, linux, android, ios, web, browser]
 domain: vault.bitwarden.com
 pick: 2
 pick_reason: >-
-  The best choice for syncing across every device and sharing with family or a team. End-to-end encrypted, audited every year, and it can be self-hosted.
+  Syncs across desktop, mobile and browser apps and supports sharing with family or a team. End-to-end encrypted, audited every year, and it can be self-hosted.
 criteria:
   open_source:
     answer: partial

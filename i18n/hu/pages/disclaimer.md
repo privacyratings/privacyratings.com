@@ -1,4 +1,4 @@
-<!-- source: d8cb2828f7f2 -->
+<!-- source: 0525a4f38455 -->
 # Jogi nyilatkozat
 
 A Privacy Ratings tájékoztató jellegű forrás. Kérjük, olvassa el ezt az oldalt, mielőtt bármire hagyatkozna, ami itt megjelenik.

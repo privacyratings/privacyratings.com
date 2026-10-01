@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Por qué existe Privacy Ratings
 
 Las guías de privacidad ayudan a millones de personas a elegir mejores aplicaciones y servicios. Muchas hacen un trabajo excelente. Pero la mayoría comparten las mismas debilidades:

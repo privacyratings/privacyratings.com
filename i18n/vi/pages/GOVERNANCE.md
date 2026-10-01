@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Quản trị
 
 Cách đưa ra quyết định, cách chọn lựa chọn của chúng tôi và cách xử lý xung đột lợi ích.

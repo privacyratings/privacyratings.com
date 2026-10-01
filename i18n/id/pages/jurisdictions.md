@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Yurisdiksi, Five Eyes, dan privasi
 
 Setiap perusahaan mengikuti hukum negara tempat ia berbasis. Hukum tersebut menentukan otoritas mana yang dapat menuntut data, proses apa yang mereka perlukan, dan apakah perusahaan boleh memberi tahu pengguna. Privacy Ratings menampilkan yurisdiksi setiap perusahaan di halaman penilaiannya, di tabel kategori, dan di halaman negara di bawah ini.

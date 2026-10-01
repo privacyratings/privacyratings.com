@@ -1,4 +1,4 @@
-<!-- source: 2f40b8f7e8ef -->
+<!-- source: 37558129142b -->
 # CLOUD Act là gì?
 
 **Clarifying Lawful Overseas Use of Data Act (CLOUD Act)** là một đạo luật của Hoa Kỳ trả lời một câu hỏi: cơ quan chức năng Hoa Kỳ có thể lấy dữ liệu từ một công ty Hoa Kỳ khi dữ liệu đó được lưu trữ ở quốc gia khác không? Câu trả lời là có.

@@ -1,6 +1,6 @@
 ---
 name: Express
-description: Minimal and flexible web framework for Node.js that provides routing and middleware for building web applications and APIs.
+description: Minimal web framework for Node.js that provides routing and middleware for building web applications and APIs.
 website: https://expressjs.com
 mainstream: true
 source: https://github.com/expressjs/express

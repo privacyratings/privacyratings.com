@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Juridictions, Five Eyes et vie privée
 
 Chaque entreprise est soumise aux lois du pays où elle est établie. Ces lois déterminent quelles autorités peuvent exiger des données, selon quelle procédure, et si l'entreprise peut en informer ses utilisateurs. Privacy Ratings indique la juridiction de chaque entreprise sur sa page d'évaluation, dans les tableaux par catégorie et sur les pages par pays ci-dessous.

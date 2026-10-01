@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Governance
 
 Come vengono prese le decisioni, come vengono fatte le scelte e come vengono gestiti i conflitti di interesse.

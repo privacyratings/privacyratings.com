@@ -40,7 +40,7 @@ criteria:
 disclosure: The Forward Email team, which maintains this site, contributes code to Upptime. This entry is scored by the same criteria as every other status page tool.
 ---
 
-Upptime is used for [status.forwardemail.net](https://status.forwardemail.net), a real deployment with no trackers. Documentation is at [upptime.js.org](https://upptime.js.org).
+Forward Email's status page, [status.forwardemail.net](https://status.forwardemail.net), runs on Upptime and loads no trackers. Documentation is at [upptime.js.org](https://upptime.js.org).
 
 ## Contributions from the Forward Email team
 

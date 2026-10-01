@@ -1,4 +1,4 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Test automatici
 
 I servizi ospitati (categorie con `type: service`) vengono testati automaticamente quando il loro file di valutazione ha un `domain`. I provider email e i servizi di inoltro con un `mail_domain` ricevono anche un test email.

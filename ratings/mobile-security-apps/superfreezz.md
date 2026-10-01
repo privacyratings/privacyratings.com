@@ -1,6 +1,6 @@
 ---
 name: SuperFreezZ
-description: Makes it possible to entirely freeze all background activities on a per-app basis.
+description: Android app that freezes all background activity of selected apps.
 website: https://superfreezz.gitlab.io
 source: https://gitlab.com/SuperFreezZ/SuperFreezZ
 imported_from: awesome-privacy

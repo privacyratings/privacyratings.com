@@ -1,6 +1,6 @@
 ---
 name: LineageOS
-description: A free and open source operating system based on Android that supports a wide range of phones and tablets, including many no longer updated by their manufacturers.
+description: A free and open source operating system based on Android that supports many phones and tablets, including ones no longer updated by their manufacturers.
 website: https://www.lineageos.org
 source: https://github.com/LineageOS
 imported_from: awesome-privacy

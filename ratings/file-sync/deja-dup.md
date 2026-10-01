@@ -1,6 +1,6 @@
 ---
 name: Déjà Dup
-description: Simple backup app for the GNOME desktop that schedules encrypted, incremental backups to local drives, network servers or cloud storage, using restic or duplicity.
+description: Backup app for the GNOME desktop that schedules encrypted, incremental backups to local drives, network servers or cloud storage, using restic or duplicity.
 website: https://apps.gnome.org/DejaDup/
 source: https://gitlab.gnome.org/World/deja-dup
 platforms:

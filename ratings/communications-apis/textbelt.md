@@ -1,6 +1,6 @@
 ---
 name: Textbelt
-description: Simple SMS API with a paid hosted service and an open-source self-hosted version that sends through carrier email-to-SMS gateways.
+description: SMS API with a paid hosted service and an open-source self-hosted version that sends through carrier email-to-SMS gateways.
 website: https://textbelt.com
 source: https://github.com/typpo/textbelt
 license: MIT

@@ -1,6 +1,6 @@
 ---
 name: Vim
-description: Modal text editor for the terminal and GUI, highly configurable through Vim script and plugins. Distributed as charityware that asks users to donate to a children's charity in Uganda.
+description: Modal text editor for the terminal and GUI, configurable through Vim script and plugins. Distributed as charityware that asks users to donate to a children's charity in Uganda.
 website: https://www.vim.org
 source: https://github.com/vim/vim
 platforms:

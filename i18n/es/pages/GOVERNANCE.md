@@ -1,4 +1,4 @@
-<!-- source: 63c0d07d1a26 -->
+<!-- source: e696176d1bdb -->
 # Gobernanza
 
 Cómo se toman las decisiones, cómo se eligen las recomendaciones y cómo se gestionan los conflictos de intereses.

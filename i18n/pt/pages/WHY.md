@@ -1,4 +1,4 @@
-<!-- source: 206790af40f5 -->
+<!-- source: df34a6a5c6c4 -->
 # Por que o Privacy Ratings existe
 
 Guias de privacidade ajudam milhões de pessoas a escolher apps e serviços melhores. Muitos fazem um trabalho excelente. Mas a maioria tem os mesmos pontos fracos:

@@ -38,5 +38,5 @@ criteria:
 imported_from: awesome-privacy
 jurisdiction: SE
 pick: 1
-pick_reason: "Tor Browser's protections without the Tor network: fingerprinting resistance that makes every user look alike, uBlock Origin built in, no telemetry, and fast security updates. Built by the Tor Project and Mullvad, free, and works with any VPN."
+pick_reason: "Tor Browser's protections without the Tor network: fingerprinting resistance that makes users look alike, uBlock Origin built in, no telemetry, and fast security updates. Built by the Tor Project and Mullvad, free, and works with any VPN."
 ---

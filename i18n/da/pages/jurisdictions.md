@@ -1,4 +1,4 @@
-<!-- source: 30019e27fd12 -->
+<!-- source: d7948abaef8a -->
 # Jurisdiktioner, Five Eyes og privatliv
 
 Enhver virksomhed følger lovene i det land, hvor den har hjemsted. Disse love afgør, hvilke myndigheder der kan kræve data, hvilken procedure de skal følge, og om virksomheden må fortælle det til brugerne. Privacy Ratings viser hver virksomheds jurisdiktion på dens vurderingsside, i kategoritabeller og på landesiderne nedenfor.

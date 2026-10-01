@@ -1,6 +1,6 @@
 ---
 name: DNScrypt-proxy 2
-description: Flexible DNS proxy supporting encrypted DNS protocols including DNSCrypt v2, DNS-over-HTTPS, Oblivious DoH and Anonymized DNSCrypt.
+description: DNS proxy supporting encrypted DNS protocols including DNSCrypt v2, DNS-over-HTTPS, Oblivious DoH and Anonymized DNSCrypt.
 website: https://dnscrypt.info
 source: https://github.com/DNSCrypt/dnscrypt-proxy
 imported_from: awesome-privacy

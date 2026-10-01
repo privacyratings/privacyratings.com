@@ -1,6 +1,6 @@
 ---
 name: shred
-description: A CLI utility that can be used to securely delete files and devices, to make them extremely difficult to recover.
+description: A CLI utility that overwrites files and devices so their contents are difficult to recover.
 website: https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html
 source: https://cgit.git.savannah.gnu.org/cgit/coreutils.git
 criteria:

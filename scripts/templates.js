@@ -815,7 +815,7 @@ ${rows}
 <p>${picks.length ? `${picks.length > 1 ? th('Our picks are {names}.', { names: pickNames }) : th('Our pick is {names}.', { names: pickNames })} ${picks.map((e) => esc(t(e.pick_reason || ''))).join(' ')}` : th('No pick has been made yet. The table above is sorted by score, based on public evidence.')}</p>
 <h3>${th('How are {category} rated?', { category: esc(lower) })}</h3>
 <p>${th('Each entry answers {n} questions: {list}. Answers need links to evidence.', { n: crit.length, list: esc(joinList(crit.map((c) => lowerFirst(t(c.title))))) })} <a href="${u(`/criteria/#${cat.id}`)}">${th('See the full criteria')}</a>.</p>
-${showJ ? `<h3>${th('Does jurisdiction matter?')}</h3><p>${th('Jurisdiction decides which laws can compel a provider to hand over data. Each entry shows its country and whether it is in the Five, Nine or Fourteen Eyes. What a provider can hand over depends mostly on what it stores and who holds the keys.')} ${th('Read about {jurisdictions} and {cloudact}.', { jurisdictions: `<a href="${u('/jurisdictions/')}">${th('jurisdictions')}</a>`, cloudact: `<a href="${u('/cloud-act/')}">${th('the CLOUD Act')}</a>` })}</p>` : ''}
+${showJ ? `<h3>${th('Does jurisdiction matter?')}</h3><p>${th('Jurisdiction decides which laws can compel a provider to hand over data. Each entry shows its country and whether it is in the Five, Nine or Fourteen Eyes. The data a provider can hand over depends mostly on what it stores and who holds the keys.')} ${th('Read about {jurisdictions} and {cloudact}.', { jurisdictions: `<a href="${u('/jurisdictions/')}">${th('jurisdictions')}</a>`, cloudact: `<a href="${u('/cloud-act/')}">${th('the CLOUD Act')}</a>` })}</p>` : ''}
 </section>
 ${
   compareLinks.length || alt.length

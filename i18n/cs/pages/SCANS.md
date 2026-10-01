@@ -1,7 +1,7 @@
-<!-- source: 16559ce369ce -->
+<!-- source: eecc9b0ced33 -->
 # Automatické testy
 
-Hostované služby (kategorie s `type: service`) se testují automaticky, pokud jejich soubor s hodnocením obsahuje `domain`. Poskytovatelé e-mailu a služby pro přeposílání s `mail_domain` procházejí také e-mailovým testem.
+Workflow Scan testuje hostované služby (kategorie s `type: service`), pokud jejich soubor s hodnocením obsahuje `domain`. Poskytovatelé e-mailu a služby pro přeposílání s `mail_domain` procházejí také e-mailovým testem.
 
 | Test | Co kontroluje | Kritérium | Ano | Částečně | Ne |
 | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ Poskytovatelé e-mailu a služby pro přeposílání s `mail_domain` procházej�
 | POP3 `CAPA` | Implicitní TLS na 995, CAPA (RFC 2449), UIDL. Náhradně STLS na 110 | `pop3_standards` | Implicitní TLS, CAPA a UIDL |
 | SMTP `EHLO` | Odesílání přes implicitní TLS na 465, SMTPUTF8, 8BITMIME, PIPELINING, AUTH. Náhradně STARTTLS na 587 | `smtp_standards` | Implicitní TLS a všechna čtyři rozšíření |
 
-Názvy serverů pocházejí z `imap_host`, `pop3_host` a `smtp_host` v souboru s hodnocením, nebo ze záznamů SRV poskytovatele podle RFC 6186. Pokud poskytovatel daný protokol nenabízí, nastavte hostitele na `false`. Schopnosti jsou to, co každý server nabízí před přihlášením, a úplné seznamy se zobrazují na stránce každého hodnocení.
+Názvy serverů pocházejí z `imap_host`, `pop3_host` a `smtp_host` v souboru s hodnocením, nebo ze záznamů SRV poskytovatele podle RFC 6186. Pokud poskytovatel daný protokol nenabízí, nastavte hostitele na `false`. Schopnosti jsou to, co každý server nabízí před přihlášením, a úplné seznamy zobrazuje stránka každého hodnocení.
 
 ## Sledovače na webu
 
@@ -35,33 +35,33 @@ Každá položka s webem, včetně aplikací, prochází testem sledovačů, kte
 | Písma, vložený obsah, hlášení chyb, chat podpory nebo nástroje pro souhlas | Uvedeno na stránce, nehodnotí se |
 | Nic | Použije se odpověď ze souboru s hodnocením |
 
-Pokud je web stránkou hostingu kódu nebo obchodu s aplikacemi (GitHub, GitLab, Codeberg, SourceForge, F-Droid, Google Play a podobně), test se přeskočí, protože tuto stránku neprovozuje projekt.
+Test přeskakuje weby na hostingu kódu nebo v obchodě s aplikacemi (GitHub, GitLab, Codeberg, SourceForge, F-Droid, Google Play a podobně), protože tuto stránku projekt neprovozuje.
 
 Test vidí jen sledovače zapsané přímo ve stránce. Sledovače přidané později skripty a telemetrie uvnitř aplikací stále potřebují důkazy v souboru s hodnocením, například zásady ochrany soukromí nebo zprávu [Exodus Privacy](https://reports.exodus-privacy.eu.org).
 
-SRS a ARC nelze zvenčí zjistit bez odeslání pošty, takže jde o kritéria zodpovězená důkazy místo testů.
+Vnější test nemůže zjistit SRS a ARC bez odeslání pošty, takže hodnocení tato kritéria zodpovídají místo toho důkazy.
 
-Automatické kontroly, které ještě neproběhly, se zobrazují jako „Zatím netestováno“ a do skóre se nezapočítávají, takže poskytovatel nikdy nepřijde o body kvůli testu, který se ještě neuskutečnil.
+Automatické kontroly, které ještě neproběhly, se zobrazují jako „Zatím netestováno“ a do skóre se nezapočítávají, takže test, který se ještě neuskutečnil, nemůže snížit skóre poskytovatele.
 
-U SSL Labs se použije nejhorší známka ze všech IP adres domény.
+Výsledek SSL Labs je nejhorší známka ze všech IP adres domény.
 
 Hardenize už nenabízí veřejné API, takže každá stránka místo hodnocení odkazuje na jeho veřejnou zprávu.
 
 ## Harmonogram
 
-[Workflow Scan](.github/workflows/scan.yml) běží každý den a testuje 40 položek s nejstaršími výsledky (Internet.nl se řídí vlastními limity, viz níže), takže každá služba je testována pravidelně bez přetěžování bezplatných API. Výsledky se ukládají do [`scans/`](scans/) jako JSON, commitují se do repozitáře a zveřejňují spolu s webem. Každá stránka ukazuje, kdy její testy naposledy proběhly.
+[Workflow Scan](.github/workflows/scan.yml) běží každý den a testuje 40 položek s nejstaršími výsledky (Internet.nl se řídí vlastními limity, viz níže), takže každá služba je testována pravidelně bez přetěžování bezplatných API. Výsledky ukládá do [`scans/`](scans/) jako JSON a commituje je a web je zveřejňuje. Každá stránka ukazuje, kdy její testy naposledy proběhly.
 
 Neúspěšný test ponechá předchozí výsledek a zaznamená chybu, takže dočasný výpadek skóre nezmění.
 
 ### Limity Internet.nl
 
-Dávkové API Internet.nl se používá v souladu s jeho [podmínkami použití](https://github.com/internetstandards/Internet.nl-API-docs/blob/main/terms-of-use.md):
+Sken používá dávkové API Internet.nl v souladu s jeho [podmínkami použití](https://github.com/internetstandards/Internet.nl-API-docs/blob/main/terms-of-use.md):
 
 - Nejvýše 2 dávkové požadavky za libovolných 7 dní. Test webu a test e-mailu jsou samostatné požadavky, takže jedno úplné kolo využije oba.
 - Nejvýše 5000 domén na jeden požadavek. Pokud se test týká více domén, mají přednost ty s chybějícími nebo nejstaršími výsledky a zbytek počká na pozdější požadavek.
 - Žádné požadavky na jednu doménu, takže `--only` Internet.nl přeskočí.
 
-Každý požadavek se zaznamenává do `scans/internetnl-requests.json`, který se commituje spolu s výsledky i tehdy, když běh selže. Běh, který zjistí, že týdenní limit je vyčerpán, Internet.nl přeskočí a ponechá stávající výsledky. Dávky trvají hodiny, proto se stav požadavku kontroluje každých 5 minut a požadavek, který při skončení běhu stále probíhá, převezme pozdější běh, místo aby se odeslal znovu. Internet.nl ignoruje `--limit` a přihlašovací údaje Internet.nl používají jen běhy na výchozí větvi, takže všechny běhy sdílejí jeden záznam.
+Sken zaznamenává každý požadavek do `scans/internetnl-requests.json` a commituje tento soubor spolu s výsledky, i když běh selže. Běh, který zjistí, že týdenní limit je vyčerpán, Internet.nl přeskočí a ponechá stávající výsledky. Dávky trvají hodiny, proto sken kontroluje stav požadavku každých 5 minut a pozdější běh převezme každý požadavek, který při skončení běhu stále probíhá, místo aby ho odeslal znovu. Internet.nl ignoruje `--limit` a přihlašovací údaje Internet.nl používají jen běhy na výchozí větvi, takže všechny běhy sdílejí jeden záznam.
 
 Tento web znovu využívá výsledky testů poskytnuté testovacím nástrojem [Internet.nl](https://internet.nl).
 
@@ -71,7 +71,7 @@ Všechna nastavení jsou volitelné secrets repozitáře (Settings › Secrets a
 
 | Secret | Účel |
 | --- | --- |
-| `SSLLABS_EMAIL` | E-mail registrovaný pro [SSL Labs API v4](https://github.com/ssllabs/ssllabs-scan/blob/master/ssllabs-api-docs-v4.md). Bez něj se použije API v3. Registrace vyžaduje e-mailovou adresu organizace. |
+| `SSLLABS_EMAIL` | E-mail registrovaný pro [SSL Labs API v4](https://github.com/ssllabs/ssllabs-scan/blob/master/ssllabs-api-docs-v4.md). Bez něj sken použije API v3. Registrace vyžaduje e-mailovou adresu organizace. |
 | `INTERNETNL_USERNAME`, `INTERNETNL_PASSWORD` | Účet pro [dávkové API Internet.nl](https://internet.nl/faqs/batch-and-dashboard/). Bez nich stránky odkazují na veřejné testy Internet.nl a kritéria Internet.nl zůstávají „unknown“. |
 | `INTERNETNL_API` | Základní URL dávkového API pro [self-hosted instanci Internet.nl](https://github.com/internetstandards/Internet.nl). Výchozí hodnota je `https://batch.internet.nl/api/batch/v2`. |
 
