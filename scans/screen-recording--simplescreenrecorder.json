@@ -1,4 +1,10 @@
 {
+  "github": {
+    "repo": "MaartenBaert/ssr",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:29:14.547Z"
+  },
   "scanned_at": "2026-09-30T20:41:47.015Z",
   "trackers": {
     "url": "https://www.maartenbaert.be/simplescreenrecorder/",

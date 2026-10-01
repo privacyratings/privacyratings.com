@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.008Z",
+  "github": {
+    "repo": "wulkano/Kap",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:29:14.235Z"
+  },
+  "scanned_at": "2026-10-01T06:29:14.253Z",
   "trackers": {
     "url": "https://getkap.co",
     "found": [],
-    "tested_at": "2026-09-30T20:38:32.245Z"
+    "tested_at": "2026-10-01T06:29:14.252Z"
   }
 }

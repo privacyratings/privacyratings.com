@@ -1,4 +1,10 @@
 {
+  "github": {
+    "repo": "ggml-org/whisper.cpp",
+    "license": "MIT",
+    "archived": false,
+    "checked_at": "2026-10-01T06:29:14.882Z"
+  },
   "scanned_at": "2026-09-30T20:41:47.030Z",
   "trackers": {
     "url": "https://github.com/ggml-org/whisper.cpp",

@@ -1,5 +1,11 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.006Z",
+  "github": {
+    "repo": "flameshot-org/flameshot",
+    "license": "GPL-3.0",
+    "archived": false,
+    "checked_at": "2026-10-01T06:29:14.037Z"
+  },
+  "scanned_at": "2026-10-01T06:29:14.137Z",
   "trackers": {
     "url": "https://flameshot.org",
     "found": [
@@ -9,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-09-30T20:38:32.248Z"
+    "tested_at": "2026-10-01T06:29:14.137Z"
   }
 }

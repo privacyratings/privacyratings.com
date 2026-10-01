@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.004Z",
+  "github": {
+    "repo": "CapSoftware/Cap",
+    "license": null,
+    "archived": false,
+    "checked_at": "2026-10-01T06:29:14.008Z"
+  },
+  "scanned_at": "2026-10-01T06:29:14.311Z",
   "trackers": {
     "url": "https://cap.so",
     "found": [],
-    "tested_at": "2026-09-30T20:38:32.017Z"
+    "tested_at": "2026-10-01T06:29:14.311Z"
   }
 }

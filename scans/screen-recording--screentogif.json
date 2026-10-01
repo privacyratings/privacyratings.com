@@ -1,8 +1,14 @@
 {
-  "scanned_at": "2026-09-30T20:41:47.013Z",
+  "github": {
+    "repo": "NickeManarin/ScreenToGif",
+    "license": "MS-PL",
+    "archived": false,
+    "checked_at": "2026-10-01T06:29:14.483Z"
+  },
+  "scanned_at": "2026-10-01T06:29:14.567Z",
   "trackers": {
     "url": "https://nicke.tech/screentogif",
     "found": [],
-    "tested_at": "2026-09-30T20:38:32.639Z"
+    "tested_at": "2026-10-01T06:29:14.567Z"
   }
 }
