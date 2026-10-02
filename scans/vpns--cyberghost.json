@@ -6,14 +6,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cyberghostvpn.com",
-    "tested_at": "2026-10-01T06:38:22.651Z"
+    "tested_at": "2026-10-02T10:32:57.286Z"
   },
-  "scanned_at": "2026-10-01T06:38:25.263Z",
+  "scanned_at": "2026-10-02T10:46:52.651Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.cyberghostvpn.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:10.444Z"
+    "tested_at": "2026-10-02T10:46:52.650Z"
   },
   "trackers": {
     "url": "https://www.cyberghostvpn.com",

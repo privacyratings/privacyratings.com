@@ -1,9 +1,8 @@
 {
-  "scanned_at": "2026-10-01T11:00:06.467Z",
+  "scanned_at": "2026-10-02T10:32:57.543Z",
   "trackers": {
     "url": "https://www.parrotsec.org",
     "found": [],
-    "tested_at": "2026-09-30T20:40:15.333Z",
-    "last_error": "The operation was aborted"
+    "tested_at": "2026-10-02T10:32:57.543Z"
   }
 }

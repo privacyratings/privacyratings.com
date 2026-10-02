@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dnsimple.com",
-    "tested_at": "2026-10-01T06:38:34.519Z"
+    "tested_at": "2026-10-02T10:33:18.653Z"
   },
-  "scanned_at": "2026-10-01T06:39:09.116Z",
+  "scanned_at": "2026-10-02T10:33:19.431Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

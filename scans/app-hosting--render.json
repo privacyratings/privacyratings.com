@@ -8,7 +8,13 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.render.com",
     "tested_at": "2026-10-01T07:01:04.905Z"
   },
-  "scanned_at": "2026-10-01T11:04:38.063Z",
+  "scanned_at": "2026-10-02T10:54:02.530Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dashboard.render.com&hideResults=on",
+    "tested_at": "2026-10-02T10:54:02.530Z"
+  },
   "trackers": {
     "url": "https://render.com",
     "found": [

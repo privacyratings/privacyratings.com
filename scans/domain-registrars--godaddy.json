@@ -6,9 +6,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.godaddy.com",
-    "tested_at": "2026-10-01T06:38:36.930Z"
+    "tested_at": "2026-10-02T10:33:21.501Z"
   },
-  "scanned_at": "2026-10-01T06:38:52.867Z",
+  "scanned_at": "2026-10-02T10:33:21.913Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,

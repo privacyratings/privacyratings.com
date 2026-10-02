@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kit.com",
     "tested_at": "2026-10-01T10:59:49.820Z"
   },
-  "scanned_at": "2026-10-01T10:59:50.041Z",
+  "scanned_at": "2026-10-02T10:39:44.150Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kit.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:09.166Z"
+    "tested_at": "2026-10-02T10:39:44.150Z"
   },
   "trackers": {
     "error": "HTTP 403",

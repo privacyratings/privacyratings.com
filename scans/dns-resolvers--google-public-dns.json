@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.google",
-    "tested_at": "2026-10-01T06:38:28.270Z"
+    "tested_at": "2026-10-02T10:33:08.143Z"
   },
-  "scanned_at": "2026-10-01T06:38:52.571Z",
+  "scanned_at": "2026-10-02T10:51:49.048Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dns.google&hideResults=on",

@@ -12,14 +12,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.digitale-gesellschaft.ch",
-    "tested_at": "2026-10-01T06:38:27.153Z"
+    "tested_at": "2026-10-02T10:33:05.098Z"
   },
-  "scanned_at": "2026-10-01T06:38:33.215Z",
+  "scanned_at": "2026-10-02T10:50:04.294Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.digitale-gesellschaft.ch&hideResults=on",
-    "tested_at": "2026-10-01T06:38:11.881Z"
+    "tested_at": "2026-10-02T10:50:04.294Z"
   },
   "trackers": {
     "url": "https://www.digitale-gesellschaft.ch/dns/",

@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.luadns.com",
-    "tested_at": "2026-10-01T06:38:36.960Z"
+    "tested_at": "2026-10-02T10:33:20.455Z"
   },
-  "scanned_at": "2026-10-01T06:38:52.762Z",
+  "scanned_at": "2026-10-02T10:56:02.449Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.luadns.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:52.762Z"
+    "tested_at": "2026-10-02T10:56:02.449Z"
   },
   "trackers": {
     "url": "https://www.luadns.com",

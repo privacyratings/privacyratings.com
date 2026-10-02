@@ -12,14 +12,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hide.me",
-    "tested_at": "2026-10-01T06:38:23.539Z"
+    "tested_at": "2026-10-02T10:32:58.977Z"
   },
-  "scanned_at": "2026-10-01T06:38:26.066Z",
+  "scanned_at": "2026-10-02T10:41:44.824Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hide.me&hideResults=on",
-    "tested_at": "2026-10-01T06:38:10.503Z"
+    "tested_at": "2026-10-02T10:41:44.824Z"
   },
   "trackers": {
     "url": "https://hide.me/en/",

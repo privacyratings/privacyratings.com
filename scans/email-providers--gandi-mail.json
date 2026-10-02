@@ -5,8 +5,8 @@
       "domain": "gandi.net",
       "dnssec": false,
       "mx": [
-        "mail8.gandi.net",
-        "mail12.gandi.net"
+        "mail12.gandi.net",
+        "mail8.gandi.net"
       ],
       "spf": true,
       "dmarc": "none",
@@ -22,7 +22,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-01T10:59:42.530Z",
+    "tested_at": "2026-10-02T10:33:01.262Z",
     "imap": {
       "host": "mail.gandi.net",
       "port": 993,
@@ -79,7 +79,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=webmail.gandi.net",
     "tested_at": "2026-10-01T07:00:37.859Z"
   },
-  "scanned_at": "2026-10-01T10:59:44.459Z",
+  "scanned_at": "2026-10-02T10:33:02.816Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

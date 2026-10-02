@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=substack.com",
     "tested_at": "2026-10-01T10:59:50.497Z"
   },
-  "scanned_at": "2026-10-01T10:59:51.295Z",
+  "scanned_at": "2026-10-02T10:32:55.924Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

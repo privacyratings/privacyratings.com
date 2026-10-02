@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=surfshark.com",
-    "tested_at": "2026-10-01T06:38:25.911Z"
+    "tested_at": "2026-10-02T10:33:03.090Z"
   },
-  "scanned_at": "2026-10-01T06:38:26.701Z",
+  "scanned_at": "2026-10-02T10:47:54.258Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

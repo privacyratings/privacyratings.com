@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.sb",
-    "tested_at": "2026-10-01T06:38:27.005Z"
+    "tested_at": "2026-10-02T10:33:06.122Z"
   },
-  "scanned_at": "2026-10-01T06:38:27.267Z",
+  "scanned_at": "2026-10-02T10:49:45.506Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dns.sb&hideResults=on",
-    "tested_at": "2026-10-01T06:38:13.143Z"
+    "tested_at": "2026-10-02T10:49:45.506Z"
   },
   "trackers": {
     "url": "https://dns.sb",

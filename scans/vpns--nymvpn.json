@@ -12,14 +12,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nym.com",
-    "tested_at": "2026-10-01T06:38:24.506Z"
+    "tested_at": "2026-10-02T10:32:59.895Z"
   },
-  "scanned_at": "2026-10-01T06:38:26.593Z",
+  "scanned_at": "2026-10-02T10:43:52.280Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=nym.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:10.851Z"
+    "tested_at": "2026-10-02T10:43:52.280Z"
   },
   "trackers": {
     "url": "https://nym.com",

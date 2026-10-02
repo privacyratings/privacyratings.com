@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.opendns.com",
-    "tested_at": "2026-10-01T06:38:30.148Z"
+    "tested_at": "2026-10-02T10:33:13.677Z"
   },
-  "scanned_at": "2026-10-01T06:38:30.965Z",
+  "scanned_at": "2026-10-02T10:52:49.610Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

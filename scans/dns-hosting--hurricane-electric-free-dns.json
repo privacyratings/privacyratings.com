@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.he.net",
-    "tested_at": "2026-10-01T06:38:35.949Z"
+    "tested_at": "2026-10-02T10:33:19.994Z"
   },
-  "scanned_at": "2026-10-01T06:41:15.207Z",
+  "scanned_at": "2026-10-02T10:33:20.341Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,

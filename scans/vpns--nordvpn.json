@@ -12,9 +12,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nordvpn.com",
-    "tested_at": "2026-10-01T06:38:24.097Z"
+    "tested_at": "2026-10-02T10:32:59.498Z"
   },
-  "scanned_at": "2026-10-01T06:38:25.240Z",
+  "scanned_at": "2026-10-02T10:44:51.720Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

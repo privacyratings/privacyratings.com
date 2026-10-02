@@ -6,14 +6,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.textnow.com",
-    "tested_at": "2026-10-01T06:38:22.376Z"
+    "tested_at": "2026-10-02T10:32:56.172Z"
   },
-  "scanned_at": "2026-10-01T10:59:36.465Z",
+  "scanned_at": "2026-10-02T10:41:49.875Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.textnow.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:10.342Z"
+    "tested_at": "2026-10-02T10:41:49.875Z"
   },
   "trackers": {
     "url": "https://www.textnow.com",

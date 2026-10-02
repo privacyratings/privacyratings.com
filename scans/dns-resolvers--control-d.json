@@ -12,14 +12,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=controld.com",
-    "tested_at": "2026-10-01T06:38:26.776Z"
+    "tested_at": "2026-10-02T10:33:04.149Z"
   },
-  "scanned_at": "2026-10-01T06:38:26.935Z",
+  "scanned_at": "2026-10-02T10:50:02.628Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=controld.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:11.297Z"
+    "tested_at": "2026-10-02T10:50:02.628Z"
   },
   "trackers": {
     "url": "https://controld.com",

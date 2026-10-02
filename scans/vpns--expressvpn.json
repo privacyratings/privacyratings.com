@@ -12,9 +12,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.expressvpn.com",
-    "tested_at": "2026-10-01T06:38:22.894Z"
+    "tested_at": "2026-10-02T10:32:58.098Z"
   },
-  "scanned_at": "2026-10-01T06:38:25.254Z",
+  "scanned_at": "2026-10-02T10:42:52.052Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
