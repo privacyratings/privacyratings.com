@@ -1,0 +1,111 @@
+{
+  "domain": "more.att.com",
+  "mail": {
+    "dns": {
+      "domain": "att.net",
+      "dnssec": false,
+      "mx": [
+        "mx-att.mail.am0.yahoodns.net"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-10-03T09:53:55.486Z",
+    "imap": {
+      "host": "imap.mail.att.net",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "SASL-IR",
+        "AUTH=PLAIN",
+        "AUTH=XOAUTH2",
+        "AUTH=OAUTHBEARER",
+        "ID",
+        "MOVE",
+        "NAMESPACE",
+        "XYMHIGHESTMODSEQ",
+        "UIDPLUS",
+        "LITERAL+",
+        "CHILDREN",
+        "UNSELECT",
+        "X-MSG-EXT",
+        "OBJECTID",
+        "IDLE",
+        "ENABLE",
+        "UIDONLY",
+        "X-UIDONLY",
+        "LIST-EXTENDED",
+        "LIST-STATUS",
+        "SPECIAL-USE",
+        "PARTIAL",
+        "APPENDLIMIT=41697280"
+      ]
+    },
+    "pop3": {
+      "host": "inbound.att.net",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "IMPLEMENTATION",
+        "EXPIRE-NEVER",
+        "PIPELINING",
+        "RESP-CODES",
+        "TOP",
+        "UIDL",
+        "USER",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.mail.att.net",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "SIZE",
+        "AUTH"
+      ]
+    }
+  },
+  "mail_domain": "att.net",
+  "observatory": {
+    "grade": "D+",
+    "score": 40,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=more.att.com",
+    "tested_at": "2026-10-03T09:53:54.181Z"
+  },
+  "scanned_at": "2026-10-03T09:59:36.189Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=more.att.com&hideResults=on",
+    "tested_at": "2026-10-03T09:59:36.189Z"
+  },
+  "trackers": {
+    "url": "https://more.att.com/email/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-10-03T09:53:54.123Z"
+  }
+}

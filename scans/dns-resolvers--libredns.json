@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=libredns.gr",
     "tested_at": "2026-10-02T10:33:12.173Z"
   },
-  "scanned_at": "2026-10-02T10:52:27.892Z",
+  "scanned_at": "2026-10-03T10:02:02.596Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=libredns.gr&hideResults=on",
-    "tested_at": "2026-10-01T06:38:12.400Z"
+    "tested_at": "2026-10-03T10:02:02.596Z"
   },
   "trackers": {
     "url": "https://libredns.gr",

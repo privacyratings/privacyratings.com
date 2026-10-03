@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=surfshark.com",
     "tested_at": "2026-10-02T10:33:03.090Z"
   },
-  "scanned_at": "2026-10-02T10:47:54.258Z",
+  "scanned_at": "2026-10-03T10:05:13.679Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=surfshark.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:10.968Z"
+    "tested_at": "2026-10-03T10:05:13.679Z"
   },
   "trackers": {
     "url": "https://surfshark.com",

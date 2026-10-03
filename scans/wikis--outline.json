@@ -12,9 +12,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.getoutline.com",
-    "tested_at": "2026-10-01T06:38:44.101Z"
+    "tested_at": "2026-10-03T09:54:12.167Z"
   },
-  "scanned_at": "2026-10-01T06:38:54.467Z",
+  "scanned_at": "2026-10-03T09:54:12.873Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

@@ -1,0 +1,45 @@
+{
+  "domain": "us.ess.barracudanetworks.com",
+  "observatory": {
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=us.ess.barracudanetworks.com",
+    "tested_at": "2026-10-03T09:53:53.965Z"
+  },
+  "scanned_at": "2026-10-03T10:09:53.727Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=us.ess.barracudanetworks.com&hideResults=on",
+    "tested_at": "2026-10-03T10:09:53.727Z"
+  },
+  "trackers": {
+    "url": "https://www.barracuda.com/products/email-protection",
+    "found": [
+      {
+        "name": "Facebook SDK",
+        "host": "connect.facebook.net"
+      },
+      {
+        "name": "Google Analytics",
+        "host": "www.google-analytics.com"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Mixpanel",
+        "host": "cdn4.mxpnl.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "cdn.cookielaw.org",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-10-03T09:53:54.069Z"
+  }
+}

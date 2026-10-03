@@ -6,9 +6,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.cal.com",
-    "tested_at": "2026-10-01T06:38:44.709Z"
+    "tested_at": "2026-10-03T09:54:12.686Z"
   },
-  "scanned_at": "2026-10-01T06:38:54.569Z",
+  "scanned_at": "2026-10-03T09:54:14.095Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

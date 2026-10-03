@@ -2,13 +2,13 @@
   "domain": "m365.cloud.microsoft",
   "observatory": {
     "grade": "A+",
-    "score": 110,
+    "score": 115,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
-    "tested_at": "2026-10-01T06:38:44.909Z"
+    "tested_at": "2026-10-03T09:54:14.171Z"
   },
-  "scanned_at": "2026-10-01T06:38:54.766Z",
+  "scanned_at": "2026-10-03T09:54:14.910Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

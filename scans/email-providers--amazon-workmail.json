@@ -1,0 +1,23 @@
+{
+  "domain": "aws.amazon.com",
+  "observatory": {
+    "grade": "A",
+    "score": 95,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=aws.amazon.com",
+    "tested_at": "2026-10-03T09:53:54.028Z"
+  },
+  "scanned_at": "2026-10-03T09:53:54.712Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 12,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=aws.amazon.com&hideResults=on",
+    "tested_at": "2026-10-03T09:53:54.712Z"
+  },
+  "trackers": {
+    "url": "https://aws.amazon.com/workmail/",
+    "found": [],
+    "tested_at": "2026-10-03T09:53:54.055Z"
+  }
+}

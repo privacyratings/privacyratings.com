@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ionos.com",
     "tested_at": "2026-10-02T10:33:22.092Z"
   },
-  "scanned_at": "2026-10-02T10:33:23.063Z",
+  "scanned_at": "2026-10-03T10:07:39.160Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.ionos.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:52.983Z"
+    "tested_at": "2026-10-03T10:07:39.160Z"
   },
   "trackers": {
     "url": "https://www.ionos.com",

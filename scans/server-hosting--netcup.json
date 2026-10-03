@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.customercontrolpanel.de",
-    "tested_at": "2026-10-01T06:38:42.571Z"
+    "tested_at": "2026-10-03T09:54:08.693Z"
   },
-  "scanned_at": "2026-10-01T06:38:53.787Z",
+  "scanned_at": "2026-10-03T10:16:05.101Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.customercontrolpanel.de&hideResults=on",
-    "tested_at": "2026-10-01T06:38:53.787Z"
+    "tested_at": "2026-10-03T10:16:05.101Z"
   },
   "trackers": {
     "url": "https://www.netcup.com/en",

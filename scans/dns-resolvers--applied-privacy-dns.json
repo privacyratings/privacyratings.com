@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=applied-privacy.net",
     "tested_at": "2026-10-02T10:33:04.026Z"
   },
-  "scanned_at": "2026-10-02T10:49:26.555Z",
+  "scanned_at": "2026-10-03T10:03:17.473Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=applied-privacy.net&hideResults=on",
-    "tested_at": "2026-10-01T06:38:11.159Z"
+    "tested_at": "2026-10-03T10:03:17.473Z"
   },
   "trackers": {
     "url": "https://applied-privacy.net/services/dns/",

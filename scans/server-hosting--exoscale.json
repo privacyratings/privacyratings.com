@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.exoscale.com",
-    "tested_at": "2026-10-01T06:38:41.259Z"
+    "tested_at": "2026-10-03T09:54:07.455Z"
   },
-  "scanned_at": "2026-10-01T06:38:53.508Z",
+  "scanned_at": "2026-10-03T10:11:22.967Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

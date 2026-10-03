@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.aws.amazon.com",
     "tested_at": "2026-10-02T10:33:17.411Z"
   },
-  "scanned_at": "2026-10-02T10:33:23.632Z",
+  "scanned_at": "2026-10-03T10:09:49.976Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=console.aws.amazon.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:53.375Z"
+    "tested_at": "2026-10-03T10:09:49.976Z"
   },
   "trackers": {
     "url": "https://aws.amazon.com",

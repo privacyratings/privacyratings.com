@@ -4,7 +4,7 @@
     "repo": "chatwoot/chatwoot",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:11.387Z"
+    "checked_at": "2026-10-03T09:53:54.447Z"
   },
   "observatory": {
     "grade": "F",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.chatwoot.com",
     "tested_at": "2026-10-01T10:59:51.652Z"
   },
-  "scanned_at": "2026-10-02T10:35:05.229Z",
+  "scanned_at": "2026-10-03T09:53:54.447Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

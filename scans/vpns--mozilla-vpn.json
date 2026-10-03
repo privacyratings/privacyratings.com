@@ -4,7 +4,7 @@
     "repo": "mozilla-mobile/mozilla-vpn-client",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:11.745Z"
+    "checked_at": "2026-10-03T09:53:54.770Z"
   },
   "observatory": {
     "grade": "B",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mozilla.org",
     "tested_at": "2026-10-02T10:32:59.051Z"
   },
-  "scanned_at": "2026-10-02T10:45:14.029Z",
+  "scanned_at": "2026-10-03T09:53:54.770Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

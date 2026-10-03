@@ -4,7 +4,7 @@
     "repo": "DigitaleGesellschaft/DNS-Resolver",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:12.183Z"
+    "checked_at": "2026-10-03T09:53:55.021Z"
   },
   "observatory": {
     "grade": "B+",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.digitale-gesellschaft.ch",
     "tested_at": "2026-10-02T10:33:05.098Z"
   },
-  "scanned_at": "2026-10-02T10:50:04.294Z",
+  "scanned_at": "2026-10-03T09:53:55.021Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

@@ -1,0 +1,34 @@
+{
+  "domain": "activecampaign.com",
+  "observatory": {
+    "grade": "D+",
+    "score": 40,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=activecampaign.com",
+    "tested_at": "2026-10-03T09:53:58.118Z"
+  },
+  "scanned_at": "2026-10-03T09:57:05.522Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=activecampaign.com&hideResults=on",
+    "tested_at": "2026-10-03T09:57:05.522Z"
+  },
+  "trackers": {
+    "url": "https://www.activecampaign.com",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-10-03T09:53:55.545Z"
+  }
+}

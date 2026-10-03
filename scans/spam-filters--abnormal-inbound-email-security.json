@@ -1,0 +1,22 @@
+{
+  "domain": "portal.abnormalsecurity.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.abnormalsecurity.com",
+    "tested_at": "2026-10-03T09:53:54.324Z"
+  },
+  "scanned_at": "2026-10-03T09:56:54.938Z",
+  "trackers": {
+    "url": "https://abnormal.ai/platform/inbound-email-security",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-10-03T09:53:54.729Z"
+  }
+}

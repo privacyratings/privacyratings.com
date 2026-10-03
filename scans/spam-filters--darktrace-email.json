@@ -1,0 +1,28 @@
+{
+  "domain": "customerportal.darktrace.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 100,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=customerportal.darktrace.com",
+    "tested_at": "2026-10-03T09:53:54.738Z"
+  },
+  "scanned_at": "2026-10-03T09:57:05.063Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=customerportal.darktrace.com&hideResults=on",
+    "tested_at": "2026-10-03T09:57:05.063Z"
+  },
+  "trackers": {
+    "url": "https://www.darktrace.com/products/email",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-10-03T09:53:54.860Z"
+  }
+}

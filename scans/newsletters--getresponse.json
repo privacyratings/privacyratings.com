@@ -1,0 +1,28 @@
+{
+  "domain": "getresponse.com",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getresponse.com",
+    "tested_at": "2026-10-03T09:54:00.508Z"
+  },
+  "scanned_at": "2026-10-03T09:57:05.713Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=getresponse.com&hideResults=on",
+    "tested_at": "2026-10-03T09:57:05.712Z"
+  },
+  "trackers": {
+    "url": "https://www.getresponse.com",
+    "found": [
+      {
+        "name": "Amplitude",
+        "host": "cdn.amplitude.com"
+      }
+    ],
+    "tested_at": "2026-10-03T09:53:55.727Z"
+  }
+}

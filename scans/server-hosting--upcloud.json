@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hub.upcloud.com",
-    "tested_at": "2026-10-01T06:38:42.970Z"
+    "tested_at": "2026-10-03T09:54:11.126Z"
   },
-  "scanned_at": "2026-10-02T10:32:56.018Z",
+  "scanned_at": "2026-10-03T09:54:12.469Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

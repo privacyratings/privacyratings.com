@@ -4,7 +4,7 @@
     "repo": "eventure/hide.client.linux",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:11.758Z"
+    "checked_at": "2026-10-03T09:53:54.648Z"
   },
   "observatory": {
     "grade": "B",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hide.me",
     "tested_at": "2026-10-02T10:32:58.977Z"
   },
-  "scanned_at": "2026-10-02T10:41:44.824Z",
+  "scanned_at": "2026-10-03T09:53:54.648Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.frantech.ca",
-    "tested_at": "2026-10-01T06:38:40.656Z"
+    "tested_at": "2026-10-03T09:54:06.655Z"
   },
-  "scanned_at": "2026-10-01T06:38:53.428Z",
+  "scanned_at": "2026-10-03T10:11:15.117Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,

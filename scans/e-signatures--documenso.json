@@ -12,9 +12,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.documenso.com",
-    "tested_at": "2026-10-01T06:38:46.368Z"
+    "tested_at": "2026-10-03T09:54:16.776Z"
   },
-  "scanned_at": "2026-10-01T06:38:55.066Z",
+  "scanned_at": "2026-10-03T09:54:17.734Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 12,

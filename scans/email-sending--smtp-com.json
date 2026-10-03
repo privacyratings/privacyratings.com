@@ -1,0 +1,37 @@
+{
+  "domain": "smtp.com",
+  "observatory": {
+    "grade": "F",
+    "score": 0,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=smtp.com",
+    "tested_at": "2026-10-03T09:53:56.023Z"
+  },
+  "scanned_at": "2026-10-03T09:57:05.409Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=smtp.com&hideResults=on",
+    "tested_at": "2026-10-03T09:57:05.409Z"
+  },
+  "trackers": {
+    "url": "https://www.smtp.com",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "OneTrust",
+        "host": "privacyportal.onetrust.com",
+        "soft": true
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-10-03T09:53:55.436Z"
+  }
+}

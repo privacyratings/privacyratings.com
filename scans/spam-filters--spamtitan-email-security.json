@@ -1,0 +1,37 @@
+{
+  "domain": "eu1-smtp-ui.titanhq.com",
+  "observatory": {
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=eu1-smtp-ui.titanhq.com",
+    "tested_at": "2026-10-03T09:53:55.362Z"
+  },
+  "scanned_at": "2026-10-03T10:08:22.758Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=eu1-smtp-ui.titanhq.com&hideResults=on",
+    "tested_at": "2026-10-03T10:08:22.758Z"
+  },
+  "trackers": {
+    "url": "https://www.titanhq.com/email-protection/",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      }
+    ],
+    "tested_at": "2026-10-03T09:53:55.175Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "domain": "login.mimecast.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=login.mimecast.com",
+    "tested_at": "2026-10-03T09:53:55.317Z"
+  },
+  "scanned_at": "2026-10-03T10:04:52.996Z",
+  "ssllabs": {
+    "grade": "A-",
+    "endpoints": 12,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=login.mimecast.com&hideResults=on",
+    "tested_at": "2026-10-03T10:04:52.996Z"
+  },
+  "trackers": {
+    "url": "https://www.mimecast.com/products/email-security/",
+    "found": [
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      }
+    ],
+    "tested_at": "2026-10-03T09:53:55.130Z"
+  }
+}
