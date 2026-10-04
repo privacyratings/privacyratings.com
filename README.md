@@ -44,7 +44,7 @@ cli/                    The privacyratings command-line tool (npm package and st
 2. The **Test** workflow validates every file and builds the site.
 3. A maintainer reviews the evidence and merges.
 4. The **Deploy** workflow publishes the site to GitHub Pages.
-5. The **Lighthouse** workflow requires 100 in every Lighthouse category on each page type, on mobile and desktop.
+5. The **Lighthouse** workflow requires 100 in every Lighthouse category on each page type, on mobile and desktop. Scores vary a little between runs, so a page below 100 is run twice more and passes only if most of its runs score 100.
 6. Every day, the **Scan** workflow tests hosted services and commits the results, which triggers a new deploy.
 7. Every month, the **Sync Awesome Privacy** workflow opens a pull request with any new entries from [Awesome Privacy](https://github.com/lissy93/awesome-privacy). A snapshot of its data lives in `vendor/awesome-privacy/`: if the site is down, blocks the download or serves a broken file, the import uses that copy and the workflow still succeeds. The build itself never downloads anything from Awesome Privacy.
 

@@ -410,6 +410,8 @@ tr[hidden] { display: none !important; }
   .ratings.responsive, .ratings.responsive tbody { display: block; }
   .ratings.responsive thead { display: none; }
   .ratings.responsive tr { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding: 14px; margin-bottom: 12px; border: 1px solid var(--line-strong); border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); }
+  /* A long category has dozens of cards with a label on every criterion. Only lay out the cards near the screen. */
+  .ratings.responsive tr { content-visibility: auto; contain-intrinsic-size: auto 600px; }
   .ratings.responsive tr > * { border: 0; padding: 0; background: transparent !important; position: static; }
   .ratings.responsive th[scope="row"] { flex: 1 1 100%; min-width: 0; }
   .ratings.responsive td.num, .ratings.responsive td.j { display: inline-flex; align-items: center; gap: 6px; font-size: 0.85rem; }
