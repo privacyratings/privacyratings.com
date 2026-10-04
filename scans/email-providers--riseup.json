@@ -36,7 +36,7 @@
         }
       }
     },
-    "tested_at": "2026-10-03T09:54:37.563Z",
+    "tested_at": "2026-10-04T10:37:21.673Z",
     "imap": {
       "host": "mail.riseup.net",
       "port": 993,
@@ -94,7 +94,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=riseup.net",
     "tested_at": "2026-10-01T07:00:29.814Z"
   },
-  "scanned_at": "2026-10-03T09:54:38.656Z",
+  "scanned_at": "2026-10-04T10:37:22.217Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

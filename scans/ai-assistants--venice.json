@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=venice.ai",
-    "tested_at": "2026-10-01T06:38:53.707Z"
+    "tested_at": "2026-10-04T10:37:02.116Z"
   },
-  "scanned_at": "2026-10-01T06:39:10.414Z",
+  "scanned_at": "2026-10-04T10:37:02.911Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

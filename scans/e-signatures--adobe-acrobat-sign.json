@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.adobesign.com",
     "tested_at": "2026-10-03T09:54:15.614Z"
   },
-  "scanned_at": "2026-10-03T09:54:16.930Z",
+  "scanned_at": "2026-10-04T10:45:45.866Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=secure.adobesign.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:54.987Z"
+    "tested_at": "2026-10-04T10:45:45.865Z"
   },
   "trackers": {
     "error": "The operation was aborted",

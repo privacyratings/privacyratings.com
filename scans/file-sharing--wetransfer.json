@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wetransfer.com",
-    "tested_at": "2026-10-01T06:39:02.285Z"
+    "tested_at": "2026-10-04T10:37:13.256Z"
   },
-  "scanned_at": "2026-10-01T06:39:49.805Z",
+  "scanned_at": "2026-10-04T10:37:14.481Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.proton.me",
     "tested_at": "2026-10-03T09:54:15.058Z"
   },
-  "scanned_at": "2026-10-03T09:54:16.618Z",
+  "scanned_at": "2026-10-04T10:41:30.260Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=docs.proton.me&hideResults=on",
-    "tested_at": "2026-10-01T06:38:54.873Z"
+    "tested_at": "2026-10-04T10:41:30.260Z"
   },
   "trackers": {
     "url": "https://proton.me/drive/docs",

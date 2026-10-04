@@ -6,9 +6,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wormhole.app",
-    "tested_at": "2026-10-01T06:39:02.726Z"
+    "tested_at": "2026-10-04T10:37:13.409Z"
   },
-  "scanned_at": "2026-10-01T06:39:49.868Z",
+  "scanned_at": "2026-10-04T10:37:13.699Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

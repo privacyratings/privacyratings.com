@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=chatgpt.com",
-    "tested_at": "2026-10-01T06:38:50.780Z"
+    "tested_at": "2026-10-04T10:36:46.125Z"
   },
-  "scanned_at": "2026-10-01T06:39:09.645Z",
+  "scanned_at": "2026-10-04T10:48:11.151Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=chatgpt.com&hideResults=on",
-    "tested_at": "2026-10-01T06:39:09.645Z"
+    "tested_at": "2026-10-04T10:48:11.151Z"
   },
   "trackers": {
     "url": "https://chatgpt.com",

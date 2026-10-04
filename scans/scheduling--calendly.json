@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=calendly.com",
     "tested_at": "2026-10-03T09:54:12.944Z"
   },
-  "scanned_at": "2026-10-03T09:54:13.614Z",
+  "scanned_at": "2026-10-04T10:39:40.492Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=calendly.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:54.635Z"
+    "tested_at": "2026-10-04T10:39:40.492Z"
   },
   "trackers": {
     "url": "https://calendly.com",

@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.dropbox.com",
-    "tested_at": "2026-10-01T06:38:54.967Z"
+    "tested_at": "2026-10-04T10:37:03.379Z"
   },
-  "scanned_at": "2026-10-01T06:40:51.041Z",
+  "scanned_at": "2026-10-04T10:37:04.163Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

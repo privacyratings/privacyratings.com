@@ -6,9 +6,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=onedrive.live.com",
-    "tested_at": "2026-10-01T06:38:58.232Z"
+    "tested_at": "2026-10-04T10:37:10.375Z"
   },
-  "scanned_at": "2026-10-01T06:39:49.422Z",
+  "scanned_at": "2026-10-04T10:37:13.169Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

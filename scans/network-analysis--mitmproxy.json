@@ -3,9 +3,9 @@
     "repo": "mitmproxy/mitmproxy",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:14.096Z"
+    "checked_at": "2026-10-04T10:36:40.887Z"
   },
-  "scanned_at": "2026-10-01T06:38:31.742Z",
+  "scanned_at": "2026-10-04T10:36:40.887Z",
   "trackers": {
     "url": "https://www.mitmproxy.org",
     "found": [

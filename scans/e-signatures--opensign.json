@@ -12,14 +12,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.opensignlabs.com",
-    "tested_at": "2026-10-01T06:38:47.718Z"
+    "tested_at": "2026-10-04T10:36:39.619Z"
   },
-  "scanned_at": "2026-10-01T06:38:55.407Z",
+  "scanned_at": "2026-10-04T10:46:31.381Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.opensignlabs.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:55.407Z"
+    "tested_at": "2026-10-04T10:46:31.381Z"
   },
   "trackers": {
     "url": "https://www.opensignlabs.com",

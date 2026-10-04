@@ -12,9 +12,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.formbricks.com",
-    "tested_at": "2026-10-01T06:38:47.868Z"
+    "tested_at": "2026-10-04T10:36:39.892Z"
   },
-  "scanned_at": "2026-10-01T06:38:55.472Z",
+  "scanned_at": "2026-10-04T10:45:06.307Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

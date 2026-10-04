@@ -12,9 +12,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.swisstransfer.com",
-    "tested_at": "2026-10-01T06:39:02.396Z"
+    "tested_at": "2026-10-04T10:37:13.335Z"
   },
-  "scanned_at": "2026-10-01T06:39:49.742Z",
+  "scanned_at": "2026-10-04T10:37:15.509Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -12,14 +12,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.limesurvey.org",
-    "tested_at": "2026-10-01T06:38:48.681Z"
+    "tested_at": "2026-10-04T10:36:41.999Z"
   },
-  "scanned_at": "2026-10-01T06:38:55.705Z",
+  "scanned_at": "2026-10-04T10:45:51.377Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=account.limesurvey.org&hideResults=on",
-    "tested_at": "2026-10-01T06:38:55.705Z"
+    "tested_at": "2026-10-04T10:45:51.377Z"
   },
   "trackers": {
     "url": "https://www.limesurvey.org",

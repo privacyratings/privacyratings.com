@@ -3,9 +3,9 @@
     "repo": "OpenVPN/openvpn",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:13.447Z"
+    "checked_at": "2026-10-04T10:36:40.165Z"
   },
-  "scanned_at": "2026-10-01T06:38:30.710Z",
+  "scanned_at": "2026-10-04T10:36:40.165Z",
   "trackers": {
     "url": "https://openvpn.net/community/",
     "found": [

@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitbucket.org",
-    "tested_at": "2026-10-01T06:59:38.501Z"
+    "tested_at": "2026-10-04T10:37:13.748Z"
   },
-  "scanned_at": "2026-10-01T06:59:43.750Z",
+  "scanned_at": "2026-10-04T10:37:14.959Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
