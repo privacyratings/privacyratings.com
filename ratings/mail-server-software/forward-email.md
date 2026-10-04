@@ -14,9 +14,9 @@ criteria:
     evidence: https://github.com/forwardemail/forwardemail.net/blob/master/LICENSE.md
     note: All code is public. Core mail storage and protocol code is MPL-2.0 and the rest is under the source-available Business Source License 1.1 (BUSL-1.1), which becomes MPL-2.0 four years after each release. BUSL-1.1 allows production use except offering the software as a hosted service that competes with Forward Email.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://forwardemail.net/en/self-hosted
-    note: The self-hosting guide states no information is sent outside the server. The forwardemail.net website runs first-party anonymized analytics by default, with no third-party analytics.
+    note: The self-hosting guide states no information is sent outside the server. The forwardemail.net website has no third-party trackers, and its first-party analytics set no cookies and store no IP addresses.
   no_ads:
     answer: yes
     evidence: https://forwardemail.net/en/private-business-email

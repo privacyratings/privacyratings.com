@@ -24,9 +24,9 @@ criteria:
     evidence: https://github.com/forwardemail/forwardemail.net/blob/master/LICENSE.md
     note: All code is public, including the web, API, IMAP, POP3, SMTP, MX, CalDAV and CardDAV servers that run the service. Core mail storage and protocol code is MPL-2.0 and the rest is under the source-available Business Source License 1.1 (BUSL-1.1), which becomes MPL-2.0 four years after each release.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://forwardemail.net/en/privacy#analytics
-    note: No third-party analytics or telemetry. First-party page statistics keep no IP addresses, cookies or identifiers and are deleted after 30 days. Cloudflare Turnstile loads only on sign-in and sign-up forms to stop bots.
+    note: No third-party trackers or analytics. First-party analytics set no cookies and store no IP addresses. Visits are counted with a hash that changes every day, and events are deleted after 30 days. Cloudflare Turnstile loads only on sign-in and sign-up forms to stop bots.
   no_ads:
     answer: yes
     evidence: https://forwardemail.net/en/private-business-email

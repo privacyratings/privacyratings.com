@@ -19,9 +19,9 @@ criteria:
     evidence: https://github.com/forwardemail/mail.forwardemail.net/blob/main/LICENSE.md
     note: All code is public. The apps are under the source-available Business Source License 1.1, which becomes MPL-2.0 four years after each release.
   no_trackers:
-    answer: partial
+    answer: yes
     evidence: https://forwardemail.net/en/privacy#analytics
-    note: No third-party analytics in the website or apps, but the website runs first-party cookieless analytics by default.
+    note: No telemetry or third-party analytics in the apps. The website has no third-party trackers, and its first-party analytics set no cookies, store no IP addresses and delete events after 30 days.
   no_ads:
     answer: yes
     evidence: https://forwardemail.net/en/privacy
