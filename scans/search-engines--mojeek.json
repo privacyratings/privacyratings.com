@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mojeek.com",
-    "tested_at": "2026-10-01T06:59:46.566Z"
+    "tested_at": "2026-10-05T11:33:32.041Z"
   },
-  "scanned_at": "2026-10-01T07:01:14.970Z",
+  "scanned_at": "2026-10-05T11:33:34.024Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

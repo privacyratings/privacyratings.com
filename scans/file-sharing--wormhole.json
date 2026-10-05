@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wormhole.app",
     "tested_at": "2026-10-04T10:37:13.409Z"
   },
-  "scanned_at": "2026-10-04T10:37:13.699Z",
+  "scanned_at": "2026-10-05T11:43:58.304Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=wormhole.app&hideResults=on",
-    "tested_at": "2026-10-01T06:39:49.867Z"
+    "tested_at": "2026-10-05T11:43:58.304Z"
   },
   "trackers": {
     "url": "https://wormhole.app",

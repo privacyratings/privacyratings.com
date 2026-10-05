@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.youtube.com",
-    "tested_at": "2026-10-01T06:59:45.201Z"
+    "tested_at": "2026-10-05T11:34:02.477Z"
   },
-  "scanned_at": "2026-10-01T07:19:54.133Z",
+  "scanned_at": "2026-10-05T11:34:03.001Z",
   "ssllabs": {
     "error": "Timed out",
     "tested_at": "2026-10-01T07:19:54.133Z"

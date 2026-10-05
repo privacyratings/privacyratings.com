@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.formbricks.com",
     "tested_at": "2026-10-04T10:36:39.892Z"
   },
-  "scanned_at": "2026-10-04T10:45:06.307Z",
+  "scanned_at": "2026-10-05T11:36:32.749Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

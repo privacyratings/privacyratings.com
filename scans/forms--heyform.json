@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.heyform.net",
     "tested_at": "2026-10-04T10:36:41.467Z"
   },
-  "scanned_at": "2026-10-04T10:45:10.743Z",
+  "scanned_at": "2026-10-05T11:36:32.932Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

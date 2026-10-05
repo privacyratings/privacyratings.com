@@ -12,14 +12,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=plausible.io",
-    "tested_at": "2026-10-01T06:59:40.248Z"
+    "tested_at": "2026-10-05T11:33:46.354Z"
   },
-  "scanned_at": "2026-10-01T06:59:45.719Z",
+  "scanned_at": "2026-10-05T11:46:23.708Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=plausible.io&hideResults=on",
-    "tested_at": "2026-10-01T06:59:38.951Z"
+    "tested_at": "2026-10-05T11:46:23.708Z"
   },
   "trackers": {
     "url": "https://plausible.io",

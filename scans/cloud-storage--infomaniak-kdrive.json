@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kdrive.infomaniak.com",
     "tested_at": "2026-10-04T10:37:05.176Z"
   },
-  "scanned_at": "2026-10-04T10:37:09.731Z",
+  "scanned_at": "2026-10-05T11:44:08.650Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kdrive.infomaniak.com&hideResults=on",
-    "tested_at": "2026-10-01T06:39:49.252Z"
+    "tested_at": "2026-10-05T11:44:08.650Z"
   },
   "trackers": {
     "url": "https://www.infomaniak.com/en/ksuite/kdrive",

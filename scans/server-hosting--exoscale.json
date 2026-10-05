@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.exoscale.com",
     "tested_at": "2026-10-03T09:54:07.455Z"
   },
-  "scanned_at": "2026-10-04T10:39:40.240Z",
+  "scanned_at": "2026-10-05T11:35:27.692Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=portal.exoscale.com&hideResults=on",
-    "tested_at": "2026-10-01T06:38:53.508Z"
+    "tested_at": "2026-10-05T11:35:27.692Z"
   },
   "trackers": {
     "url": "https://www.exoscale.com",

@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.he.net",
     "tested_at": "2026-10-02T10:33:19.994Z"
   },
-  "scanned_at": "2026-10-02T10:33:20.341Z",
+  "scanned_at": "2026-10-05T11:36:02.394Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dns.he.net&hideResults=on",
-    "tested_at": "2026-10-01T06:41:15.207Z"
+    "tested_at": "2026-10-05T11:36:02.394Z"
   },
   "trackers": {
     "url": "https://dns.he.net",

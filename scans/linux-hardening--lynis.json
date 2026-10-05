@@ -3,9 +3,9 @@
     "repo": "CISOfy/lynis",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:15.125Z"
+    "checked_at": "2026-10-05T11:33:33.313Z"
   },
-  "scanned_at": "2026-10-01T06:38:36.105Z",
+  "scanned_at": "2026-10-05T11:33:33.313Z",
   "trackers": {
     "url": "https://cisofy.com/lynis/",
     "found": [],

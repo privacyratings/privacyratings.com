@@ -12,14 +12,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=posthog.com",
-    "tested_at": "2026-10-01T06:59:40.633Z"
+    "tested_at": "2026-10-05T11:33:46.738Z"
   },
-  "scanned_at": "2026-10-01T06:59:45.948Z",
+  "scanned_at": "2026-10-05T11:46:23.728Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=posthog.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:39.007Z"
+    "tested_at": "2026-10-05T11:46:23.728Z"
   },
   "trackers": {
     "url": "https://posthog.com",

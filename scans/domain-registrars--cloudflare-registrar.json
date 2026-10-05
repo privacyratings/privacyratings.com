@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.cloudflare.com",
-    "tested_at": "2026-10-01T06:59:38.599Z"
+    "tested_at": "2026-10-05T11:33:36.585Z"
   },
-  "scanned_at": "2026-10-01T07:01:24.262Z",
+  "scanned_at": "2026-10-05T11:33:36.890Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

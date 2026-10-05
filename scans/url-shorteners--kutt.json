@@ -12,9 +12,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kutt.to",
-    "tested_at": "2026-10-01T06:59:43.822Z"
+    "tested_at": "2026-10-05T11:33:53.752Z"
   },
-  "scanned_at": "2026-10-01T06:59:46.482Z",
+  "scanned_at": "2026-10-05T11:33:54.572Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

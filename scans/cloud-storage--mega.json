@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mega.nz",
     "tested_at": "2026-10-04T10:37:10.080Z"
   },
-  "scanned_at": "2026-10-04T10:37:11.479Z",
+  "scanned_at": "2026-10-05T11:50:38.866Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mega.nz&hideResults=on",
-    "tested_at": "2026-10-01T06:39:49.356Z"
+    "tested_at": "2026-10-05T11:50:38.866Z"
   },
   "trackers": {
     "url": "https://mega.io",

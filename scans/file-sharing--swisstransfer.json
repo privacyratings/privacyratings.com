@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.swisstransfer.com",
     "tested_at": "2026-10-04T10:37:13.335Z"
   },
-  "scanned_at": "2026-10-04T10:37:15.509Z",
+  "scanned_at": "2026-10-05T11:44:58.954Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.swisstransfer.com&hideResults=on",
-    "tested_at": "2026-10-01T06:39:49.742Z"
+    "tested_at": "2026-10-05T11:44:58.954Z"
   },
   "trackers": {
     "url": "https://www.swisstransfer.com/en",

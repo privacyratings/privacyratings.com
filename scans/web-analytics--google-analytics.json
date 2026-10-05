@@ -6,14 +6,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=analytics.google.com",
-    "tested_at": "2026-10-01T06:59:39.101Z"
+    "tested_at": "2026-10-05T11:33:39.516Z"
   },
-  "scanned_at": "2026-10-01T06:59:45.544Z",
+  "scanned_at": "2026-10-05T11:44:59.007Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=analytics.google.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:38.619Z"
+    "tested_at": "2026-10-05T11:44:59.007Z"
   },
   "trackers": {
     "url": "https://marketingplatform.google.com/about/analytics/",

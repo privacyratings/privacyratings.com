@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.pcloud.com",
     "tested_at": "2026-10-04T10:37:10.882Z"
   },
-  "scanned_at": "2026-10-04T10:37:12.274Z",
+  "scanned_at": "2026-10-05T11:55:09.442Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=my.pcloud.com&hideResults=on",
-    "tested_at": "2026-10-01T06:39:49.545Z"
+    "tested_at": "2026-10-05T11:55:09.442Z"
   },
   "trackers": {
     "url": "https://www.pcloud.com",

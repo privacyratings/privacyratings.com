@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=assistant.kagi.com",
     "tested_at": "2026-10-04T10:36:47.861Z"
   },
-  "scanned_at": "2026-10-04T10:51:51.894Z",
+  "scanned_at": "2026-10-05T11:40:43.063Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=assistant.kagi.com&hideResults=on",
-    "tested_at": "2026-10-01T06:39:10.012Z"
+    "tested_at": "2026-10-05T11:40:43.062Z"
   },
   "trackers": {
     "url": "https://assistant.kagi.com",

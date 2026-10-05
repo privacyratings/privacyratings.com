@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitbucket.org",
     "tested_at": "2026-10-04T10:37:13.748Z"
   },
-  "scanned_at": "2026-10-04T10:37:14.959Z",
+  "scanned_at": "2026-10-05T11:43:58.351Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bitbucket.org&hideResults=on",
-    "tested_at": "2026-10-01T06:59:38.754Z"
+    "tested_at": "2026-10-05T11:43:58.350Z"
   },
   "trackers": {
     "url": "https://bitbucket.org",

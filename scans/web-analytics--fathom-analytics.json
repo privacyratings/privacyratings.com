@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=usefathom.com",
-    "tested_at": "2026-10-01T06:59:38.566Z"
+    "tested_at": "2026-10-05T11:33:39.170Z"
   },
-  "scanned_at": "2026-10-01T06:59:45.535Z",
+  "scanned_at": "2026-10-05T11:46:23.629Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=usefathom.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:38.730Z"
+    "tested_at": "2026-10-05T11:46:23.629Z"
   },
   "trackers": {
     "url": "https://usefathom.com",

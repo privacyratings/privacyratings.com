@@ -5,11 +5,11 @@
       "domain": "gmail.com",
       "dnssec": false,
       "mx": [
-        "alt2.gmail-smtp-in.l.google.com",
+        "alt4.gmail-smtp-in.l.google.com",
         "gmail-smtp-in.l.google.com",
+        "alt2.gmail-smtp-in.l.google.com",
         "alt1.gmail-smtp-in.l.google.com",
-        "alt3.gmail-smtp-in.l.google.com",
-        "alt4.gmail-smtp-in.l.google.com"
+        "alt3.gmail-smtp-in.l.google.com"
       ],
       "spf": true,
       "dmarc": "none",
@@ -34,7 +34,7 @@
         }
       }
     },
-    "tested_at": "2026-10-04T10:36:47.159Z",
+    "tested_at": "2026-10-05T11:33:39.469Z",
     "imap": {
       "host": "imap.gmail.com",
       "port": 993,
@@ -97,7 +97,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.google.com",
     "tested_at": "2026-10-01T07:01:05.124Z"
   },
-  "scanned_at": "2026-10-04T10:36:47.850Z",
+  "scanned_at": "2026-10-05T11:33:39.966Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,

@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.box.com",
     "tested_at": "2026-10-04T10:37:02.975Z"
   },
-  "scanned_at": "2026-10-04T10:37:03.311Z",
+  "scanned_at": "2026-10-05T11:39:42.789Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.box.com&hideResults=on",
-    "tested_at": "2026-10-01T06:39:10.470Z"
+    "tested_at": "2026-10-05T11:39:42.789Z"
   },
   "trackers": {
     "url": "https://www.box.com",

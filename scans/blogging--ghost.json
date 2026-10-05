@@ -12,9 +12,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.ghost.org",
-    "tested_at": "2026-10-01T06:59:45.661Z"
+    "tested_at": "2026-10-05T11:34:03.334Z"
   },
-  "scanned_at": "2026-10-01T06:59:57.819Z",
+  "scanned_at": "2026-10-05T11:34:03.833Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
