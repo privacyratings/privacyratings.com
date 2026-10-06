@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=write.as",
     "tested_at": "2026-10-05T11:34:04.619Z"
   },
-  "scanned_at": "2026-10-05T11:34:05.037Z",
+  "scanned_at": "2026-10-06T11:25:14.251Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=write.as&hideResults=on",
-    "tested_at": "2026-10-01T06:59:40.920Z"
+    "tested_at": "2026-10-06T11:25:14.251Z"
   },
   "trackers": {
     "url": "https://write.as",

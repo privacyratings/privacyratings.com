@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=haveibeenpwned.com",
-    "tested_at": "2026-10-01T06:59:55.105Z"
+    "tested_at": "2026-10-06T11:19:23.434Z"
   },
-  "scanned_at": "2026-10-05T11:33:31.518Z",
+  "scanned_at": "2026-10-06T11:19:23.675Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

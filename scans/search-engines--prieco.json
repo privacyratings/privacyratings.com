@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=prieco.net",
     "tested_at": "2026-10-05T11:33:34.315Z"
   },
-  "scanned_at": "2026-10-05T11:33:34.517Z",
+  "scanned_at": "2026-10-06T11:22:02.514Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=prieco.net&hideResults=on",
-    "tested_at": "2026-10-01T06:59:41.177Z"
+    "tested_at": "2026-10-06T11:22:02.514Z"
   },
   "trackers": {
     "url": "https://prieco.net",

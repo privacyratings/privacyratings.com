@@ -4,7 +4,7 @@
     "repo": "outline/outline",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:16.440Z"
+    "checked_at": "2026-10-06T11:19:07.308Z"
   },
   "observatory": {
     "grade": "A+",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.getoutline.com",
     "tested_at": "2026-10-03T09:54:12.167Z"
   },
-  "scanned_at": "2026-10-04T10:46:21.066Z",
+  "scanned_at": "2026-10-06T11:19:07.308Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

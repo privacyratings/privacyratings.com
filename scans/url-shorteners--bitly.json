@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitly.com",
     "tested_at": "2026-10-05T11:33:52.564Z"
   },
-  "scanned_at": "2026-10-05T11:33:52.967Z",
+  "scanned_at": "2026-10-06T11:25:08.622Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bitly.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:39.452Z"
+    "tested_at": "2026-10-06T11:25:08.622Z"
   },
   "trackers": {
     "url": "https://bitly.com",

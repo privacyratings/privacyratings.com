@@ -42,7 +42,7 @@
         }
       }
     },
-    "tested_at": "2026-10-05T11:33:52.985Z",
+    "tested_at": "2026-10-06T11:19:20.982Z",
     "imap": {
       "host": "mail.infomaniak.com",
       "port": 993,
@@ -96,7 +96,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ksuite.infomaniak.com",
     "tested_at": "2026-10-01T07:00:28.307Z"
   },
-  "scanned_at": "2026-10-05T11:33:56.154Z",
+  "scanned_at": "2026-10-06T11:19:23.747Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

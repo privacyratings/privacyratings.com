@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=soundcloud.com",
     "tested_at": "2026-10-05T11:34:00.210Z"
   },
-  "scanned_at": "2026-10-05T11:34:01.548Z",
+  "scanned_at": "2026-10-06T11:25:10.221Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=soundcloud.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:40.366Z"
+    "tested_at": "2026-10-06T11:25:10.221Z"
   },
   "trackers": {
     "url": "https://soundcloud.com",

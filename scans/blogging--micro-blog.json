@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=micro.blog",
     "tested_at": "2026-10-05T11:34:04.208Z"
   },
-  "scanned_at": "2026-10-05T11:34:04.749Z",
+  "scanned_at": "2026-10-06T11:28:36.855Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=micro.blog&hideResults=on",
-    "tested_at": "2026-10-01T06:59:40.748Z"
+    "tested_at": "2026-10-06T11:28:36.855Z"
   },
   "trackers": {
     "url": "https://micro.blog",

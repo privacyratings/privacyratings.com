@@ -22,7 +22,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-05T11:34:05.932Z",
+    "tested_at": "2026-10-06T11:19:34.049Z",
     "imap": {
       "host": "imap.mail.com",
       "port": 993,
@@ -82,7 +82,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mail.com",
     "tested_at": "2026-10-01T07:00:39.772Z"
   },
-  "scanned_at": "2026-10-05T11:34:07.106Z",
+  "scanned_at": "2026-10-06T11:19:34.470Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

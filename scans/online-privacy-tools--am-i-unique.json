@@ -12,9 +12,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=amiunique.org",
-    "tested_at": "2026-10-01T06:59:53.080Z"
+    "tested_at": "2026-10-06T11:19:15.811Z"
   },
-  "scanned_at": "2026-10-01T07:01:20.403Z",
+  "scanned_at": "2026-10-06T11:19:18.225Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

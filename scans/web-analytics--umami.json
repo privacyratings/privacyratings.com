@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=umami.is",
     "tested_at": "2026-10-05T11:33:52.056Z"
   },
-  "scanned_at": "2026-10-05T11:33:52.494Z",
+  "scanned_at": "2026-10-06T11:25:08.529Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=umami.is&hideResults=on",
-    "tested_at": "2026-10-01T06:59:39.455Z"
+    "tested_at": "2026-10-06T11:25:08.529Z"
   },
   "trackers": {
     "url": "https://umami.is",

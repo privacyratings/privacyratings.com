@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=pirsch.io",
     "tested_at": "2026-10-05T11:33:44.788Z"
   },
-  "scanned_at": "2026-10-05T11:33:46.249Z",
+  "scanned_at": "2026-10-06T11:25:07.997Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=pirsch.io&hideResults=on",
-    "tested_at": "2026-10-01T06:59:39.162Z"
+    "tested_at": "2026-10-06T11:25:07.997Z"
   },
   "trackers": {
     "url": "https://pirsch.io",

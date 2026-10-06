@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidal.com",
     "tested_at": "2026-10-05T11:34:01.667Z"
   },
-  "scanned_at": "2026-10-05T11:34:02.402Z",
+  "scanned_at": "2026-10-06T11:25:10.361Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tidal.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:40.286Z"
+    "tested_at": "2026-10-06T11:25:10.361Z"
   },
   "trackers": {
     "error": "HTTP 403",

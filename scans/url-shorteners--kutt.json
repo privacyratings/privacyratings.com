@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kutt.to",
     "tested_at": "2026-10-05T11:33:53.752Z"
   },
-  "scanned_at": "2026-10-05T11:33:54.572Z",
+  "scanned_at": "2026-10-06T11:25:08.848Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kutt.to&hideResults=on",
-    "tested_at": "2026-10-01T06:59:39.639Z"
+    "tested_at": "2026-10-06T11:25:08.848Z"
   },
   "trackers": {
     "url": "https://kutt.to",
