@@ -3,9 +3,9 @@
     "repo": "borgbackup/borg",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:38:17.552Z"
+    "checked_at": "2026-10-07T11:07:09.206Z"
   },
-  "scanned_at": "2026-10-01T06:38:43.473Z",
+  "scanned_at": "2026-10-07T11:07:09.206Z",
   "trackers": {
     "url": "https://www.borgbackup.org",
     "found": [],

@@ -6,14 +6,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovpn.com",
-    "tested_at": "2026-10-01T07:00:02.037Z"
+    "tested_at": "2026-10-07T11:07:10.768Z"
   },
-  "scanned_at": "2026-10-01T07:01:23.402Z",
+  "scanned_at": "2026-10-07T11:15:38.527Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.ovpn.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:52.639Z"
+    "tested_at": "2026-10-07T11:15:38.527Z"
   },
   "trackers": {
     "url": "https://www.ovpn.com",

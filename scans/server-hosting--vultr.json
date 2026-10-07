@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.vultr.com",
-    "tested_at": "2026-10-01T07:00:12.669Z"
+    "tested_at": "2026-10-07T11:07:31.236Z"
   },
-  "scanned_at": "2026-10-01T07:01:36.221Z",
+  "scanned_at": "2026-10-07T11:07:31.474Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=quad9.net",
-    "tested_at": "2026-10-01T07:00:05.513Z"
+    "tested_at": "2026-10-07T11:07:16.531Z"
   },
-  "scanned_at": "2026-10-01T07:01:24.265Z",
+  "scanned_at": "2026-10-07T11:21:00.570Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=quad9.net&hideResults=on",
-    "tested_at": "2026-10-01T07:00:56.006Z"
+    "tested_at": "2026-10-07T11:21:00.570Z"
   },
   "trackers": {
     "url": "https://quad9.net",

@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.inwx.com",
-    "tested_at": "2026-10-01T07:00:07.008Z"
+    "tested_at": "2026-10-07T11:07:19.219Z"
   },
-  "scanned_at": "2026-10-01T07:01:35.198Z",
+  "scanned_at": "2026-10-07T11:07:21.960Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

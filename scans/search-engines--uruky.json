@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=uruky.com",
     "tested_at": "2026-10-05T11:33:35.678Z"
   },
-  "scanned_at": "2026-10-06T11:22:07.101Z",
+  "scanned_at": "2026-10-07T11:10:20.342Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=uruky.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:41.385Z"
+    "tested_at": "2026-10-07T11:10:20.342Z"
   },
   "trackers": {
     "url": "https://uruky.com",

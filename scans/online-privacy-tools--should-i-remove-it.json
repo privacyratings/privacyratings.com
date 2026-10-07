@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.shouldiremoveit.com",
     "tested_at": "2026-10-06T11:19:26.567Z"
   },
-  "scanned_at": "2026-10-06T11:19:27.034Z",
+  "scanned_at": "2026-10-07T11:10:43.064Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.shouldiremoveit.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:46.946Z"
+    "tested_at": "2026-10-07T11:10:43.064Z"
   },
   "trackers": {
     "url": "https://www.shouldiremoveit.com",

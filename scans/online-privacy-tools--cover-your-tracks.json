@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=coveryourtracks.eff.org",
     "tested_at": "2026-10-06T11:19:22.670Z"
   },
-  "scanned_at": "2026-10-06T11:19:23.113Z",
+  "scanned_at": "2026-10-07T11:09:47.375Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=coveryourtracks.eff.org&hideResults=on",
-    "tested_at": "2026-10-01T06:59:44.908Z"
+    "tested_at": "2026-10-07T11:09:47.374Z"
   },
   "trackers": {
     "url": "https://coveryourtracks.eff.org",

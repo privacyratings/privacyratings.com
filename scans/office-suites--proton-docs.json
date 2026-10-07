@@ -4,7 +4,7 @@
     "repo": "ProtonMail/WebClients",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:18.072Z"
+    "checked_at": "2026-10-07T11:07:09.839Z"
   },
   "observatory": {
     "grade": "A+",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.proton.me",
     "tested_at": "2026-10-03T09:54:15.058Z"
   },
-  "scanned_at": "2026-10-04T10:41:30.260Z",
+  "scanned_at": "2026-10-07T11:07:09.839Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

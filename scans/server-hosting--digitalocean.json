@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.digitalocean.com",
-    "tested_at": "2026-10-01T07:00:10.688Z"
+    "tested_at": "2026-10-07T11:07:26.925Z"
   },
-  "scanned_at": "2026-10-01T07:01:35.803Z",
+  "scanned_at": "2026-10-07T11:07:27.344Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

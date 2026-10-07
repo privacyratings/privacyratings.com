@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=blahdns.com",
-    "tested_at": "2026-10-01T07:00:03.668Z"
+    "tested_at": "2026-10-07T11:07:14.093Z"
   },
-  "scanned_at": "2026-10-06T11:19:07.949Z",
+  "scanned_at": "2026-10-07T11:19:58.903Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

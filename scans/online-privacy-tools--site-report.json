@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sitereport.netcraft.com",
     "tested_at": "2026-10-06T11:19:27.513Z"
   },
-  "scanned_at": "2026-10-06T11:19:30.599Z",
+  "scanned_at": "2026-10-07T11:10:43.386Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sitereport.netcraft.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:47.612Z"
+    "tested_at": "2026-10-07T11:10:43.386Z"
   },
   "trackers": {
     "url": "https://sitereport.netcraft.com",

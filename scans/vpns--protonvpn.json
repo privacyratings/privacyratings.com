@@ -12,9 +12,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=protonvpn.com",
-    "tested_at": "2026-10-01T07:00:03.049Z"
+    "tested_at": "2026-10-07T11:07:11.776Z"
   },
-  "scanned_at": "2026-10-01T07:01:23.712Z",
+  "scanned_at": "2026-10-07T11:18:53.222Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

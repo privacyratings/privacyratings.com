@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=one.one.one.one",
-    "tested_at": "2026-10-01T07:00:04.351Z"
+    "tested_at": "2026-10-07T11:07:14.956Z"
   },
-  "scanned_at": "2026-10-01T07:01:23.499Z",
+  "scanned_at": "2026-10-07T11:17:09.916Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=one.one.one.one&hideResults=on",
-    "tested_at": "2026-10-01T07:00:55.315Z"
+    "tested_at": "2026-10-07T11:17:09.915Z"
   },
   "trackers": {
     "url": "https://one.one.one.one",

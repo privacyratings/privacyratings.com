@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.smspool.net",
     "tested_at": "2026-10-06T11:19:36.353Z"
   },
-  "scanned_at": "2026-10-06T11:19:36.706Z",
+  "scanned_at": "2026-10-07T11:16:58.458Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.smspool.net&hideResults=on",
-    "tested_at": "2026-10-01T06:59:50.672Z"
+    "tested_at": "2026-10-07T11:16:58.457Z"
   },
   "trackers": {
     "error": "HTTP 403",

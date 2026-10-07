@@ -6,14 +6,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=partyvpn.com",
-    "tested_at": "2026-10-01T07:00:02.590Z"
+    "tested_at": "2026-10-07T11:07:11.276Z"
   },
-  "scanned_at": "2026-10-01T07:01:23.118Z",
+  "scanned_at": "2026-10-07T11:17:49.473Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=partyvpn.com&hideResults=on",
-    "tested_at": "2026-10-01T06:59:52.882Z"
+    "tested_at": "2026-10-07T11:17:49.473Z"
   },
   "trackers": {
     "url": "https://partyvpn.com",
