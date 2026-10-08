@@ -7,14 +7,14 @@
     "checked_at": "2026-10-01T07:00:01.108Z"
   },
   "observatory": {
-    "grade": "C",
-    "score": 55,
-    "tests_passed": 9,
+    "grade": "A+",
+    "score": 145,
+    "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=peergos.org",
-    "tested_at": "2026-10-01T07:00:16.300Z"
+    "tested_at": "2026-10-08T11:25:29.208Z"
   },
-  "scanned_at": "2026-10-01T07:03:54.681Z",
+  "scanned_at": "2026-10-08T11:43:22.729Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

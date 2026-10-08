@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dartnode.com",
     "tested_at": "2026-10-07T11:07:26.567Z"
   },
-  "scanned_at": "2026-10-07T11:07:26.996Z",
+  "scanned_at": "2026-10-08T11:35:39.119Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

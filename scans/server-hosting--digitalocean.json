@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.digitalocean.com",
     "tested_at": "2026-10-07T11:07:26.925Z"
   },
-  "scanned_at": "2026-10-07T11:07:27.344Z",
+  "scanned_at": "2026-10-08T11:33:18.141Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.digitalocean.com&hideResults=on",
-    "tested_at": "2026-10-01T07:01:35.803Z"
+    "tested_at": "2026-10-08T11:33:18.141Z"
   },
   "trackers": {
     "url": "https://www.digitalocean.com",

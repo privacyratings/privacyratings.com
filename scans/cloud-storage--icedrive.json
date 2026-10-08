@@ -6,14 +6,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=icedrive.net",
-    "tested_at": "2026-10-01T07:00:13.832Z"
+    "tested_at": "2026-10-08T11:25:27.285Z"
   },
-  "scanned_at": "2026-10-01T07:01:36.773Z",
+  "scanned_at": "2026-10-08T11:48:58.092Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=icedrive.net&hideResults=on",
-    "tested_at": "2026-10-01T07:01:36.773Z"
+    "tested_at": "2026-10-08T11:48:58.092Z"
   },
   "trackers": {
     "url": "https://icedrive.net",

@@ -12,14 +12,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=internxt.com",
-    "tested_at": "2026-10-01T07:00:14.897Z"
+    "tested_at": "2026-10-08T11:25:28.111Z"
   },
-  "scanned_at": "2026-10-01T07:01:36.823Z",
+  "scanned_at": "2026-10-08T11:40:21.136Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=internxt.com&hideResults=on",
-    "tested_at": "2026-10-01T07:01:36.823Z"
+    "tested_at": "2026-10-08T11:40:21.135Z"
   },
   "trackers": {
     "url": "https://internxt.com",

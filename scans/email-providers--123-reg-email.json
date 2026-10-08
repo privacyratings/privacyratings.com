@@ -7,7 +7,7 @@
       "mx": [
         "mx0.hosteurope.de"
       ],
-      "spf": false,
+      "spf": true,
       "dmarc": "reject",
       "tls_rpt": false,
       "mta_sts": null,
@@ -21,7 +21,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-07T11:07:11.198Z",
+    "tested_at": "2026-10-08T11:24:53.407Z",
     "imap": {
       "host": "imap.secureserver.net",
       "port": 993,
@@ -76,7 +76,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.123-reg.co.uk",
     "tested_at": "2026-10-01T07:00:37.681Z"
   },
-  "scanned_at": "2026-10-07T11:07:12.421Z",
+  "scanned_at": "2026-10-08T11:24:54.372Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

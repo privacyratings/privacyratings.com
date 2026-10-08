@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gandi.net",
     "tested_at": "2026-10-07T11:07:19.073Z"
   },
-  "scanned_at": "2026-10-07T11:07:21.249Z",
+  "scanned_at": "2026-10-08T11:31:51.443Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.gandi.net&hideResults=on",
-    "tested_at": "2026-10-01T07:03:36.878Z"
+    "tested_at": "2026-10-08T11:31:51.443Z"
   },
   "trackers": {
     "url": "https://www.gandi.net/en",

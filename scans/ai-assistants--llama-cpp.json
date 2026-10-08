@@ -3,9 +3,9 @@
     "repo": "ggml-org/llama.cpp",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:19.689Z"
+    "checked_at": "2026-10-08T11:24:52.240Z"
   },
-  "scanned_at": "2026-10-01T06:38:49.803Z",
+  "scanned_at": "2026-10-08T11:24:52.240Z",
   "trackers": {
     "url": "https://github.com/ggml-org/llama.cpp",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

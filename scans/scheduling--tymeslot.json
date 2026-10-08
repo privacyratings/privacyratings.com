@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tymeslot.app",
     "tested_at": "2026-10-07T11:07:31.679Z"
   },
-  "scanned_at": "2026-10-07T11:07:33.419Z",
+  "scanned_at": "2026-10-08T11:40:20.102Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tymeslot.app&hideResults=on",
-    "tested_at": "2026-10-01T07:01:36.309Z"
+    "tested_at": "2026-10-08T11:40:20.102Z"
   },
   "trackers": {
     "url": "https://tymeslot.app",

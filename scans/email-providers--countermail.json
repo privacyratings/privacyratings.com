@@ -21,7 +21,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-07T11:07:12.418Z",
+    "tested_at": "2026-10-08T11:24:54.765Z",
     "imap": {
       "host": "imap1.countermail.com",
       "port": 993,
@@ -65,9 +65,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=countermail.com",
-    "tested_at": "2026-10-01T07:00:24.688Z"
+    "tested_at": "2026-10-08T11:24:50.848Z"
   },
-  "scanned_at": "2026-10-07T11:07:18.907Z",
+  "scanned_at": "2026-10-08T11:24:56.585Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

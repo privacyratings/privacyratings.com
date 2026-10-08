@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.racknerd.com",
     "tested_at": "2026-10-07T11:07:29.132Z"
   },
-  "scanned_at": "2026-10-07T11:07:29.472Z",
+  "scanned_at": "2026-10-08T11:34:52.915Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.racknerd.com&hideResults=on",
-    "tested_at": "2026-10-01T07:01:36.055Z"
+    "tested_at": "2026-10-08T11:34:52.915Z"
   },
   "trackers": {
     "url": "https://www.racknerd.com",

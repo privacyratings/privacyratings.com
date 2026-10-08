@@ -4,7 +4,7 @@
     "repo": "Infomaniak/desktop-kDrive",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:19.900Z"
+    "checked_at": "2026-10-08T11:24:52.490Z"
   },
   "observatory": {
     "grade": "C-",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kdrive.infomaniak.com",
     "tested_at": "2026-10-04T10:37:05.176Z"
   },
-  "scanned_at": "2026-10-05T11:44:08.650Z",
+  "scanned_at": "2026-10-08T11:24:52.490Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
