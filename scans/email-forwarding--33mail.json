@@ -27,7 +27,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-08T11:26:02.985Z",
+    "tested_at": "2026-10-09T11:22:46.457Z",
     "imap": {
       "offered": false
     },
@@ -47,12 +47,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.33mail.com",
     "tested_at": "2026-10-08T11:24:55.784Z"
   },
-  "scanned_at": "2026-10-08T11:26:02.985Z",
+  "scanned_at": "2026-10-09T11:28:49.625Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.33mail.com&hideResults=on",
-    "tested_at": "2026-10-01T07:05:17.833Z"
+    "tested_at": "2026-10-09T11:28:49.625Z"
   },
   "trackers": {
     "url": "https://www.33mail.com",

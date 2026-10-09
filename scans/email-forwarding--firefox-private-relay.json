@@ -27,7 +27,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-08T11:26:05.077Z",
+    "tested_at": "2026-10-09T11:22:48.712Z",
     "imap": {
       "offered": false
     },
@@ -45,9 +45,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=relay.firefox.com",
-    "tested_at": "2026-10-01T07:00:35.502Z"
+    "tested_at": "2026-10-09T11:21:58.119Z"
   },
-  "scanned_at": "2026-10-08T11:26:05.077Z",
+  "scanned_at": "2026-10-09T11:22:48.712Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 8,

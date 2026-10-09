@@ -42,7 +42,7 @@
         }
       }
     },
-    "tested_at": "2026-10-08T11:25:12.589Z",
+    "tested_at": "2026-10-09T11:22:11.484Z",
     "imap": {
       "host": "mail.infomaniak.com",
       "port": 993,
@@ -96,12 +96,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ksuite.infomaniak.com",
     "tested_at": "2026-10-08T11:24:52.673Z"
   },
-  "scanned_at": "2026-10-08T11:25:15.852Z",
+  "scanned_at": "2026-10-09T11:22:15.012Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=ksuite.infomaniak.com&hideResults=on",
-    "tested_at": "2026-10-01T07:03:56.379Z"
+    "tested_at": "2026-10-09T11:21:56.587Z"
   },
   "trackers": {
     "url": "https://www.infomaniak.com/en/ksuite/service-mail",

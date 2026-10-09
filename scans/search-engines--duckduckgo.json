@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
     "tested_at": "2026-10-08T11:24:55.961Z"
   },
-  "scanned_at": "2026-10-08T11:24:56.590Z",
+  "scanned_at": "2026-10-09T11:25:18.921Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=duckduckgo.com&hideResults=on",
-    "tested_at": "2026-10-01T07:05:17.473Z"
+    "tested_at": "2026-10-09T11:25:18.921Z"
   },
   "trackers": {
     "url": "https://duckduckgo.com",

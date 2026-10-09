@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=filen.io",
     "tested_at": "2026-10-07T11:07:34.747Z"
   },
-  "scanned_at": "2026-10-08T11:42:48.122Z",
+  "scanned_at": "2026-10-09T11:39:33.394Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=filen.io&hideResults=on",
-    "tested_at": "2026-10-01T07:01:36.721Z"
+    "tested_at": "2026-10-09T11:39:33.394Z"
   },
   "trackers": {
     "url": "https://filen.io",

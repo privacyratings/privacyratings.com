@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=movim.eu",
     "tested_at": "2026-10-08T11:25:32.228Z"
   },
-  "scanned_at": "2026-10-08T11:25:33.732Z",
+  "scanned_at": "2026-10-09T11:34:35.683Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=movim.eu&hideResults=on",
-    "tested_at": "2026-10-01T07:03:55.989Z"
+    "tested_at": "2026-10-09T11:34:35.682Z"
   },
   "trackers": {
     "url": "https://movim.eu",

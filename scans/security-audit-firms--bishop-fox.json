@@ -1,14 +1,14 @@
 {
   "domain": "bishopfox.com",
   "observatory": {
-    "grade": "F",
-    "score": 0,
-    "tests_passed": 8,
+    "grade": "D-",
+    "score": 25,
+    "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bishopfox.com",
-    "tested_at": "2026-10-01T07:00:54.655Z"
+    "tested_at": "2026-10-09T11:22:12.392Z"
   },
-  "scanned_at": "2026-10-01T07:07:13.856Z",
+  "scanned_at": "2026-10-09T11:22:12.965Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 6,

@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.google.com",
     "tested_at": "2026-10-08T11:24:56.589Z"
   },
-  "scanned_at": "2026-10-08T11:24:56.854Z",
+  "scanned_at": "2026-10-09T11:25:19.830Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 16,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.google.com&hideResults=on",
-    "tested_at": "2026-10-01T07:03:55.674Z"
+    "tested_at": "2026-10-09T11:25:19.830Z"
   },
   "trackers": {
     "url": "https://www.google.com",

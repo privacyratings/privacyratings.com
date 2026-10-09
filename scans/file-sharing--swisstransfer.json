@@ -4,7 +4,7 @@
     "repo": "Infomaniak/android-SwissTransfer",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:38:20.293Z"
+    "checked_at": "2026-10-09T11:21:54.660Z"
   },
   "observatory": {
     "grade": "B",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.swisstransfer.com",
     "tested_at": "2026-10-04T10:37:13.335Z"
   },
-  "scanned_at": "2026-10-05T11:44:58.954Z",
+  "scanned_at": "2026-10-09T11:21:54.660Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

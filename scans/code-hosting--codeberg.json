@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=codeberg.org",
     "tested_at": "2026-10-05T11:33:37.211Z"
   },
-  "scanned_at": "2026-10-08T11:24:54.447Z",
+  "scanned_at": "2026-10-09T11:21:56.361Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

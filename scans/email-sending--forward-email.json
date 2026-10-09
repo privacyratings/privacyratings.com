@@ -12,9 +12,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
-    "tested_at": "2026-10-01T07:00:33.903Z"
+    "tested_at": "2026-10-09T11:21:27.027Z"
   },
-  "scanned_at": "2026-10-01T07:26:05.785Z",
+  "scanned_at": "2026-10-09T11:22:08.179Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

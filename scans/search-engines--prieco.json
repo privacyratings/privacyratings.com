@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=prieco.net",
     "tested_at": "2026-10-05T11:33:34.315Z"
   },
-  "scanned_at": "2026-10-08T11:24:51.467Z",
+  "scanned_at": "2026-10-09T11:21:54.997Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -21,7 +21,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-08T11:24:53.407Z",
+    "tested_at": "2026-10-09T11:21:55.998Z",
     "imap": {
       "host": "imap.secureserver.net",
       "port": 993,
@@ -74,9 +74,9 @@
     "tests_passed": 5,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.123-reg.co.uk",
-    "tested_at": "2026-10-01T07:00:37.681Z"
+    "tested_at": "2026-10-09T11:21:54.483Z"
   },
-  "scanned_at": "2026-10-08T11:24:54.372Z",
+  "scanned_at": "2026-10-09T11:21:57.693Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

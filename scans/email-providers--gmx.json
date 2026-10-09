@@ -22,7 +22,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-08T11:25:05.689Z",
+    "tested_at": "2026-10-09T11:22:04.874Z",
     "imap": {
       "host": "imap.gmx.com",
       "port": 993,
@@ -82,12 +82,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gmx.com",
     "tested_at": "2026-10-08T11:24:50.885Z"
   },
-  "scanned_at": "2026-10-08T11:25:08.145Z",
+  "scanned_at": "2026-10-09T11:23:54.601Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.gmx.com&hideResults=on",
-    "tested_at": "2026-10-01T07:03:56.141Z"
+    "tested_at": "2026-10-09T11:23:54.601Z"
   },
   "trackers": {
     "url": "https://www.gmx.com",
