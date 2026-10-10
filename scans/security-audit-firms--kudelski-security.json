@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kudelskisecurity.com",
-    "tested_at": "2026-10-01T07:00:56.785Z"
+    "tested_at": "2026-10-10T10:39:04.490Z"
   },
-  "scanned_at": "2026-10-01T07:07:14.172Z",
+  "scanned_at": "2026-10-10T10:39:05.272Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

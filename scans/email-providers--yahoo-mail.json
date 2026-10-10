@@ -23,7 +23,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-09T11:22:44.292Z",
+    "tested_at": "2026-10-10T10:39:45.252Z",
     "imap": {
       "host": "imap.mail.yahoo.com",
       "port": 993,
@@ -93,7 +93,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yahoo.com",
     "tested_at": "2026-10-08T11:24:55.475Z"
   },
-  "scanned_at": "2026-10-09T11:22:45.357Z",
+  "scanned_at": "2026-10-10T10:39:46.184Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

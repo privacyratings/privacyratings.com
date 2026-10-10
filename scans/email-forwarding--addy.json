@@ -28,7 +28,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-09T11:22:48.269Z",
+    "tested_at": "2026-10-10T10:39:48.038Z",
     "imap": {
       "offered": false
     },
@@ -48,12 +48,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
     "tested_at": "2026-10-05T11:33:32.164Z"
   },
-  "scanned_at": "2026-10-09T11:22:48.269Z",
+  "scanned_at": "2026-10-10T10:42:04.411Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=addy.io&hideResults=on",
-    "tested_at": "2026-10-01T07:06:26.692Z"
+    "tested_at": "2026-10-10T10:42:04.411Z"
   },
   "trackers": {
     "url": "https://addy.io",

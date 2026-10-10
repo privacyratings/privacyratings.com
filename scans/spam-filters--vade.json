@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cloud.vadesecure.com",
     "tested_at": "2026-10-09T11:22:07.359Z"
   },
-  "scanned_at": "2026-10-09T11:22:08.894Z",
+  "scanned_at": "2026-10-10T10:51:46.204Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cloud.vadesecure.com&hideResults=on",
-    "tested_at": "2026-10-01T07:06:28.651Z"
+    "tested_at": "2026-10-10T10:51:46.204Z"
   },
   "trackers": {
     "url": "https://www.vadesecure.com/en/",

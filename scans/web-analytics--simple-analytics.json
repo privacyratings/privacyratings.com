@@ -4,7 +4,7 @@
     "repo": "simpleanalytics/scripts",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:39.872Z"
+    "checked_at": "2026-10-10T10:38:57.363Z"
   },
   "observatory": {
     "grade": "B-",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.simpleanalytics.com",
     "tested_at": "2026-10-05T11:33:47.441Z"
   },
-  "scanned_at": "2026-10-05T11:47:48.872Z",
+  "scanned_at": "2026-10-10T10:38:57.363Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

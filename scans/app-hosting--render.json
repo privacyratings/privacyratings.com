@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.render.com",
-    "tested_at": "2026-10-01T07:01:04.905Z"
+    "tested_at": "2026-10-10T10:39:19.352Z"
   },
-  "scanned_at": "2026-10-02T10:54:02.530Z",
+  "scanned_at": "2026-10-10T10:39:19.664Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -1,14 +1,14 @@
 {
   "domain": "railway.com",
   "observatory": {
-    "grade": "D-",
-    "score": 25,
-    "tests_passed": 7,
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=railway.com",
-    "tested_at": "2026-10-01T07:01:04.270Z"
+    "tested_at": "2026-10-10T10:39:18.577Z"
   },
-  "scanned_at": "2026-10-01T11:02:09.835Z",
+  "scanned_at": "2026-10-10T10:39:19.156Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

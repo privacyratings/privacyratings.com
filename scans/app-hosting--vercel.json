@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=vercel.com",
-    "tested_at": "2026-10-01T07:01:04.887Z"
+    "tested_at": "2026-10-10T10:39:19.733Z"
   },
-  "scanned_at": "2026-10-01T07:11:51.172Z",
+  "scanned_at": "2026-10-10T10:39:20.105Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

@@ -21,7 +21,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-09T11:22:05.698Z",
+    "tested_at": "2026-10-10T10:39:08.741Z",
     "imap": {
       "host": "outlook.office365.com",
       "port": 993,
@@ -79,12 +79,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.godaddy.com",
     "tested_at": "2026-10-09T11:21:55.021Z"
   },
-  "scanned_at": "2026-10-09T11:22:20.861Z",
+  "scanned_at": "2026-10-10T10:44:08.546Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.godaddy.com&hideResults=on",
-    "tested_at": "2026-10-01T07:06:27.509Z"
+    "tested_at": "2026-10-10T10:44:08.546Z"
   },
   "trackers": {
     "error": "HTTP 403",

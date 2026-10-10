@@ -27,7 +27,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-09T11:22:26.555Z",
+    "tested_at": "2026-10-10T10:39:27.352Z",
     "imap": {
       "host": "imap.migadu.com",
       "port": 993,
@@ -80,7 +80,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=migadu.com",
     "tested_at": "2026-10-08T11:24:53.538Z"
   },
-  "scanned_at": "2026-10-09T11:25:13.275Z",
+  "scanned_at": "2026-10-10T10:39:29.096Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

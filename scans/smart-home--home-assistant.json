@@ -3,9 +3,9 @@
     "repo": "home-assistant/core",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:40.581Z"
+    "checked_at": "2026-10-10T10:38:58.010Z"
   },
-  "scanned_at": "2026-10-01T06:59:46.955Z",
+  "scanned_at": "2026-10-10T10:38:58.010Z",
   "trackers": {
     "url": "https://www.home-assistant.io",
     "found": [

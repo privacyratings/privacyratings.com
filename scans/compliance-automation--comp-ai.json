@@ -12,9 +12,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.trycomp.ai",
-    "tested_at": "2026-10-01T07:01:01.187Z"
+    "tested_at": "2026-10-10T10:39:11.849Z"
   },
-  "scanned_at": "2026-10-01T07:07:14.657Z",
+  "scanned_at": "2026-10-10T10:39:12.825Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

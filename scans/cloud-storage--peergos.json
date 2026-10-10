@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=peergos.org",
     "tested_at": "2026-10-08T11:25:29.208Z"
   },
-  "scanned_at": "2026-10-09T11:34:26.473Z",
+  "scanned_at": "2026-10-10T10:56:32.715Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=peergos.org&hideResults=on",
-    "tested_at": "2026-10-01T07:03:54.681Z"
+    "tested_at": "2026-10-10T10:56:32.715Z"
   },
   "trackers": {
     "url": "https://peergos.org",

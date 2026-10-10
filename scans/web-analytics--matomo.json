@@ -4,7 +4,7 @@
     "repo": "matomo-org/matomo",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:39.533Z"
+    "checked_at": "2026-10-10T10:38:57.156Z"
   },
   "observatory": {
     "grade": "B",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=matomo.org",
     "tested_at": "2026-10-05T11:33:40.269Z"
   },
-  "scanned_at": "2026-10-05T11:44:59.043Z",
+  "scanned_at": "2026-10-10T10:38:57.156Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

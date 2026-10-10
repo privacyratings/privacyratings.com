@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=reports.exodus-privacy.eu.org",
     "tested_at": "2026-10-08T11:25:22.763Z"
   },
-  "scanned_at": "2026-10-09T11:28:22.441Z",
+  "scanned_at": "2026-10-10T10:53:53.078Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=reports.exodus-privacy.eu.org&hideResults=on",
-    "tested_at": "2026-10-01T07:03:55.725Z"
+    "tested_at": "2026-10-10T10:53:53.078Z"
   },
   "trackers": {
     "url": "https://reports.exodus-privacy.eu.org/en/",
