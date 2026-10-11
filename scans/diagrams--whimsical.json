@@ -1,14 +1,14 @@
 {
   "domain": "whimsical.com",
   "observatory": {
-    "grade": "C",
-    "score": 50,
+    "grade": "B-",
+    "score": 65,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=whimsical.com",
-    "tested_at": "2026-10-01T07:01:15.957Z"
+    "tested_at": "2026-10-11T10:51:45.823Z"
   },
-  "scanned_at": "2026-10-01T07:28:57.752Z",
+  "scanned_at": "2026-10-11T10:51:46.360Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

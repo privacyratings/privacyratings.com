@@ -12,9 +12,9 @@
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=adguard-dns.io",
-    "tested_at": "2026-10-01T07:01:08.468Z"
+    "tested_at": "2026-10-11T10:51:39.105Z"
   },
-  "scanned_at": "2026-10-01T11:01:36.208Z",
+  "scanned_at": "2026-10-11T10:51:40.777Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,

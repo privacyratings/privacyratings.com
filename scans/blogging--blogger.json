@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.blogger.com",
-    "tested_at": "2026-10-01T07:01:14.256Z"
+    "tested_at": "2026-10-11T10:52:00.797Z"
   },
-  "scanned_at": "2026-10-01T07:20:56.048Z",
+  "scanned_at": "2026-10-11T10:52:01.094Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=brevo.com",
-    "tested_at": "2026-10-01T07:01:18.265Z"
+    "tested_at": "2026-10-11T10:50:56.725Z"
   },
-  "scanned_at": "2026-10-01T07:26:05.480Z",
+  "scanned_at": "2026-10-11T10:51:33.955Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,

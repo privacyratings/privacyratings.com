@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mxtoolbox.com",
     "tested_at": "2026-10-06T11:19:25.282Z"
   },
-  "scanned_at": "2026-10-06T11:19:25.572Z",
+  "scanned_at": "2026-10-11T10:53:35.614Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mxtoolbox.com&hideResults=on",
-    "tested_at": "2026-10-01T07:11:13.004Z"
+    "tested_at": "2026-10-11T10:53:35.614Z"
   },
   "trackers": {
     "url": "https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx",

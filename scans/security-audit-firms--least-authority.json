@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=leastauthority.com",
     "tested_at": "2026-10-10T10:39:04.577Z"
   },
-  "scanned_at": "2026-10-10T10:39:07.030Z",
+  "scanned_at": "2026-10-11T10:59:12.808Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=leastauthority.com&hideResults=on",
-    "tested_at": "2026-10-01T07:07:14.219Z"
+    "tested_at": "2026-10-11T10:59:12.808Z"
   },
   "trackers": {
     "url": "https://leastauthority.com",

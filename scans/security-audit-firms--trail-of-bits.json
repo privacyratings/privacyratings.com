@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=trailofbits.com",
     "tested_at": "2026-10-10T10:39:10.862Z"
   },
-  "scanned_at": "2026-10-10T10:39:11.625Z",
+  "scanned_at": "2026-10-11T11:01:27.257Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,

@@ -12,9 +12,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.tldraw.com",
-    "tested_at": "2026-10-01T07:01:15.476Z"
+    "tested_at": "2026-10-11T10:51:44.956Z"
   },
-  "scanned_at": "2026-10-03T10:19:43.563Z",
+  "scanned_at": "2026-10-11T10:51:45.447Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

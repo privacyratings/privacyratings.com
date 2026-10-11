@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.sprinto.com",
     "tested_at": "2026-10-10T10:39:13.952Z"
   },
-  "scanned_at": "2026-10-10T10:39:14.488Z",
+  "scanned_at": "2026-10-11T11:00:38.777Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.sprinto.com&hideResults=on",
-    "tested_at": "2026-10-01T07:07:14.917Z"
+    "tested_at": "2026-10-11T11:00:38.777Z"
   },
   "trackers": {
     "error": "HTTP 403",

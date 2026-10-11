@@ -22,7 +22,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-10T10:39:22.660Z",
+    "tested_at": "2026-10-11T10:51:56.014Z",
     "imap": {
       "host": "imap.mail.com",
       "port": 993,
@@ -82,12 +82,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mail.com",
     "tested_at": "2026-10-09T11:21:55.189Z"
   },
-  "scanned_at": "2026-10-10T10:41:57.829Z",
+  "scanned_at": "2026-10-11T10:52:59.909Z",
   "ssllabs": {
-    "grade": "A+",
+    "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.mail.com&hideResults=on",
-    "tested_at": "2026-10-01T07:06:27.574Z"
+    "tested_at": "2026-10-11T10:52:59.909Z"
   },
   "trackers": {
     "url": "https://www.mail.com",
