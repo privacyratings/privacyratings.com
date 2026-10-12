@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=aquavoice.com",
-    "tested_at": "2026-10-01T07:01:35.803Z"
+    "tested_at": "2026-10-12T12:04:57.917Z"
   },
-  "scanned_at": "2026-10-01T07:31:58.383Z",
+  "scanned_at": "2026-10-12T12:04:58.535Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

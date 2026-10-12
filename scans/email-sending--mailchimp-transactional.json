@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mandrillapp.com",
-    "tested_at": "2026-10-01T07:01:18.527Z"
+    "tested_at": "2026-10-12T12:04:25.394Z"
   },
-  "scanned_at": "2026-10-01T07:29:16.374Z",
+  "scanned_at": "2026-10-12T12:04:25.662Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

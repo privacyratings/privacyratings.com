@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidycal.com",
     "tested_at": "2026-10-11T10:51:49.960Z"
   },
-  "scanned_at": "2026-10-11T10:51:50.367Z",
+  "scanned_at": "2026-10-12T12:21:42.907Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tidycal.com&hideResults=on",
-    "tested_at": "2026-10-01T07:24:28.745Z"
+    "tested_at": "2026-10-12T12:21:42.907Z"
   },
   "trackers": {
     "url": "https://tidycal.com",

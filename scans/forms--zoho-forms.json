@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forms.zoho.com",
-    "tested_at": "2026-10-01T07:01:34.129Z"
+    "tested_at": "2026-10-12T12:04:57.720Z"
   },
-  "scanned_at": "2026-10-01T07:31:58.206Z",
+  "scanned_at": "2026-10-12T12:04:58.171Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

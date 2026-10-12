@@ -6,9 +6,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hyperproof.app",
-    "tested_at": "2026-10-01T07:01:23.287Z"
+    "tested_at": "2026-10-12T12:04:27.209Z"
   },
-  "scanned_at": "2026-10-01T11:00:29.407Z",
+  "scanned_at": "2026-10-12T12:04:27.551Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

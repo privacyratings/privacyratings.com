@@ -1,14 +1,14 @@
 {
   "domain": "telnyx.com",
   "observatory": {
-    "grade": "C+",
-    "score": 60,
-    "tests_passed": 8,
+    "grade": "D+",
+    "score": 40,
+    "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=telnyx.com",
-    "tested_at": "2026-10-01T07:01:27.572Z"
+    "tested_at": "2026-10-12T12:04:43.074Z"
   },
-  "scanned_at": "2026-10-01T07:29:53.641Z",
+  "scanned_at": "2026-10-12T12:04:44.217Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 4,

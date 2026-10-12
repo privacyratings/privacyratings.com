@@ -6,9 +6,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=paperform.co",
-    "tested_at": "2026-10-01T07:01:32.973Z"
+    "tested_at": "2026-10-12T12:04:56.968Z"
   },
-  "scanned_at": "2026-10-01T07:31:57.482Z",
+  "scanned_at": "2026-10-12T12:04:57.652Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

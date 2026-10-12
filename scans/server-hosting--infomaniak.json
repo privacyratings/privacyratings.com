@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.infomaniak.com",
     "tested_at": "2026-10-11T10:51:39.633Z"
   },
-  "scanned_at": "2026-10-11T10:51:42.449Z",
+  "scanned_at": "2026-10-12T12:11:37.861Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.infomaniak.com&hideResults=on",
-    "tested_at": "2026-10-01T07:16:54.076Z"
+    "tested_at": "2026-10-12T12:11:37.861Z"
   },
   "trackers": {
     "url": "https://www.infomaniak.com/en",

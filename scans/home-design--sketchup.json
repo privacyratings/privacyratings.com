@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.sketchup.com",
     "tested_at": "2026-10-11T10:51:55.167Z"
   },
-  "scanned_at": "2026-10-11T10:51:56.034Z",
+  "scanned_at": "2026-10-12T12:20:46.723Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.sketchup.com&hideResults=on",
-    "tested_at": "2026-10-01T07:26:05.564Z"
+    "tested_at": "2026-10-12T12:20:46.723Z"
   },
   "trackers": {
     "url": "https://sketchup.trimble.com/en",

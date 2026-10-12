@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=login.qualtrics.com",
-    "tested_at": "2026-10-01T07:01:33.980Z"
+    "tested_at": "2026-10-12T12:04:57.348Z"
   },
-  "scanned_at": "2026-10-01T07:32:52.839Z",
+  "scanned_at": "2026-10-12T12:04:58.252Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -12,9 +12,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=textbelt.com",
-    "tested_at": "2026-10-01T07:01:28.291Z"
+    "tested_at": "2026-10-12T12:04:44.363Z"
   },
-  "scanned_at": "2026-10-01T07:29:53.690Z",
+  "scanned_at": "2026-10-12T12:04:45.086Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

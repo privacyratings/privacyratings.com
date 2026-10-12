@@ -8,10 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.youtube.com",
     "tested_at": "2026-10-05T11:34:02.477Z"
   },
-  "scanned_at": "2026-10-05T11:34:03.001Z",
+  "scanned_at": "2026-10-12T12:18:11.275Z",
   "ssllabs": {
-    "error": "Timed out",
-    "tested_at": "2026-10-01T07:19:54.133Z"
+    "grade": "B",
+    "endpoints": 8,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=music.youtube.com&hideResults=on",
+    "tested_at": "2026-10-12T12:18:11.275Z"
   },
   "trackers": {
     "url": "https://music.youtube.com",

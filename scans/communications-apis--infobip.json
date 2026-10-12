@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=infobip.com",
-    "tested_at": "2026-10-01T07:01:25.869Z"
+    "tested_at": "2026-10-12T12:04:38.593Z"
   },
-  "scanned_at": "2026-10-01T07:29:53.383Z",
+  "scanned_at": "2026-10-12T12:04:42.989Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

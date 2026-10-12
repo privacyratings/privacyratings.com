@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=airvpn.org",
     "tested_at": "2026-10-11T10:51:36.552Z"
   },
-  "scanned_at": "2026-10-11T10:51:39.016Z",
+  "scanned_at": "2026-10-12T12:10:18.286Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=airvpn.org&hideResults=on",
-    "tested_at": "2026-10-01T07:18:13.445Z"
+    "tested_at": "2026-10-12T12:10:18.286Z"
   },
   "trackers": {
     "url": "https://airvpn.org/entry/?aek_v=18&aek_id=dd304c1d41ab8d868d2a8d5814082ce9&aek_url=%2F",

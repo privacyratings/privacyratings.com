@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.nccgroup.com",
     "tested_at": "2026-10-10T10:39:05.552Z"
   },
-  "scanned_at": "2026-10-11T10:58:27.030Z",
+  "scanned_at": "2026-10-12T12:07:21.712Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.nccgroup.com&hideResults=on",
-    "tested_at": "2026-10-01T07:07:14.266Z"
+    "tested_at": "2026-10-12T12:07:21.712Z"
   },
   "trackers": {
     "url": "https://www.nccgroup.com",

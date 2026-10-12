@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.signnow.com",
-    "tested_at": "2026-10-01T07:01:30.829Z"
+    "tested_at": "2026-10-12T12:04:46.691Z"
   },
-  "scanned_at": "2026-10-01T07:31:47.817Z",
+  "scanned_at": "2026-10-12T12:04:48.677Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=framadate.org",
     "tested_at": "2026-10-11T10:51:48.133Z"
   },
-  "scanned_at": "2026-10-11T10:51:50.728Z",
+  "scanned_at": "2026-10-12T12:15:59.943Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=framadate.org&hideResults=on",
-    "tested_at": "2026-10-01T07:20:05.715Z"
+    "tested_at": "2026-10-12T12:15:59.943Z"
   },
   "trackers": {
     "url": "https://framadate.org/abc/",

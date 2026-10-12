@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=resend.com",
-    "tested_at": "2026-10-01T07:01:21.170Z"
+    "tested_at": "2026-10-12T12:03:33.284Z"
   },
-  "scanned_at": "2026-10-01T07:28:24.576Z",
+  "scanned_at": "2026-10-12T12:04:26.186Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

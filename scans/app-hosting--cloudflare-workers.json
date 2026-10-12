@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.cloudflare.com",
     "tested_at": "2026-10-10T10:38:57.013Z"
   },
-  "scanned_at": "2026-10-11T11:04:22.743Z",
+  "scanned_at": "2026-10-12T12:13:28.409Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dash.cloudflare.com&hideResults=on",
-    "tested_at": "2026-10-01T07:08:14.286Z"
+    "tested_at": "2026-10-12T12:13:28.409Z"
   },
   "trackers": {
     "url": "https://www.cloudflare.com/products/workers/",

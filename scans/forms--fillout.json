@@ -1,14 +1,14 @@
 {
   "domain": "build.fillout.com",
   "observatory": {
-    "grade": "B+",
-    "score": 80,
-    "tests_passed": 11,
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=build.fillout.com",
-    "tested_at": "2026-10-01T07:01:31.917Z"
+    "tested_at": "2026-10-12T12:04:51.168Z"
   },
-  "scanned_at": "2026-10-01T07:31:57.292Z",
+  "scanned_at": "2026-10-12T12:04:52.893Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 6,

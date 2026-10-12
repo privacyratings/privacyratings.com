@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=twilio.com",
-    "tested_at": "2026-10-01T07:01:29.110Z"
+    "tested_at": "2026-10-12T12:04:45.004Z"
   },
-  "scanned_at": "2026-10-01T11:04:13.280Z",
+  "scanned_at": "2026-10-12T12:04:46.098Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 3,

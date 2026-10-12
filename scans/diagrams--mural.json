@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.mural.co",
     "tested_at": "2026-10-11T10:51:44.354Z"
   },
-  "scanned_at": "2026-10-11T10:51:45.109Z",
+  "scanned_at": "2026-10-12T12:10:18.712Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.mural.co&hideResults=on",
-    "tested_at": "2026-10-01T07:21:28.156Z"
+    "tested_at": "2026-10-12T12:10:18.712Z"
   },
   "trackers": {
     "url": "https://www.mural.co",

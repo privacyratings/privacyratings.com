@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=vonage.com",
-    "tested_at": "2026-10-01T07:01:30.173Z"
+    "tested_at": "2026-10-12T12:04:45.232Z"
   },
-  "scanned_at": "2026-10-01T07:30:31.581Z",
+  "scanned_at": "2026-10-12T12:04:46.474Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

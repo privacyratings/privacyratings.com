@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.cal.com",
     "tested_at": "2026-10-11T10:51:46.376Z"
   },
-  "scanned_at": "2026-10-11T10:51:48.067Z",
+  "scanned_at": "2026-10-12T12:14:44.253Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.cal.com&hideResults=on",
-    "tested_at": "2026-10-01T07:23:20.585Z"
+    "tested_at": "2026-10-12T12:14:44.253Z"
   },
   "trackers": {
     "url": "https://cal.com/ai",

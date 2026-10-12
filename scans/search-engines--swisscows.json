@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swisscows.com",
     "tested_at": "2026-10-10T10:38:58.898Z"
   },
-  "scanned_at": "2026-10-10T10:39:01.977Z",
+  "scanned_at": "2026-10-12T12:05:51.659Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=swisscows.com&hideResults=on",
-    "tested_at": "2026-10-01T07:13:47.295Z"
+    "tested_at": "2026-10-12T12:05:51.659Z"
   },
   "trackers": {
     "url": "https://swisscows.com/en",

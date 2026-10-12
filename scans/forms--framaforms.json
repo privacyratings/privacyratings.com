@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=framaforms.org",
     "tested_at": "2026-10-11T10:51:51.912Z"
   },
-  "scanned_at": "2026-10-11T10:51:54.187Z",
+  "scanned_at": "2026-10-12T12:18:10.759Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=framaforms.org&hideResults=on",
-    "tested_at": "2026-10-01T07:20:55.703Z"
+    "tested_at": "2026-10-12T12:18:10.759Z"
   },
   "trackers": {
     "url": "https://framaforms.org/abc/",

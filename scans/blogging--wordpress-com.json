@@ -4,7 +4,7 @@
     "repo": "Automattic/wp-calypso",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:43.317Z"
+    "checked_at": "2026-10-12T12:04:25.310Z"
   },
   "observatory": {
     "grade": "D-",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wordpress.com",
     "tested_at": "2026-10-05T11:34:04.048Z"
   },
-  "scanned_at": "2026-10-06T11:25:14.136Z",
+  "scanned_at": "2026-10-12T12:04:25.310Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

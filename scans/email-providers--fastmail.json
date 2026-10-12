@@ -11,7 +11,7 @@
       "spf": true,
       "dmarc": "none",
       "tls_rpt": true,
-      "mta_sts": "testing",
+      "mta_sts": "unreachable",
       "dane": "none",
       "bimi": false,
       "srv": {
@@ -31,7 +31,7 @@
         }
       }
     },
-    "tested_at": "2026-10-11T10:51:38.295Z",
+    "tested_at": "2026-10-12T12:04:28.900Z",
     "imap": {
       "host": "imap.fastmail.com",
       "port": 993,
@@ -98,7 +98,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.fastmail.com",
     "tested_at": "2026-10-08T11:24:50.839Z"
   },
-  "scanned_at": "2026-10-11T10:51:38.747Z",
+  "scanned_at": "2026-10-12T12:04:29.360Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

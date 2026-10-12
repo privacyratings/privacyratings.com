@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sinch.com",
-    "tested_at": "2026-10-01T07:01:27.272Z"
+    "tested_at": "2026-10-12T12:04:42.557Z"
   },
-  "scanned_at": "2026-10-01T07:29:53.559Z",
+  "scanned_at": "2026-10-12T12:04:44.836Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

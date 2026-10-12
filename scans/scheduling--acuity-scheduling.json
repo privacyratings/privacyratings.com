@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.acuityscheduling.com",
     "tested_at": "2026-10-11T10:51:45.569Z"
   },
-  "scanned_at": "2026-10-11T10:51:46.300Z",
+  "scanned_at": "2026-10-12T12:13:18.956Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

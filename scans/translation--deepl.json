@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.deepl.com",
     "tested_at": "2026-10-11T10:51:51.780Z"
   },
-  "scanned_at": "2026-10-11T10:51:52.174Z",
+  "scanned_at": "2026-10-12T12:15:24.296Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.deepl.com&hideResults=on",
-    "tested_at": "2026-10-01T07:22:39.432Z"
+    "tested_at": "2026-10-12T12:15:24.296Z"
   },
   "trackers": {
     "url": "https://www.deepl.com/en",

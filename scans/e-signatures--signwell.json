@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.signwell.com",
-    "tested_at": "2026-10-01T07:01:31.132Z"
+    "tested_at": "2026-10-12T12:04:46.714Z"
   },
-  "scanned_at": "2026-10-01T07:38:14.091Z",
+  "scanned_at": "2026-10-12T12:04:47.200Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=postmarkapp.com",
-    "tested_at": "2026-10-01T07:01:20.940Z"
+    "tested_at": "2026-10-12T12:03:33.633Z"
   },
-  "scanned_at": "2026-10-01T07:27:29.076Z",
+  "scanned_at": "2026-10-12T12:04:25.839Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
