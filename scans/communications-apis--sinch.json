@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sinch.com",
     "tested_at": "2026-10-12T12:04:42.557Z"
   },
-  "scanned_at": "2026-10-12T12:04:44.836Z",
+  "scanned_at": "2026-10-13T12:02:10.347Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sinch.com&hideResults=on",
-    "tested_at": "2026-10-01T07:29:53.559Z"
+    "tested_at": "2026-10-13T12:02:10.347Z"
   },
   "trackers": {
     "url": "https://sinch.com",

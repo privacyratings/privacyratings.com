@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.acuityscheduling.com",
     "tested_at": "2026-10-11T10:51:45.569Z"
   },
-  "scanned_at": "2026-10-12T12:13:18.956Z",
+  "scanned_at": "2026-10-13T12:03:30.959Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=secure.acuityscheduling.com&hideResults=on",
-    "tested_at": "2026-10-01T07:26:05.044Z"
+    "tested_at": "2026-10-13T12:03:30.959Z"
   },
   "trackers": {
     "url": "https://acuityscheduling.com",

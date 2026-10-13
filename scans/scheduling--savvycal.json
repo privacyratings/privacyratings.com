@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=savvycal.com",
     "tested_at": "2026-10-11T10:51:48.993Z"
   },
-  "scanned_at": "2026-10-12T12:16:28.668Z",
+  "scanned_at": "2026-10-13T12:05:11.396Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=savvycal.com&hideResults=on",
-    "tested_at": "2026-10-01T07:24:28.477Z"
+    "tested_at": "2026-10-13T12:05:11.396Z"
   },
   "trackers": {
     "url": "https://savvycal.com",

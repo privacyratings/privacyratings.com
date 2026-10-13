@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.jotform.com",
     "tested_at": "2026-10-12T12:04:52.966Z"
   },
-  "scanned_at": "2026-10-12T12:04:53.625Z",
+  "scanned_at": "2026-10-13T12:09:14.813Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.jotform.com&hideResults=on",
-    "tested_at": "2026-10-01T07:31:57.340Z"
+    "tested_at": "2026-10-13T12:09:14.813Z"
   },
   "trackers": {
     "url": "https://www.jotform.com",

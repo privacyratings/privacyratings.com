@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.scrut.io",
     "tested_at": "2026-10-12T12:04:27.745Z"
   },
-  "scanned_at": "2026-10-12T12:04:37.693Z",
+  "scanned_at": "2026-10-13T11:54:36.611Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.scrut.io&hideResults=on",
-    "tested_at": "2026-10-01T07:30:31.390Z"
+    "tested_at": "2026-10-13T11:54:36.611Z"
   },
   "trackers": {
     "url": "https://www.scrut.io",

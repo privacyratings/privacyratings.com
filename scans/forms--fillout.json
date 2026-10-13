@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=build.fillout.com",
     "tested_at": "2026-10-12T12:04:51.168Z"
   },
-  "scanned_at": "2026-10-12T12:04:52.893Z",
+  "scanned_at": "2026-10-13T12:11:30.541Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=build.fillout.com&hideResults=on",
-    "tested_at": "2026-10-01T07:31:57.292Z"
+    "tested_at": "2026-10-13T12:11:30.541Z"
   },
   "trackers": {
     "url": "https://www.fillout.com",

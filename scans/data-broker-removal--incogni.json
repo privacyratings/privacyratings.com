@@ -1,14 +1,14 @@
 {
   "domain": "incogni.com",
   "observatory": {
-    "grade": "C",
-    "score": 50,
-    "tests_passed": 9,
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=incogni.com",
-    "tested_at": "2026-10-01T10:59:45.152Z"
+    "tested_at": "2026-10-13T11:51:54.323Z"
   },
-  "scanned_at": "2026-10-01T10:59:46.025Z",
+  "scanned_at": "2026-10-13T11:51:55.098Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

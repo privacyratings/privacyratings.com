@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wisprflow.ai",
-    "tested_at": "2026-10-01T07:01:38.427Z"
+    "tested_at": "2026-10-13T11:51:57.541Z"
   },
-  "scanned_at": "2026-10-01T07:31:58.703Z",
+  "scanned_at": "2026-10-13T11:51:58.254Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

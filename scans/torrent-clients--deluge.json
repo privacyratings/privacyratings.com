@@ -3,9 +3,9 @@
     "repo": "deluge-torrent/deluge",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:59:45.245Z"
+    "checked_at": "2026-10-13T11:51:44.998Z"
   },
-  "scanned_at": "2026-10-01T07:00:03.272Z",
+  "scanned_at": "2026-10-13T11:51:44.998Z",
   "trackers": {
     "url": "https://deluge-torrent.org",
     "found": [],

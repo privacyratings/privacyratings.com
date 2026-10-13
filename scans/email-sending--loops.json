@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=loops.so",
     "tested_at": "2026-10-11T10:51:33.739Z"
   },
-  "scanned_at": "2026-10-11T10:51:34.274Z",
+  "scanned_at": "2026-10-13T11:54:46.912Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=loops.so&hideResults=on",
-    "tested_at": "2026-10-01T07:26:05.616Z"
+    "tested_at": "2026-10-13T11:54:46.912Z"
   },
   "trackers": {
     "url": "https://loops.so",

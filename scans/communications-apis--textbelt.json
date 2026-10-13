@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=textbelt.com",
     "tested_at": "2026-10-12T12:04:44.363Z"
   },
-  "scanned_at": "2026-10-12T12:04:45.086Z",
+  "scanned_at": "2026-10-13T12:02:34.943Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

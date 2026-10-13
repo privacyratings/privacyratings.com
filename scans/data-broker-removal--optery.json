@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.optery.com",
-    "tested_at": "2026-10-01T10:59:46.097Z"
+    "tested_at": "2026-10-13T11:51:54.754Z"
   },
-  "scanned_at": "2026-10-01T10:59:46.895Z",
+  "scanned_at": "2026-10-13T11:51:55.567Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

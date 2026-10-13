@@ -22,18 +22,49 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-12T12:04:54.086Z",
+    "tested_at": "2026-10-13T11:52:15.500Z",
     "imap": {
       "host": "imap.mailfence.com",
-      "error": "timeout"
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4",
+        "IMAP4REV1",
+        "NAMESPACE",
+        "QUOTA",
+        "MOVE",
+        "UIDPLUS",
+        "UNSELECT",
+        "IDLE",
+        "AUTH=PLAIN",
+        "SASL-IR",
+        "CLIENTID"
+      ]
     },
     "pop3": {
       "host": "pop.mailfence.com",
-      "error": "timeout"
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "USER",
+        "EXPIRE",
+        "TOP",
+        "UIDL",
+        "PIPELINING",
+        "RESP-CODES",
+        "SASL"
+      ]
     },
     "smtp": {
       "host": "smtp.mailfence.com",
-      "error": "timeout"
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "AUTH",
+        "SIZE",
+        "8BITMIME"
+      ]
     }
   },
   "mail_domain": "mailfence.com",
@@ -45,7 +76,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailfence.com",
     "tested_at": "2026-10-09T11:21:55.906Z"
   },
-  "scanned_at": "2026-10-12T12:06:24.860Z",
+  "scanned_at": "2026-10-13T11:52:17.376Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

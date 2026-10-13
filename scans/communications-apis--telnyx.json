@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=telnyx.com",
     "tested_at": "2026-10-12T12:04:43.074Z"
   },
-  "scanned_at": "2026-10-12T12:04:44.217Z",
+  "scanned_at": "2026-10-13T12:03:56.398Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=telnyx.com&hideResults=on",
-    "tested_at": "2026-10-01T07:29:53.641Z"
+    "tested_at": "2026-10-13T12:03:56.398Z"
   },
   "trackers": {
     "url": "https://telnyx.com",

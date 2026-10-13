@@ -27,7 +27,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-12T12:05:16.638Z",
+    "tested_at": "2026-10-13T11:52:32.329Z",
     "imap": {
       "host": "imap.yandex.com",
       "port": 993,
@@ -70,7 +70,15 @@
       "host": "smtp.yandex.com",
       "port": 465,
       "tls": "implicit",
-      "extensions": []
+      "extensions": [
+        "8BITMIME",
+        "PIPELINING",
+        "SIZE",
+        "STARTTLS",
+        "AUTH",
+        "DSN",
+        "ENHANCEDSTATUSCODES"
+      ]
     }
   },
   "mail_domain": "yandex.com",
@@ -82,7 +90,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yandex.com",
     "tested_at": "2026-10-09T11:21:58.528Z"
   },
-  "scanned_at": "2026-10-12T12:06:19.439Z",
+  "scanned_at": "2026-10-13T11:52:35.408Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

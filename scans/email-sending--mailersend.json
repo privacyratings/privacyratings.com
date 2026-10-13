@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailersend.com",
     "tested_at": "2026-10-12T12:04:25.365Z"
   },
-  "scanned_at": "2026-10-12T12:04:26.672Z",
+  "scanned_at": "2026-10-13T11:51:46.082Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailersend.com&hideResults=on",
-    "tested_at": "2026-10-01T07:26:05.840Z"
+    "tested_at": "2026-10-13T11:51:46.082Z"
   },
   "trackers": {
     "url": "https://www.mailersend.com",

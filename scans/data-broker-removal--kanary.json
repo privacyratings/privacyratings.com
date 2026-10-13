@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.kanary.com",
-    "tested_at": "2026-10-01T10:59:45.989Z"
+    "tested_at": "2026-10-13T11:51:54.241Z"
   },
-  "scanned_at": "2026-10-01T10:59:46.574Z",
+  "scanned_at": "2026-10-13T11:51:54.638Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

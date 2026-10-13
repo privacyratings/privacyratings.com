@@ -5,8 +5,8 @@
       "domain": "yahoo.com",
       "dnssec": false,
       "mx": [
-        "mta7.am0.yahoodns.net",
         "mta6.am0.yahoodns.net",
+        "mta7.am0.yahoodns.net",
         "mta5.am0.yahoodns.net"
       ],
       "spf": true,
@@ -23,7 +23,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-12T12:05:12.579Z",
+    "tested_at": "2026-10-13T11:52:27.674Z",
     "imap": {
       "host": "imap.mail.yahoo.com",
       "port": 993,
@@ -93,7 +93,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yahoo.com",
     "tested_at": "2026-10-08T11:24:55.475Z"
   },
-  "scanned_at": "2026-10-12T12:05:13.285Z",
+  "scanned_at": "2026-10-13T11:52:28.312Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

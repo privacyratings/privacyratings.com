@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mandrillapp.com",
     "tested_at": "2026-10-12T12:04:25.394Z"
   },
-  "scanned_at": "2026-10-12T12:04:25.662Z",
+  "scanned_at": "2026-10-13T11:55:22.672Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mandrillapp.com&hideResults=on",
-    "tested_at": "2026-10-01T07:29:16.374Z"
+    "tested_at": "2026-10-13T11:55:22.671Z"
   },
   "trackers": {
     "url": "https://mailchimp.com/features/transactional-email/",

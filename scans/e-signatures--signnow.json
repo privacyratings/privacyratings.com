@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.signnow.com",
     "tested_at": "2026-10-12T12:04:46.691Z"
   },
-  "scanned_at": "2026-10-12T12:04:48.677Z",
+  "scanned_at": "2026-10-13T12:08:10.623Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.signnow.com&hideResults=on",
-    "tested_at": "2026-10-01T07:31:47.816Z"
+    "tested_at": "2026-10-13T12:08:10.623Z"
   },
   "trackers": {
     "url": "https://www.signnow.com",

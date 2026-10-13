@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tldv.io",
-    "tested_at": "2026-10-01T07:01:37.810Z"
+    "tested_at": "2026-10-13T11:51:57.363Z"
   },
-  "scanned_at": "2026-10-01T07:31:58.534Z",
+  "scanned_at": "2026-10-13T11:51:58.218Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

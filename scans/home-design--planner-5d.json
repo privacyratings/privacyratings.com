@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=planner5d.com",
-    "tested_at": "2026-10-01T07:01:41.484Z"
+    "tested_at": "2026-10-13T11:52:04.124Z"
   },
-  "scanned_at": "2026-10-01T07:31:59.025Z",
+  "scanned_at": "2026-10-13T11:52:07.216Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
