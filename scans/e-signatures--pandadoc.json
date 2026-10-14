@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.pandadoc.com",
     "tested_at": "2026-10-12T12:04:46.239Z"
   },
-  "scanned_at": "2026-10-13T12:05:53.083Z",
+  "scanned_at": "2026-10-14T09:45:22.966Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.pandadoc.com&hideResults=on",
-    "tested_at": "2026-10-01T07:31:56.956Z"
+    "tested_at": "2026-10-14T09:45:22.965Z"
   },
   "trackers": {
     "error": "HTTP 429",

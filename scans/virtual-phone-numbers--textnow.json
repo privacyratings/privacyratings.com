@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.textnow.com",
-    "tested_at": "2026-10-02T10:32:56.172Z"
+    "tested_at": "2026-10-14T09:33:49.212Z"
   },
-  "scanned_at": "2026-10-13T11:51:46.557Z",
+  "scanned_at": "2026-10-14T09:33:50.055Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

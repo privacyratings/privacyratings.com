@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cyberghostvpn.com",
-    "tested_at": "2026-10-02T10:32:57.286Z"
+    "tested_at": "2026-10-14T09:33:50.144Z"
   },
-  "scanned_at": "2026-10-02T10:46:52.651Z",
+  "scanned_at": "2026-10-14T09:33:50.771Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

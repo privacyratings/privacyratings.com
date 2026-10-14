@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.fireflies.ai",
     "tested_at": "2026-10-12T12:04:58.276Z"
   },
-  "scanned_at": "2026-10-12T12:04:59.007Z",
+  "scanned_at": "2026-10-14T09:54:25.482Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.fireflies.ai&hideResults=on",
-    "tested_at": "2026-10-01T07:31:58.337Z"
+    "tested_at": "2026-10-14T09:54:25.482Z"
   },
   "trackers": {
     "url": "https://fireflies.ai",

@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.helpscout.com",
-    "tested_at": "2026-10-01T10:59:52.591Z"
+    "tested_at": "2026-10-14T09:33:47.357Z"
   },
-  "scanned_at": "2026-10-02T10:36:06.109Z",
+  "scanned_at": "2026-10-14T09:33:47.663Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.burnerapp.com",
-    "tested_at": "2026-10-02T10:32:55.241Z"
+    "tested_at": "2026-10-14T09:33:48.422Z"
   },
-  "scanned_at": "2026-10-03T09:58:46.686Z",
+  "scanned_at": "2026-10-14T09:33:49.052Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

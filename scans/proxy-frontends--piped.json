@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=piped.video",
     "tested_at": "2026-10-13T11:51:48.566Z"
   },
-  "scanned_at": "2026-10-13T11:51:48.807Z",
+  "scanned_at": "2026-10-14T09:45:41.048Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=piped.video&hideResults=on",
-    "tested_at": "2026-10-01T10:59:40.647Z"
+    "tested_at": "2026-10-14T09:45:41.048Z"
   },
   "trackers": {
     "url": "https://piped.video",

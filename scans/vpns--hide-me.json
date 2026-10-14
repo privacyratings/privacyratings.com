@@ -8,13 +8,13 @@
   },
   "observatory": {
     "grade": "B",
-    "score": 70,
+    "score": 75,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hide.me",
-    "tested_at": "2026-10-02T10:32:58.977Z"
+    "tested_at": "2026-10-14T09:33:51.546Z"
   },
-  "scanned_at": "2026-10-03T09:53:54.648Z",
+  "scanned_at": "2026-10-14T09:33:52.844Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

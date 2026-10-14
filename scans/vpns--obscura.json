@@ -12,9 +12,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=obscura.com",
-    "tested_at": "2026-10-02T10:33:00.410Z"
+    "tested_at": "2026-10-14T09:33:53.349Z"
   },
-  "scanned_at": "2026-10-03T09:53:54.899Z",
+  "scanned_at": "2026-10-14T09:33:54.057Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.tunnelbear.com",
-    "tested_at": "2026-10-02T10:33:03.394Z"
+    "tested_at": "2026-10-14T09:33:55.706Z"
   },
-  "scanned_at": "2026-10-02T10:48:45.176Z",
+  "scanned_at": "2026-10-14T09:33:56.493Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

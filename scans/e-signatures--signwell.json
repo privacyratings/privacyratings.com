@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.signwell.com",
     "tested_at": "2026-10-12T12:04:46.714Z"
   },
-  "scanned_at": "2026-10-12T12:04:47.200Z",
+  "scanned_at": "2026-10-14T09:43:47.126Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.signwell.com&hideResults=on",
-    "tested_at": "2026-10-01T07:38:14.091Z"
+    "tested_at": "2026-10-14T09:43:47.126Z"
   },
   "trackers": {
     "url": "https://www.signwell.com",

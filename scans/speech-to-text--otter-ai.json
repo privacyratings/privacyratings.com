@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=otter.ai",
     "tested_at": "2026-10-13T11:51:56.495Z"
   },
-  "scanned_at": "2026-10-13T11:51:57.276Z",
+  "scanned_at": "2026-10-14T09:51:57.231Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=otter.ai&hideResults=on",
-    "tested_at": "2026-10-01T07:31:58.481Z"
+    "tested_at": "2026-10-14T09:51:57.231Z"
   },
   "trackers": {
     "url": "https://otter.ai",

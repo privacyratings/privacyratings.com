@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.granola.ai",
     "tested_at": "2026-10-13T11:51:55.780Z"
   },
-  "scanned_at": "2026-10-13T11:51:56.423Z",
+  "scanned_at": "2026-10-14T09:50:34.969Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.granola.ai&hideResults=on",
-    "tested_at": "2026-10-01T07:31:58.432Z"
+    "tested_at": "2026-10-14T09:50:34.969Z"
   },
   "trackers": {
     "url": "https://www.granola.ai",

@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.zendesk.com",
-    "tested_at": "2026-10-02T10:32:55.343Z"
+    "tested_at": "2026-10-14T09:33:47.804Z"
   },
-  "scanned_at": "2026-10-02T10:42:47.115Z",
+  "scanned_at": "2026-10-14T09:33:48.132Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 4,

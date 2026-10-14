@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.improvmx.com",
     "tested_at": "2026-10-13T11:51:44.322Z"
   },
-  "scanned_at": "2026-10-13T11:51:44.634Z",
+  "scanned_at": "2026-10-14T09:36:58.147Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.improvmx.com&hideResults=on",
-    "tested_at": "2026-10-01T07:31:58.911Z"
+    "tested_at": "2026-10-14T09:36:58.147Z"
   },
   "trackers": {
     "url": "https://improvmx.com",

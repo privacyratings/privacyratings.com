@@ -22,7 +22,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-13T11:52:15.500Z",
+    "tested_at": "2026-10-14T09:34:15.001Z",
     "imap": {
       "host": "imap.mailfence.com",
       "port": 993,
@@ -76,7 +76,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailfence.com",
     "tested_at": "2026-10-09T11:21:55.906Z"
   },
-  "scanned_at": "2026-10-13T11:52:17.376Z",
+  "scanned_at": "2026-10-14T09:34:17.508Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

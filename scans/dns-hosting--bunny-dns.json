@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.bunny.net",
-    "tested_at": "2026-10-02T10:33:17.761Z"
+    "tested_at": "2026-10-14T09:34:09.937Z"
   },
-  "scanned_at": "2026-10-05T11:33:32.073Z",
+  "scanned_at": "2026-10-14T09:34:10.651Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

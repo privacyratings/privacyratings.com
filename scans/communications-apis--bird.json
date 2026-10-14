@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bird.com",
     "tested_at": "2026-10-12T12:04:37.824Z"
   },
-  "scanned_at": "2026-10-12T12:04:38.261Z",
+  "scanned_at": "2026-10-14T09:42:44.242Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bird.com&hideResults=on",
-    "tested_at": "2026-10-01T07:44:20.332Z"
+    "tested_at": "2026-10-14T09:42:44.242Z"
   },
   "trackers": {
     "url": "https://bird.com",

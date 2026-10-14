@@ -7,14 +7,14 @@
     "checked_at": "2026-10-03T09:53:54.770Z"
   },
   "observatory": {
-    "grade": "B",
-    "score": 75,
-    "tests_passed": 10,
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mozilla.org",
-    "tested_at": "2026-10-02T10:32:59.051Z"
+    "tested_at": "2026-10-14T09:33:52.607Z"
   },
-  "scanned_at": "2026-10-03T09:53:54.770Z",
+  "scanned_at": "2026-10-14T09:33:52.847Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

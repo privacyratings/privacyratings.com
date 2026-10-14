@@ -1,11 +1,11 @@
 {
   "domain": "presearch.com",
-  "scanned_at": "2026-10-13T11:52:18.552Z",
+  "scanned_at": "2026-10-14T09:41:01.482Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=presearch.com&hideResults=on",
-    "tested_at": "2026-10-01T10:59:40.128Z"
+    "tested_at": "2026-10-14T09:41:01.482Z"
   },
   "trackers": {
     "error": "HTTP 403",

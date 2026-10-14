@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=applied-privacy.net",
-    "tested_at": "2026-10-02T10:33:04.026Z"
+    "tested_at": "2026-10-14T09:33:56.661Z"
   },
-  "scanned_at": "2026-10-03T10:03:17.473Z",
+  "scanned_at": "2026-10-14T09:33:58.184Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
