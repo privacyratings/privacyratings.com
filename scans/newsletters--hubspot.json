@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hubspot.com",
-    "tested_at": "2026-10-03T09:54:01.861Z"
+    "tested_at": "2026-10-15T09:11:28.236Z"
   },
-  "scanned_at": "2026-10-03T09:57:05.826Z",
+  "scanned_at": "2026-10-15T09:11:29.667Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.azure.com",
-    "tested_at": "2026-10-03T09:54:07.904Z"
+    "tested_at": "2026-10-15T09:11:39.760Z"
   },
-  "scanned_at": "2026-10-03T10:11:46.003Z",
+  "scanned_at": "2026-10-15T09:11:41.117Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

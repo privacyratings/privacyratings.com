@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.kanary.com",
     "tested_at": "2026-10-13T11:51:54.241Z"
   },
-  "scanned_at": "2026-10-13T11:51:54.638Z",
+  "scanned_at": "2026-10-15T09:18:23.249Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.kanary.com&hideResults=on",
-    "tested_at": "2026-10-01T10:59:43.140Z"
+    "tested_at": "2026-10-15T09:18:23.249Z"
   },
   "trackers": {
     "url": "https://www.kanary.com",

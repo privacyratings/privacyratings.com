@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=twilio.com",
     "tested_at": "2026-10-12T12:04:45.004Z"
   },
-  "scanned_at": "2026-10-12T12:04:46.098Z",
+  "scanned_at": "2026-10-15T09:29:37.759Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=twilio.com&hideResults=on",
-    "tested_at": "2026-10-01T11:04:13.280Z"
+    "tested_at": "2026-10-15T09:29:37.758Z"
   },
   "trackers": {
     "url": "https://www.twilio.com/en-us",

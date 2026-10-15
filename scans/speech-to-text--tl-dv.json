@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tldv.io",
     "tested_at": "2026-10-13T11:51:57.363Z"
   },
-  "scanned_at": "2026-10-14T09:51:26.395Z",
+  "scanned_at": "2026-10-15T09:36:03.636Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tldv.io&hideResults=on",
-    "tested_at": "2026-10-01T07:31:58.534Z"
+    "tested_at": "2026-10-15T09:36:03.636Z"
   },
   "trackers": {
     "url": "https://tldv.io",

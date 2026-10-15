@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getresponse.com",
-    "tested_at": "2026-10-03T09:54:00.508Z"
+    "tested_at": "2026-10-15T09:11:26.888Z"
   },
-  "scanned_at": "2026-10-03T09:57:05.713Z",
+  "scanned_at": "2026-10-15T09:11:28.184Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hover.com",
-    "tested_at": "2026-10-02T10:33:21.581Z"
+    "tested_at": "2026-10-15T09:11:34.523Z"
   },
-  "scanned_at": "2026-10-03T10:04:28.033Z",
+  "scanned_at": "2026-10-15T09:11:35.653Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

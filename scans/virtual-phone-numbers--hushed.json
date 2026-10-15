@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hushed.com",
     "tested_at": "2026-10-14T09:33:49.185Z"
   },
-  "scanned_at": "2026-10-14T09:33:52.415Z",
+  "scanned_at": "2026-10-15T09:26:15.102Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

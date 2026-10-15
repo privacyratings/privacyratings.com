@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.chatwoot.com",
     "tested_at": "2026-10-14T09:33:46.523Z"
   },
-  "scanned_at": "2026-10-14T09:33:47.396Z",
+  "scanned_at": "2026-10-15T09:23:14.892Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.chatwoot.com&hideResults=on",
-    "tested_at": "2026-10-02T10:35:05.229Z"
+    "tested_at": "2026-10-15T09:23:14.892Z"
   },
   "trackers": {
     "url": "https://www.chatwoot.com",

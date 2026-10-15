@@ -35,7 +35,7 @@
         }
       }
     },
-    "tested_at": "2026-10-14T09:34:03.507Z",
+    "tested_at": "2026-10-15T09:11:43.970Z",
     "imap": {
       "host": "imap.kolabnow.com",
       "port": 993,
@@ -148,7 +148,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kolabnow.com",
     "tested_at": "2026-10-08T11:24:53.340Z"
   },
-  "scanned_at": "2026-10-14T09:34:05.900Z",
+  "scanned_at": "2026-10-15T09:11:47.112Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

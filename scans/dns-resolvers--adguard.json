@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=adguard-dns.io",
     "tested_at": "2026-10-11T10:51:39.105Z"
   },
-  "scanned_at": "2026-10-11T10:51:40.777Z",
+  "scanned_at": "2026-10-15T09:28:10.428Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=adguard-dns.io&hideResults=on",
-    "tested_at": "2026-10-01T11:01:36.208Z"
+    "tested_at": "2026-10-15T09:28:10.427Z"
   },
   "trackers": {
     "url": "https://adguard-dns.io/en/welcome.html",

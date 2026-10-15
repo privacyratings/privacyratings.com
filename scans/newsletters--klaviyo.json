@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=klaviyo.com",
-    "tested_at": "2026-10-03T09:54:04.291Z"
+    "tested_at": "2026-10-15T09:11:29.735Z"
   },
-  "scanned_at": "2026-10-03T09:57:05.994Z",
+  "scanned_at": "2026-10-15T09:11:30.399Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

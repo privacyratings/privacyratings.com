@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.fortimailcloud.com",
-    "tested_at": "2026-10-03T09:53:55.080Z"
+    "tested_at": "2026-10-15T09:11:22.472Z"
   },
-  "scanned_at": "2026-10-04T10:39:04.977Z",
+  "scanned_at": "2026-10-15T09:11:22.708Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

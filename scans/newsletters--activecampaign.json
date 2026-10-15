@@ -6,9 +6,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=activecampaign.com",
-    "tested_at": "2026-10-03T09:53:58.118Z"
+    "tested_at": "2026-10-15T09:11:25.305Z"
   },
-  "scanned_at": "2026-10-03T09:57:05.522Z",
+  "scanned_at": "2026-10-15T09:11:26.844Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

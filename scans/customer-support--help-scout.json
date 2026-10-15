@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.helpscout.com",
     "tested_at": "2026-10-14T09:33:47.357Z"
   },
-  "scanned_at": "2026-10-14T09:33:47.663Z",
+  "scanned_at": "2026-10-15T09:23:59.733Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.helpscout.com&hideResults=on",
-    "tested_at": "2026-10-02T10:36:06.109Z"
+    "tested_at": "2026-10-15T09:23:59.733Z"
   },
   "trackers": {
     "url": "https://www.helpscout.com",

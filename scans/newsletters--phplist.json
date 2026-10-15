@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.phplist.com",
     "tested_at": "2026-10-14T09:33:45.601Z"
   },
-  "scanned_at": "2026-10-14T09:33:46.193Z",
+  "scanned_at": "2026-10-15T09:20:49.351Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.phplist.com&hideResults=on",
-    "tested_at": "2026-10-02T10:35:21.185Z"
+    "tested_at": "2026-10-15T09:20:49.351Z"
   },
   "trackers": {
     "url": "https://www.phplist.org",

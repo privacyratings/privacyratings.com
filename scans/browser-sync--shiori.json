@@ -3,9 +3,9 @@
     "repo": "go-shiori/shiori",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:48.938Z"
+    "checked_at": "2026-10-15T09:11:21.976Z"
   },
-  "scanned_at": "2026-10-01T07:00:40.489Z",
+  "scanned_at": "2026-10-15T09:11:21.976Z",
   "trackers": {
     "url": "https://github.com/go-shiori/shiori",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=id.atlassian.com",
-    "tested_at": "2026-10-03T09:54:11.779Z"
+    "tested_at": "2026-10-15T09:11:43.861Z"
   },
-  "scanned_at": "2026-10-04T10:40:30.253Z",
+  "scanned_at": "2026-10-15T09:11:44.016Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
