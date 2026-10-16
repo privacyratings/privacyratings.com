@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.textnow.com",
     "tested_at": "2026-10-14T09:33:49.212Z"
   },
-  "scanned_at": "2026-10-15T09:11:22.858Z",
+  "scanned_at": "2026-10-16T09:10:54.272Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.textnow.com&hideResults=on",
-    "tested_at": "2026-10-02T10:41:49.875Z"
+    "tested_at": "2026-10-16T09:10:54.272Z"
   },
   "trackers": {
     "url": "https://www.textnow.com",

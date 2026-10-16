@@ -1,14 +1,14 @@
 {
   "domain": "translate.google.com",
   "observatory": {
-    "grade": "C",
-    "score": 50,
-    "tests_passed": 8,
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=translate.google.com",
-    "tested_at": "2026-10-04T10:36:45.027Z"
+    "tested_at": "2026-10-16T09:04:18.534Z"
   },
-  "scanned_at": "2026-10-05T11:36:02.463Z",
+  "scanned_at": "2026-10-16T09:04:18.989Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,

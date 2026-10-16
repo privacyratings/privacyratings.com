@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=controld.com",
     "tested_at": "2026-10-14T09:33:56.684Z"
   },
-  "scanned_at": "2026-10-14T09:33:56.855Z",
+  "scanned_at": "2026-10-16T09:18:50.828Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

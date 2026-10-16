@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nym.com",
     "tested_at": "2026-10-14T09:33:53.128Z"
   },
-  "scanned_at": "2026-10-14T09:33:55.544Z",
+  "scanned_at": "2026-10-16T09:15:24.978Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

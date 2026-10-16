@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
     "tested_at": "2026-10-08T11:24:55.961Z"
   },
-  "scanned_at": "2026-10-15T09:11:21.569Z",
+  "scanned_at": "2026-10-16T09:04:07.057Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

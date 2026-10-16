@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=chat.mistral.ai",
-    "tested_at": "2026-10-04T10:36:59.508Z"
+    "tested_at": "2026-10-16T09:04:33.562Z"
   },
-  "scanned_at": "2026-10-04T11:07:05.486Z",
+  "scanned_at": "2026-10-16T09:04:36.207Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,

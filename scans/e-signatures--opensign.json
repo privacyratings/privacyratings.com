@@ -7,14 +7,14 @@
     "checked_at": "2026-10-07T11:07:10.325Z"
   },
   "observatory": {
-    "grade": "D-",
-    "score": 25,
-    "tests_passed": 7,
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.opensignlabs.com",
-    "tested_at": "2026-10-04T10:36:39.619Z"
+    "tested_at": "2026-10-16T09:04:12.717Z"
   },
-  "scanned_at": "2026-10-07T11:07:10.325Z",
+  "scanned_at": "2026-10-16T09:04:13.676Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

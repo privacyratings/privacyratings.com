@@ -21,7 +21,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-15T09:11:23.596Z",
+    "tested_at": "2026-10-16T09:04:08.797Z",
     "imap": {
       "host": "imap.mail.att.net",
       "port": 993,
@@ -91,12 +91,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=more.att.com",
     "tested_at": "2026-10-15T09:11:21.226Z"
   },
-  "scanned_at": "2026-10-15T09:11:24.608Z",
+  "scanned_at": "2026-10-16T09:12:09.576Z",
   "ssllabs": {
     "grade": "A",
-    "endpoints": 6,
+    "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=more.att.com&hideResults=on",
-    "tested_at": "2026-10-03T09:59:36.189Z"
+    "tested_at": "2026-10-16T09:12:09.576Z"
   },
   "trackers": {
     "url": "https://more.att.com/email/",

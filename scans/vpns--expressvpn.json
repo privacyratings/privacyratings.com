@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.expressvpn.com",
     "tested_at": "2026-10-14T09:33:50.920Z"
   },
-  "scanned_at": "2026-10-14T09:33:51.425Z",
+  "scanned_at": "2026-10-16T09:15:35.630Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.expressvpn.com&hideResults=on",
-    "tested_at": "2026-10-03T09:58:20.784Z"
+    "tested_at": "2026-10-16T09:15:35.630Z"
   },
   "trackers": {
     "url": "https://www.expressvpn.com",

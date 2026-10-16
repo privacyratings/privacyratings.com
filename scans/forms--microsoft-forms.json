@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forms.cloud.microsoft",
-    "tested_at": "2026-10-04T10:36:42.883Z"
+    "tested_at": "2026-10-16T09:04:16.087Z"
   },
-  "scanned_at": "2026-10-04T10:48:16.732Z",
+  "scanned_at": "2026-10-16T09:04:16.402Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

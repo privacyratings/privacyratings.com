@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getresponse.com",
     "tested_at": "2026-10-15T09:11:26.888Z"
   },
-  "scanned_at": "2026-10-15T09:11:28.184Z",
+  "scanned_at": "2026-10-16T09:07:08.294Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=getresponse.com&hideResults=on",
-    "tested_at": "2026-10-03T09:57:05.712Z"
+    "tested_at": "2026-10-16T09:07:08.294Z"
   },
   "trackers": {
     "url": "https://www.getresponse.com",

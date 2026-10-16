@@ -1,14 +1,14 @@
 {
   "domain": "copilot.microsoft.com",
   "observatory": {
-    "grade": "B-",
-    "score": 65,
-    "tests_passed": 8,
+    "grade": "A+",
+    "score": 100,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=copilot.microsoft.com",
-    "tested_at": "2026-10-04T10:36:50.352Z"
+    "tested_at": "2026-10-16T09:04:24.106Z"
   },
-  "scanned_at": "2026-10-04T10:59:12.485Z",
+  "scanned_at": "2026-10-16T09:04:33.361Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

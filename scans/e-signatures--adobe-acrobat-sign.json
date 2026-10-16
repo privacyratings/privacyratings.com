@@ -1,14 +1,14 @@
 {
   "domain": "secure.adobesign.com",
   "observatory": {
-    "grade": "D+",
-    "score": 40,
-    "tests_passed": 7,
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.adobesign.com",
-    "tested_at": "2026-10-03T09:54:15.614Z"
+    "tested_at": "2026-10-16T09:04:09.803Z"
   },
-  "scanned_at": "2026-10-04T10:45:45.866Z",
+  "scanned_at": "2026-10-16T09:04:11.492Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,

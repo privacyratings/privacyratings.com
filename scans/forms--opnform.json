@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=opnform.com",
     "tested_at": "2026-10-12T12:04:54.038Z"
   },
-  "scanned_at": "2026-10-15T09:31:48.333Z",
+  "scanned_at": "2026-10-16T09:26:48.065Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=opnform.com&hideResults=on",
-    "tested_at": "2026-10-01T07:31:57.389Z"
+    "tested_at": "2026-10-16T09:26:48.064Z"
   },
   "trackers": {
     "url": "https://opnform.com",
