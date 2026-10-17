@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=prieco.net",
-    "tested_at": "2026-10-05T11:33:34.315Z"
+    "tested_at": "2026-10-17T08:36:48.416Z"
   },
-  "scanned_at": "2026-10-16T09:04:08.103Z",
+  "scanned_at": "2026-10-17T08:36:48.846Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

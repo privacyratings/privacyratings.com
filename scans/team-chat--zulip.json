@@ -3,9 +3,9 @@
     "repo": "zulip/zulip",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:52.122Z"
+    "checked_at": "2026-10-17T08:36:47.091Z"
   },
-  "scanned_at": "2026-10-01T07:00:48.912Z",
+  "scanned_at": "2026-10-17T08:36:47.091Z",
   "trackers": {
     "url": "https://zulip.com",
     "found": [],

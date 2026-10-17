@@ -3,9 +3,9 @@
     "repo": "getdnsapi/stubby",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:52.620Z"
+    "checked_at": "2026-10-17T08:36:47.632Z"
   },
-  "scanned_at": "2026-10-01T07:00:51.964Z",
+  "scanned_at": "2026-10-17T08:36:47.632Z",
   "trackers": {
     "url": "https://dnsprivacy.org/dns_privacy_daemon_-_stubby/",
     "found": [],

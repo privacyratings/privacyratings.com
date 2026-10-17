@@ -1,14 +1,14 @@
 {
   "domain": "music.amazon.com",
   "observatory": {
-    "grade": "B",
-    "score": 70,
-    "tests_passed": 10,
+    "grade": "D+",
+    "score": 40,
+    "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.amazon.com",
-    "tested_at": "2026-10-05T11:33:58.010Z"
+    "tested_at": "2026-10-17T08:37:21.321Z"
   },
-  "scanned_at": "2026-10-06T11:25:09.852Z",
+  "scanned_at": "2026-10-17T08:37:21.726Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 9,

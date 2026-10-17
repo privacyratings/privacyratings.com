@@ -6,9 +6,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.revolut.com",
-    "tested_at": "2026-10-05T11:33:57.337Z"
+    "tested_at": "2026-10-17T08:37:21.137Z"
   },
-  "scanned_at": "2026-10-06T11:25:09.502Z",
+  "scanned_at": "2026-10-17T08:37:21.773Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

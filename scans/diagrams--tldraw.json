@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.tldraw.com",
     "tested_at": "2026-10-11T10:51:44.956Z"
   },
-  "scanned_at": "2026-10-11T10:51:45.447Z",
+  "scanned_at": "2026-10-17T09:04:41.292Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.tldraw.com&hideResults=on",
-    "tested_at": "2026-10-03T10:19:43.563Z"
+    "tested_at": "2026-10-17T09:04:41.292Z"
   },
   "trackers": {
     "url": "https://www.tldraw.com",

@@ -14,12 +14,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nym.com",
     "tested_at": "2026-10-14T09:33:53.128Z"
   },
-  "scanned_at": "2026-10-16T09:15:24.978Z",
+  "scanned_at": "2026-10-17T08:42:45.119Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=nym.com&hideResults=on",
-    "tested_at": "2026-10-02T10:43:52.280Z"
+    "tested_at": "2026-10-17T08:42:45.119Z"
   },
   "trackers": {
     "url": "https://nym.com",

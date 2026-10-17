@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.customercontrolpanel.de",
     "tested_at": "2026-10-15T09:11:41.646Z"
   },
-  "scanned_at": "2026-10-15T09:11:43.745Z",
+  "scanned_at": "2026-10-17T08:59:55.467Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.customercontrolpanel.de&hideResults=on",
-    "tested_at": "2026-10-03T10:16:05.101Z"
+    "tested_at": "2026-10-17T08:59:55.467Z"
   },
   "trackers": {
     "url": "https://www.netcup.com/en",

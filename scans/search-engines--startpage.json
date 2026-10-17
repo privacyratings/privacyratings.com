@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startpage.com",
-    "tested_at": "2026-10-05T11:33:34.844Z"
+    "tested_at": "2026-10-17T08:36:49.399Z"
   },
-  "scanned_at": "2026-10-07T11:08:04.441Z",
+  "scanned_at": "2026-10-17T08:36:49.767Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

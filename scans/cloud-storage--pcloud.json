@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.pcloud.com",
-    "tested_at": "2026-10-04T10:37:10.882Z"
+    "tested_at": "2026-10-17T08:36:56.634Z"
   },
-  "scanned_at": "2026-10-05T11:55:09.442Z",
+  "scanned_at": "2026-10-17T08:36:58.061Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 10,

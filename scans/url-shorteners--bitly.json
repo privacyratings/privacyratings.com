@@ -6,9 +6,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitly.com",
-    "tested_at": "2026-10-05T11:33:52.564Z"
+    "tested_at": "2026-10-17T08:37:18.890Z"
   },
-  "scanned_at": "2026-10-06T11:25:08.622Z",
+  "scanned_at": "2026-10-17T08:37:19.389Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

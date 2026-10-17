@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hover.com",
     "tested_at": "2026-10-15T09:11:34.523Z"
   },
-  "scanned_at": "2026-10-15T09:11:35.653Z",
+  "scanned_at": "2026-10-17T08:52:17.830Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.hover.com&hideResults=on",
-    "tested_at": "2026-10-03T10:04:28.032Z"
+    "tested_at": "2026-10-17T08:52:17.830Z"
   },
   "trackers": {
     "url": "https://www.hover.com",

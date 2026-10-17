@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.hetzner.com",
     "tested_at": "2026-10-15T09:11:32.487Z"
   },
-  "scanned_at": "2026-10-16T09:22:21.776Z",
+  "scanned_at": "2026-10-17T08:52:49.684Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=console.hetzner.com&hideResults=on",
-    "tested_at": "2026-10-02T10:52:25.361Z"
+    "tested_at": "2026-10-17T08:52:49.684Z"
   },
   "trackers": {
     "url": "https://www.hetzner.com/dns/",

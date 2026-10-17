@@ -8,11 +8,11 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.google",
     "tested_at": "2026-10-14T09:34:02.833Z"
   },
-  "scanned_at": "2026-10-14T09:34:12.198Z",
+  "scanned_at": "2026-10-17T08:48:46.708Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dns.google&hideResults=on",
-    "tested_at": "2026-10-03T10:02:02.362Z"
+    "tested_at": "2026-10-17T08:48:46.708Z"
   },
   "trackers": {
     "url": "https://developers.google.com/speed/public-dns",

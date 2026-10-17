@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.opendns.com",
     "tested_at": "2026-10-14T09:34:05.285Z"
   },
-  "scanned_at": "2026-10-14T09:34:06.046Z",
+  "scanned_at": "2026-10-17T08:49:38.640Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.opendns.com&hideResults=on",
-    "tested_at": "2026-10-03T10:02:02.819Z"
+    "tested_at": "2026-10-17T08:49:38.640Z"
   },
   "trackers": {
     "url": "https://www.opendns.com",

@@ -8,7 +8,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.aws.amazon.com",
     "tested_at": "2026-10-14T09:34:09.055Z"
   },
-  "scanned_at": "2026-10-14T09:34:10.893Z",
+  "scanned_at": "2026-10-17T08:57:47.738Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

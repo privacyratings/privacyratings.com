@@ -6,9 +6,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=usefathom.com",
-    "tested_at": "2026-10-05T11:33:39.170Z"
+    "tested_at": "2026-10-17T08:37:08.761Z"
   },
-  "scanned_at": "2026-10-05T11:46:23.629Z",
+  "scanned_at": "2026-10-17T08:37:09.092Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

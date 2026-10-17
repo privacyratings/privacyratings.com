@@ -12,9 +12,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dub.co",
-    "tested_at": "2026-10-05T11:33:53.079Z"
+    "tested_at": "2026-10-17T08:37:19.496Z"
   },
-  "scanned_at": "2026-10-10T10:38:57.591Z",
+  "scanned_at": "2026-10-17T08:37:20.164Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

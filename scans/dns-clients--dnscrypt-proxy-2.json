@@ -3,9 +3,9 @@
     "repo": "DNSCrypt/dnscrypt-proxy",
     "license": "ISC",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:52.567Z"
+    "checked_at": "2026-10-17T08:36:47.559Z"
   },
-  "scanned_at": "2026-10-01T07:00:53.932Z",
+  "scanned_at": "2026-10-17T08:36:47.559Z",
   "trackers": {
     "url": "https://dnscrypt.info",
     "found": [],

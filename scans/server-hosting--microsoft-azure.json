@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.azure.com",
     "tested_at": "2026-10-15T09:11:39.760Z"
   },
-  "scanned_at": "2026-10-15T09:11:41.117Z",
+  "scanned_at": "2026-10-17T08:55:12.971Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=portal.azure.com&hideResults=on",
-    "tested_at": "2026-10-03T10:11:46.003Z"
+    "tested_at": "2026-10-17T08:55:12.971Z"
   },
   "trackers": {
     "url": "https://azure.microsoft.com/en-us",
