@@ -33,7 +33,7 @@
         }
       }
     },
-    "tested_at": "2026-10-17T08:37:24.429Z",
+    "tested_at": "2026-10-18T08:54:07.972Z",
     "imap": {
       "host": "imap.purelymail.com",
       "port": 993,
@@ -96,7 +96,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=purelymail.com",
     "tested_at": "2026-10-08T11:24:54.680Z"
   },
-  "scanned_at": "2026-10-17T08:37:24.930Z",
+  "scanned_at": "2026-10-18T08:54:08.082Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

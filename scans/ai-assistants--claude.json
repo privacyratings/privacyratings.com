@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=claude.ai",
     "tested_at": "2026-10-16T09:04:20.106Z"
   },
-  "scanned_at": "2026-10-16T09:04:20.299Z",
+  "scanned_at": "2026-10-18T09:04:46.172Z",
   "ssllabs": {
-    "grade": "A+",
+    "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=claude.ai&hideResults=on",
-    "tested_at": "2026-10-04T10:49:51.519Z"
+    "tested_at": "2026-10-18T09:04:46.172Z"
   },
   "trackers": {
     "url": "https://claude.ai/login",

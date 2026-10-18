@@ -6,9 +6,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=micro.blog",
-    "tested_at": "2026-10-05T11:34:04.208Z"
+    "tested_at": "2026-10-18T08:53:38.816Z"
   },
-  "scanned_at": "2026-10-06T11:28:36.855Z",
+  "scanned_at": "2026-10-18T08:53:39.455Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forms.cloud.microsoft",
     "tested_at": "2026-10-16T09:04:16.087Z"
   },
-  "scanned_at": "2026-10-16T09:04:16.402Z",
+  "scanned_at": "2026-10-18T09:07:45.726Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=forms.cloud.microsoft&hideResults=on",
-    "tested_at": "2026-10-04T10:48:16.732Z"
+    "tested_at": "2026-10-18T09:07:45.726Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes",

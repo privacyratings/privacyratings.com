@@ -28,7 +28,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-17T08:37:35.646Z",
+    "tested_at": "2026-10-18T08:54:30.834Z",
     "imap": {
       "offered": false
     },
@@ -48,7 +48,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
     "tested_at": "2026-10-17T08:36:46.434Z"
   },
-  "scanned_at": "2026-10-17T08:37:35.646Z",
+  "scanned_at": "2026-10-18T08:54:30.834Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

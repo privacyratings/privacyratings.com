@@ -3,9 +3,9 @@
     "repo": "ossec/ossec-hids",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:54.039Z"
+    "checked_at": "2026-10-18T08:53:16.013Z"
   },
-  "scanned_at": "2026-10-01T07:01:01.672Z",
+  "scanned_at": "2026-10-18T08:53:16.013Z",
   "trackers": {
     "url": "https://www.ossec.net",
     "found": [

@@ -6,9 +6,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=soundcloud.com",
-    "tested_at": "2026-10-05T11:34:00.210Z"
+    "tested_at": "2026-10-18T08:53:34.771Z"
   },
-  "scanned_at": "2026-10-06T11:25:10.221Z",
+  "scanned_at": "2026-10-18T08:53:35.872Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

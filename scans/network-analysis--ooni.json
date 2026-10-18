@@ -3,9 +3,9 @@
     "repo": "ooni/probe-cli",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:53.999Z"
+    "checked_at": "2026-10-18T08:53:15.950Z"
   },
-  "scanned_at": "2026-10-01T07:00:58.943Z",
+  "scanned_at": "2026-10-18T08:53:15.950Z",
   "trackers": {
     "url": "https://ooni.org",
     "found": [],

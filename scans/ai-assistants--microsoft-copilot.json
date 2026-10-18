@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=copilot.microsoft.com",
     "tested_at": "2026-10-16T09:04:24.106Z"
   },
-  "scanned_at": "2026-10-16T09:04:33.361Z",
+  "scanned_at": "2026-10-18T09:07:45.939Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=copilot.microsoft.com&hideResults=on",
-    "tested_at": "2026-10-04T10:59:12.485Z"
+    "tested_at": "2026-10-18T09:07:45.939Z"
   },
   "trackers": {
     "url": "https://copilot.microsoft.com",

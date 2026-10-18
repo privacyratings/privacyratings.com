@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
     "tested_at": "2026-10-16T09:04:08.483Z"
   },
-  "scanned_at": "2026-10-16T09:04:09.438Z",
+  "scanned_at": "2026-10-18T08:57:53.051Z",
   "ssllabs": {
-    "grade": "A",
-    "endpoints": 2,
+    "grade": "A+",
+    "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=m365.cloud.microsoft&hideResults=on",
-    "tested_at": "2026-10-04T10:41:50.844Z"
+    "tested_at": "2026-10-18T08:57:53.051Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365",

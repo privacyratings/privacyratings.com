@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=translate.google.com",
     "tested_at": "2026-10-16T09:04:18.534Z"
   },
-  "scanned_at": "2026-10-16T09:04:18.989Z",
+  "scanned_at": "2026-10-18T09:04:29.226Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=translate.google.com&hideResults=on",
-    "tested_at": "2026-10-05T11:36:02.463Z"
+    "tested_at": "2026-10-18T09:04:29.226Z"
   },
   "trackers": {
     "url": "https://translate.google.com",

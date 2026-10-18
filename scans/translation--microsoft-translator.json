@@ -8,12 +8,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.bing.com",
     "tested_at": "2026-10-16T09:04:19.556Z"
   },
-  "scanned_at": "2026-10-16T09:04:19.807Z",
+  "scanned_at": "2026-10-18T09:04:45.967Z",
   "ssllabs": {
     "grade": "A+",
-    "endpoints": 14,
+    "endpoints": 11,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.bing.com&hideResults=on",
-    "tested_at": "2026-10-04T10:48:10.965Z"
+    "tested_at": "2026-10-18T09:04:45.967Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/translator/",
