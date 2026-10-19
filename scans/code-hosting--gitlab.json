@@ -1,5 +1,12 @@
 {
   "domain": "gitlab.com",
+  "internetnl": {
+    "web": {
+      "score": 76,
+      "report": "https://batch.internet.nl/site/gitlab.com/22056993/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 50,

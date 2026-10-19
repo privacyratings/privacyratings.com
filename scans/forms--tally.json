@@ -1,5 +1,12 @@
 {
   "domain": "tally.so",
+  "internetnl": {
+    "web": {
+      "score": 73,
+      "report": "https://batch.internet.nl/site/tally.so/22057098/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 55,

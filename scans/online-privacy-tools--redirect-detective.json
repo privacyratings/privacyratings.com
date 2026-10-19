@@ -1,5 +1,12 @@
 {
   "domain": "redirectdetective.com",
+  "internetnl": {
+    "web": {
+      "score": 64,
+      "report": "https://batch.internet.nl/site/redirectdetective.com/22056812/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "D",
     "score": 30,

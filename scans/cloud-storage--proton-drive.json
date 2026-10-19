@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-08T11:24:52.728Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 48,
+      "report": "https://batch.internet.nl/site/drive.proton.me/22057024/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 115,

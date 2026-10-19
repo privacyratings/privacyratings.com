@@ -1,5 +1,12 @@
 {
   "domain": "lucid.app",
+  "internetnl": {
+    "web": {
+      "score": 78,
+      "report": "https://batch.internet.nl/site/lucid.app/22056861/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 50,

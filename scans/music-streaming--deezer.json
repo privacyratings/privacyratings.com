@@ -1,5 +1,12 @@
 {
   "domain": "www.deezer.com",
+  "internetnl": {
+    "web": {
+      "score": 62,
+      "report": "https://batch.internet.nl/site/www.deezer.com/22056849/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "F",
     "score": 10,

@@ -1,5 +1,12 @@
 {
   "domain": "tinyurl.com",
+  "internetnl": {
+    "web": {
+      "score": 71,
+      "report": "https://batch.internet.nl/site/tinyurl.com/22056714/",
+      "tested_at": "2026-10-19T03:27:27.048Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 70,

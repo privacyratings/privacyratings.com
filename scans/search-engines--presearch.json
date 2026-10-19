@@ -1,5 +1,12 @@
 {
   "domain": "presearch.com",
+  "internetnl": {
+    "web": {
+      "score": 73,
+      "report": "https://batch.internet.nl/site/presearch.com/22056966/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "scanned_at": "2026-10-18T08:53:45.808Z",
   "ssllabs": {
     "grade": "B",

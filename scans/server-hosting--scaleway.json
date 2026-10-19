@@ -1,5 +1,12 @@
 {
   "domain": "console.scaleway.com",
+  "internetnl": {
+    "web": {
+      "score": 80,
+      "report": "https://batch.internet.nl/site/console.scaleway.com/22057035/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 75,

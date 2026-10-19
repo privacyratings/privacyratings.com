@@ -1,5 +1,17 @@
 {
   "domain": "www.gmx.com",
+  "internetnl": {
+    "web": {
+      "score": 61,
+      "report": "https://batch.internet.nl/site/www.gmx.com/22057094/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 82,
+      "report": "https://batch.internet.nl/mail/gmx.com/22463662/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "gmx.com",

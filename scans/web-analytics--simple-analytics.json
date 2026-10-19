@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-10T10:38:57.363Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 63,
+      "report": "https://batch.internet.nl/site/www.simpleanalytics.com/22056838/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B-",
     "score": 65,

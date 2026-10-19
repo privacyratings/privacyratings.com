@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-10T10:38:57.387Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 86,
+      "report": "https://batch.internet.nl/site/posthog.com/22056972/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 50,

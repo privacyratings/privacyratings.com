@@ -1,5 +1,12 @@
 {
   "domain": "1984.hosting",
+  "internetnl": {
+    "web": {
+      "score": 62,
+      "report": "https://batch.internet.nl/site/1984.hosting/22056785/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 55,

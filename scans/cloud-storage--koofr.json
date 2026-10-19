@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-01T07:00:01.125Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 70,
+      "report": "https://batch.internet.nl/site/koofr.eu/22057123/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C+",
     "score": 60,

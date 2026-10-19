@@ -1,5 +1,12 @@
 {
   "domain": "github.com",
+  "internetnl": {
+    "web": {
+      "score": 62,
+      "report": "https://batch.internet.nl/site/github.com/22057139/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 115,

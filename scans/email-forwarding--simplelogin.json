@@ -6,6 +6,18 @@
     "archived": false,
     "checked_at": "2026-10-01T07:00:02.313Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 82,
+      "report": "https://batch.internet.nl/site/simplelogin.io/22056854/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 90,
+      "report": "https://batch.internet.nl/mail/simplelogin.io/22463660/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "simplelogin.io",

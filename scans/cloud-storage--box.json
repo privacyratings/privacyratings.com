@@ -1,5 +1,12 @@
 {
   "domain": "app.box.com",
+  "internetnl": {
+    "web": {
+      "score": 96,
+      "report": "https://batch.internet.nl/site/app.box.com/22056902/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 70,

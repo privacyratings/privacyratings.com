@@ -1,5 +1,12 @@
 {
   "domain": "app.cal.com",
+  "internetnl": {
+    "web": {
+      "score": 78,
+      "report": "https://batch.internet.nl/site/app.cal.com/22056989/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 125,

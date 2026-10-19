@@ -1,5 +1,12 @@
 {
   "domain": "soundcloud.com",
+  "internetnl": {
+    "web": {
+      "score": 66,
+      "report": "https://batch.internet.nl/site/soundcloud.com/22056710/",
+      "tested_at": "2026-10-19T03:27:27.048Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 55,

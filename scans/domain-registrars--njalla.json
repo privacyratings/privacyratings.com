@@ -1,5 +1,12 @@
 {
   "domain": "njal.la",
+  "internetnl": {
+    "web": {
+      "score": 25,
+      "report": "https://batch.internet.nl/site/njal.la/22057076/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,

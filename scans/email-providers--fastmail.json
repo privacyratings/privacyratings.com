@@ -1,5 +1,17 @@
 {
   "domain": "www.fastmail.com",
+  "internetnl": {
+    "web": {
+      "score": 75,
+      "report": "https://batch.internet.nl/site/www.fastmail.com/22056948/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 51,
+      "report": "https://batch.internet.nl/mail/fastmail.com/22463683/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "fastmail.com",

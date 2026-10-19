@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-08T11:24:51.002Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 55,
+      "report": "https://batch.internet.nl/site/account.limesurvey.org/22057021/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 75,

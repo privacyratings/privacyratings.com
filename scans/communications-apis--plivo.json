@@ -1,5 +1,12 @@
 {
   "domain": "plivo.com",
+  "internetnl": {
+    "web": {
+      "score": 62,
+      "report": "https://batch.internet.nl/site/plivo.com/22057000/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 70,

@@ -1,5 +1,17 @@
 {
   "domain": "mail.google.com",
+  "internetnl": {
+    "web": {
+      "score": 70,
+      "report": "https://batch.internet.nl/site/mail.google.com/22056808/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 74,
+      "report": "https://batch.internet.nl/mail/gmail.com/22463671/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "gmail.com",

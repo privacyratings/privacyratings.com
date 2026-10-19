@@ -1,5 +1,12 @@
 {
   "domain": "customer.io",
+  "internetnl": {
+    "web": {
+      "score": 66,
+      "report": "https://batch.internet.nl/site/customer.io/22056747/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C+",
     "score": 60,

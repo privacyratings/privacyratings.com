@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-01T07:00:01.362Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 100,
+      "report": "https://batch.internet.nl/site/search.brave.com/22056958/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "scanned_at": "2026-10-18T08:53:45.437Z",
   "ssllabs": {
     "grade": "A+",

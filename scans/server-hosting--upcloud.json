@@ -1,5 +1,12 @@
 {
   "domain": "hub.upcloud.com",
+  "internetnl": {
+    "web": {
+      "score": 73,
+      "report": "https://batch.internet.nl/site/hub.upcloud.com/22056772/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 105,

@@ -6,6 +6,18 @@
     "archived": false,
     "checked_at": "2026-10-01T07:00:01.977Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 54,
+      "report": "https://batch.internet.nl/site/runbox.com/22056789/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 64,
+      "report": "https://batch.internet.nl/mail/runbox.com/22463658/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "runbox.com",

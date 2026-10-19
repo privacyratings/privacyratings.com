@@ -1,5 +1,12 @@
 {
   "domain": "mysudo.com",
+  "internetnl": {
+    "web": {
+      "score": 68,
+      "report": "https://batch.internet.nl/site/mysudo.com/22056994/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "D",
     "score": 30,

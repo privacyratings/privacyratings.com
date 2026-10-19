@@ -1,5 +1,17 @@
 {
   "domain": "www.33mail.com",
+  "internetnl": {
+    "web": {
+      "score": 59,
+      "report": "https://batch.internet.nl/site/www.33mail.com/22057137/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 69,
+      "report": "https://batch.internet.nl/mail/33mail.com/22463673/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "33mail.com",

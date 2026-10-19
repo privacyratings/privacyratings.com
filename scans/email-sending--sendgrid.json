@@ -1,5 +1,12 @@
 {
   "domain": "sendgrid.com",
+  "internetnl": {
+    "web": {
+      "score": 61,
+      "report": "https://batch.internet.nl/site/sendgrid.com/22057044/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "D-",
     "score": 25,

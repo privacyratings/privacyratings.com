@@ -1,5 +1,17 @@
 {
   "domain": "outlook.live.com",
+  "internetnl": {
+    "web": {
+      "score": 50,
+      "report": "https://batch.internet.nl/site/outlook.live.com/22056992/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 66,
+      "report": "https://batch.internet.nl/mail/outlook.com/22463668/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "outlook.com",

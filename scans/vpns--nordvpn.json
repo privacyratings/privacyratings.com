@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-03T09:53:54.816Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 62,
+      "report": "https://batch.internet.nl/site/nordvpn.com/22056896/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,

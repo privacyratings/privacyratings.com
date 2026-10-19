@@ -1,5 +1,17 @@
 {
   "domain": "app.hey.com",
+  "internetnl": {
+    "web": {
+      "score": 64,
+      "report": "https://batch.internet.nl/site/app.hey.com/22056996/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 54,
+      "report": "https://batch.internet.nl/mail/hey.com/22463664/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "hey.com",

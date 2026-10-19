@@ -1,5 +1,12 @@
 {
   "domain": "blahdns.com",
+  "internetnl": {
+    "web": {
+      "score": 93,
+      "report": "https://batch.internet.nl/site/blahdns.com/22056945/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 50,

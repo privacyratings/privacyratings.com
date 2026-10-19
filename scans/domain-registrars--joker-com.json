@@ -1,5 +1,12 @@
 {
   "domain": "joker.com",
+  "internetnl": {
+    "web": {
+      "score": 61,
+      "report": "https://batch.internet.nl/site/joker.com/22056927/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 75,

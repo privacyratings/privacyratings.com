@@ -1,5 +1,12 @@
 {
   "domain": "app.hellosign.com",
+  "internetnl": {
+    "web": {
+      "score": 50,
+      "report": "https://batch.internet.nl/site/app.hellosign.com/22056778/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A",
     "score": 95,

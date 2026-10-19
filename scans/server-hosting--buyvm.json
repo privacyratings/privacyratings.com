@@ -1,5 +1,12 @@
 {
   "domain": "my.frantech.ca",
+  "internetnl": {
+    "web": {
+      "score": 45,
+      "report": "https://batch.internet.nl/site/my.frantech.ca/22057131/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "D",
     "score": 30,

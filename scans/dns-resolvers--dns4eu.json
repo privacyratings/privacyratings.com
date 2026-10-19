@@ -1,5 +1,12 @@
 {
   "domain": "www.joindns4.eu",
+  "internetnl": {
+    "web": {
+      "score": 66,
+      "report": "https://batch.internet.nl/site/www.joindns4.eu/22056929/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,

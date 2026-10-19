@@ -1,5 +1,12 @@
 {
   "domain": "floorplanner.com",
+  "internetnl": {
+    "web": {
+      "score": 50,
+      "report": "https://batch.internet.nl/site/floorplanner.com/22056806/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "D",
     "score": 30,

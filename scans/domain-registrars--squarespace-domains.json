@@ -1,5 +1,12 @@
 {
   "domain": "domains.squarespace.com",
+  "internetnl": {
+    "web": {
+      "score": 63,
+      "report": "https://batch.internet.nl/site/domains.squarespace.com/22056751/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "F",
     "score": 0,

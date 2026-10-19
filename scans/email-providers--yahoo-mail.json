@@ -1,5 +1,17 @@
 {
   "domain": "mail.yahoo.com",
+  "internetnl": {
+    "web": {
+      "score": 51,
+      "report": "https://batch.internet.nl/site/mail.yahoo.com/22056815/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 26,
+      "report": "https://batch.internet.nl/mail/yahoo.com/22463669/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "yahoo.com",

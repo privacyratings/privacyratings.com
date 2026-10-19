@@ -1,5 +1,17 @@
 {
   "domain": "mail.yandex.com",
+  "internetnl": {
+    "web": {
+      "score": 75,
+      "report": "https://batch.internet.nl/site/mail.yandex.com/22056988/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 74,
+      "report": "https://batch.internet.nl/mail/yandex.com/22463656/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "yandex.com",

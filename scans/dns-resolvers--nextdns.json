@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-01T07:00:00.494Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 92,
+      "report": "https://batch.internet.nl/site/nextdns.io/22056926/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 55,

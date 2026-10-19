@@ -1,5 +1,12 @@
 {
   "domain": "one.one.one.one",
+  "internetnl": {
+    "web": {
+      "score": 93,
+      "report": "https://batch.internet.nl/site/one.one.one.one/22056803/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,

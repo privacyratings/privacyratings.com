@@ -1,5 +1,12 @@
 {
   "domain": "prieco.net",
+  "internetnl": {
+    "web": {
+      "score": 100,
+      "report": "https://batch.internet.nl/site/prieco.net/22056824/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,

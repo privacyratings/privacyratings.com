@@ -1,5 +1,12 @@
 {
   "domain": "mullvad.net",
+  "internetnl": {
+    "web": {
+      "score": 73,
+      "report": "https://batch.internet.nl/site/mullvad.net/22056941/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 135,

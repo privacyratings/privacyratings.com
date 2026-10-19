@@ -1,5 +1,12 @@
 {
   "domain": "voice.google.com",
+  "internetnl": {
+    "web": {
+      "score": 73,
+      "report": "https://batch.internet.nl/site/voice.google.com/22057090/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B-",
     "score": 65,

@@ -1,5 +1,12 @@
 {
   "domain": "dns.google",
+  "internetnl": {
+    "web": {
+      "score": 96,
+      "report": "https://batch.internet.nl/site/dns.google/22057003/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 100,

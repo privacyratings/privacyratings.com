@@ -1,5 +1,12 @@
 {
   "domain": "securitum.com",
+  "internetnl": {
+    "web": {
+      "score": 75,
+      "report": "https://batch.internet.nl/site/securitum.com/22056760/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 75,

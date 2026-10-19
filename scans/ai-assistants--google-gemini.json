@@ -1,5 +1,12 @@
 {
   "domain": "gemini.google.com",
+  "internetnl": {
+    "web": {
+      "score": 71,
+      "report": "https://batch.internet.nl/site/gemini.google.com/22056892/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "scanned_at": "2026-10-18T09:26:59.579Z",
   "ssllabs": {
     "grade": "B",

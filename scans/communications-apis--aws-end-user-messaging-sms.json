@@ -1,5 +1,12 @@
 {
   "domain": "aws.amazon.com",
+  "internetnl": {
+    "web": {
+      "score": 76,
+      "report": "https://batch.internet.nl/site/aws.amazon.com/22056722/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A",
     "score": 95,

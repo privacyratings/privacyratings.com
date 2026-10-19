@@ -1,0 +1,23 @@
+{
+  "terms": "https://github.com/internetstandards/Internet.nl-API-docs/blob/main/terms-of-use.md",
+  "max_requests_per_week": 2,
+  "max_domains_per_request": 5000,
+  "requests": [
+    {
+      "kind": "web",
+      "submitted_at": "2026-10-19T03:12:21.119Z",
+      "domains": 433,
+      "request_id": "ef2e770eb6064bd6ad0780dcd1ab97f6",
+      "status": "done",
+      "finished_at": "2026-10-19T03:27:27.193Z"
+    },
+    {
+      "kind": "mail",
+      "submitted_at": "2026-10-19T03:12:21.724Z",
+      "domains": 37,
+      "request_id": "9e04db3b4dba4aa1ac460d6541f9b4c2",
+      "status": "done",
+      "finished_at": "2026-10-19T03:27:27.576Z"
+    }
+  ]
+}

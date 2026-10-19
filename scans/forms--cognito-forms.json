@@ -1,5 +1,12 @@
 {
   "domain": "www.cognitoforms.com",
+  "internetnl": {
+    "web": {
+      "score": 62,
+      "report": "https://batch.internet.nl/site/www.cognitoforms.com/22056754/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 50,

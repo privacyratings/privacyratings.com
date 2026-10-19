@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-01T07:00:00.176Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 50,
+      "report": "https://batch.internet.nl/site/coveryourtracks.eff.org/22056761/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B-",
     "score": 65,

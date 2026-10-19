@@ -1,5 +1,12 @@
 {
   "domain": "www.signwell.com",
+  "internetnl": {
+    "web": {
+      "score": 75,
+      "report": "https://batch.internet.nl/site/www.signwell.com/22056947/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "F",
     "score": 10,

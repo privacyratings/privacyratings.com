@@ -1,5 +1,12 @@
 {
   "domain": "jmp.chat",
+  "internetnl": {
+    "web": {
+      "score": 85,
+      "report": "https://batch.internet.nl/site/jmp.chat/22056805/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,

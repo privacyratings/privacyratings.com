@@ -1,5 +1,17 @@
 {
   "domain": "mail.aol.com",
+  "internetnl": {
+    "web": {
+      "score": 66,
+      "report": "https://batch.internet.nl/site/mail.aol.com/22056950/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 48,
+      "report": "https://batch.internet.nl/mail/aol.com/22463666/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "aol.com",

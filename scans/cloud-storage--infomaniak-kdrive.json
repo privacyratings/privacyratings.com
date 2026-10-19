@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-08T11:24:52.490Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 62,
+      "report": "https://batch.internet.nl/site/kdrive.infomaniak.com/22057007/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,

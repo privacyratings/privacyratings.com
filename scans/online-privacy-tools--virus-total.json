@@ -1,5 +1,12 @@
 {
   "domain": "www.virustotal.com",
+  "internetnl": {
+    "web": {
+      "score": 59,
+      "report": "https://batch.internet.nl/site/www.virustotal.com/22056798/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 70,

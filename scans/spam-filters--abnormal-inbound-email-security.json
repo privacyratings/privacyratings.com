@@ -1,5 +1,12 @@
 {
   "domain": "portal.abnormalsecurity.com",
+  "internetnl": {
+    "web": {
+      "score": 66,
+      "report": "https://batch.internet.nl/site/portal.abnormalsecurity.com/22057019/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 110,

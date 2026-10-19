@@ -1,5 +1,17 @@
 {
   "domain": "purelymail.com",
+  "internetnl": {
+    "web": {
+      "score": 62,
+      "report": "https://batch.internet.nl/site/purelymail.com/22056829/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 63,
+      "report": "https://batch.internet.nl/mail/purelymail.com/22463674/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "purelymail.com",

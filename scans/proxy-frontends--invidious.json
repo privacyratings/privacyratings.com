@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-01T06:59:59.195Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 38,
+      "report": "https://batch.internet.nl/site/invidious.io/22056965/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "D",
     "score": 30,

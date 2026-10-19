@@ -1,5 +1,12 @@
 {
   "domain": "www.ecosia.org",
+  "internetnl": {
+    "web": {
+      "score": 68,
+      "report": "https://batch.internet.nl/site/www.ecosia.org/22056850/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 75,

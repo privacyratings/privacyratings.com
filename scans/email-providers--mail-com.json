@@ -1,5 +1,17 @@
 {
   "domain": "www.mail.com",
+  "internetnl": {
+    "web": {
+      "score": 86,
+      "report": "https://batch.internet.nl/site/www.mail.com/22056935/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 70,
+      "report": "https://batch.internet.nl/mail/mail.com/22463667/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "mail.com",

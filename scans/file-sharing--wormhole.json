@@ -1,5 +1,12 @@
 {
   "domain": "wormhole.app",
+  "internetnl": {
+    "web": {
+      "score": 98,
+      "report": "https://batch.internet.nl/site/wormhole.app/22056858/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 145,

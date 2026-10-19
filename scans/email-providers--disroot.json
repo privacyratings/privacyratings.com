@@ -1,5 +1,17 @@
 {
   "domain": "disroot.org",
+  "internetnl": {
+    "web": {
+      "score": 86,
+      "report": "https://batch.internet.nl/site/disroot.org/22056879/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 84,
+      "report": "https://batch.internet.nl/mail/disroot.org/22463647/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "disroot.org",

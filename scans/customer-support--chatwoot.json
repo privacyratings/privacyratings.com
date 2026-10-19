@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-03T09:53:54.447Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 62,
+      "report": "https://batch.internet.nl/site/app.chatwoot.com/22056748/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "F",
     "score": 10,

@@ -1,5 +1,12 @@
 {
   "domain": "music.amazon.com",
+  "internetnl": {
+    "web": {
+      "score": 73,
+      "report": "https://batch.internet.nl/site/music.amazon.com/22057001/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "D+",
     "score": 40,

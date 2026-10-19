@@ -1,5 +1,17 @@
 {
   "domain": "countermail.com",
+  "internetnl": {
+    "web": {
+      "score": 93,
+      "report": "https://batch.internet.nl/site/countermail.com/22056717/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 78,
+      "report": "https://batch.internet.nl/mail/countermail.com/22463655/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "countermail.com",

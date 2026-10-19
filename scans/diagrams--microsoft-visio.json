@@ -1,5 +1,12 @@
 {
   "domain": "m365.cloud.microsoft",
+  "internetnl": {
+    "web": {
+      "score": 50,
+      "report": "https://batch.internet.nl/site/m365.cloud.microsoft/22056745/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 115,

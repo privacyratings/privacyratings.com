@@ -6,6 +6,18 @@
     "archived": false,
     "checked_at": "2026-10-01T07:00:01.776Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 73,
+      "report": "https://batch.internet.nl/site/ksuite.infomaniak.com/22057015/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 89,
+      "report": "https://batch.internet.nl/mail/ik.me/22463652/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "ik.me",

@@ -1,5 +1,12 @@
 {
   "domain": "wisprflow.ai",
+  "internetnl": {
+    "web": {
+      "score": 76,
+      "report": "https://batch.internet.nl/site/wisprflow.ai/22057061/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 70,

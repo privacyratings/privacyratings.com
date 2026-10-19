@@ -1,5 +1,17 @@
 {
   "domain": "riseup.net",
+  "internetnl": {
+    "web": {
+      "score": 66,
+      "report": "https://batch.internet.nl/site/riseup.net/22056964/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 53,
+      "report": "https://batch.internet.nl/mail/riseup.net/22463681/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "riseup.net",

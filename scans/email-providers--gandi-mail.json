@@ -1,5 +1,17 @@
 {
   "domain": "webmail.gandi.net",
+  "internetnl": {
+    "web": {
+      "score": 71,
+      "report": "https://batch.internet.nl/site/webmail.gandi.net/22056875/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 62,
+      "report": "https://batch.internet.nl/mail/gandi.net/22463659/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "gandi.net",

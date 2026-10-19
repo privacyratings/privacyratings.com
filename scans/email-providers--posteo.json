@@ -1,5 +1,17 @@
 {
   "domain": "posteo.de",
+  "internetnl": {
+    "web": {
+      "score": 100,
+      "report": "https://batch.internet.nl/site/posteo.de/22056883/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 58,
+      "report": "https://batch.internet.nl/mail/posteo.de/22463661/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "posteo.de",

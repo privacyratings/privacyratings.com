@@ -1,5 +1,17 @@
 {
   "domain": "mail.zoho.com",
+  "internetnl": {
+    "web": {
+      "score": 64,
+      "report": "https://batch.internet.nl/site/mail.zoho.com/22056866/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 67,
+      "report": "https://batch.internet.nl/mail/zohomail.com/22463675/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "zohomail.com",

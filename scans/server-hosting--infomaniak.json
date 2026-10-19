@@ -1,5 +1,12 @@
 {
   "domain": "www.infomaniak.com",
+  "internetnl": {
+    "web": {
+      "score": 98,
+      "report": "https://batch.internet.nl/site/www.infomaniak.com/22057125/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C+",
     "score": 60,

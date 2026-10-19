@@ -1,5 +1,12 @@
 {
   "domain": "ironvest.com",
+  "internetnl": {
+    "web": {
+      "score": 66,
+      "report": "https://batch.internet.nl/site/ironvest.com/22057086/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,

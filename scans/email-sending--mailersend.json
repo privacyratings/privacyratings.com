@@ -1,5 +1,12 @@
 {
   "domain": "mailersend.com",
+  "internetnl": {
+    "web": {
+      "score": 71,
+      "report": "https://batch.internet.nl/site/mailersend.com/22057066/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "F",
     "score": 5,

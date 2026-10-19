@@ -1,5 +1,12 @@
 {
   "domain": "blog.uncensoreddns.org",
+  "internetnl": {
+    "web": {
+      "score": 100,
+      "report": "https://batch.internet.nl/site/blog.uncensoreddns.org/22056924/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 75,

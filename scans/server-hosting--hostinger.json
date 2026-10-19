@@ -1,5 +1,12 @@
 {
   "domain": "www.hostinger.com",
+  "internetnl": {
+    "web": {
+      "score": 91,
+      "report": "https://batch.internet.nl/site/www.hostinger.com/22057012/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "F",
     "score": 0,

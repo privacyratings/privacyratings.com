@@ -1,5 +1,12 @@
 {
   "domain": "framaforms.org",
+  "internetnl": {
+    "web": {
+      "score": 96,
+      "report": "https://batch.internet.nl/site/framaforms.org/22056770/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C",
     "score": 50,

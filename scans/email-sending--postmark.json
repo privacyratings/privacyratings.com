@@ -1,5 +1,12 @@
 {
   "domain": "postmarkapp.com",
+  "internetnl": {
+    "web": {
+      "score": 50,
+      "report": "https://batch.internet.nl/site/postmarkapp.com/22057031/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,

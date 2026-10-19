@@ -1,5 +1,17 @@
 {
   "domain": "kolabnow.com",
+  "internetnl": {
+    "web": {
+      "score": 79,
+      "report": "https://batch.internet.nl/site/kolabnow.com/22057114/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 70,
+      "report": "https://batch.internet.nl/mail/kolabnow.com/22463654/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "kolabnow.com",

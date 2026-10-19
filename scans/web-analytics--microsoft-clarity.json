@@ -1,5 +1,12 @@
 {
   "domain": "clarity.microsoft.com",
+  "internetnl": {
+    "web": {
+      "score": 59,
+      "report": "https://batch.internet.nl/site/clarity.microsoft.com/22056969/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "D",
     "score": 35,

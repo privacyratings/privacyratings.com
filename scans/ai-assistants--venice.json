@@ -1,5 +1,12 @@
 {
   "domain": "venice.ai",
+  "internetnl": {
+    "web": {
+      "score": 96,
+      "report": "https://batch.internet.nl/site/venice.ai/22056869/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,

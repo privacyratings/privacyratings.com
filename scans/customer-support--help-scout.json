@@ -1,5 +1,12 @@
 {
   "domain": "www.helpscout.com",
+  "internetnl": {
+    "web": {
+      "score": 66,
+      "report": "https://batch.internet.nl/site/www.helpscout.com/22057100/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,

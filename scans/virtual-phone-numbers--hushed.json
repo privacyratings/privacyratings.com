@@ -1,5 +1,12 @@
 {
   "domain": "hushed.com",
+  "internetnl": {
+    "web": {
+      "score": 47,
+      "report": "https://batch.internet.nl/site/hushed.com/22056728/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,

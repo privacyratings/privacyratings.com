@@ -1,5 +1,17 @@
 {
   "domain": "duckduckgo.com",
+  "internetnl": {
+    "web": {
+      "score": 61,
+      "report": "https://batch.internet.nl/site/duckduckgo.com/22056709/",
+      "tested_at": "2026-10-19T03:27:27.048Z"
+    },
+    "mail": {
+      "score": 66,
+      "report": "https://batch.internet.nl/mail/duck.com/22463665/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "duck.com",

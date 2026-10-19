@@ -1,5 +1,12 @@
 {
   "domain": "translate.kagi.com",
+  "internetnl": {
+    "web": {
+      "score": 93,
+      "report": "https://batch.internet.nl/site/translate.kagi.com/22056855/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B-",
     "score": 65,

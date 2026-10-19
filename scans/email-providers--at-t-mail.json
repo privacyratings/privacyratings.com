@@ -1,5 +1,17 @@
 {
   "domain": "more.att.com",
+  "internetnl": {
+    "web": {
+      "score": 75,
+      "report": "https://batch.internet.nl/site/more.att.com/22056765/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 49,
+      "report": "https://batch.internet.nl/mail/att.net/22463676/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "att.net",

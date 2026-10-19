@@ -1,5 +1,12 @@
 {
   "domain": "dash.bunny.net",
+  "internetnl": {
+    "web": {
+      "score": 75,
+      "report": "https://batch.internet.nl/site/dash.bunny.net/22056707/",
+      "tested_at": "2026-10-19T03:27:27.048Z"
+    }
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,

@@ -1,5 +1,17 @@
 {
   "domain": "www.123-reg.co.uk",
+  "internetnl": {
+    "web": {
+      "score": 75,
+      "report": "https://batch.internet.nl/site/www.123-reg.co.uk/22056905/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 59,
+      "report": "https://batch.internet.nl/mail/123-reg.co.uk/22463649/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "123-reg.co.uk",

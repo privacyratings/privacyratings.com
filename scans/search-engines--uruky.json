@@ -1,5 +1,12 @@
 {
   "domain": "uruky.com",
+  "internetnl": {
+    "web": {
+      "score": 100,
+      "report": "https://batch.internet.nl/site/uruky.com/22056903/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B+",
     "score": 80,

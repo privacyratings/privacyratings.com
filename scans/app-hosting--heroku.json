@@ -1,5 +1,12 @@
 {
   "domain": "dashboard.heroku.com",
+  "internetnl": {
+    "web": {
+      "score": 80,
+      "report": "https://batch.internet.nl/site/dashboard.heroku.com/22056894/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "A+",
     "score": 100,

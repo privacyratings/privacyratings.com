@@ -1,5 +1,12 @@
 {
   "domain": "app.roomsketcher.com",
+  "internetnl": {
+    "web": {
+      "score": 78,
+      "report": "https://batch.internet.nl/site/app.roomsketcher.com/22056887/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "D",
     "score": 30,

@@ -1,5 +1,12 @@
 {
   "domain": "www.surveymonkey.com",
+  "internetnl": {
+    "web": {
+      "score": 66,
+      "report": "https://batch.internet.nl/site/www.surveymonkey.com/22057078/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 75,

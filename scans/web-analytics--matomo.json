@@ -6,6 +6,13 @@
     "archived": false,
     "checked_at": "2026-10-10T10:38:57.156Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 80,
+      "report": "https://batch.internet.nl/site/matomo.org/22057135/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "B",
     "score": 75,

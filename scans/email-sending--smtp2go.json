@@ -1,5 +1,12 @@
 {
   "domain": "smtp2go.com",
+  "internetnl": {
+    "web": {
+      "score": 34,
+      "report": "https://batch.internet.nl/site/smtp2go.com/22057087/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "F",
     "score": 20,

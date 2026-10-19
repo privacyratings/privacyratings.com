@@ -6,6 +6,18 @@
     "archived": false,
     "checked_at": "2026-10-01T07:00:09.657Z"
   },
+  "internetnl": {
+    "web": {
+      "score": 100,
+      "report": "https://batch.internet.nl/site/forwardemail.net/22057054/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    },
+    "mail": {
+      "score": 92,
+      "report": "https://batch.internet.nl/mail/forwardemail.net/22463672/",
+      "tested_at": "2026-10-19T03:27:27.563Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "forwardemail.net",

@@ -1,5 +1,12 @@
 {
   "domain": "surfshark.com",
+  "internetnl": {
+    "web": {
+      "score": 72,
+      "report": "https://batch.internet.nl/site/surfshark.com/22056870/",
+      "tested_at": "2026-10-19T03:27:27.049Z"
+    }
+  },
   "observatory": {
     "grade": "C-",
     "score": 45,
