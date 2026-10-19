@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.adobesign.com",
     "tested_at": "2026-10-16T09:04:09.803Z"
   },
-  "scanned_at": "2026-10-18T09:01:27.612Z",
+  "scanned_at": "2026-10-19T10:05:52.079Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=secure.adobesign.com&hideResults=on",
-    "tested_at": "2026-10-04T10:45:45.865Z"
+    "tested_at": "2026-10-19T10:05:52.079Z"
   },
   "trackers": {
     "error": "The operation was aborted",

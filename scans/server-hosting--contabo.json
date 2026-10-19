@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=contabo.com",
-    "tested_at": "2026-10-07T11:07:25.690Z"
+    "tested_at": "2026-10-19T09:58:54.478Z"
   },
-  "scanned_at": "2026-10-09T11:33:35.430Z",
+  "scanned_at": "2026-10-19T09:58:54.710Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

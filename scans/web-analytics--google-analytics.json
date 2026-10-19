@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=analytics.google.com",
     "tested_at": "2026-10-17T08:37:10.958Z"
   },
-  "scanned_at": "2026-10-17T08:37:11.452Z",
+  "scanned_at": "2026-10-19T10:20:49.001Z",
   "ssllabs": {
     "grade": "B",
-    "endpoints": 8,
+    "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=analytics.google.com&hideResults=on",
-    "tested_at": "2026-10-05T11:44:59.007Z"
+    "tested_at": "2026-10-19T10:20:49.001Z"
   },
   "trackers": {
     "url": "https://marketingplatform.google.com/about/analytics/",

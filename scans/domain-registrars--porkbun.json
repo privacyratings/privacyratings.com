@@ -9,13 +9,13 @@
   },
   "observatory": {
     "grade": "F",
-    "score": 0,
+    "score": 5,
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=porkbun.com",
-    "tested_at": "2026-10-07T11:07:22.062Z"
+    "tested_at": "2026-10-19T09:58:52.236Z"
   },
-  "scanned_at": "2026-10-08T11:31:30.649Z",
+  "scanned_at": "2026-10-19T09:58:52.701Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 6,

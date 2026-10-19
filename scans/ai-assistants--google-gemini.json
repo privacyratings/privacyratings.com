@@ -7,14 +7,12 @@
       "tested_at": "2026-10-19T03:27:27.049Z"
     }
   },
-  "scanned_at": "2026-10-18T09:26:59.579Z",
+  "scanned_at": "2026-10-19T10:06:36.477Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 16,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=gemini.google.com&hideResults=on",
-    "tested_at": "2026-10-04T10:48:51.730Z",
-    "last_error": "Timed out",
-    "last_error_at": "2026-10-18T09:26:59.579Z"
+    "tested_at": "2026-10-19T10:06:36.477Z"
   },
   "trackers": {
     "error": "Parse Error: Header overflow",

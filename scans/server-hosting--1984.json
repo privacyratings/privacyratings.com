@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=1984.hosting",
-    "tested_at": "2026-10-07T11:07:23.387Z"
+    "tested_at": "2026-10-19T09:58:53.465Z"
   },
-  "scanned_at": "2026-10-08T11:34:32.222Z",
+  "scanned_at": "2026-10-19T09:58:55.683Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

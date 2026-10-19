@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dartnode.com",
-    "tested_at": "2026-10-07T11:07:26.567Z"
+    "tested_at": "2026-10-19T09:58:54.860Z"
   },
-  "scanned_at": "2026-10-09T11:28:23.827Z",
+  "scanned_at": "2026-10-19T09:58:55.310Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

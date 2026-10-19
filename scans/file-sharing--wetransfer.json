@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wetransfer.com",
     "tested_at": "2026-10-17T08:37:03.832Z"
   },
-  "scanned_at": "2026-10-17T08:37:04.501Z",
+  "scanned_at": "2026-10-19T10:20:48.721Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=wetransfer.com&hideResults=on",
-    "tested_at": "2026-10-05T11:43:58.151Z"
+    "tested_at": "2026-10-19T10:20:48.721Z"
   },
   "trackers": {
     "url": "https://wetransfer.com",

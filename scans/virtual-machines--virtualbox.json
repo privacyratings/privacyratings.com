@@ -3,9 +3,9 @@
     "repo": "VirtualBox/virtualbox",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:54.857Z"
+    "checked_at": "2026-10-19T09:58:10.475Z"
   },
-  "scanned_at": "2026-10-01T07:01:04.406Z",
+  "scanned_at": "2026-10-19T09:58:10.475Z",
   "trackers": {
     "url": "https://www.virtualbox.org",
     "found": [],

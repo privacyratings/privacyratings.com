@@ -3,9 +3,9 @@
     "repo": "snort3/snort3",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:59:54.492Z"
+    "checked_at": "2026-10-19T09:58:09.743Z"
   },
-  "scanned_at": "2026-10-01T07:01:02.422Z",
+  "scanned_at": "2026-10-19T09:58:09.743Z",
   "trackers": {
     "url": "https://www.snort.org",
     "found": [

@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.smspool.net",
-    "tested_at": "2026-10-06T11:19:36.353Z"
+    "tested_at": "2026-10-19T09:58:34.115Z"
   },
-  "scanned_at": "2026-10-07T11:16:58.458Z",
+  "scanned_at": "2026-10-19T09:58:34.469Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

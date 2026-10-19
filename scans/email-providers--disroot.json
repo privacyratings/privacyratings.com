@@ -42,7 +42,7 @@
         }
       }
     },
-    "tested_at": "2026-10-18T08:53:21.021Z",
+    "tested_at": "2026-10-19T09:58:56.215Z",
     "imap": {
       "host": "disroot.org",
       "port": 993,
@@ -100,7 +100,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=disroot.org",
     "tested_at": "2026-10-08T11:24:51.304Z"
   },
-  "scanned_at": "2026-10-18T08:53:23.249Z",
+  "scanned_at": "2026-10-19T09:58:58.292Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wormhole.app",
     "tested_at": "2026-10-17T08:37:04.665Z"
   },
-  "scanned_at": "2026-10-17T08:37:05.244Z",
+  "scanned_at": "2026-10-19T10:19:15.859Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

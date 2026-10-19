@@ -17,9 +17,9 @@
       "domain": "zohomail.com",
       "dnssec": false,
       "mx": [
-        "smtpin3.zoho.com",
+        "smtpin.zoho.com",
         "smtpin2.zoho.com",
-        "smtpin.zoho.com"
+        "smtpin3.zoho.com"
       ],
       "spf": true,
       "dmarc": "reject",
@@ -35,7 +35,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-18T08:54:28.362Z",
+    "tested_at": "2026-10-19T09:59:43.176Z",
     "imap": {
       "host": "imap.zoho.com",
       "port": 993,
@@ -93,7 +93,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.zoho.com",
     "tested_at": "2026-10-08T11:24:55.736Z"
   },
-  "scanned_at": "2026-10-18T08:54:29.529Z",
+  "scanned_at": "2026-10-19T09:59:44.227Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

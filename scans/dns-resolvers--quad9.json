@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=quad9.net",
-    "tested_at": "2026-10-07T11:07:16.531Z"
+    "tested_at": "2026-10-19T09:58:50.093Z"
   },
-  "scanned_at": "2026-10-07T11:21:00.570Z",
+  "scanned_at": "2026-10-19T09:58:51.706Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

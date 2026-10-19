@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitbucket.org",
     "tested_at": "2026-10-17T08:37:05.358Z"
   },
-  "scanned_at": "2026-10-17T08:37:06.584Z",
+  "scanned_at": "2026-10-19T10:22:42.551Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bitbucket.org&hideResults=on",
-    "tested_at": "2026-10-05T11:43:58.350Z"
+    "tested_at": "2026-10-19T10:22:42.551Z"
   },
   "trackers": {
     "url": "https://bitbucket.org",

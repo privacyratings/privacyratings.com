@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.perplexity.ai",
     "tested_at": "2026-10-16T09:04:36.276Z"
   },
-  "scanned_at": "2026-10-16T09:04:36.465Z",
+  "scanned_at": "2026-10-19T10:07:05.351Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.perplexity.ai&hideResults=on",
-    "tested_at": "2026-10-05T11:41:13.176Z"
+    "tested_at": "2026-10-19T10:07:05.351Z"
   },
   "trackers": {
     "error": "HTTP 403",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=drive.google.com",
     "tested_at": "2026-10-16T09:04:38.611Z"
   },
-  "scanned_at": "2026-10-16T09:04:39.127Z",
+  "scanned_at": "2026-10-19T10:27:46.976Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=drive.google.com&hideResults=on",
-    "tested_at": "2026-10-05T11:39:42.889Z"
+    "tested_at": "2026-10-19T10:27:46.976Z"
   },
   "trackers": {
     "url": "https://workspace.google.com/products/drive/",

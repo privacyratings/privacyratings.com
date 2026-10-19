@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=matomo.org",
     "tested_at": "2026-10-17T08:37:11.839Z"
   },
-  "scanned_at": "2026-10-17T08:37:15.345Z",
+  "scanned_at": "2026-10-19T10:20:54.635Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=matomo.org&hideResults=on",
-    "tested_at": "2026-10-05T11:44:59.043Z"
+    "tested_at": "2026-10-19T10:20:54.635Z"
   },
   "trackers": {
     "url": "https://matomo.org",
