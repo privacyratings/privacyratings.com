@@ -60,13 +60,14 @@ The build generates all of these from the data; none are written by hand.
 | `/alternatives/<entry>/` | "Gmail alternatives" pages for every entry marked `mainstream: true`, naming its `aliases` too |
 | `/open-source/<category>/` | "Open-source password managers" style lists of entries whose code is under an OSI license |
 | `/jurisdictions/` and `/jurisdictions/<country>/` | Countries, Eyes alliances, laws and the services based there |
-| `/cloud-act/`, `/criteria/`, `/tests/`, `/why/`, `/governance/`, `/contribute/` | Explainers and documentation |
+| `/cloud-act/`, `/criteria/`, `/tests/`, `/why/`, `/governance/`, `/contribute/`, `/privacy/`, `/disclaimer/` | Explainers, documentation and the privacy policy |
 | `/badge/<category>/<entry>.svg` (plus `-flat-square`, `-large`, `-card`, `-card-dark`) and `.json` | Embeddable badges and a Shields.io endpoint, see `/badges/` |
 | `index.md` next to every page | Markdown copy for AI agents and LLMs |
 | `/llms.txt`, `/llms-full.txt` | Summary and full text for LLMs ([llms.txt standard](https://llmstxt.org)) |
 | `/api/ratings.json`, `/api/entries/<category>/<entry>.json` | Full data and one file per entry |
 | `/sitemap.xml` | Indexable pages with last-modified dates from Git |
 | `/robots.txt` | Allows search engines and AI crawlers, with content signals |
+| `/.well-known/api-catalog` | [RFC 9727](https://www.rfc-editor.org/rfc/rfc9727) API catalog listing the JSON files |
 | `/feed.xml` | Atom feed of rating changes from Git history |
 | `/cli/`, `/install.sh`, `/install.ps1`, `/api/cli.json` | The command-line tool's page with a live terminal preview, its installers, and the compact index it searches |
 | `/<lang>/…` | The same pages in 24 more languages (Arabic and Hebrew right to left), with `hreflang` links, a language menu, per-language sitemaps and search indexes. The site sends first-time visitors to their browser's language once, and remembers a language chosen in the menu |

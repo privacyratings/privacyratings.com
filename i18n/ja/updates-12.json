@@ -1,0 +1,19 @@
+{
+ "Privacy policy": "プライバシーポリシー",
+ "What is Privacy Ratings?": "Privacy Ratingsとは",
+ "Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each \"yes\" or \"partial\" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.": "Privacy Ratingsは、{categories}カテゴリーにわたる{n}件のアプリとサービスを、{criteria}項目の公開されたプライバシー評価基準で採点するオープンソースのサイトです。「はい」または「一部」の回答には、誰でも確認できる根拠へのリンクがあります。自動テストは、{tested}件のホスト型サービスについてTLS、セキュリティヘッダー、メール標準を確認します。各項目には0～100のスコアが付き、根拠が重み付けで評価基準の{pct}%以上をカバーするとAからFの評価が付きます。プロジェクトはForward Emailのチームが運営しており、関係のある項目には開示が付いています。",
+ "{n} apps and services rated for privacy": "プライバシーで評価した{n}件のアプリとサービス",
+ "{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.": "公開の評価基準では{winner}のスコアが高く、100点中{high}点です（{loser}は{low}点）。",
+ "{a} and {b} have the same score: {score} out of 100.": "{a}と{b}のスコアは同じで、100点中{score}点です。",
+ "Which is more private, {a} or {b}?": "{a}と{b}、どちらがプライバシーに優れていますか？",
+ "What is the best private alternative to {name}?": "{name}に代わる、プライバシー重視の最もよい選択肢は？",
+ "{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).": "これらの代替候補の中で最もスコアが高いのは{name}で、100点中{score}点（グレード {grade}）です。",
+ "{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).": "これらの代替候補の中で最もスコアが高いのは{names}で、いずれも100点中{score}点（グレード {grade}）です。",
+ "What happens to your data when you visit Privacy Ratings or use its command-line tool. No cookies, analytics or trackers, and nothing loads from other sites.": "Privacy Ratingsにアクセスしたときや、そのコマンドラインツールを使ったときに、データがどう扱われるかを説明します。Cookie、アクセス解析、トラッカーは使わず、ほかのサイトから何も読み込みません。",
+ "Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.": "Privacy Ratingsがある理由：公開された評価基準、すべての回答への根拠、自動セキュリティテスト、オープンデータ、そして利益相反の開示。",
+ "How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.": "アプリの提案、評価の修正、評価基準の提案、サイトの翻訳の方法。すべての貢献はGitHubのIssueとプルリクエストで公開して行います。",
+ "How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.": "変更の受け入れ方、おすすめの選び方、利益相反の扱い方。Forward Emailに関係する項目には、より厳しいレビューを行います。",
+ "How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.": "SSL Labs、Mozilla HTTP Observatory、Internet.nl、Hardenizeによるホスト型サービスのテスト方法と、メール標準およびウェブサイトのトラッカーの確認方法。",
+ "Internet.nl email score {pct}%": "Internet.nl メールスコア {pct}%",
+ "Internet.nl website score {pct}%": "Internet.nl ウェブサイトスコア {pct}%"
+}

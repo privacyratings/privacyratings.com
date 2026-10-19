@@ -1,0 +1,19 @@
+{
+ "Privacy policy": "Integritetspolicy",
+ "What is Privacy Ratings?": "Vad är Privacy Ratings?",
+ "Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each \"yes\" or \"partial\" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.": "Privacy Ratings är en webbplats med öppen källkod som bedömer {n} appar och tjänster i {categories} kategorier efter {criteria} offentliga integritetskriterier. Varje svar ”ja” eller ”delvis” länkar till belägg som vem som helst kan kontrollera. Automatiska tester kontrollerar TLS, säkerhetshuvuden och e-poststandarder för {tested} hostade tjänster. Varje post får en poäng från 0 till 100 och ett bokstavsbetyg från A till F när beläggen täcker minst {pct} % av dess kriterier efter vikt. Teamet bakom Forward Email underhåller projektet, och anknutna poster har en upplysning om intressekonflikt.",
+ "{n} apps and services rated for privacy": "{n} appar och tjänster bedömda för integritet",
+ "{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.": "{winner} får högre poäng enligt de offentliga kriterierna: {high} av 100, mot {low} för {loser}.",
+ "{a} and {b} have the same score: {score} out of 100.": "{a} och {b} har samma poäng: {score} av 100.",
+ "Which is more private, {a} or {b}?": "Vilken är mest privat, {a} eller {b}?",
+ "What is the best private alternative to {name}?": "Vilket är det bästa integritetsvänliga alternativet till {name}?",
+ "{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).": "{name} har högst poäng bland dessa alternativ: {score} av 100 (betyg {grade}).",
+ "{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).": "{names} delar högst poäng bland dessa alternativ: {score} av 100 (betyg {grade}).",
+ "What happens to your data when you visit Privacy Ratings or use its command-line tool. No cookies, analytics or trackers, and nothing loads from other sites.": "Vad som händer med dina data när du besöker Privacy Ratings eller använder dess kommandoradsverktyg. Inga cookies, ingen analys och inga spårare, och inget laddas från andra webbplatser.",
+ "Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.": "Varför Privacy Ratings finns: offentliga kriterier, belägg för varje svar, automatiska säkerhetstester och öppna data, med intressekonflikter redovisade.",
+ "How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.": "Så föreslår du en app, rättar ett betyg, föreslår kriterier eller översätter webbplatsen. Alla bidrag sker öppet via issues och pull requests på GitHub.",
+ "How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.": "Hur ändringar godtas, hur rekommendationer väljs och hur intressekonflikter hanteras, med strängare granskning av poster med koppling till Forward Email.",
+ "How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.": "Hur hostade tjänster testas med SSL Labs, Mozilla HTTP Observatory, Internet.nl och Hardenize, plus kontroller av e-poststandarder och spårare på webbplatser.",
+ "Internet.nl email score {pct}%": "Internet.nl e-postpoäng {pct} %",
+ "Internet.nl website score {pct}%": "Internet.nl webbplatspoäng {pct} %"
+}

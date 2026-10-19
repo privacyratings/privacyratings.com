@@ -123,6 +123,7 @@ write('api/cli.json', JSON.stringify(m.cliJson()));
 fs.copyFileSync(path.join(ROOT, 'cli', 'install.sh'), path.join(OUT, 'install.sh'));
 fs.copyFileSync(path.join(ROOT, 'cli', 'install.ps1'), path.join(OUT, 'install.ps1'));
 write('robots.txt', m.robots());
+write('.well-known/api-catalog', m.apiCatalog());
 write('feed.xml', m.feed());
 write('site.webmanifest', m.manifest());
 write('.nojekyll', '');

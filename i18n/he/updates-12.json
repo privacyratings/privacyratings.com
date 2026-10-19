@@ -1,0 +1,19 @@
+{
+ "Privacy policy": "מדיניות פרטיות",
+ "What is Privacy Ratings?": "מה זה Privacy Ratings?",
+ "Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each \"yes\" or \"partial\" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.": "Privacy Ratings הוא אתר קוד פתוח שמדרג {n} אפליקציות ושירותים ב־{categories} קטגוריות לפי {criteria} קריטריונים פומביים לפרטיות. כל תשובה ״כן״ או ״חלקית״ מקושרת לראיה שכל אחד יכול לבדוק. בדיקות אוטומטיות בודקות TLS, כותרות אבטחה ותקני דוא״ל ב־{tested} שירותים מתארחים. כל רשומה מקבלת ניקוד בין 0 ל־100, וציון באות מ־A עד F כאשר הראיות מכסות לפחות {pct}% מהקריטריונים שלה לפי משקל. הצוות שמאחורי Forward Email מתחזק את הפרויקט, ולרשומות קשורות מצורף גילוי נאות.",
+ "{n} apps and services rated for privacy": "{n} אפליקציות ושירותים מדורגים לפי פרטיות",
+ "{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.": "{winner} מקבל ניקוד גבוה יותר לפי הקריטריונים הפומביים: {high} מתוך 100, לעומת {low} ל־{loser}.",
+ "{a} and {b} have the same score: {score} out of 100.": "ל־{a} ול־{b} אותו ניקוד: {score} מתוך 100.",
+ "Which is more private, {a} or {b}?": "מה שומר יותר על פרטיות, {a} או {b}?",
+ "What is the best private alternative to {name}?": "מהי החלופה הפרטית הטובה ביותר ל־{name}?",
+ "{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).": "ל־{name} הניקוד הגבוה ביותר מבין החלופות האלה: {score} מתוך 100 (ציון {grade}).",
+ "{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).": "הניקוד הגבוה ביותר מבין החלופות האלה משותף ל־{names}: {score} מתוך 100 (ציון {grade}).",
+ "What happens to your data when you visit Privacy Ratings or use its command-line tool. No cookies, analytics or trackers, and nothing loads from other sites.": "מה קורה לנתונים שלך כשאתה מבקר ב־Privacy Ratings או משתמש בכלי שורת הפקודה שלו. אין עוגיות, אין ניתוח נתונים ואין רכיבי מעקב, ושום דבר לא נטען מאתרים אחרים.",
+ "Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.": "למה Privacy Ratings קיים: קריטריונים פומביים, ראיה לכל תשובה, בדיקות אבטחה אוטומטיות ונתונים פתוחים, עם גילוי נאות של ניגודי עניינים.",
+ "How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.": "איך מציעים אפליקציה, מתקנים דירוג, מציעים קריטריונים או מתרגמים את האתר. כל התרומות מתנהלות בפומבי בדיווחים ובבקשות משיכה ב־GitHub.",
+ "How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.": "איך שינויים מתקבלים, איך נבחרות ההמלצות ואיך מטופלים ניגודי עניינים, כולל בדיקה מחמירה יותר לרשומות הקשורות ל־Forward Email.",
+ "How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.": "איך שירותים מתארחים נבדקים עם SSL Labs, ‏Mozilla HTTP Observatory, ‏Internet.nl ו־Hardenize, וגם בדיקות של תקני דוא״ל ורכיבי מעקב באתרים.",
+ "Internet.nl email score {pct}%": "ציון הדוא״ל ב־Internet.nl: ‏{pct}%",
+ "Internet.nl website score {pct}%": "ציון האתר ב־Internet.nl: ‏{pct}%"
+}

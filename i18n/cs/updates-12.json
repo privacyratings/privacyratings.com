@@ -1,0 +1,19 @@
+{
+ "Privacy policy": "Zásady ochrany soukromí",
+ "What is Privacy Ratings?": "Co je Privacy Ratings?",
+ "Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each \"yes\" or \"partial\" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.": "Privacy Ratings je open-source web, který hodnotí aplikace a služby ({n}) v kategoriích ({categories}) podle veřejných kritérií soukromí ({criteria}). Každá odpověď „ano“ nebo „částečně“ odkazuje na důkaz, který si může ověřit kdokoli. Automatické testy kontrolují TLS, bezpečnostní hlavičky a e-mailové standardy u hostovaných služeb ({tested}). Každá položka dostane skóre od 0 do 100 a písmennou známku od A do F, jakmile důkazy pokrývají alespoň {pct} % jejích kritérií podle váhy. Projekt spravuje tým, který stojí za Forward Email, a přidružené položky nesou upozornění.",
+ "{n} apps and services rated for privacy": "Aplikace a služby hodnocené podle soukromí ({n})",
+ "{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.": "{winner} má podle veřejných kritérií vyšší skóre: {high} ze 100, oproti {low} u {loser}.",
+ "{a} and {b} have the same score: {score} out of 100.": "{a} a {b} mají stejné skóre: {score} ze 100.",
+ "Which is more private, {a} or {b}?": "Co je soukromější, {a} nebo {b}?",
+ "What is the best private alternative to {name}?": "Jaká je nejlepší soukromá alternativa k {name}?",
+ "{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).": "{name} má mezi těmito alternativami nejvyšší skóre: {score} ze 100 (známka {grade}).",
+ "{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).": "{names} mají mezi těmito alternativami shodně nejvyšší skóre: {score} ze 100 (známka {grade}).",
+ "What happens to your data when you visit Privacy Ratings or use its command-line tool. No cookies, analytics or trackers, and nothing loads from other sites.": "Co se děje s vašimi daty, když navštívíte Privacy Ratings nebo použijete jeho nástroj pro příkazový řádek. Žádné cookies, analytika ani sledovací prvky a nic se nenačítá z jiných webů.",
+ "Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.": "Proč Privacy Ratings existuje: veřejná kritéria, důkaz pro každou odpověď, automatické bezpečnostní testy a otevřená data, se zveřejněným střetem zájmů.",
+ "How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.": "Jak navrhnout aplikaci, opravit hodnocení, navrhnout kritéria nebo přeložit web. Všechny příspěvky probíhají veřejně přes issues a pull requesty na GitHubu.",
+ "How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.": "Jak se přijímají změny, jak se vybírají doporučení a jak se řeší střet zájmů, včetně přísnější kontroly položek spojených s Forward Email.",
+ "How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.": "Jak se hostované služby testují pomocí SSL Labs, Mozilla HTTP Observatory, Internet.nl a Hardenize, včetně kontroly e-mailových standardů a sledovacích prvků na webu.",
+ "Internet.nl email score {pct}%": "E-mailové skóre Internet.nl {pct} %",
+ "Internet.nl website score {pct}%": "Skóre webu Internet.nl {pct} %"
+}

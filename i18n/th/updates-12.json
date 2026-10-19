@@ -1,0 +1,19 @@
+{
+ "Privacy policy": "นโยบายความเป็นส่วนตัว",
+ "What is Privacy Ratings?": "Privacy Ratings คืออะไร",
+ "Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each \"yes\" or \"partial\" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.": "Privacy Ratings เป็นเว็บไซต์โอเพนซอร์สที่ให้คะแนนแอปและบริการ {n} รายการใน {categories} หมวด ตามเกณฑ์ความเป็นส่วนตัวสาธารณะ {criteria} ข้อ คำตอบ \"ใช่\" หรือ \"บางส่วน\" ทุกข้อมีลิงก์ไปยังหลักฐานที่ทุกคนตรวจสอบได้ การทดสอบอัตโนมัติตรวจ TLS ส่วนหัวด้านความปลอดภัย และมาตรฐานอีเมลของบริการที่โฮสต์ {tested} รายการ ทุกรายการได้คะแนน 0 ถึง 100 และได้เกรด A ถึง F เมื่อหลักฐานครอบคลุมเกณฑ์อย่างน้อย {pct}% ตามน้ำหนัก ทีมที่อยู่เบื้องหลัง Forward Email ดูแลโครงการนี้ และรายการที่เกี่ยวข้องจะมีการเปิดเผยข้อมูลกำกับไว้",
+ "{n} apps and services rated for privacy": "แอปและบริการ {n} รายการ จัดอันดับด้านความเป็นส่วนตัว",
+ "{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.": "{winner} ได้คะแนนสูงกว่าตามเกณฑ์สาธารณะ: {high} จาก 100 เทียบกับ {low} ของ {loser}",
+ "{a} and {b} have the same score: {score} out of 100.": "{a} และ {b} ได้คะแนนเท่ากัน: {score} จาก 100",
+ "Which is more private, {a} or {b}?": "{a} หรือ {b} อันไหนเป็นส่วนตัวกว่ากัน",
+ "What is the best private alternative to {name}?": "ทางเลือกที่เป็นส่วนตัวที่ดีที่สุดแทน {name} คืออะไร",
+ "{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).": "{name} ได้คะแนนสูงสุดในทางเลือกเหล่านี้: {score} จาก 100 (เกรด {grade})",
+ "{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).": "{names} ได้คะแนนสูงสุดเท่ากันในทางเลือกเหล่านี้: {score} จาก 100 (เกรด {grade})",
+ "What happens to your data when you visit Privacy Ratings or use its command-line tool. No cookies, analytics or trackers, and nothing loads from other sites.": "สิ่งที่เกิดขึ้นกับข้อมูลของคุณเมื่อเข้าชม Privacy Ratings หรือใช้เครื่องมือบรรทัดคำสั่ง ไม่มีคุกกี้ ไม่มีการวิเคราะห์ ไม่มีตัวติดตาม และไม่มีการโหลดสิ่งใดจากเว็บไซต์อื่น",
+ "Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.": "เหตุผลที่มี Privacy Ratings: เกณฑ์สาธารณะ หลักฐานสำหรับทุกคำตอบ การทดสอบความปลอดภัยอัตโนมัติ และข้อมูลเปิด พร้อมเปิดเผยผลประโยชน์ทับซ้อน",
+ "How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.": "วิธีเสนอแอป แก้ไขการจัดอันดับ เสนอเกณฑ์ หรือแปลเว็บไซต์ การมีส่วนร่วมทั้งหมดทำอย่างเปิดเผยผ่าน issue และ pull request บน GitHub",
+ "How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.": "วิธีรับการเปลี่ยนแปลง วิธีเลือกตัวเลือกแนะนำ และวิธีจัดการผลประโยชน์ทับซ้อน รวมถึงการตรวจสอบที่เข้มงวดกว่าสำหรับรายการที่เกี่ยวข้องกับ Forward Email",
+ "How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.": "วิธีทดสอบบริการที่โฮสต์ด้วย SSL Labs, Mozilla HTTP Observatory, Internet.nl และ Hardenize รวมถึงการตรวจมาตรฐานอีเมลและตัวติดตามบนเว็บไซต์",
+ "Internet.nl email score {pct}%": "คะแนนอีเมลจาก Internet.nl {pct}%",
+ "Internet.nl website score {pct}%": "คะแนนเว็บไซต์จาก Internet.nl {pct}%"
+}

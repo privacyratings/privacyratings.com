@@ -77,6 +77,11 @@ const mdParser = new Marked({
     html({ text }) {
       return esc(text);
     },
+    // Task lists ("- [ ] item") are checklists to read, not form fields: a box character, hidden
+    // from screen readers, instead of an unlabeled disabled checkbox.
+    checkbox({ checked }) {
+      return `<span class="task" aria-hidden="true">${checked ? '☑' : '☐'}</span>`;
+    },
     link(token) {
       const text = this.parser.parseInline(token.tokens);
       const href = safeMdHref(token.href) ? mdHref(token.href) : null;
@@ -219,6 +224,17 @@ const lowerName = (s) => {
 };
 // A category name mid-sentence, in the current language.
 const catLower = (c) => (i18n.isDefault() ? lowerName(c.name) : lowerFirst(t(c.name)));
+// Lowercase names used by more than one entry.
+const SHARED_NAMES = (() => {
+  const seen = new Set();
+  const shared = new Set();
+  for (const e of entries) {
+    const k = e.name.toLowerCase();
+    if (seen.has(k)) shared.add(k);
+    seen.add(k);
+  }
+  return shared;
+})();
 const pickBadge = (e) => (e.pick ? `<span class="pick">${th('Our pick')}</span>` : '');
 // "a, b and c" in the current language.
 const joinList = (items, conj = 'and') => {
@@ -286,6 +302,17 @@ function summarize(e) {
 
 // ---------- structured data ----------
 
+// Forward Email, as forwardemail.net describes itself in its own structured data.
+const FORWARD_EMAIL = {
+  '@type': 'Organization',
+  '@id': 'https://forwardemail.net/#organization',
+  name: 'Forward Email',
+  legalName: 'Forward Email LLC',
+  url: 'https://forwardemail.net',
+  logo: { '@type': 'ImageObject', url: 'https://forwardemail.net/img/logo-square-180x180.png', width: 180, height: 180 },
+  sameAs: ['https://github.com/forwardemail', 'https://x.com/fwdemail', 'https://www.reddit.com/r/forwardemail/', 'https://www.youtube.com/forwardemail']
+};
+
 const ORG = {
   '@type': 'Organization',
   '@id': `${SITE_URL}/#organization`,
@@ -295,7 +322,7 @@ const ORG = {
   logo: { '@type': 'ImageObject', url: `${SITE_URL}/icon-512.png`, width: 512, height: 512 },
   image: `${SITE_URL}/og.png`,
   sameAs: [REPO, 'https://x.com/privacyratings', 'https://www.reddit.com/r/privacyratings/'],
-  funder: { '@type': 'Organization', name: 'Forward Email', url: 'https://forwardemail.net' }
+  funder: FORWARD_EMAIL
 };
 
 const website = () => ({
@@ -308,6 +335,14 @@ const website = () => ({
   publisher: { '@id': `${SITE_URL}/#organization` },
   potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: `${SITE_URL}${prefix('/search/')}?q={search_term_string}` }, 'query-input': 'required name=search_term_string' }
 });
+
+// Disclosures of affiliated entries, for answers that name them as picks.
+const disclosures = (list) => list.filter((e) => e.disclosure).map((e) => `${t('Disclosure.')} ${t(e.disclosure)}`).join(' ');
+// The reasons for one or more picks, each named when there are several.
+const pickReasons = (picks) => picks.map((e) => (picks.length > 1 ? `${e.name}: ${t(e.pick_reason || '')}` : t(e.pick_reason || ''))).join(' ');
+
+// Questions and answers that are shown on the page, as plain text.
+const faqPage = (list) => ({ '@type': 'FAQPage', mainEntity: list.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.text } })) });
 
 function breadcrumbs(items) {
   return {
@@ -459,10 +494,17 @@ function clip(text, max) {
   return `${words.join('').replace(/[\s,;:–—-]+$/u, '')}…`;
 }
 
-function layout({ title, description, body, pathname, jsonld = [], noindex = false, lastmod = null, type = 'website', markdown = true, share = null, shareable = true, og = null }) {
+// Search results show about 60 characters of a title. The site name is added only when it still fits.
+const TITLE_MAX = 60;
+const withSiteName = (title) => {
+  const full = `${title} | ${site.title}`;
+  return Array.from(full).length <= TITLE_MAX ? full : title;
+};
+
+function layout({ title, headTitle = null, description, body, pathname, jsonld = [], noindex = false, lastmod = null, type = 'website', markdown = true, share = null, shareable = true, og = null }) {
   const loc = i18n.locale();
   const tagline = t(site.tagline);
-  const fullTitle = title ? `${title} | ${site.title}` : `${site.title}: ${tagline}`;
+  const fullTitle = headTitle || (title ? withSiteName(title) : `${site.title}: ${tagline}`);
   // Search results show about 160 characters; social cards have a little more room.
   const text = description || tagline;
   const desc = clip(text, 160);
@@ -472,6 +514,8 @@ function layout({ title, description, body, pathname, jsonld = [], noindex = fal
   if (og && i18n.isDefault()) ogJobs.push({ file: ogFile(pathname), spec: og });
   const image = og ? `${SITE_URL}/${ogFile(pathname)}` : `${SITE_URL}/og.png`;
   const imageAlt = ogAlt(og);
+  // Pages kept out of search indexes (search, offline, thin ratings) publish only the WebSite
+  // node instead of this graph, with no rich-result types.
   const graph = { '@context': 'https://schema.org', '@graph': [ORG, website(), ...jsonld.map((j) => (IMAGE_TYPES.has(j['@type']) && !j.image ? { ...j, image, ...(i18n.isDefault() ? {} : { inLanguage: loc.hreflang }) } : j))] };
   const nav = NAV.map(([n, p]) => `<a href="${u(p)}"${pathname === p ? ' aria-current="page"' : ''}>${th(n)}</a>`).join('');
   const translated = hasTranslations(pathname) && !noindex;
@@ -525,7 +569,7 @@ ${lastmod ? `<meta property="article:modified_time" content="${esc(lastmod)}">\n
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="format-detection" content="telephone=no">
 <link rel="stylesheet" href="${BASE}/style.css">
-<script type="application/ld+json">${JSON.stringify(graph).replace(/</g, '\\u003c')}</script>
+<script type="application/ld+json">${JSON.stringify(noindex ? { '@context': 'https://schema.org', '@graph': [website()] } : graph).replace(/</g, '\\u003c')}</script>
 ${i18n.isDefault() ? `<script>${LANG_REDIRECT}</script>\n` : ''}</head>
 <body data-base="${esc(BASE)}"${i18n.isDefault() ? '' : ` data-lang="${esc(i18n.current())}"`}>
 <a class="skip" href="#main">${th('Skip to content')}</a>
@@ -575,7 +619,7 @@ ${shareable ? shareBox(url, share || (title ? title : `${site.title}: ${tagline}
     </nav>
   </div>
   <div class="wrap foot-legal">
-    <p class="disclaimer">${th('Ratings are provided for information only and may be inaccurate or out of date. They are not legal or security advice. Anyone can {correction}.', { correction: `<a href="${REPO}/issues/new?template=correction.yml">${th('submit a correction')}</a>` })} <a href="${u('/disclaimer/')}">${th('Disclaimer')}</a>${i18n.isDefault() ? '' : ` ${TRANSLATION_NOTE[i18n.current()] || ''}`}</p>
+    <p class="disclaimer">${th('Ratings are provided for information only and may be inaccurate or out of date. They are not legal or security advice. Anyone can {correction}.', { correction: `<a href="${REPO}/issues/new?template=correction.yml">${th('submit a correction')}</a>` })} <a href="${u('/disclaimer/')}">${th('Disclaimer')}</a> · <a href="${u('/privacy/')}">${th('Privacy policy')}</a>${i18n.isDefault() ? '' : ` ${TRANSLATION_NOTE[i18n.current()] || ''}`}</p>
     <p>${th('Content {content} · Code {code} · Includes data from {ap} (CC0) · No trackers, cookies, ads or affiliate links.', { content: '<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>', code: `<a href="${REPO}/blob/${site.branch}/LICENSE">MIT</a>`, ap: '<a href="https://github.com/lissy93/awesome-privacy">Awesome Privacy</a>' })}</p>
   </div>
 </footer>
@@ -615,6 +659,13 @@ const CSP = [
 
 // ---------- home ----------
 
+// A short answer to "what is this site", with the current figures. Shown on the home page and
+// in its Markdown copy.
+const ABOUT = 'Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each "yes" or "partial" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.';
+const criteriaCount = () => criteria.common.length + Object.values(criteria.byCategory).flat().length;
+const testedCount = () => entries.filter((e) => e.rating.scan && (e.rating.scan.ssllabs || e.rating.scan.observatory || e.rating.scan.mail)).length;
+const aboutVars = () => ({ n: entries.length, categories: categories.length, criteria: criteriaCount(), tested: testedCount(), pct: Math.round(MIN_COVERAGE * 100) });
+
 function homePage() {
   const groups = [...new Set(categories.map((c) => c.group))];
   const pickCards = categories
@@ -645,8 +696,8 @@ function homePage() {
 
   const alts = alternatives.map((a) => `<li><a href="${u(a.path)}">${esc(a.entry.name)}</a></li>`).join('');
   const oss = openSource.map((o) => `<li><a href="${u(o.path)}">${esc(t(o.category.name))}</a></li>`).join('');
-  const critCount = criteria.common.length + Object.values(criteria.byCategory).flat().length;
-  const tested = entries.filter((e) => e.rating.scan && (e.rating.scan.ssllabs || e.rating.scan.observatory || e.rating.scan.mail)).length;
+  const critCount = criteriaCount();
+  const tested = testedCount();
   const a = (href, text) => `<a href="${href}">${th(text)}</a>`;
 
   const body = `
@@ -669,6 +720,8 @@ function homePage() {
     <div><dt>${th('Tested services')}</dt><dd>${tested}</dd></div>
   </dl>
 </section>
+
+${box(th('What is Privacy Ratings?'), `<p>${th(ABOUT, aboutVars())}</p>`, 'about')}
 
 ${box(
   th('Our picks'),
@@ -730,7 +783,8 @@ ${box(
 
   return layout({
     title: '',
-    description: `${t(site.tagline)} ${t('Compare {n} private email providers, VPNs, browsers, password managers and more by public criteria, evidence and security tests.', { n: entries.length })}`,
+    headTitle: `${site.title}: ${t('{n} apps and services rated for privacy', { n: entries.length })}`,
+    description: t('Compare {n} private email providers, VPNs, browsers, password managers and more by public criteria, evidence and security tests.', { n: entries.length }),
     body,
     pathname: '/',
     jsonld,
@@ -808,6 +862,33 @@ function categoryPage(cat) {
   const oss = openSource.find((o) => o.category.id === cat.id);
   const h1 = t(cat.h1 || `${cat.name} privacy ratings`);
   const pickNames = joinList(picks.map((e) => `<a href="${u(e.path)}">${esc(e.name)}</a>`), 'or');
+  const pickNamesText = joinList(picks.map((e) => e.name), 'or');
+  const reasons = pickReasons(picks);
+  const pickHead = (names, fn) => (picks.length > 1 ? fn('Our picks are {names}.', { names }) : fn('Our pick is {names}.', { names }));
+  const critList = joinList(crit.map((c) => lowerFirst(t(c.title))));
+  const jurisdictionText = 'Jurisdiction decides which laws can compel a provider to hand over data. Each entry shows its country and whether it is in the Five, Nine or Fourteen Eyes. The data a provider can hand over depends mostly on what it stores and who holds the keys.';
+  // Questions shown on the page, also published as FAQPage structured data with the same text.
+  const faq = [
+    {
+      q: t('What is the most private option among {category}?', { category: lower }),
+      html: picks.length ? `${pickHead(pickNames, th)} ${esc(reasons)}${disclosures(picks) ? ` ${esc(disclosures(picks))}` : ''}` : th('No pick has been made yet. The table above is sorted by score, based on public evidence.'),
+      text: picks.length ? `${pickHead(pickNamesText, t)} ${reasons}${disclosures(picks) ? ` ${disclosures(picks)}` : ''}` : t('No pick has been made yet. The table above is sorted by score, based on public evidence.')
+    },
+    {
+      q: t('How are {category} rated?', { category: lower }),
+      html: `${th('Each entry answers {n} questions: {list}. Answers need links to evidence.', { n: crit.length, list: esc(critList) })} <a href="${u(`/criteria/#${cat.id}`)}">${th('See the full criteria')}</a>.`,
+      text: t('Each entry answers {n} questions: {list}. Answers need links to evidence.', { n: crit.length, list: critList })
+    },
+    ...(showJ
+      ? [
+          {
+            q: t('Does jurisdiction matter?'),
+            html: `${th(jurisdictionText)} ${th('Read about {jurisdictions} and {cloudact}.', { jurisdictions: `<a href="${u('/jurisdictions/')}">${th('jurisdictions')}</a>`, cloudact: `<a href="${u('/cloud-act/')}">${th('the CLOUD Act')}</a>` })}`,
+            text: t(jurisdictionText)
+          }
+        ]
+      : [])
+  ];
 
   const body = `
 <nav class="crumbs" aria-label="${esc(t('Breadcrumb'))}"><a href="${u('/')}">${th('Home')}</a> › ${esc(t(cat.group))}</nav>
@@ -829,11 +910,7 @@ ${rows}
 
 <section aria-labelledby="faq">
 <h2 id="faq">${th('Questions')}</h2>
-<h3>${th('What is the most private option among {category}?', { category: esc(lower) })}</h3>
-<p>${picks.length ? `${picks.length > 1 ? th('Our picks are {names}.', { names: pickNames }) : th('Our pick is {names}.', { names: pickNames })} ${picks.map((e) => esc(t(e.pick_reason || ''))).join(' ')}` : th('No pick has been made yet. The table above is sorted by score, based on public evidence.')}</p>
-<h3>${th('How are {category} rated?', { category: esc(lower) })}</h3>
-<p>${th('Each entry answers {n} questions: {list}. Answers need links to evidence.', { n: crit.length, list: esc(joinList(crit.map((c) => lowerFirst(t(c.title))))) })} <a href="${u(`/criteria/#${cat.id}`)}">${th('See the full criteria')}</a>.</p>
-${showJ ? `<h3>${th('Does jurisdiction matter?')}</h3><p>${th('Jurisdiction decides which laws can compel a provider to hand over data. Each entry shows its country and whether it is in the Five, Nine or Fourteen Eyes. The data a provider can hand over depends mostly on what it stores and who holds the keys.')} ${th('Read about {jurisdictions} and {cloudact}.', { jurisdictions: `<a href="${u('/jurisdictions/')}">${th('jurisdictions')}</a>`, cloudact: `<a href="${u('/cloud-act/')}">${th('the CLOUD Act')}</a>` })}</p>` : ''}
+${faq.map((f) => `<h3>${esc(f.q)}</h3>\n<p>${f.html}</p>`).join('\n')}
 </section>
 ${
   compareLinks.length || alt.length
@@ -856,7 +933,8 @@ ${
         itemListOrder: 'https://schema.org/ItemListOrderDescending',
         itemListElement: list.slice(0, 100).map((e, i) => ({ '@type': 'ListItem', position: i + 1, name: e.name, url: abs(e.path) }))
       }
-    }
+    },
+    faqPage(faq)
   ];
 
   return layout({
@@ -969,7 +1047,7 @@ function embedBox(e) {
   const html = `<a href="${first.page}"><img src="${first.img}" alt="${esc(first.alt)}" width="${first.width}" height="${first.height}"></a>`;
   const json = `${SITE_URL}${badges.badgePath(e, '', 'json')}`;
   const data = styles.map((s) => ({ id: s.id, img: s.img, w: s.width, h: s.height }));
-  return `<p><a href="${u(e.path)}"><img src="${BASE}${badges.badgePath(e)}" alt="${esc(first.alt)}" width="${first.width}" height="20" loading="lazy"></a></p>
+  return `<p><a href="${u(e.path)}"><img src="${BASE}${badges.badgePath(e)}" alt="${esc(first.alt)}" width="${first.width}" height="20"></a></p>
 <p class="muted small">${th('Show this rating on your site. The badge updates when the rating changes and links back here.')}</p>
 <button class="btn btn-quiet" type="button" popovertarget="${id}">${th('Embed badge')}</button>
 <div id="${id}" class="embed-pop" popover role="dialog" aria-labelledby="${id}-h" data-embed data-page="${esc(first.page)}" data-alt="${esc(first.alt)}" data-json="${esc(json)}" data-styles="${esc(JSON.stringify(data))}">
@@ -978,7 +1056,7 @@ function embedBox(e) {
   <fieldset class="embed-opts"><legend>${th('Style and size')}</legend>
     ${styles.map((s, i) => `<label class="opt"><input type="radio" name="${id}-style" value="${s.id}"${i === 0 ? ' checked' : ''}><span>${esc(t(STYLE_LABELS[s.id]))}</span></label>`).join('')}
   </fieldset>
-  <div class="embed-preview" data-preview><a href="${u(e.path)}"><img src="${BASE}${badges.badgePath(e)}" alt="${esc(first.alt)}" width="${first.width}" height="${first.height}" loading="lazy"></a></div>
+  <div class="embed-preview" data-preview><a href="${u(e.path)}"><img src="${BASE}${badges.badgePath(e)}" alt="${esc(first.alt)}" width="${first.width}" height="${first.height}"></a></div>
   <fieldset class="embed-opts"><legend>${th('Format')}</legend>
     ${[['html', 'HTML'], ['md', 'Markdown'], ['rst', 'reStructuredText'], ['url', 'Image URL'], ['shields', 'Shields.io']].map(([v, n], i) => `<label class="opt"><input type="radio" name="${id}-fmt" value="${v}"${i === 0 ? ' checked' : ''}><span>${esc(t(n))}</span></label>`).join('')}
   </fieldset>
@@ -1069,6 +1147,9 @@ function entryPage(e) {
   const compares = comparisons.filter((c) => c.a === e || c.b === e).slice(0, 12);
   const alt = alternatives.find((a) => a.entry === e);
   const catName = t(cat.name);
+  // Products rated in several categories (Forward Email, AdGuard) get the category in their
+  // heading and title, so each page has its own.
+  const label = SHARED_NAMES.has(e.name.toLowerCase()) ? `${e.name} (${catName})` : e.name;
   const license = e.license || r.scan?.github?.license;
 
   const facts = [
@@ -1096,7 +1177,7 @@ function entryPage(e) {
   ${gradeRing(r)}
   <div class="entry-intro">
     <p class="kicker">${esc(catName)}</p>
-    <h1>${th('{name} privacy rating', { name: esc(e.name) })}</h1>
+    <h1>${th('{name} privacy rating', { name: esc(label) })}</h1>
     ${e.pick ? `<p>${pickBadge(e)}</p>` : ''}
     <p class="lede">${esc(t(e.description || ''))}</p>
     ${chips.length ? `<div class="chip-row">${chips.join('')}</div>` : ''}
@@ -1143,6 +1224,7 @@ ${box(th('Other {category}', { category: esc(catLower(cat)) }), `<ul class="rela
 
   const about = {
     '@type': cat.type === 'service' ? 'Organization' : 'SoftwareApplication',
+    '@id': `${abs(e.path)}#subject`,
     name: e.name,
     url: e.website,
     ...(cat.type === 'service' ? {} : { applicationCategory: applicationCategory(cat), operatingSystem: (e.platforms || []).map(platformName).join(', ') || undefined }),
@@ -1152,6 +1234,7 @@ ${box(th('Other {category}', { category: esc(catLower(cat)) }), `<ul class="rela
   if (r.grade && !e.affiliated) {
     about.review = {
       '@type': 'Review',
+      itemReviewed: { '@id': about['@id'] },
       author: { '@id': `${SITE_URL}/#organization` },
       reviewBody: summarize(e),
       reviewRating: { '@type': 'Rating', ratingValue: r.score, bestRating: 100, worstRating: 0 }
@@ -1162,7 +1245,7 @@ ${box(th('Other {category}', { category: esc(catLower(cat)) }), `<ul class="rela
     breadcrumbs([[t('Home'), '/'], [catName, `/${cat.id}/`], [e.name, e.path]]),
     {
       '@type': 'WebPage',
-      name: t('{name} privacy rating', { name: e.name }),
+      name: t('{name} privacy rating', { name: label }),
       url: abs(e.path),
       description: summarize(e),
       ...(e.lastmod ? { dateModified: e.lastmod } : {}),
@@ -1180,7 +1263,7 @@ ${box(th('Other {category}', { category: esc(catLower(cat)) }), `<ul class="rela
       : t('{name}: {description} Criteria, evidence and security tests.', { name: e.name, description });
   const desc = descFor(clip(t(e.description || ''), Math.max(60, 160 - Array.from(descFor('')).length)));
   return layout({
-    title: r.grade ? t('{name} privacy rating: {grade} ({score}/100)', { name: e.name, grade: r.grade, score: r.score }) : t('{name} privacy rating', { name: e.name }),
+    title: r.grade ? t('{name} privacy rating: {grade} ({score}/100)', { name: label, grade: r.grade, score: r.score }) : t('{name} privacy rating', { name: label }),
     description: desc,
     body,
     pathname: e.path,
@@ -1194,6 +1277,38 @@ ${box(th('Other {category}', { category: esc(catLower(cat)) }), `<ul class="rela
 
 // ---------- comparison ----------
 
+// "Which is more private, A or B?" answered from the scores alone, then the criteria where each
+// one does better, then the disclosure of an affiliated entry. Entries without a grade are
+// described instead of compared.
+function compareQuestion(c) {
+  const { a, b } = c;
+  const cat = catById[c.category];
+  const byId = (e) => Object.fromEntries(e.rating.answers.map((x) => [x.criterion.id, x]));
+  const A = byId(a);
+  const B = byId(b);
+  const crit = criteriaFor(criteria, cat).filter((x) => !(x.services && cat.type !== 'service'));
+  const rank = { yes: 2, partial: 1, no: 0 };
+  const known = (x) => x && x.answer in rank;
+  const better = (E, O) => crit.filter((x) => known(E[x.id]) && known(O[x.id]) && rank[E[x.id].answer] > rank[O[x.id].answer]).map((x) => lowerFirst(t(x.title)));
+  const scoreLine = (e) =>
+    e.rating.grade
+      ? t('{name} scores {score} out of 100 (grade {grade}) on the {category} criteria.', { name: e.name, score: e.rating.score, grade: e.rating.grade, category: catLower(cat) })
+      : t('{name} is not graded yet: {pct}% of its criteria have evidence, and {min}% is needed.', { name: e.name, pct: e.rating.coverage, min: Math.round(MIN_COVERAGE * 100) });
+  let verdict;
+  if (a.rating.grade && b.rating.grade && a.rating.score !== b.rating.score) {
+    const [hi, lo] = a.rating.score > b.rating.score ? [a, b] : [b, a];
+    verdict = t('{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.', { winner: hi.name, high: hi.rating.score, low: lo.rating.score, loser: lo.name });
+  } else if (a.rating.grade && b.rating.grade) {
+    verdict = t('{a} and {b} have the same score: {score} out of 100.', { a: a.name, b: b.name, score: a.rating.score });
+  } else {
+    verdict = `${scoreLine(a)} ${scoreLine(b)}`;
+  }
+  const aBetter = better(A, B);
+  const bBetter = better(B, A);
+  const parts = [verdict, aBetter.length ? t('{name} does better on {list}.', { name: a.name, list: joinList(aBetter) }) : '', bBetter.length ? t('{name} does better on {list}.', { name: b.name, list: joinList(bBetter) }) : '', disclosures([a, b])];
+  return { q: t('Which is more private, {a} or {b}?', { a: a.name, b: b.name }), text: parts.filter(Boolean).join(' ') };
+}
+
 function comparePage(c) {
   const { a, b } = c;
   const cat = catById[c.category];
@@ -1204,22 +1319,20 @@ function comparePage(c) {
   const src = th('source');
   const cell = (x) => (x ? `${answerBadge(x.answer)}${httpUrl(x.evidence) ? ` <a class="ev" href="${esc(httpUrl(x.evidence))}" rel="nofollow ugc noopener">${src}</a>` : ''}` : answerBadge('unknown'));
   const score = (e) => (e.rating.grade ? `${e.rating.grade} (${e.rating.score}/100)` : t('Not graded ({pct}% evidence)', { pct: e.rating.coverage }));
-  const diff = crit.filter((x) => (A[x.id]?.answer || 'unknown') !== (B[x.id]?.answer || 'unknown') && A[x.id]?.answer !== 'unknown' && B[x.id]?.answer !== 'unknown');
-  const better = (e, other, E, O) => diff.filter((x) => ({ yes: 2, partial: 1, no: 0 })[E[x.id].answer] > ({ yes: 2, partial: 1, no: 0 })[O[x.id].answer]).map((x) => lowerFirst(t(x.title)));
-  const aBetter = better(a, b, A, B);
-  const bBetter = better(b, a, B, A);
   const place = (e) => (e.juris.eyesName ? `${t(e.juris.inName)} (${t(e.juris.eyesName)})` : t(e.juris.inName));
   const catName = t(cat.name);
 
   const intro = [
     t('{a} and {b} are both rated in {category} against the same {n} public criteria.', { a: a.name, b: b.name, category: catLower(cat), n: crit.length }),
-    aBetter.length ? t('{name} does better on {list}.', { name: a.name, list: joinList(aBetter) }) : '',
-    bBetter.length ? t('{name} does better on {list}.', { name: b.name, list: joinList(bBetter) }) : '',
     a.juris && b.juris ? t('{a} is based in {pa}; {b} is based in {pb}.', { a: a.name, pa: place(a), b: b.name, pb: place(b) }) : ''
   ]
     .filter(Boolean)
     .join(' ');
   const title = t('{a} vs {b}: privacy compared', { a: a.name, b: b.name });
+  const question = compareQuestion(c);
+  // Other comparisons and alternatives pages for the same two entries, for readers who want a third option.
+  const more = comparisons.filter((x) => x !== c && (x.a === a || x.b === a || x.a === b || x.b === b)).slice(0, 12);
+  const alts = alternatives.filter((x) => x.entry === a || x.entry === b);
 
   const body = `
 <nav class="crumbs" aria-label="${esc(t('Breadcrumb'))}"><a href="${u('/')}">${th('Home')}</a> › <a href="${u(`/${cat.id}/`)}">${esc(catName)}</a></nav>
@@ -1237,10 +1350,13 @@ ${crit.map((x) => `<tr><th scope="row"><a href="${u(`/criteria/#${criterionAncho
 </tbody>
 </table>
 </div>
+<h2 id="verdict">${esc(question.q)}</h2>
+<p>${esc(question.text)} <a href="${u('/criteria/#scoring')}">${th('How scoring works')}</a></p>
 <h2>${th('Summaries')}</h2>
 <p><strong>${esc(a.name)}.</strong> ${esc(summarize(a))}</p>
 <p><strong>${esc(b.name)}.</strong> ${esc(summarize(b))}</p>
-<p><a href="${u(`/${cat.id}/`)}">${th('Compare all {n} {category}', { n: inCategory[cat.id].length, category: esc(catLower(cat)) })}</a></p>`;
+<p><a href="${u(`/${cat.id}/`)}">${th('Compare all {n} {category}', { n: inCategory[cat.id].length, category: esc(catLower(cat)) })}</a></p>
+${more.length || alts.length ? `<section aria-labelledby="more"><h2 id="more">${th('Comparisons')}</h2><ul class="inline-list">${alts.map((x) => `<li><a href="${u(x.path)}">${th('{name} alternatives', { name: esc(x.entry.name) })}</a></li>`).join('')}${more.map((x) => `<li><a href="${u(x.path)}">${esc(x.a.name)} vs ${esc(x.b.name)}</a></li>`).join('')}</ul></section>` : ''}`;
 
   return layout({
     title,
@@ -1249,7 +1365,8 @@ ${crit.map((x) => `<tr><th scope="row"><a href="${u(`/criteria/#${criterionAncho
     pathname: c.path,
     jsonld: [
       breadcrumbs([[t('Home'), '/'], [catName, `/${cat.id}/`], [`${a.name} vs ${b.name}`, c.path]]),
-      { '@type': 'WebPage', name: `${a.name} vs ${b.name}`, url: abs(c.path), about: [a, b].map((e) => ({ '@type': 'Thing', name: e.name, url: abs(e.path) })) }
+      { '@type': 'WebPage', name: `${a.name} vs ${b.name}`, url: abs(c.path), description: intro, about: [a, b].map((e) => ({ '@type': 'Thing', name: e.name, url: abs(e.path) })) },
+      faqPage([question])
     ],
     lastmod: [a.lastmod, b.lastmod].filter(Boolean).sort().pop(),
     og: { kind: 'compare', a, b, category: cat.name }
@@ -1264,11 +1381,15 @@ function alternativesPage(alt) {
   const fails = e.rating.answers.filter((a) => a.answer === 'no' || a.answer === 'partial');
   const h1 = t('Private and open-source alternatives to {name}', { name: e.name });
   const place = (x) => (x.juris.eyesName ? `${t(x.juris.inName)} (${t(x.juris.eyesName)})` : t(x.juris.inName));
+  const question = alternativesQuestion(alt);
+  const compares = comparisons.filter((c) => c.a === e || c.b === e).slice(0, 12);
   const body = `
 <nav class="crumbs" aria-label="${esc(t('Breadcrumb'))}"><a href="${u('/')}">${th('Home')}</a> › <a href="${u(`/${cat.id}/`)}">${esc(t(cat.name))}</a></nav>
 <div class="h1-row"><h1>${esc(h1)}</h1>${shareButton()}</div>
 <p class="lede">${esc(t('{n} {category} rated against the same public privacy criteria as {name}, with our picks first.', { n: alt.list.length, category: catLower(cat), name: e.aliases?.length ? `${e.name} (${e.aliases.join(', ')})` : e.name }))}</p>
-${fails.length ? `<h2>${th('Why look for an alternative?')}</h2><ul>${fails.map((a) => `<li><strong>${esc(t(a.criterion.title))}:</strong> ${esc(LABEL[a.answer].toLowerCase())}${a.note ? `. <span${i18n.isDefault() ? '' : ' lang="en"'}>${esc(a.note)}</span>` : ''}</li>`).join('')}</ul><p><a href="${u(e.path)}">${th('See the full {name} rating', { name: esc(e.name) })}</a>.</p>` : ''}
+${question ? `<h2 id="best">${esc(question.q)}</h2>
+<p>${esc(question.text)}</p>
+` : ''}${fails.length ? `<h2>${th('Why look for an alternative?')}</h2><ul>${fails.map((a) => `<li><strong>${esc(t(a.criterion.title))}:</strong> ${esc(LABEL[a.answer].toLowerCase())}${a.note ? `. <span${i18n.isDefault() ? '' : ' lang="en"'}>${esc(a.note)}</span>` : ''}</li>`).join('')}</ul><p><a href="${u(e.path)}">${th('See the full {name} rating', { name: esc(e.name) })}</a>.</p>` : ''}
 <h2>${th('The alternatives')}</h2>
 <ol class="alts">
 ${alt.list
@@ -1276,11 +1397,13 @@ ${alt.list
     (x) => `<li><h3><a href="${u(x.path)}">${esc(x.name)}</a> ${gradeBadge(x.rating)} ${pickBadge(x)}</h3>
 <p>${esc(t(x.description || ''))}</p>
 ${x.pick ? `<p><strong>${th('Why it is our pick:')}</strong> ${esc(t(x.pick_reason))}</p>` : ''}
+${x.disclosure ? `<p class="small"><strong>${th('Disclosure.')}</strong> ${esc(t(x.disclosure))}</p>` : ''}
 <p class="muted small">${x.juris ? `${esc(t('Based in {place}.', { place: place(x) }))} ` : ''}${esc(summarize(x).split('. ').slice(0, 2).join('. '))}.</p></li>`
   )
   .join('\n')}
 </ol>
-<p><a href="${u(`/${cat.id}/`)}">${th('Compare all {n} {category}', { n: inCategory[cat.id].length, category: esc(catLower(cat)) })}</a></p>`;
+<p><a href="${u(`/${cat.id}/`)}">${th('Compare all {n} {category}', { n: inCategory[cat.id].length, category: esc(catLower(cat)) })}</a></p>
+${compares.length ? `<section aria-labelledby="more"><h2 id="more">${th('Comparisons')}</h2><ul class="inline-list">${compares.map((c) => `<li><a href="${u(c.path)}">${esc(c.a.name)} vs ${esc(c.b.name)}</a></li>`).join('')}</ul></section>` : ''}`;
 
   const picks = alt.list.filter((x) => x.pick).map((x) => x.name);
   return layout({
@@ -1290,6 +1413,7 @@ ${x.pick ? `<p><strong>${th('Why it is our pick:')}</strong> ${esc(t(x.pick_reas
       : t('Private and open-source alternatives to {name}, rated by public privacy criteria with evidence and security tests.', { name: e.name }),
     body,
     pathname: alt.path,
+    lastmod: e.lastmod,
     og: { kind: 'list', title: `Alternatives to ${e.name}`, kicker: cat.name, entries: alt.list, foot: 'Private and open-source options, rated' },
     jsonld: [
       breadcrumbs([[t('Home'), '/'], [t(cat.name), `/${cat.id}/`], [t('Alternatives to {name}', { name: e.name }), alt.path]]),
@@ -1297,10 +1421,39 @@ ${x.pick ? `<p><strong>${th('Why it is our pick:')}</strong> ${esc(t(x.pick_reas
         '@type': 'CollectionPage',
         name: t('Alternatives to {name}', { name: e.name }),
         url: abs(alt.path),
-        mainEntity: { '@type': 'ItemList', itemListElement: alt.list.map((x, i) => ({ '@type': 'ListItem', position: i + 1, name: x.name, url: abs(x.path) })) }
-      }
+        ...(question ? { description: question.text } : {}),
+        ...(e.lastmod ? { dateModified: e.lastmod } : {}),
+        mainEntity: { '@type': 'ItemList', numberOfItems: alt.list.length, itemListElement: alt.list.map((x, i) => ({ '@type': 'ListItem', position: i + 1, name: x.name, url: abs(x.path) })) }
+      },
+      ...(question ? [faqPage([question])] : [])
     ]
   });
+}
+
+// "What is the best private alternative to X?": the picks with their reasons, or else every
+// graded alternative with the highest score, then the disclosure of an affiliated entry. Null
+// when there is neither a pick nor a graded alternative.
+function alternativesQuestion(alt) {
+  const e = alt.entry;
+  const picks = alt.list.filter((x) => x.pick);
+  let named;
+  let text;
+  if (picks.length) {
+    const names = joinList(picks.map((x) => x.name), 'or');
+    named = picks;
+    text = `${picks.length > 1 ? t('Our picks are {names}.', { names }) : t('Our pick is {names}.', { names })} ${pickReasons(picks)}`;
+  } else {
+    const graded = alt.list.filter((x) => x.rating.grade);
+    if (!graded.length) return null;
+    const best = Math.max(...graded.map((x) => x.rating.score));
+    named = graded.filter((x) => x.rating.score === best);
+    const { grade } = named[0].rating;
+    text =
+      named.length > 1
+        ? t('{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).', { names: joinList(named.map((x) => x.name)), score: best, grade })
+        : t('{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).', { name: named[0].name, score: best, grade });
+  }
+  return { q: t('What is the best private alternative to {name}?', { name: e.name }), text: `${text} ${disclosures(named)}`.trim() };
 }
 
 // ---------- guides ----------
@@ -1426,7 +1579,7 @@ function jurisdictionsPage(page) {
 <tbody>${rows}</tbody></table></div>
 <p class="muted">${th('Country data lives in {file}. Every note links to its source.', { file: `<a href="${REPO}/blob/${site.branch}/jurisdictions.yml">jurisdictions.yml</a>` })}</p>`;
   const title = t(page.title);
-  return layout({ title, description: t(page.description), body, pathname: page.path, og: { kind: 'page', title: page.title, text: page.description, kicker: 'Jurisdictions', stats: [['Countries', String(countries.length)]] }, jsonld: [breadcrumbs([[t('Home'), '/'], [t('Jurisdictions'), page.path]]), { '@type': 'Article', headline: title, url: abs(page.path), author: { '@id': `${SITE_URL}/#organization` }, publisher: { '@id': `${SITE_URL}/#organization` }, dateModified: ctx.lastmod(page.file, 'jurisdictions.yml') || undefined }], lastmod: ctx.lastmod(page.file, 'jurisdictions.yml'), type: 'article' });
+  return layout({ title, description: t(page.description), body, pathname: page.path, og: { kind: 'page', title: page.title, text: page.description, kicker: 'Jurisdictions', stats: [['Countries', String(countries.length)]] }, jsonld: [breadcrumbs([[t('Home'), '/'], [t('Jurisdictions'), page.path]]), { '@type': 'Article', headline: title, description: t(page.description), url: abs(page.path), mainEntityOfPage: abs(page.path), author: { '@id': `${SITE_URL}/#organization` }, publisher: { '@id': `${SITE_URL}/#organization` }, datePublished: ctx.created(page.file) || undefined, dateModified: ctx.lastmod(page.file, 'jurisdictions.yml') || undefined }], lastmod: ctx.lastmod(page.file, 'jurisdictions.yml'), type: 'article' });
 }
 
 function countryPage(c) {
@@ -1692,7 +1845,7 @@ function docPage(doc) {
     type: 'article',
     og: { kind: 'page', title: doc.title, text: doc.description, kicker: 'Docs' },
     lastmod: lm,
-    jsonld: [breadcrumbs([[t('Home'), '/'], [title, doc.path]]), { '@type': 'Article', headline: title, description, url: abs(doc.path), author: { '@id': `${SITE_URL}/#organization` }, publisher: { '@id': `${SITE_URL}/#organization` }, ...(lm ? { dateModified: lm } : {}) }]
+    jsonld: [breadcrumbs([[t('Home'), '/'], [title, doc.path]]), { '@type': 'Article', headline: title, description, url: abs(doc.path), mainEntityOfPage: abs(doc.path), author: { '@id': `${SITE_URL}/#organization` }, publisher: { '@id': `${SITE_URL}/#organization` }, ...(ctx.created(doc.file) ? { datePublished: ctx.created(doc.file) } : {}), ...(lm ? { dateModified: lm } : {}) }]
   });
 }
 
@@ -1728,6 +1881,11 @@ module.exports = {
   abs,
   summarize,
   jurisdictionFacts,
+  compareQuestion,
+  alternativesQuestion,
+  ABOUT,
+  aboutVars,
+  TITLE_MAX,
   homePage,
   categoryPage,
   entryPage,

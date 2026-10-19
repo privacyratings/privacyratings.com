@@ -5,7 +5,8 @@
 
 const { execFileSync } = require('node:child_process');
 const ctx = require('./context');
-const { summarize, jurisdictionFacts, LABEL, lowerName } = require('./templates');
+const { summarize, jurisdictionFacts, LABEL, lowerName, compareQuestion, alternativesQuestion, ABOUT, aboutVars } = require('./templates');
+const { t: tr } = require('./i18n');
 const { platformName } = require('./lib');
 
 const { site, SITE_URL, REPO, NOW, categories, catById, criteria, criteriaFor, entries, inCategory, comparisons, alternatives, openSource, topics, countries, pages, DOCS, MIN_COVERAGE } = ctx;
@@ -35,6 +36,10 @@ function homeMd() {
 
 ${entries.length} apps and services across ${categories.length} categories, scored against public criteria with evidence links, jurisdiction details and automated security tests. Managed entirely on GitHub: ${REPO}
 
+## What is Privacy Ratings?
+
+${tr(ABOUT, aboutVars())}
+
 ## Our picks
 
 ${picks.join('\n')}
@@ -50,6 +55,7 @@ ${groups.join('\n\n')}
 - ${mdLink('What is the CLOUD Act?', '/cloud-act/')}
 - ${mdLink('Automated tests', '/tests/')}
 - ${mdLink('Why Privacy Ratings exists', '/why/')}
+- ${mdLink('Privacy policy', '/privacy/')}
 - ${mdLink('All data as JSON', '/api/ratings.json')}
 `;
 }
@@ -119,7 +125,12 @@ function compareMd(c) {
   const A = Object.fromEntries(a.rating.answers.map((x) => [x.criterion.id, x]));
   const B = Object.fromEntries(b.rating.answers.map((x) => [x.criterion.id, x]));
   const crit = criteriaFor(criteria, cat).filter((x) => !(x.services && cat.type !== 'service'));
+  const question = compareQuestion(c);
   return `# ${a.name} vs ${b.name}: privacy compared
+
+## ${question.q}
+
+${question.text}
 
 | Criterion | ${a.name} | ${b.name} |
 | --- | --- | --- |
@@ -137,7 +148,10 @@ Source: ${abs(c.path)}
 
 function alternativesMd(alt) {
   const aka = alt.entry.aliases?.length ? `\n\nAlso covers ${alt.entry.aliases.join(', ')}.` : '';
+  const question = alternativesQuestion(alt);
   return `# Private and open-source alternatives to ${alt.entry.name}${aka}
+
+${question ? `## ${question.q}\n\n${question.text}\n\n` : ''}## The alternatives
 
 ${alt.list.map((x, i) => `${i + 1}. ${mdLink(x.name, x.path)}${x.pick ? ' (our pick)' : ''}: ${grade(x)}. ${x.description || ''}`).join('\n')}
 
@@ -280,6 +294,9 @@ Every page has a Markdown version at the same URL plus \`index.md\`. The full da
 - ${mdLink('Automated tests', '/tests/index.md')}: SSL Labs, HTTP Observatory, Internet.nl, Hardenize
 - ${mdLink('Why Privacy Ratings exists', '/why/index.md')}
 - ${mdLink('Governance and conflicts of interest', '/governance/index.md')}
+- ${mdLink('Contribute', '/contribute/index.md')}: how to suggest, correct and review ratings on GitHub
+- ${mdLink('Badges', '/badges/index.md')}: embeddable badges with the current grade of any entry
+${pages.filter((p) => !['jurisdictions', 'cloud-act'].includes(p.slug)).map((p) => `- ${mdLink(p.title, `${p.path}index.md`)}: ${p.description}`).join('\n')}
 - ${mdLink('Command-line tool', '/cli/index.md')}: search ratings from a terminal, with JSON output (\`npx privacyratings search <words> --json\`)
 - ${mdLink('Compact index for tools', '/api/cli.json')}: every entry with grade, score and pick, plus alternatives lists
 
@@ -302,6 +319,17 @@ ${topics.map((t) => `- ${mdLink(t.h1, `${t.path}index.md`)}: ${t.description}`).
 ## Open-source lists
 
 ${openSource.map((o) => `- ${mdLink(`Open-source ${lowerName(o.category.name)}`, `${o.path}index.md`)}`).join('\n')}
+
+## Comparisons
+
+${comparisons.length} side-by-side comparisons of two entries in the same category, at \`/compare/<category>/<a>-vs-<b>/\`. Each category page links to its comparisons, for example:
+
+${categories
+  .map((c) => comparisons.find((x) => x.category === c.id))
+  .filter(Boolean)
+  .slice(0, 20)
+  .map((x) => `- ${mdLink(`${x.a.name} vs ${x.b.name}`, `${x.path}index.md`)}`)
+  .join('\n')}
 
 ## Data
 
@@ -458,7 +486,7 @@ ${files.map(({ file, lastmod }) => `  <sitemap><loc>${xml(abs(`/${file}`))}</loc
 }
 
 function robots() {
-  const bots = ['Googlebot', 'Bingbot', 'DuckDuckBot', 'Applebot', 'Applebot-Extended', 'Google-Extended', 'GPTBot', 'OAI-SearchBot', 'ChatGPT-User', 'ClaudeBot', 'Claude-User', 'Claude-SearchBot', 'anthropic-ai', 'PerplexityBot', 'Perplexity-User', 'CCBot', 'Meta-ExternalAgent', 'MistralAI-User', 'cohere-ai', 'Amazonbot', 'YouBot'];
+  const bots = ['Googlebot', 'Bingbot', 'DuckDuckBot', 'Applebot', 'Applebot-Extended', 'Google-Extended', 'GPTBot', 'OAI-SearchBot', 'ChatGPT-User', 'ClaudeBot', 'Claude-User', 'Claude-SearchBot', 'anthropic-ai', 'PerplexityBot', 'Perplexity-User', 'CCBot', 'Meta-ExternalAgent', 'DuckAssistBot', 'MistralAI-User', 'cohere-ai', 'Amazonbot', 'YouBot'];
   // A crawler reads only the group that names it, so every group repeats the content signal.
   const signal = 'Content-Signal: search=yes, ai-input=yes, ai-train=yes';
   return `# Privacy Ratings welcomes search engines and AI crawlers.
@@ -474,6 +502,28 @@ ${signal}
 
 Sitemap: ${abs('/sitemap.xml')}
 `;
+}
+
+// RFC 9727 API catalog at /.well-known/api-catalog: the public JSON files, for agents that look
+// for APIs there. llms.txt describes the same files.
+function apiCatalog() {
+  return JSON.stringify(
+    {
+      linkset: [
+        {
+          anchor: abs('/.well-known/api-catalog'),
+          item: [
+            { href: abs('/api/ratings.json'), type: 'application/json', title: 'All ratings, criteria and jurisdictions' },
+            { href: abs('/api/search.json'), type: 'application/json', title: 'Search index' },
+            { href: abs('/api/cli.json'), type: 'application/json', title: 'Compact index used by the command-line tool' }
+          ],
+          'service-doc': [{ href: abs('/llms.txt'), type: 'text/markdown' }]
+        }
+      ]
+    },
+    null,
+    2
+  );
 }
 
 function feed() {
@@ -671,6 +721,7 @@ module.exports = {
   sitemap,
   sitemapIndex,
   robots,
+  apiCatalog,
   feed,
   manifest,
   serviceWorker

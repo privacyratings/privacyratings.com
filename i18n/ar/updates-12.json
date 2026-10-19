@@ -1,0 +1,19 @@
+{
+ "Privacy policy": "سياسة الخصوصية",
+ "What is Privacy Ratings?": "ما هو Privacy Ratings؟",
+ "Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each \"yes\" or \"partial\" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.": "Privacy Ratings موقع مفتوح المصدر يقيّم {n} من التطبيقات والخدمات في {categories} فئة وفق {criteria} معيارًا عامًا للخصوصية. كل إجابة بـ«نعم» أو «جزئيًا» مرتبطة بدليل يمكن لأي شخص التحقق منه. تفحص الاختبارات الآلية TLS وترويسات الأمان ومعايير البريد الإلكتروني لـ{tested} خدمة مستضافة. يحصل كل إدخال على درجة من 0 إلى 100، وعلى تقدير بحرف من A إلى F عندما تغطي الأدلة {pct}% على الأقل من معاييره حسب الوزن. يتولى صيانة المشروع الفريق الذي يقف وراء Forward Email، وتحمل الإدخالات المرتبطة به إفصاحًا.",
+ "{n} apps and services rated for privacy": "{n} من التطبيقات والخدمات مقيّمة من حيث الخصوصية",
+ "{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.": "يحصل {winner} على درجة أعلى وفق المعايير العامة: {high} من 100، مقابل {low} لـ{loser}.",
+ "{a} and {b} have the same score: {score} out of 100.": "يحصل {a} و{b} على الدرجة نفسها: {score} من 100.",
+ "Which is more private, {a} or {b}?": "أيهما أكثر خصوصية، {a} أم {b}؟",
+ "What is the best private alternative to {name}?": "ما أفضل بديل يحترم الخصوصية لـ{name}؟",
+ "{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).": "يحصل {name} على أعلى درجة بين هذه البدائل: {score} من 100 (التقدير {grade}).",
+ "{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).": "يتقاسم {names} أعلى درجة بين هذه البدائل: {score} من 100 (التقدير {grade}).",
+ "What happens to your data when you visit Privacy Ratings or use its command-line tool. No cookies, analytics or trackers, and nothing loads from other sites.": "ما الذي يحدث لبياناتك عند زيارة Privacy Ratings أو استخدام أداة سطر الأوامر الخاصة به. لا ملفات تعريف ارتباط ولا تحليلات ولا أدوات تتبع، ولا يُحمَّل أي شيء من مواقع أخرى.",
+ "Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.": "لماذا يوجد Privacy Ratings: معايير عامة، ودليل لكل إجابة، واختبارات أمان آلية، وبيانات مفتوحة، مع الإفصاح عن تضارب المصالح.",
+ "How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.": "كيف تقترح تطبيقًا، أو تصحح تقييمًا، أو تقترح معايير، أو تترجم الموقع. تجري كل المساهمات علنًا عبر بلاغات GitHub وطلبات السحب.",
+ "How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.": "كيف تُقبل التغييرات، وكيف تُختار التوصيات، وكيف يُتعامل مع تضارب المصالح، بما في ذلك مراجعة أشد للإدخالات المرتبطة بـ Forward Email.",
+ "How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.": "كيف تُختبر الخدمات المستضافة باستخدام SSL Labs وMozilla HTTP Observatory وInternet.nl وHardenize، إلى جانب فحص معايير البريد الإلكتروني وأدوات التتبع في المواقع.",
+ "Internet.nl email score {pct}%": "نتيجة البريد الإلكتروني في Internet.nl: ‏{pct}%",
+ "Internet.nl website score {pct}%": "نتيجة الموقع في Internet.nl: ‏{pct}%"
+}

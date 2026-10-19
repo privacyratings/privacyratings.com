@@ -1,0 +1,19 @@
+{
+ "Privacy policy": "Chính sách quyền riêng tư",
+ "What is Privacy Ratings?": "Privacy Ratings là gì?",
+ "Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each \"yes\" or \"partial\" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.": "Privacy Ratings là trang web mã nguồn mở chấm điểm {n} ứng dụng và dịch vụ trong {categories} danh mục theo {criteria} tiêu chí quyền riêng tư công khai. Mỗi câu trả lời \"có\" hoặc \"một phần\" đều liên kết đến bằng chứng mà ai cũng kiểm tra được. Các bài kiểm tra tự động xem xét TLS, tiêu đề bảo mật và tiêu chuẩn email của {tested} dịch vụ được lưu trữ. Mỗi mục nhận điểm từ 0 đến 100, và hạng chữ từ A đến F khi bằng chứng bao phủ ít nhất {pct}% tiêu chí của mục đó theo trọng số. Đội ngũ đứng sau Forward Email duy trì dự án, và các mục có liên quan đều kèm công bố.",
+ "{n} apps and services rated for privacy": "{n} ứng dụng và dịch vụ được xếp hạng về quyền riêng tư",
+ "{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.": "{winner} đạt điểm cao hơn theo tiêu chí công khai: {high} trên 100, so với {low} của {loser}.",
+ "{a} and {b} have the same score: {score} out of 100.": "{a} và {b} có cùng điểm: {score} trên 100.",
+ "Which is more private, {a} or {b}?": "{a} hay {b} riêng tư hơn?",
+ "What is the best private alternative to {name}?": "Lựa chọn thay thế riêng tư tốt nhất cho {name} là gì?",
+ "{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).": "{name} có điểm cao nhất trong các lựa chọn thay thế này: {score} trên 100 (hạng {grade}).",
+ "{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).": "{names} cùng có điểm cao nhất trong các lựa chọn thay thế này: {score} trên 100 (hạng {grade}).",
+ "What happens to your data when you visit Privacy Ratings or use its command-line tool. No cookies, analytics or trackers, and nothing loads from other sites.": "Điều gì xảy ra với dữ liệu của bạn khi bạn truy cập Privacy Ratings hoặc dùng công cụ dòng lệnh. Không cookie, không phân tích, không trình theo dõi, và không tải gì từ trang web khác.",
+ "Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.": "Vì sao có Privacy Ratings: tiêu chí công khai, bằng chứng cho mọi câu trả lời, kiểm tra bảo mật tự động và dữ liệu mở, cùng việc công bố xung đột lợi ích.",
+ "How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.": "Cách đề xuất ứng dụng, sửa một đánh giá, đề xuất tiêu chí hoặc dịch trang web. Mọi đóng góp đều diễn ra công khai qua issue và pull request trên GitHub.",
+ "How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.": "Cách chấp nhận thay đổi, cách chọn lựa chọn đề xuất và cách xử lý xung đột lợi ích, bao gồm việc xem xét chặt chẽ hơn các mục liên quan đến Forward Email.",
+ "How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.": "Cách kiểm tra các dịch vụ được lưu trữ bằng SSL Labs, Mozilla HTTP Observatory, Internet.nl và Hardenize, cùng việc kiểm tra tiêu chuẩn email và trình theo dõi trên trang web.",
+ "Internet.nl email score {pct}%": "Điểm email Internet.nl {pct}%",
+ "Internet.nl website score {pct}%": "Điểm trang web Internet.nl {pct}%"
+}

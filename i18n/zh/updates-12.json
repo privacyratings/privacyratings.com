@@ -1,0 +1,19 @@
+{
+ "Privacy policy": "隐私政策",
+ "What is Privacy Ratings?": "Privacy Ratings 是什么？",
+ "Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each \"yes\" or \"partial\" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.": "Privacy Ratings 是一个开源网站，按 {criteria} 条公开的隐私标准，为 {categories} 个类别中的 {n} 个应用和服务评分。每个“是”或“部分”的回答都链接到任何人都能核实的证据。自动测试会检查 {tested} 个托管服务的 TLS、安全响应头和电子邮件标准。每个条目都有 0 到 100 的得分；当证据按权重覆盖至少 {pct}% 的标准后，还会获得 A 到 F 的字母等级。项目由 Forward Email 背后的团队维护，相关条目附有利益披露。",
+ "{n} apps and services rated for privacy": "{n} 个应用和服务的隐私评分",
+ "{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.": "按公开标准，{winner} 得分更高：{high}/100，{loser} 为 {low}。",
+ "{a} and {b} have the same score: {score} out of 100.": "{a} 和 {b} 得分相同：{score}/100。",
+ "Which is more private, {a} or {b}?": "{a} 和 {b}，哪个更注重隐私？",
+ "What is the best private alternative to {name}?": "{name} 最好的隐私替代品是什么？",
+ "{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).": "在这些替代品中，{name} 得分最高：{score}/100（等级 {grade}）。",
+ "{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).": "在这些替代品中，{names} 并列得分最高：{score}/100（等级 {grade}）。",
+ "What happens to your data when you visit Privacy Ratings or use its command-line tool. No cookies, analytics or trackers, and nothing loads from other sites.": "说明你访问 Privacy Ratings 或使用其命令行工具时数据会如何处理。没有 Cookie、分析或跟踪器，也不会从其他网站加载任何内容。",
+ "Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.": "Privacy Ratings 为什么存在：公开标准、每个回答都有证据、自动安全测试和开放数据，并披露利益冲突。",
+ "How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.": "如何推荐应用、更正评分、提议标准或翻译本站。所有贡献都通过 GitHub 的 Issue 和拉取请求公开进行。",
+ "How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.": "如何接受更改、如何选出推荐，以及如何处理利益冲突，包括对与 Forward Email 相关的条目进行更严格的审查。",
+ "How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.": "如何用 SSL Labs、Mozilla HTTP Observatory、Internet.nl 和 Hardenize 测试托管服务，以及如何检查电子邮件标准和网站跟踪器。",
+ "Internet.nl email score {pct}%": "Internet.nl 电子邮件得分 {pct}%",
+ "Internet.nl website score {pct}%": "Internet.nl 网站得分 {pct}%"
+}

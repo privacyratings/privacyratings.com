@@ -38,7 +38,29 @@ function gitDates() {
   return dates;
 }
 
+// The date each file was first committed, for datePublished. Empty without git history.
+function gitAdded() {
+  const dates = {};
+  try {
+    const out = execFileSync('git', ['log', '--format=@%cI', '--name-only', '--no-renames', '--diff-filter=A', '--', 'pages', 'WHY.md', 'CONTRIBUTING.md', 'GOVERNANCE.md', 'SCANS.md'], {
+      cwd: ROOT,
+      encoding: 'utf8',
+      maxBuffer: 16 * 1024 * 1024,
+      stdio: ['ignore', 'pipe', 'ignore']
+    });
+    let current = null;
+    // Newest first, so the last date seen for a file is when it was first added.
+    for (const line of out.split('\n')) {
+      if (line.startsWith('@')) current = line.slice(1);
+      else if (line && current) dates[line] = current;
+    }
+  } catch {}
+
+  return dates;
+}
+
 const DATES = gitDates();
+const ADDED = gitAdded();
 const NOW = new Date().toISOString();
 const lastmod = (...files) =>
   files
@@ -46,6 +68,7 @@ const lastmod = (...files) =>
     .filter(Boolean)
     .sort()
     .pop() || null;
+const created = (file) => ADDED[file] || null;
 
 // ---------- entry helpers ----------
 
@@ -260,10 +283,10 @@ const pages = fs.existsSync(PAGE_DIR)
   : [];
 
 const DOCS = [
-  { file: 'WHY.md', path: '/why/', title: 'Why Privacy Ratings exists', description: 'The reasons behind Privacy Ratings and how it differs from other privacy guides.' },
-  { file: 'CONTRIBUTING.md', path: '/contribute/', title: 'Contribute to Privacy Ratings', description: 'How to suggest, correct and review privacy ratings on GitHub.' },
-  { file: 'GOVERNANCE.md', path: '/governance/', title: 'Governance and conflicts of interest', description: 'How decisions, picks and conflicts of interest are handled at Privacy Ratings.' },
-  { file: 'SCANS.md', path: '/tests/', title: 'Automated security tests', description: 'How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize.' }
+  { file: 'WHY.md', path: '/why/', title: 'Why Privacy Ratings exists', description: 'Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.' },
+  { file: 'CONTRIBUTING.md', path: '/contribute/', title: 'Contribute to Privacy Ratings', description: 'How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.' },
+  { file: 'GOVERNANCE.md', path: '/governance/', title: 'Governance and conflicts of interest', description: 'How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.' },
+  { file: 'SCANS.md', path: '/tests/', title: 'Automated security tests', description: 'How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.' }
 ].map((d) => ({ ...d, body: fs.readFileSync(path.join(ROOT, d.file), 'utf8') }));
 
 module.exports = {
@@ -289,6 +312,7 @@ module.exports = {
   pages,
   DOCS,
   lastmod,
+  created,
   answered,
   criterionAnchor
 };

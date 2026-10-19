@@ -1,0 +1,19 @@
+{
+ "Privacy policy": "Політика конфіденційності",
+ "What is Privacy Ratings?": "Що таке Privacy Ratings?",
+ "Privacy Ratings is an open-source site that scores {n} apps and services in {categories} categories against {criteria} public privacy criteria. Each \"yes\" or \"partial\" answer links to evidence anyone can check. Automated tests check TLS, security headers and email standards for {tested} hosted services. Each entry gets a score from 0 to 100, and a letter grade from A to F once evidence covers at least {pct}% of its criteria by weight. The team behind Forward Email maintains the project, and affiliated entries carry a disclosure.": "Сайт Privacy Ratings із відкритим кодом оцінює застосунки й сервіси ({n}) у категоріях ({categories}) за публічними критеріями приватності ({criteria}). Кожна відповідь «так» або «частково» посилається на доказ, який може перевірити будь-хто. Автоматичні тести перевіряють TLS, заголовки безпеки та поштові стандарти розміщених сервісів ({tested}). Кожен запис отримує бал від 0 до 100 і літерну оцінку від A до F, коли докази покривають щонайменше {pct}% його критеріїв за вагою. Проєкт підтримує команда Forward Email, а пов'язані з нею записи мають розкриття інформації.",
+ "{n} apps and services rated for privacy": "Оцінки приватності застосунків і сервісів ({n})",
+ "{winner} scores higher on the public criteria: {high} out of 100, against {low} for {loser}.": "У {winner} вищий бал за публічними критеріями: {high} зі 100 проти {low} у {loser}.",
+ "{a} and {b} have the same score: {score} out of 100.": "У {a} і {b} однаковий бал: {score} зі 100.",
+ "Which is more private, {a} or {b}?": "Що приватніше: {a} чи {b}?",
+ "What is the best private alternative to {name}?": "Яка приватна альтернатива {name} найкраща?",
+ "{name} has the highest score among these alternatives: {score} out of 100 (grade {grade}).": "У {name} найвищий бал серед цих альтернатив: {score} зі 100 (оцінка {grade}).",
+ "{names} share the highest score among these alternatives: {score} out of 100 (grade {grade}).": "У {names} однаково найвищий бал серед цих альтернатив: {score} зі 100 (оцінка {grade}).",
+ "What happens to your data when you visit Privacy Ratings or use its command-line tool. No cookies, analytics or trackers, and nothing loads from other sites.": "Що відбувається з вашими даними, коли ви відвідуєте Privacy Ratings або користуєтеся його інструментом командного рядка. Без cookie, аналітики й трекерів, і нічого не завантажується з інших сайтів.",
+ "Why Privacy Ratings exists: public criteria, evidence for every answer, automated security tests and open data, with conflicts of interest disclosed.": "Навіщо існує Privacy Ratings: публічні критерії, доказ для кожної відповіді, автоматичні тести безпеки й відкриті дані, з розкритим конфліктом інтересів.",
+ "How to suggest an app, correct a rating, propose criteria or translate the site. All contributions happen in public on GitHub issues and pull requests.": "Як запропонувати застосунок, виправити оцінку, запропонувати критерії або перекласти сайт. Уся участь відбувається відкрито через issues і pull requests на GitHub.",
+ "How changes are accepted, how picks are chosen and how conflicts of interest are handled, including stricter review for entries tied to Forward Email.": "Як приймаються зміни, як обираються рекомендації та як вирішуються конфлікти інтересів, зокрема суворіша перевірка записів, пов'язаних із Forward Email.",
+ "How hosted services are tested with SSL Labs, Mozilla HTTP Observatory, Internet.nl and Hardenize, plus email standards and website tracker checks.": "Як розміщені сервіси перевіряються за допомогою SSL Labs, Mozilla HTTP Observatory, Internet.nl і Hardenize, а також перевірки поштових стандартів і трекерів на сайтах.",
+ "Internet.nl email score {pct}%": "Бал пошти Internet.nl: {pct}%",
+ "Internet.nl website score {pct}%": "Бал вебсайту Internet.nl: {pct}%"
+}
