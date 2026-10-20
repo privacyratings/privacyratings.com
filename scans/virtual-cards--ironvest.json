@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ironvest.com",
     "tested_at": "2026-10-17T08:37:20.687Z"
   },
-  "scanned_at": "2026-10-17T08:37:22.308Z",
+  "scanned_at": "2026-10-20T09:46:21.251Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=ironvest.com&hideResults=on",
-    "tested_at": "2026-10-06T11:25:09.340Z"
+    "tested_at": "2026-10-20T09:46:21.251Z"
   },
   "trackers": {
     "url": "https://ironvest.com",

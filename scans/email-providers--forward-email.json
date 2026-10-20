@@ -52,7 +52,7 @@
         }
       }
     },
-    "tested_at": "2026-10-19T09:58:41.126Z",
+    "tested_at": "2026-10-20T09:28:33.542Z",
     "imap": {
       "host": "imap.forwardemail.net",
       "port": 993,
@@ -118,7 +118,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
     "tested_at": "2026-10-09T11:21:27.027Z"
   },
-  "scanned_at": "2026-10-19T09:58:41.934Z",
+  "scanned_at": "2026-10-20T09:28:34.744Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

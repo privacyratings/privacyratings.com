@@ -3,9 +3,9 @@
     "repo": "trezor/trezor-firmware",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:59:56.999Z"
+    "checked_at": "2026-10-20T09:28:24.600Z"
   },
-  "scanned_at": "2026-10-01T07:01:10.688Z",
+  "scanned_at": "2026-10-20T09:28:24.600Z",
   "trackers": {
     "url": "https://trezor.io",
     "found": [

@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-19T09:58:25.863Z",
+    "tested_at": "2026-10-20T09:28:27.279Z",
     "imap": {
       "host": "imap.aol.com",
       "port": 993,
@@ -99,7 +99,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.aol.com",
     "tested_at": "2026-10-09T11:21:54.658Z"
   },
-  "scanned_at": "2026-10-19T09:58:34.181Z",
+  "scanned_at": "2026-10-20T09:28:29.248Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tinyurl.com",
     "tested_at": "2026-10-17T08:37:20.605Z"
   },
-  "scanned_at": "2026-10-17T08:37:20.896Z",
+  "scanned_at": "2026-10-20T09:49:01.120Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tinyurl.com&hideResults=on",
-    "tested_at": "2026-10-06T11:25:09.144Z"
+    "tested_at": "2026-10-20T09:49:01.120Z"
   },
   "trackers": {
     "url": "https://tinyurl.com",

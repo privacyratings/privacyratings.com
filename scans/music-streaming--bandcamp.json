@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bandcamp.com",
     "tested_at": "2026-10-18T08:53:34.350Z"
   },
-  "scanned_at": "2026-10-18T08:53:34.669Z",
+  "scanned_at": "2026-10-20T09:47:10.210Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bandcamp.com&hideResults=on",
-    "tested_at": "2026-10-06T11:25:10.125Z"
+    "tested_at": "2026-10-20T09:47:10.209Z"
   },
   "trackers": {
     "url": "https://bandcamp.com",

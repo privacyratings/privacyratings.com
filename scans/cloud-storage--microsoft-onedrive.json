@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=onedrive.live.com",
     "tested_at": "2026-10-17T08:36:53.719Z"
   },
-  "scanned_at": "2026-10-17T08:36:56.404Z",
+  "scanned_at": "2026-10-20T09:37:44.884Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

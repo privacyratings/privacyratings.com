@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=icedrive.net",
-    "tested_at": "2026-10-08T11:25:27.285Z"
+    "tested_at": "2026-10-20T09:29:00.842Z"
   },
-  "scanned_at": "2026-10-08T11:48:58.092Z",
+  "scanned_at": "2026-10-20T09:29:02.425Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
