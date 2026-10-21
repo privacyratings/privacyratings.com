@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=partyvpn.com",
     "tested_at": "2026-10-19T09:58:40.422Z"
   },
-  "scanned_at": "2026-10-19T09:58:41.100Z",
+  "scanned_at": "2026-10-21T09:35:21.343Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

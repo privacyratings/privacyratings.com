@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovpn.com",
     "tested_at": "2026-10-19T09:58:39.725Z"
   },
-  "scanned_at": "2026-10-19T09:58:42.091Z",
+  "scanned_at": "2026-10-21T09:34:50.581Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=telegra.ph",
-    "tested_at": "2026-10-08T11:25:32.940Z"
+    "tested_at": "2026-10-21T09:24:57.566Z"
   },
-  "scanned_at": "2026-10-09T11:34:37.589Z",
+  "scanned_at": "2026-10-21T09:24:58.994Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

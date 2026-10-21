@@ -3,9 +3,9 @@
     "repo": "mastodon/mastodon",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:57.733Z"
+    "checked_at": "2026-10-21T09:24:07.470Z"
   },
-  "scanned_at": "2026-10-01T07:01:12.524Z",
+  "scanned_at": "2026-10-21T09:24:07.470Z",
   "trackers": {
     "url": "https://joinmastodon.org",
     "found": [

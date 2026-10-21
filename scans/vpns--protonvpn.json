@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=protonvpn.com",
     "tested_at": "2026-10-19T09:58:41.178Z"
   },
-  "scanned_at": "2026-10-19T09:58:42.985Z",
+  "scanned_at": "2026-10-21T09:34:36.879Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=protonvpn.com&hideResults=on",
-    "tested_at": "2026-10-08T11:26:20.143Z"
+    "tested_at": "2026-10-21T09:34:36.879Z"
   },
   "trackers": {
     "url": "https://protonvpn.com",

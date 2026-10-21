@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.duocircle.com",
-    "tested_at": "2026-10-09T11:22:00.088Z"
+    "tested_at": "2026-10-21T09:24:13.964Z"
   },
-  "scanned_at": "2026-10-10T10:47:05.008Z",
+  "scanned_at": "2026-10-21T09:24:23.287Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

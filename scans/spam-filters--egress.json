@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=switch.egress.com",
-    "tested_at": "2026-10-09T11:22:00.375Z"
+    "tested_at": "2026-10-21T09:24:14.366Z"
   },
-  "scanned_at": "2026-10-10T10:48:15.021Z",
+  "scanned_at": "2026-10-21T09:24:19.454Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

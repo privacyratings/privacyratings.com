@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dub.co",
     "tested_at": "2026-10-17T08:37:19.496Z"
   },
-  "scanned_at": "2026-10-20T09:42:18.949Z",
+  "scanned_at": "2026-10-21T09:39:17.329Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dub.co&hideResults=on",
-    "tested_at": "2026-10-06T11:25:08.749Z"
+    "tested_at": "2026-10-21T09:39:17.329Z"
   },
   "trackers": {
     "url": "https://dub.co",

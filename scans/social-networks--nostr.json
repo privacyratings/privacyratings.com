@@ -3,9 +3,9 @@
     "repo": "nostr-protocol/nips",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T06:59:57.770Z"
+    "checked_at": "2026-10-21T09:24:07.495Z"
   },
-  "scanned_at": "2026-10-01T07:01:12.299Z",
+  "scanned_at": "2026-10-21T09:24:07.495Z",
   "trackers": {
     "url": "https://github.com/nostr-protocol/nostr",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

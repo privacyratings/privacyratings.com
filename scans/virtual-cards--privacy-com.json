@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privacy.com",
-    "tested_at": "2026-10-08T11:25:30.690Z"
+    "tested_at": "2026-10-21T09:24:55.228Z"
   },
-  "scanned_at": "2026-10-09T11:34:35.203Z",
+  "scanned_at": "2026-10-21T09:24:56.615Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

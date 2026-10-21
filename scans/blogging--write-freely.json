@@ -19,9 +19,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=writefreely.org",
-    "tested_at": "2026-10-08T11:25:34.027Z"
+    "tested_at": "2026-10-21T09:24:58.746Z"
   },
-  "scanned_at": "2026-10-09T11:37:40.244Z",
+  "scanned_at": "2026-10-21T09:25:00.657Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,

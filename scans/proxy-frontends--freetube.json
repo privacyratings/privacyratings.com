@@ -4,7 +4,7 @@
     "repo": "FreeTubeApp/FreeTube",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T06:59:58.948Z"
+    "checked_at": "2026-10-21T09:24:06.987Z"
   },
   "observatory": {
     "grade": "B",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=freetubeapp.io",
     "tested_at": "2026-09-29T17:55:04.548Z"
   },
-  "scanned_at": "2026-10-01T07:01:16.962Z",
+  "scanned_at": "2026-10-21T09:24:06.987Z",
   "trackers": {
     "url": "https://freetubeapp.io",
     "found": [],

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=jmp.chat",
     "tested_at": "2026-10-19T09:58:18.559Z"
   },
-  "scanned_at": "2026-10-19T09:58:19.298Z",
+  "scanned_at": "2026-10-21T09:29:20.707Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=jmp.chat&hideResults=on",
-    "tested_at": "2026-10-07T11:13:16.965Z"
+    "tested_at": "2026-10-21T09:29:20.707Z"
   },
   "trackers": {
     "url": "https://jmp.chat",

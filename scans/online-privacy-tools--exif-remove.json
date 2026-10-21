@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.exifremove.com",
     "tested_at": "2026-10-18T08:53:30.104Z"
   },
-  "scanned_at": "2026-10-18T08:53:30.494Z",
+  "scanned_at": "2026-10-21T09:27:09.386Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

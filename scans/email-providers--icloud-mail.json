@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-20T09:28:45.758Z",
+    "tested_at": "2026-10-21T09:24:17.087Z",
     "imap": {
       "host": "imap.mail.me.com",
       "port": 993,
@@ -85,7 +85,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
     "tested_at": "2026-10-20T09:28:24.660Z"
   },
-  "scanned_at": "2026-10-20T09:29:01.581Z",
+  "scanned_at": "2026-10-21T09:24:32.524Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

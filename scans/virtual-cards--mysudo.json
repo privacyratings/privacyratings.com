@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mysudo.com",
-    "tested_at": "2026-10-08T11:25:30.643Z"
+    "tested_at": "2026-10-21T09:24:54.748Z"
   },
-  "scanned_at": "2026-10-09T11:35:51.961Z",
+  "scanned_at": "2026-10-21T09:24:56.305Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

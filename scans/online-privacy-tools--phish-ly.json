@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=phish.ly",
     "tested_at": "2026-10-18T08:53:32.775Z"
   },
-  "scanned_at": "2026-10-18T08:53:33.545Z",
+  "scanned_at": "2026-10-21T09:26:30.895Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=phish.ly&hideResults=on",
-    "tested_at": "2026-10-07T11:11:36.139Z"
+    "tested_at": "2026-10-21T09:26:30.895Z"
   },
   "trackers": {
     "url": "https://phish.ly",

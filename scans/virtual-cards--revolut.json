@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.revolut.com",
     "tested_at": "2026-10-17T08:37:21.137Z"
   },
-  "scanned_at": "2026-10-20T09:44:44.904Z",
+  "scanned_at": "2026-10-21T09:40:48.461Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.revolut.com&hideResults=on",
-    "tested_at": "2026-10-06T11:25:09.502Z"
+    "tested_at": "2026-10-21T09:40:48.461Z"
   },
   "trackers": {
     "error": "HTTP 403",
