@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gandi.net",
     "tested_at": "2026-10-19T09:58:51.053Z"
   },
-  "scanned_at": "2026-10-19T09:58:53.667Z",
+  "scanned_at": "2026-10-22T09:37:09.777Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.gandi.net&hideResults=on",
-    "tested_at": "2026-10-08T11:31:51.443Z"
+    "tested_at": "2026-10-22T09:37:09.776Z"
   },
   "trackers": {
     "url": "https://www.gandi.net/en",

@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sec-consult.com",
     "tested_at": "2026-10-10T10:39:08.838Z"
   },
-  "scanned_at": "2026-10-11T10:59:41.985Z",
+  "scanned_at": "2026-10-22T09:28:07.799Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

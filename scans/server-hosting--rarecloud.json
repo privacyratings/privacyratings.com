@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rarecloud.io",
     "tested_at": "2026-10-20T09:28:34.304Z"
   },
-  "scanned_at": "2026-10-20T09:28:36.007Z",
+  "scanned_at": "2026-10-22T09:41:18.750Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

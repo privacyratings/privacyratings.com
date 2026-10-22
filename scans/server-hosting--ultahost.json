@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ultahost.com",
     "tested_at": "2026-10-20T09:28:36.149Z"
   },
-  "scanned_at": "2026-10-20T09:28:36.923Z",
+  "scanned_at": "2026-10-22T09:38:19.215Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=ultahost.com&hideResults=on",
-    "tested_at": "2026-10-08T11:47:48.804Z"
+    "tested_at": "2026-10-22T09:38:19.215Z"
   },
   "trackers": {
     "url": "https://ultahost.com",

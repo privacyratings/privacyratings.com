@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.oopspam.com",
-    "tested_at": "2026-10-09T11:22:05.745Z"
+    "tested_at": "2026-10-22T09:26:55.837Z"
   },
-  "scanned_at": "2026-10-11T10:57:11.278Z",
+  "scanned_at": "2026-10-22T09:26:57.016Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

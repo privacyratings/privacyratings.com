@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cleanbrowsing.org",
     "tested_at": "2026-10-19T09:58:47.185Z"
   },
-  "scanned_at": "2026-10-19T09:58:47.692Z",
+  "scanned_at": "2026-10-22T09:35:15.502Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

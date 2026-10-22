@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dnsimple.com",
     "tested_at": "2026-10-15T09:11:32.297Z"
   },
-  "scanned_at": "2026-10-21T09:37:52.626Z",
+  "scanned_at": "2026-10-22T09:33:54.809Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dnsimple.com&hideResults=on",
-    "tested_at": "2026-10-07T11:20:17.059Z"
+    "tested_at": "2026-10-22T09:33:54.809Z"
   },
   "trackers": {
     "url": "https://dnsimple.com",

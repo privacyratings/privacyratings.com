@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.islegitsite.com",
     "tested_at": "2026-10-18T08:53:31.317Z"
   },
-  "scanned_at": "2026-10-21T09:24:50.107Z",
+  "scanned_at": "2026-10-22T09:26:55.555Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=crypton.sh",
     "tested_at": "2026-10-19T09:58:18.503Z"
   },
-  "scanned_at": "2026-10-19T09:58:21.875Z",
+  "scanned_at": "2026-10-22T09:29:28.147Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=crypton.sh&hideResults=on",
-    "tested_at": "2026-10-08T11:32:37.954Z"
+    "tested_at": "2026-10-22T09:29:28.147Z"
   },
   "trackers": {
     "url": "https://crypton.sh",

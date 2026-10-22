@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.trustifi.com",
-    "tested_at": "2026-10-09T11:22:06.910Z"
+    "tested_at": "2026-10-22T09:26:57.116Z"
   },
-  "scanned_at": "2026-10-21T09:24:07.140Z",
+  "scanned_at": "2026-10-22T09:26:57.986Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

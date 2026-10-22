@@ -13,9 +13,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.assured.se",
-    "tested_at": "2026-10-09T11:22:11.293Z"
+    "tested_at": "2026-10-22T09:27:02.709Z"
   },
-  "scanned_at": "2026-10-11T10:55:16.425Z",
+  "scanned_at": "2026-10-22T09:27:04.600Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

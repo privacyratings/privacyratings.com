@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.orangewebsite.com",
     "tested_at": "2026-10-19T09:58:52.341Z"
   },
-  "scanned_at": "2026-10-19T09:58:54.783Z",
+  "scanned_at": "2026-10-22T09:37:11.809Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.orangewebsite.com&hideResults=on",
-    "tested_at": "2026-10-08T11:33:17.985Z"
+    "tested_at": "2026-10-22T09:37:11.809Z"
   },
   "trackers": {
     "url": "https://orangewebsite.com/domains/domain-price-list",

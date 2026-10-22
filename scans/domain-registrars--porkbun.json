@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=porkbun.com",
     "tested_at": "2026-10-19T09:58:52.236Z"
   },
-  "scanned_at": "2026-10-19T09:58:52.701Z",
+  "scanned_at": "2026-10-22T09:36:08.469Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=porkbun.com&hideResults=on",
-    "tested_at": "2026-10-08T11:31:30.649Z"
+    "tested_at": "2026-10-22T09:36:08.469Z"
   },
   "trackers": {
     "url": "https://porkbun.com",

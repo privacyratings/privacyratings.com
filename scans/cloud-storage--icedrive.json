@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=icedrive.net",
     "tested_at": "2026-10-20T09:29:00.842Z"
   },
-  "scanned_at": "2026-10-20T09:29:02.425Z",
+  "scanned_at": "2026-10-22T09:46:55.614Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=icedrive.net&hideResults=on",
-    "tested_at": "2026-10-08T11:48:58.092Z"
+    "tested_at": "2026-10-22T09:46:55.614Z"
   },
   "trackers": {
     "url": "https://icedrive.net",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.cloudflare.com",
     "tested_at": "2026-10-17T08:36:50.682Z"
   },
-  "scanned_at": "2026-10-21T09:38:21.623Z",
+  "scanned_at": "2026-10-22T09:39:47.930Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dash.cloudflare.com&hideResults=on",
-    "tested_at": "2026-10-07T11:19:59.192Z"
+    "tested_at": "2026-10-22T09:39:47.930Z"
   },
   "trackers": {
     "url": "https://www.cloudflare.com/domains/",

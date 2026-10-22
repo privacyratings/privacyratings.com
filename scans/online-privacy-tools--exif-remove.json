@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.exifremove.com",
     "tested_at": "2026-10-18T08:53:30.104Z"
   },
-  "scanned_at": "2026-10-21T09:27:09.386Z",
+  "scanned_at": "2026-10-22T09:29:26.921Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.exifremove.com&hideResults=on",
-    "tested_at": "2026-10-07T11:10:42.877Z"
+    "tested_at": "2026-10-22T09:29:26.921Z"
   },
   "trackers": {
     "url": "https://www.exifremove.com",
