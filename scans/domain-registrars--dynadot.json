@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.dynadot.com",
     "tested_at": "2026-10-19T09:58:50.454Z"
   },
-  "scanned_at": "2026-10-22T09:36:07.921Z",
+  "scanned_at": "2026-10-23T09:30:28.112Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.dynadot.com&hideResults=on",
-    "tested_at": "2026-10-08T11:27:40.528Z"
+    "tested_at": "2026-10-23T09:30:28.112Z"
   },
   "trackers": {
     "url": "https://www.dynadot.com",

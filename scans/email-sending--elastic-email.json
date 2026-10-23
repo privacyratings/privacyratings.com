@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=elasticemail.com",
-    "tested_at": "2026-10-11T10:51:33.993Z"
+    "tested_at": "2026-10-23T09:23:11.896Z"
   },
-  "scanned_at": "2026-10-12T12:04:25.727Z",
+  "scanned_at": "2026-10-23T09:23:13.626Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

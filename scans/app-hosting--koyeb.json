@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.koyeb.com",
-    "tested_at": "2026-10-10T10:39:17.034Z"
+    "tested_at": "2026-10-23T09:23:27.072Z"
   },
-  "scanned_at": "2026-10-11T11:05:44.344Z",
+  "scanned_at": "2026-10-23T09:23:28.432Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

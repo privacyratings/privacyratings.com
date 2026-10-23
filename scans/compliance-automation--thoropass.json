@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=login.thoropass.com",
-    "tested_at": "2026-10-10T10:39:14.763Z"
+    "tested_at": "2026-10-23T09:23:16.062Z"
   },
-  "scanned_at": "2026-10-12T12:20:35.770Z",
+  "scanned_at": "2026-10-23T09:23:16.198Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

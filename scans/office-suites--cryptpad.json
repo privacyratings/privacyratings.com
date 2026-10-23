@@ -4,7 +4,7 @@
     "repo": "cryptpad/cryptpad",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:00.856Z"
+    "checked_at": "2026-10-23T09:23:12.671Z"
   },
   "internetnl": {
     "web": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cryptpad.org",
     "tested_at": "2026-10-20T09:28:40.381Z"
   },
-  "scanned_at": "2026-10-22T09:42:19.026Z",
+  "scanned_at": "2026-10-23T09:34:29.194Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cryptpad.org&hideResults=on",
-    "tested_at": "2026-10-08T11:42:22.691Z"
+    "tested_at": "2026-10-23T09:34:29.194Z"
   },
   "trackers": {
     "url": "https://cryptpad.org",

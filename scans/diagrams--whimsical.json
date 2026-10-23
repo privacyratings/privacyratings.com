@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=whimsical.com",
-    "tested_at": "2026-10-11T10:51:45.823Z"
+    "tested_at": "2026-10-23T09:23:32.953Z"
   },
-  "scanned_at": "2026-10-13T12:07:03.071Z",
+  "scanned_at": "2026-10-23T09:23:33.640Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -4,7 +4,7 @@
     "repo": "mataroablog/mataroa",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:01.529Z"
+    "checked_at": "2026-10-23T09:23:13.306Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mataroa.blog",
     "tested_at": "2026-10-21T09:24:56.701Z"
   },
-  "scanned_at": "2026-10-21T09:24:58.282Z",
+  "scanned_at": "2026-10-23T09:23:13.306Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

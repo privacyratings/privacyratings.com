@@ -4,7 +4,7 @@
     "repo": "picosh/pico",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:01.726Z"
+    "checked_at": "2026-10-23T09:23:13.347Z"
   },
   "internetnl": {
     "web": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=pico.sh",
     "tested_at": "2026-10-21T09:24:56.781Z"
   },
-  "scanned_at": "2026-10-21T09:24:57.421Z",
+  "scanned_at": "2026-10-23T09:38:35.287Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=pico.sh&hideResults=on",
-    "tested_at": "2026-10-09T11:34:37.447Z"
+    "tested_at": "2026-10-23T09:38:35.287Z"
   },
   "trackers": {
     "url": "https://pico.sh",

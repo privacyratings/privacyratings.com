@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=njal.la",
     "tested_at": "2026-10-21T09:24:27.977Z"
   },
-  "scanned_at": "2026-10-21T09:24:29.569Z",
+  "scanned_at": "2026-10-23T09:29:56.606Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=njal.la&hideResults=on",
-    "tested_at": "2026-10-09T11:31:40.862Z"
+    "tested_at": "2026-10-23T09:29:56.606Z"
   },
   "trackers": {
     "url": "https://njal.la/servers/",

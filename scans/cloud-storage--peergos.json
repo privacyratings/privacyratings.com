@@ -4,7 +4,7 @@
     "repo": "Peergos/Peergos",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:01.108Z"
+    "checked_at": "2026-10-23T09:23:13.044Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=peergos.org",
     "tested_at": "2026-10-20T09:29:05.165Z"
   },
-  "scanned_at": "2026-10-20T09:29:06.504Z",
+  "scanned_at": "2026-10-23T09:23:13.044Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=railway.com",
-    "tested_at": "2026-10-10T10:39:18.577Z"
+    "tested_at": "2026-10-23T09:23:28.683Z"
   },
-  "scanned_at": "2026-10-15T09:29:05.635Z",
+  "scanned_at": "2026-10-23T09:23:29.292Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

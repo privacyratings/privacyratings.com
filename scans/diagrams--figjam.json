@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.figma.com",
-    "tested_at": "2026-10-11T10:51:41.934Z"
+    "tested_at": "2026-10-23T09:23:29.905Z"
   },
-  "scanned_at": "2026-10-12T12:10:13.701Z",
+  "scanned_at": "2026-10-23T09:23:30.525Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

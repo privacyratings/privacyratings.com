@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.acuityscheduling.com",
-    "tested_at": "2026-10-11T10:51:45.569Z"
+    "tested_at": "2026-10-23T09:23:33.473Z"
   },
-  "scanned_at": "2026-10-13T12:03:30.959Z",
+  "scanned_at": "2026-10-23T09:23:33.893Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

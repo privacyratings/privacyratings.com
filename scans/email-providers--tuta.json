@@ -4,7 +4,7 @@
     "repo": "tutao/tutanota",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:02.023Z"
+    "checked_at": "2026-10-23T09:23:11.720Z"
   },
   "internetnl": {
     "web": {
@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-22T09:27:34.781Z",
+    "tested_at": "2026-10-23T09:23:59.418Z",
     "imap": {
       "offered": false
     },
@@ -59,7 +59,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tuta.com",
     "tested_at": "2026-10-21T09:24:11.349Z"
   },
-  "scanned_at": "2026-10-22T09:27:34.781Z",
+  "scanned_at": "2026-10-23T09:23:59.418Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tuta.com&hideResults=on",

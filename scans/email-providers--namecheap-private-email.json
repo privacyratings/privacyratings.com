@@ -49,7 +49,7 @@
         }
       }
     },
-    "tested_at": "2026-10-22T09:27:21.839Z",
+    "tested_at": "2026-10-23T09:23:43.999Z",
     "imap": {
       "host": "mail.privateemail.com",
       "port": 993,
@@ -107,12 +107,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privateemail.com",
     "tested_at": "2026-10-21T09:24:09.214Z"
   },
-  "scanned_at": "2026-10-22T09:27:23.748Z",
+  "scanned_at": "2026-10-23T09:25:13.711Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=privateemail.com&hideResults=on",
-    "tested_at": "2026-10-10T10:40:38.508Z"
+    "tested_at": "2026-10-23T09:25:13.711Z"
   },
   "trackers": {
     "error": "HTTP 403",

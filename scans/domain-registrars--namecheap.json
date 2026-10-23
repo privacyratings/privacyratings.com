@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.namecheap.com",
     "tested_at": "2026-10-19T09:58:51.778Z"
   },
-  "scanned_at": "2026-10-22T09:38:16.911Z",
+  "scanned_at": "2026-10-23T09:30:19.604Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.namecheap.com&hideResults=on",
-    "tested_at": "2026-10-08T11:31:37.234Z"
+    "tested_at": "2026-10-23T09:30:19.604Z"
   },
   "trackers": {
     "error": "HTTP 403",

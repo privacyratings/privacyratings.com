@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.vanta.com",
-    "tested_at": "2026-10-10T10:39:14.693Z"
+    "tested_at": "2026-10-23T09:23:16.351Z"
   },
-  "scanned_at": "2026-10-11T11:04:20.146Z",
+  "scanned_at": "2026-10-23T09:23:16.699Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

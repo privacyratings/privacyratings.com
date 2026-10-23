@@ -4,7 +4,7 @@
     "repo": "France-Nuage/plateforme",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T07:00:00.629Z"
+    "checked_at": "2026-10-23T09:23:12.363Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getbunker.net",
     "tested_at": "2026-10-19T09:58:53.782Z"
   },
-  "scanned_at": "2026-10-19T09:58:55.607Z",
+  "scanned_at": "2026-10-23T09:23:12.363Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

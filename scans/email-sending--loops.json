@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=loops.so",
-    "tested_at": "2026-10-11T10:51:33.739Z"
+    "tested_at": "2026-10-23T09:23:11.881Z"
   },
-  "scanned_at": "2026-10-13T11:54:46.912Z",
+  "scanned_at": "2026-10-23T09:23:12.432Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=airvpn.org",
-    "tested_at": "2026-10-11T10:51:36.552Z"
+    "tested_at": "2026-10-23T09:23:17.044Z"
   },
-  "scanned_at": "2026-10-12T12:10:18.286Z",
+  "scanned_at": "2026-10-23T09:23:19.331Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

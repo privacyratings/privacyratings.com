@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sourcehut.org",
     "tested_at": "2026-10-21T09:24:54.053Z"
   },
-  "scanned_at": "2026-10-21T09:24:55.457Z",
+  "scanned_at": "2026-10-23T09:35:02.029Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

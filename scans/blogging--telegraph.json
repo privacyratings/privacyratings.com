@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=telegra.ph",
     "tested_at": "2026-10-21T09:24:57.566Z"
   },
-  "scanned_at": "2026-10-21T09:24:58.994Z",
+  "scanned_at": "2026-10-23T09:35:02.214Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=telegra.ph&hideResults=on",
-    "tested_at": "2026-10-09T11:34:37.589Z"
+    "tested_at": "2026-10-23T09:35:02.214Z"
   },
   "trackers": {
     "url": "https://telegra.ph",

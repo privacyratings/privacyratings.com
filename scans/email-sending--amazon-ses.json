@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=aws.amazon.com",
-    "tested_at": "2026-10-11T10:51:33.730Z"
+    "tested_at": "2026-10-23T09:23:11.946Z"
   },
-  "scanned_at": "2026-10-12T12:04:26.109Z",
+  "scanned_at": "2026-10-23T09:23:12.294Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

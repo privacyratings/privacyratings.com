@@ -8,14 +8,14 @@
     }
   },
   "observatory": {
-    "grade": "C+",
-    "score": 60,
+    "grade": "B-",
+    "score": 65,
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.infomaniak.com",
-    "tested_at": "2026-10-11T10:51:39.633Z"
+    "tested_at": "2026-10-23T09:23:21.374Z"
   },
-  "scanned_at": "2026-10-12T12:11:37.861Z",
+  "scanned_at": "2026-10-23T09:23:24.167Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

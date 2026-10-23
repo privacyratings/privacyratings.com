@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dartnode.com",
     "tested_at": "2026-10-19T09:58:54.860Z"
   },
-  "scanned_at": "2026-10-19T09:58:55.310Z",
+  "scanned_at": "2026-10-23T09:35:39.000Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dartnode.com&hideResults=on",
-    "tested_at": "2026-10-09T11:28:23.827Z"
+    "tested_at": "2026-10-23T09:35:39.000Z"
   },
   "trackers": {
     "error": "HTTP 403",
