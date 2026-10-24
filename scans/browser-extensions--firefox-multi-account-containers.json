@@ -3,9 +3,9 @@
     "repo": "mozilla/multi-account-containers",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:02.305Z"
+    "checked_at": "2026-10-24T08:55:01.550Z"
   },
-  "scanned_at": "2026-10-01T07:01:32.856Z",
+  "scanned_at": "2026-10-24T08:55:01.550Z",
   "trackers": {
     "url": "https://support.mozilla.org/en-US/kb/containers",
     "found": [],

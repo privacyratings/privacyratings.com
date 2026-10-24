@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=savvycal.com",
-    "tested_at": "2026-10-11T10:51:48.993Z"
+    "tested_at": "2026-10-24T08:55:22.122Z"
   },
-  "scanned_at": "2026-10-13T12:05:11.396Z",
+  "scanned_at": "2026-10-24T08:55:22.835Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

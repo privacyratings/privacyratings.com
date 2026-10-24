@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=smtp2go.com",
-    "tested_at": "2026-10-12T12:03:56.250Z"
+    "tested_at": "2026-10-24T08:55:03.247Z"
   },
-  "scanned_at": "2026-10-13T11:51:47.693Z",
+  "scanned_at": "2026-10-24T08:55:04.020Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=writefreely.org",
     "tested_at": "2026-10-21T09:24:58.746Z"
   },
-  "scanned_at": "2026-10-23T09:38:03.456Z",
+  "scanned_at": "2026-10-24T09:16:18.129Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=writefreely.org&hideResults=on",
-    "tested_at": "2026-10-09T11:37:40.244Z"
+    "tested_at": "2026-10-24T09:16:18.129Z"
   },
   "trackers": {
     "url": "https://writefreely.org",

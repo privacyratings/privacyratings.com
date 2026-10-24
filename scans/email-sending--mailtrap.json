@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailtrap.io",
-    "tested_at": "2026-10-12T12:03:28.758Z"
+    "tested_at": "2026-10-24T08:55:00.560Z"
   },
-  "scanned_at": "2026-10-13T11:51:45.919Z",
+  "scanned_at": "2026-10-24T08:55:03.898Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

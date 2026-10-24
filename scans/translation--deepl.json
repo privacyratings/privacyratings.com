@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.deepl.com",
-    "tested_at": "2026-10-11T10:51:51.780Z"
+    "tested_at": "2026-10-24T08:55:24.407Z"
   },
-  "scanned_at": "2026-10-12T12:15:24.296Z",
+  "scanned_at": "2026-10-24T08:55:24.887Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

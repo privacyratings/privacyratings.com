@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.linode.com",
     "tested_at": "2026-10-20T09:28:32.126Z"
   },
-  "scanned_at": "2026-10-23T09:31:59.954Z",
+  "scanned_at": "2026-10-24T09:11:51.499Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

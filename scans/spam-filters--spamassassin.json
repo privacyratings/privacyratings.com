@@ -3,9 +3,9 @@
     "repo": "apache/spamassassin",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:03.055Z"
+    "checked_at": "2026-10-24T08:55:01.073Z"
   },
-  "scanned_at": "2026-10-01T07:01:36.783Z",
+  "scanned_at": "2026-10-24T08:55:01.073Z",
   "trackers": {
     "url": "https://spamassassin.apache.org",
     "found": [],

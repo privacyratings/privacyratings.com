@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=useplunk.com",
-    "tested_at": "2026-10-12T12:04:25.761Z"
+    "tested_at": "2026-10-24T08:55:01.217Z"
   },
-  "scanned_at": "2026-10-15T09:16:06.770Z",
+  "scanned_at": "2026-10-24T08:55:10.971Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

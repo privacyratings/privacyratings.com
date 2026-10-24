@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.duocircle.com",
     "tested_at": "2026-10-21T09:24:13.964Z"
   },
-  "scanned_at": "2026-10-21T09:24:23.287Z",
+  "scanned_at": "2026-10-24T09:00:37.999Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=portal.duocircle.com&hideResults=on",
-    "tested_at": "2026-10-10T10:47:05.008Z"
+    "tested_at": "2026-10-24T09:00:37.999Z"
   },
   "trackers": {
     "url": "https://www.duocircle.com",

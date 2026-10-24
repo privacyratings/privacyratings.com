@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bird.com",
-    "tested_at": "2026-10-12T12:04:37.824Z"
+    "tested_at": "2026-10-24T08:55:13.776Z"
   },
-  "scanned_at": "2026-10-14T09:42:44.242Z",
+  "scanned_at": "2026-10-24T08:55:14.165Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

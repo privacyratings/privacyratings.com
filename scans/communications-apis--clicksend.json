@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=clicksend.com",
-    "tested_at": "2026-10-12T12:04:38.457Z"
+    "tested_at": "2026-10-24T08:55:14.360Z"
   },
-  "scanned_at": "2026-10-13T11:59:56.875Z",
+  "scanned_at": "2026-10-24T08:55:15.893Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 4,

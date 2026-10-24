@@ -8,14 +8,14 @@
     }
   },
   "observatory": {
-    "grade": "D+",
-    "score": 40,
-    "tests_passed": 7,
+    "grade": "C+",
+    "score": 60,
+    "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=telnyx.com",
-    "tested_at": "2026-10-12T12:04:43.074Z"
+    "tested_at": "2026-10-24T08:55:19.726Z"
   },
-  "scanned_at": "2026-10-13T12:03:56.398Z",
+  "scanned_at": "2026-10-24T08:55:20.129Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 4,

@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidycal.com",
-    "tested_at": "2026-10-11T10:51:49.960Z"
+    "tested_at": "2026-10-24T08:55:22.852Z"
   },
-  "scanned_at": "2026-10-12T12:21:42.907Z",
+  "scanned_at": "2026-10-24T08:55:23.140Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

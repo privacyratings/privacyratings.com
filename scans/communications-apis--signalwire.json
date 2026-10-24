@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=signalwire.com",
-    "tested_at": "2026-10-12T12:04:41.264Z"
+    "tested_at": "2026-10-24T08:55:16.724Z"
   },
-  "scanned_at": "2026-10-14T09:43:46.663Z",
+  "scanned_at": "2026-10-24T08:55:17.723Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

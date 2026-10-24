@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bearblog.dev",
     "tested_at": "2026-10-21T09:24:55.644Z"
   },
-  "scanned_at": "2026-10-23T09:37:06.017Z",
+  "scanned_at": "2026-10-24T09:21:39.690Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bearblog.dev&hideResults=on",
-    "tested_at": "2026-10-09T11:46:22.469Z"
+    "tested_at": "2026-10-24T09:21:39.690Z"
   },
   "trackers": {
     "url": "https://bearblog.dev",

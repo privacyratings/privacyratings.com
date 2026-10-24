@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.inwx.com",
     "tested_at": "2026-10-19T09:58:51.524Z"
   },
-  "scanned_at": "2026-10-23T09:31:02.717Z",
+  "scanned_at": "2026-10-24T09:12:17.678Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.inwx.com&hideResults=on",
-    "tested_at": "2026-10-08T11:34:31.948Z"
+    "tested_at": "2026-10-24T09:12:17.678Z"
   },
   "trackers": {
     "url": "https://www.inwx.com/en",

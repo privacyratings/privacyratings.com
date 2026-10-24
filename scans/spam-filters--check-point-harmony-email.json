@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.checkpoint.com",
     "tested_at": "2026-10-21T09:24:13.624Z"
   },
-  "scanned_at": "2026-10-21T09:24:14.264Z",
+  "scanned_at": "2026-10-24T08:58:42.106Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=portal.checkpoint.com&hideResults=on",
-    "tested_at": "2026-10-10T10:45:09.233Z"
+    "tested_at": "2026-10-24T08:58:42.106Z"
   },
   "trackers": {
     "url": "https://www.checkpoint.com/harmony/email-security/",

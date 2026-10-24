@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=includesecurity.com",
     "tested_at": "2026-10-22T09:27:05.466Z"
   },
-  "scanned_at": "2026-10-22T09:27:06.511Z",
+  "scanned_at": "2026-10-24T09:07:01.160Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=includesecurity.com&hideResults=on",
-    "tested_at": "2026-10-10T10:55:33.889Z"
+    "tested_at": "2026-10-24T09:07:01.160Z"
   },
   "trackers": {
     "url": "https://includesecurity.com",

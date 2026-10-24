@@ -4,7 +4,7 @@
     "repo": "trycompai/comp",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:03.586Z"
+    "checked_at": "2026-10-24T08:55:01.560Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.trycomp.ai",
     "tested_at": "2026-10-22T09:27:16.510Z"
   },
-  "scanned_at": "2026-10-22T09:27:17.324Z",
+  "scanned_at": "2026-10-24T08:55:01.560Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

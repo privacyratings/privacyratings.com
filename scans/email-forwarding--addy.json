@@ -4,7 +4,7 @@
     "repo": "anonaddy/anonaddy",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:02.075Z"
+    "checked_at": "2026-10-24T08:55:00.414Z"
   },
   "internetnl": {
     "web": {
@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-23T09:24:02.499Z",
+    "tested_at": "2026-10-24T08:55:44.242Z",
     "imap": {
       "offered": false
     },
@@ -60,12 +60,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
     "tested_at": "2026-10-17T08:36:46.434Z"
   },
-  "scanned_at": "2026-10-23T09:24:02.499Z",
+  "scanned_at": "2026-10-24T08:58:01.755Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=addy.io&hideResults=on",
-    "tested_at": "2026-10-10T10:42:04.411Z"
+    "tested_at": "2026-10-24T08:58:01.755Z"
   },
   "trackers": {
     "url": "https://addy.io",

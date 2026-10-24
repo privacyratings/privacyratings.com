@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailgun.com",
-    "tested_at": "2026-10-12T12:03:50.089Z"
+    "tested_at": "2026-10-24T08:55:00.634Z"
   },
-  "scanned_at": "2026-10-15T09:11:21.038Z",
+  "scanned_at": "2026-10-24T08:55:02.437Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

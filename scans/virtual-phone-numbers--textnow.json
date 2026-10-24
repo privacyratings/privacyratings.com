@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.textnow.com",
     "tested_at": "2026-10-14T09:33:49.212Z"
   },
-  "scanned_at": "2026-10-23T09:23:14.455Z",
+  "scanned_at": "2026-10-24T08:55:01.566Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=grc.strikegraph.com",
-    "tested_at": "2026-10-12T12:04:35.737Z"
+    "tested_at": "2026-10-24T08:55:11.101Z"
   },
-  "scanned_at": "2026-10-15T09:14:27.913Z",
+  "scanned_at": "2026-10-24T08:55:11.843Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

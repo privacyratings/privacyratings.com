@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.deezer.com",
-    "tested_at": "2026-10-11T10:51:56.266Z"
+    "tested_at": "2026-10-24T08:55:28.329Z"
   },
-  "scanned_at": "2026-10-12T12:19:54.658Z",
+  "scanned_at": "2026-10-24T08:55:30.746Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
