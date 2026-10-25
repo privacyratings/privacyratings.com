@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-24T08:55:27.254Z",
+    "tested_at": "2026-10-25T09:12:03.284Z",
     "imap": {
       "host": "outlook.office365.com",
       "port": 993,
@@ -91,12 +91,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=outlook.live.com",
     "tested_at": "2026-10-22T09:26:54.842Z"
   },
-  "scanned_at": "2026-10-24T08:55:42.853Z",
+  "scanned_at": "2026-10-25T09:12:18.466Z",
   "ssllabs": {
     "grade": "A+",
-    "endpoints": 16,
+    "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=outlook.live.com&hideResults=on",
-    "tested_at": "2026-10-11T10:51:34.724Z"
+    "tested_at": "2026-10-25T09:11:35.592Z"
   },
   "trackers": {
     "url": "https://outlook.live.com/mail/",

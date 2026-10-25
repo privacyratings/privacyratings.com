@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=breezewiki.com",
-    "tested_at": "2026-10-13T11:51:48.251Z"
+    "tested_at": "2026-10-25T09:11:37.549Z"
   },
-  "scanned_at": "2026-10-14T09:40:58.858Z",
+  "scanned_at": "2026-10-25T09:11:39.083Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.assured.se",
     "tested_at": "2026-10-22T09:27:02.709Z"
   },
-  "scanned_at": "2026-10-22T09:27:04.600Z",
+  "scanned_at": "2026-10-25T09:19:13.073Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.assured.se&hideResults=on",
-    "tested_at": "2026-10-11T10:55:16.425Z"
+    "tested_at": "2026-10-25T09:19:13.073Z"
   },
   "trackers": {
     "url": "https://www.assured.se",

@@ -3,9 +3,9 @@
     "repo": "dokku/dokku",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:04.084Z"
+    "checked_at": "2026-10-25T09:11:34.797Z"
   },
-  "scanned_at": "2026-10-01T07:01:42.094Z",
+  "scanned_at": "2026-10-25T09:11:34.797Z",
   "trackers": {
     "url": "https://dokku.com",
     "found": [

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.oopspam.com",
     "tested_at": "2026-10-22T09:26:55.837Z"
   },
-  "scanned_at": "2026-10-22T09:26:57.016Z",
+  "scanned_at": "2026-10-25T09:18:02.867Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.oopspam.com&hideResults=on",
-    "tested_at": "2026-10-11T10:57:11.278Z"
+    "tested_at": "2026-10-25T09:18:02.867Z"
   },
   "trackers": {
     "url": "https://www.oopspam.com",

@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getbunker.net",
     "tested_at": "2026-10-19T09:58:53.782Z"
   },
-  "scanned_at": "2026-10-23T09:23:12.363Z",
+  "scanned_at": "2026-10-25T09:25:55.245Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

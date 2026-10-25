@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=doyensec.com",
     "tested_at": "2026-10-22T09:27:04.737Z"
   },
-  "scanned_at": "2026-10-24T09:07:15.716Z",
+  "scanned_at": "2026-10-25T09:20:47.157Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

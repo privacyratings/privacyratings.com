@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kudelskisecurity.com",
     "tested_at": "2026-10-22T09:27:06.511Z"
   },
-  "scanned_at": "2026-10-22T09:27:07.240Z",
+  "scanned_at": "2026-10-25T09:21:18.989Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kudelskisecurity.com&hideResults=on",
-    "tested_at": "2026-10-11T10:58:21.993Z"
+    "tested_at": "2026-10-25T09:21:18.989Z"
   },
   "trackers": {
     "url": "https://kudelskisecurity.com",

@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cure53.de",
     "tested_at": "2026-10-22T09:27:04.436Z"
   },
-  "scanned_at": "2026-10-22T09:27:05.824Z",
+  "scanned_at": "2026-10-25T09:20:43.582Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

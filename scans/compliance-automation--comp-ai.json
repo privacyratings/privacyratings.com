@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.trycomp.ai",
     "tested_at": "2026-10-22T09:27:16.510Z"
   },
-  "scanned_at": "2026-10-24T08:55:01.560Z",
+  "scanned_at": "2026-10-25T09:23:54.686Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.trycomp.ai&hideResults=on",
-    "tested_at": "2026-10-11T11:01:18.252Z"
+    "tested_at": "2026-10-25T09:23:54.686Z"
   },
   "trackers": {
     "url": "https://www.trycomp.ai",

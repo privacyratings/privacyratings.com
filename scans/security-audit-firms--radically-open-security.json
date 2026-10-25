@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.radicallyopensecurity.com",
     "tested_at": "2026-10-22T09:27:10.127Z"
   },
-  "scanned_at": "2026-10-22T09:27:12.250Z",
+  "scanned_at": "2026-10-25T09:22:54.856Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.radicallyopensecurity.com&hideResults=on",
-    "tested_at": "2026-10-11T10:59:37.581Z"
+    "tested_at": "2026-10-25T09:22:54.856Z"
   },
   "trackers": {
     "url": "https://www.radicallyopensecurity.com",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sec-consult.com",
     "tested_at": "2026-10-23T09:23:14.798Z"
   },
-  "scanned_at": "2026-10-23T09:23:16.641Z",
+  "scanned_at": "2026-10-25T09:20:38.934Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sec-consult.com&hideResults=on",
-    "tested_at": "2026-10-11T10:59:41.985Z"
+    "tested_at": "2026-10-25T09:20:38.934Z"
   },
   "trackers": {
     "url": "https://sec-consult.com",

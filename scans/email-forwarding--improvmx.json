@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.improvmx.com",
-    "tested_at": "2026-10-13T11:51:44.322Z"
+    "tested_at": "2026-10-25T09:11:34.587Z"
   },
-  "scanned_at": "2026-10-14T09:36:58.147Z",
+  "scanned_at": "2026-10-25T09:11:34.857Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

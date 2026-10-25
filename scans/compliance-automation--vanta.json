@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.vanta.com",
     "tested_at": "2026-10-23T09:23:16.351Z"
   },
-  "scanned_at": "2026-10-23T09:23:16.699Z",
+  "scanned_at": "2026-10-25T09:22:55.026Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.vanta.com&hideResults=on",
-    "tested_at": "2026-10-11T11:04:20.146Z"
+    "tested_at": "2026-10-25T09:22:55.026Z"
   },
   "trackers": {
     "url": "https://www.vanta.com",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=elasticemail.com",
     "tested_at": "2026-10-23T09:23:11.896Z"
   },
-  "scanned_at": "2026-10-23T09:23:13.626Z",
+  "scanned_at": "2026-10-25T09:16:17.039Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=elasticemail.com&hideResults=on",
-    "tested_at": "2026-10-12T12:04:25.727Z"
+    "tested_at": "2026-10-25T09:16:17.039Z"
   },
   "trackers": {
     "url": "https://elasticemail.com",

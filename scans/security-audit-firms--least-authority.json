@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=leastauthority.com",
     "tested_at": "2026-10-22T09:27:06.682Z"
   },
-  "scanned_at": "2026-10-22T09:27:09.103Z",
+  "scanned_at": "2026-10-25T09:18:58.966Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=leastauthority.com&hideResults=on",
-    "tested_at": "2026-10-11T10:59:12.808Z"
+    "tested_at": "2026-10-25T09:18:58.966Z"
   },
   "trackers": {
     "url": "https://leastauthority.com",

@@ -13,9 +13,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
-    "tested_at": "2026-10-13T11:51:49.270Z"
+    "tested_at": "2026-10-25T09:11:38.060Z"
   },
-  "scanned_at": "2026-10-19T10:14:10.192Z",
+  "scanned_at": "2026-10-25T09:11:55.714Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

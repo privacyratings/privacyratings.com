@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.drata.com",
     "tested_at": "2026-10-22T09:27:17.552Z"
   },
-  "scanned_at": "2026-10-24T08:55:01.399Z",
+  "scanned_at": "2026-10-25T09:23:47.481Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -8,14 +8,14 @@
     }
   },
   "observatory": {
-    "grade": "D-",
-    "score": 25,
-    "tests_passed": 7,
+    "grade": "D+",
+    "score": 40,
+    "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=paperform.co",
-    "tested_at": "2026-10-12T12:04:56.968Z"
+    "tested_at": "2026-10-25T09:11:48.597Z"
   },
-  "scanned_at": "2026-10-13T12:14:31.765Z",
+  "scanned_at": "2026-10-25T09:11:49.317Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

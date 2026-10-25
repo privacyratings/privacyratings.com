@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.trustifi.com",
     "tested_at": "2026-10-22T09:26:57.116Z"
   },
-  "scanned_at": "2026-10-24T09:04:14.814Z",
+  "scanned_at": "2026-10-25T09:24:03.953Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.trustifi.com&hideResults=on",
-    "tested_at": "2026-10-10T10:57:58.547Z"
+    "tested_at": "2026-10-25T09:24:03.953Z"
   },
   "trackers": {
     "url": "https://trustifi.com",

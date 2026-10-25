@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=metager.org",
-    "tested_at": "2026-10-13T11:51:45.729Z"
+    "tested_at": "2026-10-25T09:11:35.535Z"
   },
-  "scanned_at": "2026-10-14T09:36:46.902Z",
+  "scanned_at": "2026-10-25T09:11:36.997Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

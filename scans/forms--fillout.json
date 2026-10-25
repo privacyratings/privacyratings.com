@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=build.fillout.com",
-    "tested_at": "2026-10-12T12:04:51.168Z"
+    "tested_at": "2026-10-25T09:11:45.946Z"
   },
-  "scanned_at": "2026-10-13T12:11:30.541Z",
+  "scanned_at": "2026-10-25T09:11:46.823Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 6,
