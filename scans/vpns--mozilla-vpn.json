@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/www.mozilla.org/22056831/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.mozilla.org/22279309/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mozilla.org",
-    "tested_at": "2026-10-14T09:33:52.607Z"
+    "tested_at": "2026-10-26T10:12:08.614Z"
   },
-  "scanned_at": "2026-10-16T09:15:50.691Z",
+  "scanned_at": "2026-10-26T10:12:08.927Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

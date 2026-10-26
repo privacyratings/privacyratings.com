@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/substack.com/22056847/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/substack.com/22278943/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=substack.com",
-    "tested_at": "2026-10-14T09:33:46.142Z"
+    "tested_at": "2026-10-26T10:12:01.755Z"
   },
-  "scanned_at": "2026-10-25T09:11:35.921Z",
+  "scanned_at": "2026-10-26T10:12:02.760Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

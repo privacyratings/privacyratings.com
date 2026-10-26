@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 78,
-      "report": "https://batch.internet.nl/site/open.spotify.com/22057093/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/open.spotify.com/22279330/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=open.spotify.com",
     "tested_at": "2026-10-24T08:55:32.490Z"
   },
-  "scanned_at": "2026-10-24T08:55:32.825Z",
+  "scanned_at": "2026-10-26T10:29:16.299Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

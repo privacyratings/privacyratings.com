@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 72,
-      "report": "https://batch.internet.nl/site/privacybee.com/22056713/",
-      "tested_at": "2026-10-19T03:27:27.048Z"
+      "report": "https://batch.internet.nl/site/privacybee.com/22279264/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privacybee.com",
-    "tested_at": "2026-10-13T11:51:55.213Z"
+    "tested_at": "2026-10-26T10:11:58.582Z"
   },
-  "scanned_at": "2026-10-15T09:25:11.988Z",
+  "scanned_at": "2026-10-26T10:11:58.967Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

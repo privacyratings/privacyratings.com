@@ -3,9 +3,9 @@
     "repo": "nestjs/nest",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:05.632Z"
+    "checked_at": "2026-10-26T10:11:57.630Z"
   },
-  "scanned_at": "2026-10-01T07:01:46.306Z",
+  "scanned_at": "2026-10-26T10:11:57.630Z",
   "trackers": {
     "url": "https://nestjs.com",
     "found": [

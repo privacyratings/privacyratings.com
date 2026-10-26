@@ -8,12 +8,12 @@
   },
   "internetnl": {
     "web": {
-      "score": 100,
-      "report": "https://batch.internet.nl/site/search.brave.com/22056958/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "score": 98,
+      "report": "https://batch.internet.nl/site/search.brave.com/22279361/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
-  "scanned_at": "2026-10-25T09:12:05.339Z",
+  "scanned_at": "2026-10-26T10:12:28.287Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 12,

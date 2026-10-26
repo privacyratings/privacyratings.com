@@ -2,14 +2,14 @@
   "domain": "www.startmail.com",
   "internetnl": {
     "web": {
-      "score": 75,
-      "report": "https://batch.internet.nl/site/www.startmail.com/22056801/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "score": 100,
+      "report": "https://batch.internet.nl/site/www.startmail.com/22279095/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     },
     "mail": {
       "score": 94,
-      "report": "https://batch.internet.nl/mail/startmail.com/22463663/",
-      "tested_at": "2026-10-19T03:27:27.563Z"
+      "report": "https://batch.internet.nl/mail/startmail.com/22638687/",
+      "tested_at": "2026-10-26T10:56:20.451Z"
     }
   },
   "mail": {
@@ -45,7 +45,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-25T09:12:11.659Z",
+    "tested_at": "2026-10-26T10:12:36.077Z",
     "imap": {
       "host": "imap.startmail.com",
       "port": 993,
@@ -89,12 +89,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startmail.com",
     "tested_at": "2026-10-21T09:24:10.275Z"
   },
-  "scanned_at": "2026-10-25T09:14:35.788Z",
+  "scanned_at": "2026-10-26T10:16:43.144Z",
   "ssllabs": {
     "grade": "A+",
-    "endpoints": 1,
+    "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.startmail.com&hideResults=on",
-    "tested_at": "2026-10-10T10:42:04.253Z"
+    "tested_at": "2026-10-26T10:16:43.144Z"
   },
   "trackers": {
     "url": "https://www.startmail.com",

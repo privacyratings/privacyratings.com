@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/app.keila.io/22056793/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/app.keila.io/22278921/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.keila.io",
-    "tested_at": "2026-10-14T09:33:43.950Z"
+    "tested_at": "2026-10-26T10:12:00.577Z"
   },
-  "scanned_at": "2026-10-15T09:22:34.399Z",
+  "scanned_at": "2026-10-26T10:12:02.478Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

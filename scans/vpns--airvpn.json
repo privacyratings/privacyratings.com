@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 68,
-      "report": "https://batch.internet.nl/site/airvpn.org/22057016/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/airvpn.org/22278867/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=airvpn.org",
     "tested_at": "2026-10-23T09:23:17.044Z"
   },
-  "scanned_at": "2026-10-23T09:23:19.331Z",
+  "scanned_at": "2026-10-26T10:19:38.998Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=airvpn.org&hideResults=on",
-    "tested_at": "2026-10-12T12:10:18.286Z"
+    "tested_at": "2026-10-26T10:19:38.998Z"
   },
   "trackers": {
     "url": "https://airvpn.org/entry/?aek_v=18&aek_id=dd304c1d41ab8d868d2a8d5814082ce9&aek_url=%2F",

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/www.virustotal.com/22056798/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.virustotal.com/22278784/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.virustotal.com",
     "tested_at": "2026-10-22T09:27:01.678Z"
   },
-  "scanned_at": "2026-10-22T09:27:01.958Z",
+  "scanned_at": "2026-10-26T10:11:58.175Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.virustotal.com&hideResults=on",
-    "tested_at": "2026-10-12T12:04:25.867Z"
+    "tested_at": "2026-10-26T10:11:58.175Z"
   },
   "trackers": {
     "url": "https://www.virustotal.com/gui/",

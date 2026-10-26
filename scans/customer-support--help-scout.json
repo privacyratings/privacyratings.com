@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/www.helpscout.com/22057100/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.helpscout.com/22278740/",
+      "tested_at": "2026-10-26T10:56:20.040Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.helpscout.com",
-    "tested_at": "2026-10-14T09:33:47.357Z"
+    "tested_at": "2026-10-26T10:12:03.452Z"
   },
-  "scanned_at": "2026-10-15T09:23:59.733Z",
+  "scanned_at": "2026-10-26T10:12:03.860Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

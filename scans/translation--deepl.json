@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 76,
-      "report": "https://batch.internet.nl/site/www.deepl.com/22057030/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.deepl.com/22279027/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.deepl.com",
     "tested_at": "2026-10-24T08:55:24.407Z"
   },
-  "scanned_at": "2026-10-24T08:55:24.887Z",
+  "scanned_at": "2026-10-26T10:26:11.279Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.deepl.com&hideResults=on",
-    "tested_at": "2026-10-12T12:15:24.296Z"
+    "tested_at": "2026-10-26T10:26:11.279Z"
   },
   "trackers": {
     "url": "https://www.deepl.com/en",

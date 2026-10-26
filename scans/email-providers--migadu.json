@@ -2,14 +2,14 @@
   "domain": "migadu.com",
   "internetnl": {
     "web": {
-      "score": 95,
-      "report": "https://batch.internet.nl/site/migadu.com/22056743/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "score": 61,
+      "report": "https://batch.internet.nl/site/migadu.com/22278692/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     },
     "mail": {
       "score": 88,
-      "report": "https://batch.internet.nl/mail/migadu.com/22463648/",
-      "tested_at": "2026-10-19T03:27:27.563Z"
+      "report": "https://batch.internet.nl/mail/migadu.com/22638662/",
+      "tested_at": "2026-10-26T10:56:20.451Z"
     }
   },
   "mail": {
@@ -91,7 +91,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=migadu.com",
     "tested_at": "2026-10-20T09:28:23.066Z"
   },
-  "scanned_at": "2026-10-25T09:12:03.131Z",
+  "scanned_at": "2026-10-26T10:12:23.939Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

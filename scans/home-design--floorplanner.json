@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 50,
-      "report": "https://batch.internet.nl/site/floorplanner.com/22056806/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/floorplanner.com/22278672/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=floorplanner.com",
-    "tested_at": "2026-10-13T11:51:58.489Z"
+    "tested_at": "2026-10-26T10:12:14.653Z"
   },
-  "scanned_at": "2026-10-14T09:52:08.221Z",
+  "scanned_at": "2026-10-26T10:12:16.233Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

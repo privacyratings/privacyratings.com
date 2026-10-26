@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/www.freshworks.com/22057049/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.freshworks.com/22278666/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.freshworks.com",
-    "tested_at": "2026-10-14T09:33:46.982Z"
+    "tested_at": "2026-10-26T10:12:02.879Z"
   },
-  "scanned_at": "2026-10-15T09:25:13.422Z",
+  "scanned_at": "2026-10-26T10:12:03.251Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

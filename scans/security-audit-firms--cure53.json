@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/cure53.de/22057128/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/cure53.de/22278668/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cure53.de",
     "tested_at": "2026-10-22T09:27:04.436Z"
   },
-  "scanned_at": "2026-10-25T09:20:43.582Z",
+  "scanned_at": "2026-10-26T10:13:23.799Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cure53.de&hideResults=on",
-    "tested_at": "2026-10-11T10:55:26.664Z"
+    "tested_at": "2026-10-26T10:13:23.799Z"
   },
   "trackers": {
     "url": "https://cure53.de",

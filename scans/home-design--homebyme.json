@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 61,
-      "report": "https://batch.internet.nl/site/home.by.me/22056755/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/home.by.me/22279256/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=home.by.me",
-    "tested_at": "2026-10-13T11:52:00.201Z"
+    "tested_at": "2026-10-26T10:12:16.391Z"
   },
-  "scanned_at": "2026-10-14T09:56:01.750Z",
+  "scanned_at": "2026-10-26T10:12:18.521Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/hub.upcloud.com/22056772/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/hub.upcloud.com/22279012/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hub.upcloud.com",
     "tested_at": "2026-10-15T09:11:43.809Z"
   },
-  "scanned_at": "2026-10-25T09:11:36.085Z",
+  "scanned_at": "2026-10-26T10:11:58.905Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

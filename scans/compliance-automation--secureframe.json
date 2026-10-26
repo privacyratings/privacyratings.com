@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/app.secureframe.com/22057133/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/app.secureframe.com/22278884/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.secureframe.com",
     "tested_at": "2026-10-22T09:27:18.552Z"
   },
-  "scanned_at": "2026-10-22T09:27:19.685Z",
+  "scanned_at": "2026-10-26T10:18:09.121Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.secureframe.com&hideResults=on",
-    "tested_at": "2026-10-12T12:09:02.903Z"
+    "tested_at": "2026-10-26T10:18:09.121Z"
   },
   "trackers": {
     "url": "https://secureframe.com",

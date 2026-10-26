@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/www.granola.ai/22056734/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.granola.ai/22278638/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.granola.ai",
-    "tested_at": "2026-10-13T11:51:55.780Z"
+    "tested_at": "2026-10-26T10:12:12.165Z"
   },
-  "scanned_at": "2026-10-14T09:50:34.969Z",
+  "scanned_at": "2026-10-26T10:12:12.805Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

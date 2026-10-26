@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 98,
-      "report": "https://batch.internet.nl/site/www.infomaniak.com/22057125/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.infomaniak.com/22278841/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.infomaniak.com",
     "tested_at": "2026-10-23T09:23:21.374Z"
   },
-  "scanned_at": "2026-10-23T09:23:24.167Z",
+  "scanned_at": "2026-10-26T10:22:45.384Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.infomaniak.com&hideResults=on",
-    "tested_at": "2026-10-12T12:11:37.861Z"
+    "tested_at": "2026-10-26T10:22:45.384Z"
   },
   "trackers": {
     "url": "https://www.infomaniak.com/en",

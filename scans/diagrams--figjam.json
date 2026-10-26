@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/www.figma.com/22056731/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.figma.com/22278825/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.figma.com",
     "tested_at": "2026-10-23T09:23:29.905Z"
   },
-  "scanned_at": "2026-10-23T09:23:30.525Z",
+  "scanned_at": "2026-10-26T10:22:45.500Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.figma.com&hideResults=on",
-    "tested_at": "2026-10-12T12:10:13.701Z"
+    "tested_at": "2026-10-26T10:22:45.500Z"
   },
   "trackers": {
     "url": "https://www.figma.com/figjam/",

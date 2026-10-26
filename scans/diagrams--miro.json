@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/miro.com/22057047/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/miro.com/22278766/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=miro.com",
     "tested_at": "2026-10-23T09:23:31.057Z"
   },
-  "scanned_at": "2026-10-23T09:23:33.330Z",
+  "scanned_at": "2026-10-26T10:23:05.145Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=miro.com&hideResults=on",
-    "tested_at": "2026-10-12T12:10:18.556Z"
+    "tested_at": "2026-10-26T10:23:05.145Z"
   },
   "trackers": {
     "url": "https://miro.com",

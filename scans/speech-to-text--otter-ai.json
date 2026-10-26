@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/otter.ai/22057134/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/otter.ai/22279358/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=otter.ai",
-    "tested_at": "2026-10-13T11:51:56.495Z"
+    "tested_at": "2026-10-26T10:12:12.695Z"
   },
-  "scanned_at": "2026-10-14T09:51:57.231Z",
+  "scanned_at": "2026-10-26T10:12:13.484Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 3,

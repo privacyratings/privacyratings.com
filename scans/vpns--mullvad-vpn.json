@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/mullvad.net/22056941/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/mullvad.net/22279183/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mullvad.net",
     "tested_at": "2026-10-23T09:23:17.215Z"
   },
-  "scanned_at": "2026-10-23T09:23:26.832Z",
+  "scanned_at": "2026-10-26T10:19:34.636Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mullvad.net&hideResults=on",
-    "tested_at": "2026-10-12T12:07:26.498Z"
+    "tested_at": "2026-10-26T10:19:34.636Z"
   },
   "trackers": {
     "url": "https://mullvad.net/en",

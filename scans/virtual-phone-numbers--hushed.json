@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 47,
-      "report": "https://batch.internet.nl/site/hushed.com/22056728/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/hushed.com/22279071/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hushed.com",
-    "tested_at": "2026-10-14T09:33:49.185Z"
+    "tested_at": "2026-10-26T10:12:05.376Z"
   },
-  "scanned_at": "2026-10-16T09:10:59.153Z",
+  "scanned_at": "2026-10-26T10:12:08.499Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

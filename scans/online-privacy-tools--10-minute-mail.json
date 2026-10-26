@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 92,
-      "report": "https://batch.internet.nl/site/10minutemail.com/22056826/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/10minutemail.com/22278876/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=10minutemail.com",
     "tested_at": "2026-10-18T08:53:22.390Z"
   },
-  "scanned_at": "2026-10-25T09:11:35.508Z",
+  "scanned_at": "2026-10-26T10:11:58.299Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 93,
-      "report": "https://batch.internet.nl/site/dash.cloudflare.com/22056872/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/dash.cloudflare.com/22279316/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.cloudflare.com",
     "tested_at": "2026-10-22T09:26:55.680Z"
   },
-  "scanned_at": "2026-10-22T09:27:19.784Z",
+  "scanned_at": "2026-10-26T10:19:39.256Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dash.cloudflare.com&hideResults=on",
-    "tested_at": "2026-10-12T12:13:28.409Z"
+    "tested_at": "2026-10-26T10:19:39.256Z"
   },
   "trackers": {
     "url": "https://www.cloudflare.com/products/workers/",

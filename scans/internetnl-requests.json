@@ -18,6 +18,22 @@
       "request_id": "9e04db3b4dba4aa1ac460d6541f9b4c2",
       "status": "done",
       "finished_at": "2026-10-19T03:27:27.576Z"
+    },
+    {
+      "kind": "web",
+      "submitted_at": "2026-10-26T10:31:12.595Z",
+      "domains": 433,
+      "request_id": "39c97507c2dd435ab3f7e0e77e451075",
+      "status": "done",
+      "finished_at": "2026-10-26T10:56:20.160Z"
+    },
+    {
+      "kind": "mail",
+      "submitted_at": "2026-10-26T10:31:13.167Z",
+      "domains": 37,
+      "request_id": "621b2301583744159df194f3815ddf0a",
+      "status": "done",
+      "finished_at": "2026-10-26T10:56:20.461Z"
     }
   ]
 }

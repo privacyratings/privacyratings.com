@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/www.deezer.com/22056849/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.deezer.com/22279273/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.deezer.com",
     "tested_at": "2026-10-24T08:55:28.329Z"
   },
-  "scanned_at": "2026-10-24T08:55:30.746Z",
+  "scanned_at": "2026-10-26T10:26:16.098Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.deezer.com&hideResults=on",
-    "tested_at": "2026-10-12T12:19:54.658Z"
+    "tested_at": "2026-10-26T10:26:16.098Z"
   },
   "trackers": {
     "url": "https://www.deezer.com/en/",

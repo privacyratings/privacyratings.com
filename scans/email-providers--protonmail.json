@@ -9,13 +9,13 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/proton.me/22056756/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/proton.me/22278848/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     },
     "mail": {
-      "score": 48,
-      "report": "https://batch.internet.nl/mail/proton.me/22463651/",
-      "tested_at": "2026-10-19T03:27:27.563Z"
+      "score": 72,
+      "report": "https://batch.internet.nl/mail/proton.me/22638810/",
+      "tested_at": "2026-10-26T10:56:20.451Z"
     }
   },
   "mail": {
@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-25T09:12:07.506Z",
+    "tested_at": "2026-10-26T10:12:31.955Z",
     "imap": {
       "offered": false
     },
@@ -60,7 +60,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=proton.me",
     "tested_at": "2026-10-18T08:53:14.778Z"
   },
-  "scanned_at": "2026-10-25T09:12:07.506Z",
+  "scanned_at": "2026-10-26T10:12:31.955Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

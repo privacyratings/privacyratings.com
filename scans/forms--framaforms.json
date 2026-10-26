@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 96,
-      "report": "https://batch.internet.nl/site/framaforms.org/22056770/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/framaforms.org/22279304/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=framaforms.org",
     "tested_at": "2026-10-24T08:55:24.308Z"
   },
-  "scanned_at": "2026-10-24T08:55:26.331Z",
+  "scanned_at": "2026-10-26T10:27:55.840Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=framaforms.org&hideResults=on",
-    "tested_at": "2026-10-12T12:18:10.759Z"
+    "tested_at": "2026-10-26T10:27:55.840Z"
   },
   "trackers": {
     "url": "https://framaforms.org/abc/",

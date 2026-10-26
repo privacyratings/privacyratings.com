@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/mail.zoho.com/22056866/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/mail.zoho.com/22279364/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     },
     "mail": {
       "score": 67,
-      "report": "https://batch.internet.nl/mail/zohomail.com/22463675/",
-      "tested_at": "2026-10-19T03:27:27.563Z"
+      "report": "https://batch.internet.nl/mail/zohomail.com/22638758/",
+      "tested_at": "2026-10-26T10:56:20.451Z"
     }
   },
   "mail": {
@@ -35,7 +35,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-25T09:12:17.595Z",
+    "tested_at": "2026-10-26T10:12:41.964Z",
     "imap": {
       "host": "imap.zoho.com",
       "port": 993,
@@ -93,7 +93,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.zoho.com",
     "tested_at": "2026-10-20T09:28:27.696Z"
   },
-  "scanned_at": "2026-10-25T09:12:18.567Z",
+  "scanned_at": "2026-10-26T10:12:43.074Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

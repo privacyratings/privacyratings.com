@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/buttondown.com/22056860/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/buttondown.com/22279347/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=buttondown.com",
-    "tested_at": "2026-10-14T09:33:43.544Z"
+    "tested_at": "2026-10-26T10:11:59.186Z"
   },
-  "scanned_at": "2026-10-15T09:21:32.822Z",
+  "scanned_at": "2026-10-26T10:12:00.248Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

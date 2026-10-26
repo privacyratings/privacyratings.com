@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/www.intercom.com/22056919/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.intercom.com/22279212/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.intercom.com",
-    "tested_at": "2026-10-14T09:33:47.530Z"
+    "tested_at": "2026-10-26T10:12:03.797Z"
   },
-  "scanned_at": "2026-10-16T09:20:05.597Z",
+  "scanned_at": "2026-10-26T10:12:05.182Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

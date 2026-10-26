@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/www.islegitsite.com/22056897/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.islegitsite.com/22278854/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.islegitsite.com",
     "tested_at": "2026-10-18T08:53:31.317Z"
   },
-  "scanned_at": "2026-10-25T09:11:35.519Z",
+  "scanned_at": "2026-10-26T10:11:58.359Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

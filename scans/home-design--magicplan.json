@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 57,
-      "report": "https://batch.internet.nl/site/cloud.magicplan.app/22056779/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/cloud.magicplan.app/22278648/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cloud.magicplan.app",
-    "tested_at": "2026-10-13T11:52:02.685Z"
+    "tested_at": "2026-10-26T10:12:18.777Z"
   },
-  "scanned_at": "2026-10-14T09:58:28.716Z",
+  "scanned_at": "2026-10-26T10:12:19.999Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 3,

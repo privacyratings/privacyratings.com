@@ -2,9 +2,9 @@
   "domain": "wisprflow.ai",
   "internetnl": {
     "web": {
-      "score": 76,
-      "report": "https://batch.internet.nl/site/wisprflow.ai/22057061/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "score": 96,
+      "report": "https://batch.internet.nl/site/wisprflow.ai/22279306/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wisprflow.ai",
-    "tested_at": "2026-10-13T11:51:57.541Z"
+    "tested_at": "2026-10-26T10:12:13.597Z"
   },
-  "scanned_at": "2026-10-15T09:31:22.926Z",
+  "scanned_at": "2026-10-26T10:12:14.473Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

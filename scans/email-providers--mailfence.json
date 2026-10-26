@@ -2,14 +2,14 @@
   "domain": "mailfence.com",
   "internetnl": {
     "web": {
-      "score": 62,
-      "report": "https://batch.internet.nl/site/mailfence.com/22057009/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "score": 37,
+      "report": "https://batch.internet.nl/site/mailfence.com/22279356/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     },
     "mail": {
       "score": 41,
-      "report": "https://batch.internet.nl/mail/mailfence.com/22463653/",
-      "tested_at": "2026-10-19T03:27:27.563Z"
+      "report": "https://batch.internet.nl/mail/mailfence.com/22638660/",
+      "tested_at": "2026-10-26T10:56:20.451Z"
     }
   },
   "mail": {
@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-25T09:12:03.153Z",
+    "tested_at": "2026-10-26T10:12:28.640Z",
     "imap": {
       "host": "imap.mailfence.com",
       "port": 993,
@@ -88,7 +88,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailfence.com",
     "tested_at": "2026-10-21T09:24:09.450Z"
   },
-  "scanned_at": "2026-10-25T09:12:05.154Z",
+  "scanned_at": "2026-10-26T10:12:30.989Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

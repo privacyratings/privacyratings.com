@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 50,
-      "report": "https://batch.internet.nl/site/www.phplist.com/22057020/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.phplist.com/22278748/",
+      "tested_at": "2026-10-26T10:56:20.040Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.phplist.com",
-    "tested_at": "2026-10-14T09:33:45.601Z"
+    "tested_at": "2026-10-26T10:12:01.119Z"
   },
-  "scanned_at": "2026-10-15T09:20:49.351Z",
+  "scanned_at": "2026-10-26T10:12:01.689Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

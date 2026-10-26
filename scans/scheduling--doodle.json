@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 76,
-      "report": "https://batch.internet.nl/site/doodle.com/22056957/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/doodle.com/22279034/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=doodle.com",
     "tested_at": "2026-10-23T09:23:34.008Z"
   },
-  "scanned_at": "2026-10-23T09:23:35.283Z",
+  "scanned_at": "2026-10-26T10:24:15.596Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=doodle.com&hideResults=on",
-    "tested_at": "2026-10-12T12:15:24.079Z"
+    "tested_at": "2026-10-26T10:24:15.596Z"
   },
   "trackers": {
     "url": "https://doodle.com/en/",

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/www.zendesk.com/22056719/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.zendesk.com/22278646/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.zendesk.com",
-    "tested_at": "2026-10-14T09:33:47.804Z"
+    "tested_at": "2026-10-26T10:12:04.069Z"
   },
-  "scanned_at": "2026-10-16T09:13:09.943Z",
+  "scanned_at": "2026-10-26T10:12:04.310Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 4,

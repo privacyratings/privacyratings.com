@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 71,
-      "report": "https://batch.internet.nl/site/www.cyberghostvpn.com/22056712/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.cyberghostvpn.com/22278811/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cyberghostvpn.com",
-    "tested_at": "2026-10-14T09:33:50.144Z"
+    "tested_at": "2026-10-26T10:12:06.318Z"
   },
-  "scanned_at": "2026-10-16T09:16:20.648Z",
+  "scanned_at": "2026-10-26T10:12:07.015Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

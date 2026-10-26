@@ -2,9 +2,9 @@
   "domain": "kit.com",
   "internetnl": {
     "web": {
-      "score": 75,
-      "report": "https://batch.internet.nl/site/kit.com/22056944/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "score": 71,
+      "report": "https://batch.internet.nl/site/kit.com/22278984/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kit.com",
-    "tested_at": "2026-10-14T09:33:44.480Z"
+    "tested_at": "2026-10-26T10:12:00.389Z"
   },
-  "scanned_at": "2026-10-15T09:26:22.688Z",
+  "scanned_at": "2026-10-26T10:12:00.579Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

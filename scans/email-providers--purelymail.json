@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/purelymail.com/22056829/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/purelymail.com/22279066/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     },
     "mail": {
       "score": 63,
-      "report": "https://batch.internet.nl/mail/purelymail.com/22463674/",
-      "tested_at": "2026-10-19T03:27:27.563Z"
+      "report": "https://batch.internet.nl/mail/purelymail.com/22638724/",
+      "tested_at": "2026-10-26T10:56:20.451Z"
     }
   },
   "mail": {
@@ -45,7 +45,7 @@
         }
       }
     },
-    "tested_at": "2026-10-25T09:12:08.200Z",
+    "tested_at": "2026-10-26T10:12:32.988Z",
     "imap": {
       "host": "imap.purelymail.com",
       "port": 993,
@@ -108,7 +108,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=purelymail.com",
     "tested_at": "2026-10-20T09:28:26.618Z"
   },
-  "scanned_at": "2026-10-25T09:12:08.559Z",
+  "scanned_at": "2026-10-26T10:12:33.533Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

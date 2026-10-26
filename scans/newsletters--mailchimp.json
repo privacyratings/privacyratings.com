@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 63,
-      "report": "https://batch.internet.nl/site/mailchimp.com/22057028/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/mailchimp.com/22278899/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailchimp.com",
-    "tested_at": "2026-10-14T09:33:44.975Z"
+    "tested_at": "2026-10-26T10:12:00.679Z"
   },
-  "scanned_at": "2026-10-15T09:19:08.517Z",
+  "scanned_at": "2026-10-26T10:12:00.968Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

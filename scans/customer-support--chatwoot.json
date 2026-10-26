@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/app.chatwoot.com/22056748/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/app.chatwoot.com/22278761/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.chatwoot.com",
-    "tested_at": "2026-10-14T09:33:46.523Z"
+    "tested_at": "2026-10-26T10:12:02.635Z"
   },
-  "scanned_at": "2026-10-15T09:23:14.892Z",
+  "scanned_at": "2026-10-26T10:12:03.611Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

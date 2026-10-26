@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/www.123-reg.co.uk/22056905/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.123-reg.co.uk/22278963/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     },
     "mail": {
       "score": 59,
-      "report": "https://batch.internet.nl/mail/123-reg.co.uk/22463649/",
-      "tested_at": "2026-10-19T03:27:27.563Z"
+      "report": "https://batch.internet.nl/mail/123-reg.co.uk/22638690/",
+      "tested_at": "2026-10-26T10:56:20.451Z"
     }
   },
   "mail": {
@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-25T09:11:36.336Z",
+    "tested_at": "2026-10-26T10:11:59.557Z",
     "imap": {
       "host": "imap.secureserver.net",
       "port": 993,
@@ -88,7 +88,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.123-reg.co.uk",
     "tested_at": "2026-10-21T09:24:07.173Z"
   },
-  "scanned_at": "2026-10-25T09:11:37.457Z",
+  "scanned_at": "2026-10-26T10:12:00.409Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/codeberg.org/22057006/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/codeberg.org/22278971/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=codeberg.org",
     "tested_at": "2026-10-17T08:37:06.690Z"
   },
-  "scanned_at": "2026-10-25T09:11:36.556Z",
+  "scanned_at": "2026-10-26T10:11:59.555Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

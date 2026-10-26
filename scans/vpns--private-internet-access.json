@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 79,
-      "report": "https://batch.internet.nl/site/www.privateinternetaccess.com/22056864/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/www.privateinternetaccess.com/22278683/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.privateinternetaccess.com",
-    "tested_at": "2026-10-14T09:33:54.232Z"
+    "tested_at": "2026-10-26T10:12:10.231Z"
   },
-  "scanned_at": "2026-10-16T09:17:06.133Z",
+  "scanned_at": "2026-10-26T10:12:10.892Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

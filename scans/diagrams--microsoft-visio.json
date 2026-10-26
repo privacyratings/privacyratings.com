@@ -2,9 +2,9 @@
   "domain": "m365.cloud.microsoft",
   "internetnl": {
     "web": {
-      "score": 50,
-      "report": "https://batch.internet.nl/site/m365.cloud.microsoft/22056745/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "score": 71,
+      "report": "https://batch.internet.nl/site/m365.cloud.microsoft/22279249/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
     "tested_at": "2026-10-23T09:23:30.601Z"
   },
-  "scanned_at": "2026-10-23T09:23:31.324Z",
+  "scanned_at": "2026-10-26T10:23:05.050Z",
   "ssllabs": {
-    "grade": "A",
-    "endpoints": 4,
+    "grade": "A+",
+    "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=m365.cloud.microsoft&hideResults=on",
-    "tested_at": "2026-10-12T12:10:18.410Z"
+    "tested_at": "2026-10-26T10:23:05.050Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365/visio",

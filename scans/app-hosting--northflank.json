@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/app.northflank.com/22056882/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/app.northflank.com/22279122/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.northflank.com",
     "tested_at": "2026-10-23T09:23:28.550Z"
   },
-  "scanned_at": "2026-10-23T09:23:29.784Z",
+  "scanned_at": "2026-10-26T10:24:29.843Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

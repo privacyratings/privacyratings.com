@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/riseup.net/22056964/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/riseup.net/22278980/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=riseup.net",
-    "tested_at": "2026-10-14T09:33:55.025Z"
+    "tested_at": "2026-10-26T10:12:11.069Z"
   },
-  "scanned_at": "2026-10-16T09:17:20.559Z",
+  "scanned_at": "2026-10-26T10:12:12.050Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

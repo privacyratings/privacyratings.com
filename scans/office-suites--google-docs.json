@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/docs.google.com/22056991/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/docs.google.com/22279221/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.google.com",
     "tested_at": "2026-10-24T08:55:23.360Z"
   },
-  "scanned_at": "2026-10-24T08:55:23.833Z",
+  "scanned_at": "2026-10-26T10:24:30.033Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=docs.google.com&hideResults=on",
-    "tested_at": "2026-10-12T12:14:44.442Z"
+    "tested_at": "2026-10-26T10:24:30.033Z"
   },
   "trackers": {
     "url": "https://accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1896006686:1790838119969056",

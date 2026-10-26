@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 93,
-      "report": "https://batch.internet.nl/site/countermail.com/22056717/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/countermail.com/22278924/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     },
     "mail": {
       "score": 78,
-      "report": "https://batch.internet.nl/mail/countermail.com/22463655/",
-      "tested_at": "2026-10-19T03:27:27.563Z"
+      "report": "https://batch.internet.nl/mail/countermail.com/22638688/",
+      "tested_at": "2026-10-26T10:56:20.451Z"
     }
   },
   "mail": {
@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-25T09:11:37.245Z",
+    "tested_at": "2026-10-26T10:12:00.838Z",
     "imap": {
       "host": "imap1.countermail.com",
       "port": 993,
@@ -79,7 +79,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=countermail.com",
     "tested_at": "2026-10-20T09:28:23.252Z"
   },
-  "scanned_at": "2026-10-25T09:11:38.517Z",
+  "scanned_at": "2026-10-26T10:12:02.316Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

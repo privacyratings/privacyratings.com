@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 78,
-      "report": "https://batch.internet.nl/site/app.cal.com/22056989/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/app.cal.com/22279206/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.cal.com",
     "tested_at": "2026-10-23T09:23:33.757Z"
   },
-  "scanned_at": "2026-10-23T09:23:35.228Z",
+  "scanned_at": "2026-10-26T10:26:15.921Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 72,
-      "report": "https://batch.internet.nl/site/surfshark.com/22056870/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/surfshark.com/22278641/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=surfshark.com",
-    "tested_at": "2026-10-14T09:33:55.633Z"
+    "tested_at": "2026-10-26T10:12:11.813Z"
   },
-  "scanned_at": "2026-10-17T08:48:06.591Z",
+  "scanned_at": "2026-10-26T10:12:12.572Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

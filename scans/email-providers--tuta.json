@@ -9,13 +9,13 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/tuta.com/22056819/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/tuta.com/22279109/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     },
     "mail": {
       "score": 84,
-      "report": "https://batch.internet.nl/mail/tuta.com/22463657/",
-      "tested_at": "2026-10-19T03:27:27.563Z"
+      "report": "https://batch.internet.nl/mail/tuta.com/22638681/",
+      "tested_at": "2026-10-26T10:56:20.451Z"
     }
   },
   "mail": {
@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-25T09:12:14.011Z",
+    "tested_at": "2026-10-26T10:12:39.432Z",
     "imap": {
       "offered": false
     },
@@ -59,11 +59,11 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tuta.com",
     "tested_at": "2026-10-21T09:24:11.349Z"
   },
-  "scanned_at": "2026-10-25T09:14:36.055Z",
+  "scanned_at": "2026-10-26T10:13:38.329Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tuta.com&hideResults=on",
-    "tested_at": "2026-10-10T10:41:58.143Z"
+    "tested_at": "2026-10-26T10:13:38.329Z"
   },
   "trackers": {
     "url": "https://tuta.com",

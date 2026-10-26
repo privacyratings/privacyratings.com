@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 77,
-      "report": "https://batch.internet.nl/site/swisscows.com/22056757/",
-      "tested_at": "2026-10-19T03:27:27.049Z"
+      "report": "https://batch.internet.nl/site/swisscows.com/22278657/",
+      "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swisscows.com",
     "tested_at": "2026-10-22T09:26:59.527Z"
   },
-  "scanned_at": "2026-10-22T09:27:02.570Z",
+  "scanned_at": "2026-10-26T10:14:53.440Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=swisscows.com&hideResults=on",
-    "tested_at": "2026-10-12T12:05:51.659Z"
+    "tested_at": "2026-10-26T10:14:53.440Z"
   },
   "trackers": {
     "url": "https://swisscows.com/en",
