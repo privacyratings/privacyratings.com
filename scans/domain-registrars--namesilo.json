@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.namesilo.com",
-    "tested_at": "2026-10-15T09:11:35.716Z"
+    "tested_at": "2026-10-27T09:51:49.197Z"
   },
-  "scanned_at": "2026-10-19T10:02:52.503Z",
+  "scanned_at": "2026-10-27T09:51:49.415Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

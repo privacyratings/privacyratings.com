@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cloudns.net",
-    "tested_at": "2026-10-15T09:11:30.513Z"
+    "tested_at": "2026-10-27T09:51:44.754Z"
   },
-  "scanned_at": "2026-10-19T10:16:26.475Z",
+  "scanned_at": "2026-10-27T09:51:46.313Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,

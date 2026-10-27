@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.signnow.com",
     "tested_at": "2026-10-25T09:11:43.774Z"
   },
-  "scanned_at": "2026-10-25T09:11:44.382Z",
+  "scanned_at": "2026-10-27T10:07:10.620Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

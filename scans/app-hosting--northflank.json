@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.northflank.com",
     "tested_at": "2026-10-23T09:23:28.550Z"
   },
-  "scanned_at": "2026-10-26T10:24:29.843Z",
+  "scanned_at": "2026-10-27T10:02:14.450Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.northflank.com&hideResults=on",
-    "tested_at": "2026-10-12T12:10:13.526Z"
+    "tested_at": "2026-10-27T10:02:14.450Z"
   },
   "trackers": {
     "url": "https://northflank.com",

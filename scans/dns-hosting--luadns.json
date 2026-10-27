@@ -8,14 +8,14 @@
     }
   },
   "observatory": {
-    "grade": "B",
-    "score": 75,
+    "grade": "B+",
+    "score": 80,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.luadns.com",
-    "tested_at": "2026-10-15T09:11:33.449Z"
+    "tested_at": "2026-10-27T09:51:46.944Z"
   },
-  "scanned_at": "2026-10-16T09:22:01.256Z",
+  "scanned_at": "2026-10-27T09:51:47.742Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

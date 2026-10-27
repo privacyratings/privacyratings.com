@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=10minutemail.com",
     "tested_at": "2026-10-18T08:53:22.390Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.299Z",
+  "scanned_at": "2026-10-27T09:51:20.714Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

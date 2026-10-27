@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=postmarkapp.com",
     "tested_at": "2026-10-24T08:55:02.149Z"
   },
-  "scanned_at": "2026-10-24T08:55:03.049Z",
+  "scanned_at": "2026-10-27T09:51:20.585Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=postmarkapp.com&hideResults=on",
-    "tested_at": "2026-10-13T11:51:46.141Z"
+    "tested_at": "2026-10-27T09:51:20.585Z"
   },
   "trackers": {
     "url": "https://postmarkapp.com",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=infobip.com",
     "tested_at": "2026-10-24T08:55:15.250Z"
   },
-  "scanned_at": "2026-10-24T08:55:19.632Z",
+  "scanned_at": "2026-10-27T09:56:07.912Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=infobip.com&hideResults=on",
-    "tested_at": "2026-10-13T11:58:01.198Z"
+    "tested_at": "2026-10-27T09:56:07.912Z"
   },
   "trackers": {
     "url": "https://www.infobip.com",

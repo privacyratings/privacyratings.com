@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.sb",
-    "tested_at": "2026-10-14T09:33:59.635Z"
+    "tested_at": "2026-10-27T09:51:33.301Z"
   },
-  "scanned_at": "2026-10-16T09:19:18.046Z",
+  "scanned_at": "2026-10-27T09:51:33.547Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

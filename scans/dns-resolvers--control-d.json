@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=controld.com",
-    "tested_at": "2026-10-14T09:33:56.684Z"
+    "tested_at": "2026-10-27T09:51:30.812Z"
   },
-  "scanned_at": "2026-10-17T08:48:06.343Z",
+  "scanned_at": "2026-10-27T09:51:30.991Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

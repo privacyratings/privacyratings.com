@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=loops.so",
     "tested_at": "2026-10-23T09:23:11.881Z"
   },
-  "scanned_at": "2026-10-23T09:23:12.432Z",
+  "scanned_at": "2026-10-27T09:56:02.087Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=loops.so&hideResults=on",
-    "tested_at": "2026-10-13T11:54:46.912Z"
+    "tested_at": "2026-10-27T09:56:02.087Z"
   },
   "trackers": {
     "url": "https://loops.so",

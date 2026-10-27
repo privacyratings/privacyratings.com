@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sendgrid.com",
     "tested_at": "2026-10-22T09:26:58.108Z"
   },
-  "scanned_at": "2026-10-22T09:26:59.129Z",
+  "scanned_at": "2026-10-27T09:51:21.389Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 9,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sendgrid.com&hideResults=on",
-    "tested_at": "2026-10-13T11:51:47.784Z"
+    "tested_at": "2026-10-27T09:51:21.389Z"
   },
   "trackers": {
     "url": "https://www.twilio.com/en-us/sendgrid",

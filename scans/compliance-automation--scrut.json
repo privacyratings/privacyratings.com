@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.scrut.io",
     "tested_at": "2026-10-24T08:55:05.235Z"
   },
-  "scanned_at": "2026-10-24T08:55:15.149Z",
+  "scanned_at": "2026-10-27T09:58:13.379Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

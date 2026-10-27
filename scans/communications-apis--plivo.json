@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=plivo.com",
     "tested_at": "2026-10-24T08:55:16.045Z"
   },
-  "scanned_at": "2026-10-24T08:55:16.404Z",
+  "scanned_at": "2026-10-27T09:59:08.202Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

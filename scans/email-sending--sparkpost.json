@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sparkpost.com",
     "tested_at": "2026-10-24T08:55:03.982Z"
   },
-  "scanned_at": "2026-10-24T08:55:04.522Z",
+  "scanned_at": "2026-10-27T09:56:07.807Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sparkpost.com&hideResults=on",
-    "tested_at": "2026-10-13T11:56:30.192Z"
+    "tested_at": "2026-10-27T09:56:07.807Z"
   },
   "trackers": {
     "url": "https://bird.com/email-api",

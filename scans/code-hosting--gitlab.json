@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=gitlab.com",
     "tested_at": "2026-10-24T08:55:26.393Z"
   },
-  "scanned_at": "2026-10-24T08:55:26.942Z",
+  "scanned_at": "2026-10-27T10:05:25.263Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=gitlab.com&hideResults=on",
-    "tested_at": "2026-10-13T12:08:10.827Z"
+    "tested_at": "2026-10-27T10:05:25.263Z"
   },
   "trackers": {
     "url": "https://about.gitlab.com/",

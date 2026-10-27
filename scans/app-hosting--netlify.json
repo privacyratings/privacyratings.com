@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.netlify.com",
     "tested_at": "2026-10-23T09:23:28.083Z"
   },
-  "scanned_at": "2026-10-26T10:23:15.702Z",
+  "scanned_at": "2026-10-27T10:00:33.785Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.netlify.com&hideResults=on",
-    "tested_at": "2026-10-11T11:04:20.249Z"
+    "tested_at": "2026-10-27T10:00:33.785Z"
   },
   "trackers": {
     "url": "https://www.netlify.com",

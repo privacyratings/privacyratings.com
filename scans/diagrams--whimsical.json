@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=whimsical.com",
     "tested_at": "2026-10-23T09:23:32.953Z"
   },
-  "scanned_at": "2026-10-23T09:23:33.640Z",
+  "scanned_at": "2026-10-27T10:03:58.883Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
