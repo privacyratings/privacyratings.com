@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tally.so",
-    "tested_at": "2026-10-16T09:04:16.853Z"
+    "tested_at": "2026-10-28T10:37:51.087Z"
   },
-  "scanned_at": "2026-10-19T10:13:27.741Z",
+  "scanned_at": "2026-10-28T10:37:52.142Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 6,

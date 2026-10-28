@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=yousign.app",
     "tested_at": "2026-10-25T09:11:44.728Z"
   },
-  "scanned_at": "2026-10-25T09:11:54.392Z",
+  "scanned_at": "2026-10-28T10:46:57.441Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=yousign.app&hideResults=on",
-    "tested_at": "2026-10-14T09:45:14.488Z"
+    "tested_at": "2026-10-28T10:46:57.441Z"
   },
   "trackers": {
     "url": "https://youtrust.com",

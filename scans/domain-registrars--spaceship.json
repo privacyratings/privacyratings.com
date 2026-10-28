@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.spaceship.com",
-    "tested_at": "2026-10-15T09:11:38.059Z"
+    "tested_at": "2026-10-28T10:37:33.468Z"
   },
-  "scanned_at": "2026-10-17T08:57:36.154Z",
+  "scanned_at": "2026-10-28T10:37:33.700Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

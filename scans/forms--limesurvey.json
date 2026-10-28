@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.limesurvey.org",
-    "tested_at": "2026-10-16T09:04:16.138Z"
+    "tested_at": "2026-10-28T10:37:49.401Z"
   },
-  "scanned_at": "2026-10-18T09:04:45.689Z",
+  "scanned_at": "2026-10-28T10:37:51.452Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

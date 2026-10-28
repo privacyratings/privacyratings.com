@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=metager.org",
     "tested_at": "2026-10-25T09:11:35.535Z"
   },
-  "scanned_at": "2026-10-25T09:11:36.997Z",
+  "scanned_at": "2026-10-28T10:37:34.185Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=metager.org&hideResults=on",
-    "tested_at": "2026-10-14T09:36:46.902Z"
+    "tested_at": "2026-10-28T10:37:34.185Z"
   },
   "trackers": {
     "url": "https://metager.org",

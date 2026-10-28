@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.acuityscheduling.com",
     "tested_at": "2026-10-23T09:23:33.473Z"
   },
-  "scanned_at": "2026-10-27T10:04:08.162Z",
+  "scanned_at": "2026-10-28T10:46:57.193Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=secure.acuityscheduling.com&hideResults=on",
-    "tested_at": "2026-10-13T12:03:30.959Z"
+    "tested_at": "2026-10-28T10:46:57.193Z"
   },
   "trackers": {
     "url": "https://acuityscheduling.com",

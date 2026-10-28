@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=search.yahoo.com",
     "tested_at": "2026-10-25T09:11:37.153Z"
   },
-  "scanned_at": "2026-10-25T09:11:37.456Z",
+  "scanned_at": "2026-10-28T10:40:34.587Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

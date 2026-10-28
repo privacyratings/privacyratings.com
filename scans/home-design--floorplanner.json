@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=floorplanner.com",
     "tested_at": "2026-10-26T10:12:14.653Z"
   },
-  "scanned_at": "2026-10-26T10:12:16.233Z",
+  "scanned_at": "2026-10-28T10:53:08.804Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.granola.ai",
     "tested_at": "2026-10-26T10:12:12.165Z"
   },
-  "scanned_at": "2026-10-26T10:12:12.805Z",
+  "scanned_at": "2026-10-28T10:52:58.502Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

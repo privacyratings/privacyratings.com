@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=plivo.com",
     "tested_at": "2026-10-24T08:55:16.045Z"
   },
-  "scanned_at": "2026-10-27T09:59:08.202Z",
+  "scanned_at": "2026-10-28T10:43:01.108Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=plivo.com&hideResults=on",
-    "tested_at": "2026-10-13T12:01:39.869Z"
+    "tested_at": "2026-10-28T10:43:01.108Z"
   },
   "trackers": {
     "url": "https://www.plivo.com",

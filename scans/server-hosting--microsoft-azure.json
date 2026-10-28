@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.azure.com",
-    "tested_at": "2026-10-15T09:11:39.760Z"
+    "tested_at": "2026-10-28T10:37:36.489Z"
   },
-  "scanned_at": "2026-10-17T08:55:12.971Z",
+  "scanned_at": "2026-10-28T10:37:36.732Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

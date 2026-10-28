@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.heyform.net",
-    "tested_at": "2026-10-16T09:04:14.536Z"
+    "tested_at": "2026-10-28T10:37:48.712Z"
   },
-  "scanned_at": "2026-10-20T09:38:33.681Z",
+  "scanned_at": "2026-10-28T10:37:49.829Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

@@ -7,12 +7,12 @@
       "tested_at": "2026-10-26T10:56:20.041Z"
     }
   },
-  "scanned_at": "2026-10-27T09:51:55.683Z",
+  "scanned_at": "2026-10-28T10:38:04.518Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=presearch.com&hideResults=on",
-    "tested_at": "2026-10-14T09:41:01.482Z"
+    "tested_at": "2026-10-28T10:37:34.326Z"
   },
   "trackers": {
     "error": "HTTP 403",

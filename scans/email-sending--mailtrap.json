@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailtrap.io",
     "tested_at": "2026-10-24T08:55:00.560Z"
   },
-  "scanned_at": "2026-10-27T09:54:21.061Z",
+  "scanned_at": "2026-10-28T10:37:34.204Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailtrap.io&hideResults=on",
-    "tested_at": "2026-10-13T11:51:45.919Z"
+    "tested_at": "2026-10-28T10:37:34.204Z"
   },
   "trackers": {
     "url": "https://mailtrap.io",

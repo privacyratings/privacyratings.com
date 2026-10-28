@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=paperform.co",
     "tested_at": "2026-10-25T09:11:48.597Z"
   },
-  "scanned_at": "2026-10-25T09:11:49.317Z",
+  "scanned_at": "2026-10-28T10:54:34.172Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=paperform.co&hideResults=on",
-    "tested_at": "2026-10-13T12:14:31.765Z"
+    "tested_at": "2026-10-28T10:54:34.172Z"
   },
   "trackers": {
     "url": "https://paperform.co",

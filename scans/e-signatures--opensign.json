@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.opensignlabs.com",
-    "tested_at": "2026-10-16T09:04:12.717Z"
+    "tested_at": "2026-10-28T10:37:46.887Z"
   },
-  "scanned_at": "2026-10-19T10:06:36.097Z",
+  "scanned_at": "2026-10-28T10:37:48.058Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=home.by.me",
     "tested_at": "2026-10-26T10:12:16.391Z"
   },
-  "scanned_at": "2026-10-26T10:12:18.521Z",
+  "scanned_at": "2026-10-28T10:50:52.792Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=home.by.me&hideResults=on",
-    "tested_at": "2026-10-14T09:56:01.750Z"
+    "tested_at": "2026-10-28T10:50:52.792Z"
   },
   "trackers": {
     "url": "https://home.by.me/en/",

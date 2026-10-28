@@ -9,13 +9,13 @@
   },
   "observatory": {
     "grade": "A+",
-    "score": 110,
+    "score": 115,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
-    "tested_at": "2026-10-16T09:04:08.483Z"
+    "tested_at": "2026-10-28T10:37:43.174Z"
   },
-  "scanned_at": "2026-10-18T08:57:53.051Z",
+  "scanned_at": "2026-10-28T10:37:44.022Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,

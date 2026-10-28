@@ -3,9 +3,9 @@
     "repo": "mozilla/releases-comm-central",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T07:00:09.845Z"
+    "checked_at": "2026-10-28T10:37:33.385Z"
   },
-  "scanned_at": "2026-10-01T07:01:51.432Z",
+  "scanned_at": "2026-10-28T10:37:33.385Z",
   "trackers": {
     "url": "https://www.thunderbird.net/en-US/",
     "found": [],

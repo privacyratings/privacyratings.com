@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=admin.typeform.com",
-    "tested_at": "2026-10-16T09:04:18.212Z"
+    "tested_at": "2026-10-28T10:37:51.599Z"
   },
-  "scanned_at": "2026-10-19T10:17:26.322Z",
+  "scanned_at": "2026-10-28T10:37:52.057Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

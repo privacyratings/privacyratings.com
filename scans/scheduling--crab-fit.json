@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=crab.fit",
-    "tested_at": "2026-10-16T09:04:07.837Z"
+    "tested_at": "2026-10-28T10:37:41.988Z"
   },
-  "scanned_at": "2026-10-18T08:58:27.304Z",
+  "scanned_at": "2026-10-28T10:37:43.092Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

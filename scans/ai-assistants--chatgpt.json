@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=chatgpt.com",
-    "tested_at": "2026-10-16T09:04:19.845Z"
+    "tested_at": "2026-10-28T10:37:53.101Z"
   },
-  "scanned_at": "2026-10-18T09:04:46.044Z",
+  "scanned_at": "2026-10-28T10:37:53.279Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
