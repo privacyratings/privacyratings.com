@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=build.fillout.com",
     "tested_at": "2026-10-25T09:11:45.946Z"
   },
-  "scanned_at": "2026-10-28T10:49:57.661Z",
+  "scanned_at": "2026-10-29T11:09:10.361Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 6,

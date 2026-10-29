@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.optery.com",
     "tested_at": "2026-10-26T10:11:57.898Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.676Z",
+  "scanned_at": "2026-10-29T10:58:25.254Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.optery.com&hideResults=on",
-    "tested_at": "2026-10-15T09:16:08.214Z"
+    "tested_at": "2026-10-29T10:58:25.254Z"
   },
   "trackers": {
     "url": "https://www.optery.com",

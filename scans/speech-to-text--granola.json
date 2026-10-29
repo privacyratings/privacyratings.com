@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.granola.ai",
     "tested_at": "2026-10-26T10:12:12.165Z"
   },
-  "scanned_at": "2026-10-28T10:52:58.502Z",
+  "scanned_at": "2026-10-29T11:08:04.579Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.granola.ai&hideResults=on",
-    "tested_at": "2026-10-14T09:50:34.969Z"
+    "tested_at": "2026-10-29T11:08:04.579Z"
   },
   "trackers": {
     "url": "https://www.granola.ai",

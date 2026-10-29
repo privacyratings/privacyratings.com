@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=claude.ai",
-    "tested_at": "2026-10-16T09:04:20.106Z"
+    "tested_at": "2026-10-29T10:55:38.442Z"
   },
-  "scanned_at": "2026-10-18T09:04:46.172Z",
+  "scanned_at": "2026-10-29T10:55:38.646Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

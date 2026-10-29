@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovhcloud.com",
     "tested_at": "2026-10-23T09:23:24.337Z"
   },
-  "scanned_at": "2026-10-23T09:23:25.071Z",
+  "scanned_at": "2026-10-29T11:06:15.234Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

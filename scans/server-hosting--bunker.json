@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getbunker.net",
     "tested_at": "2026-10-19T09:58:53.782Z"
   },
-  "scanned_at": "2026-10-28T10:46:11.074Z",
+  "scanned_at": "2026-10-29T11:06:10.053Z",
   "ssllabs": {
-    "grade": "B",
-    "endpoints": 4,
+    "grade": "A+",
+    "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=getbunker.net&hideResults=on",
-    "tested_at": "2026-10-11T11:01:18.412Z"
+    "tested_at": "2026-10-29T11:06:10.053Z"
   },
   "trackers": {
     "url": "https://getbunker.net",

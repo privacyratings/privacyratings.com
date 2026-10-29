@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=aquavoice.com",
     "tested_at": "2026-10-25T09:11:54.480Z"
   },
-  "scanned_at": "2026-10-28T10:52:58.029Z",
+  "scanned_at": "2026-10-29T11:07:55.777Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=aquavoice.com&hideResults=on",
-    "tested_at": "2026-10-14T09:48:21.150Z"
+    "tested_at": "2026-10-29T11:07:55.777Z"
   },
   "trackers": {
     "url": "https://aquavoice.com",

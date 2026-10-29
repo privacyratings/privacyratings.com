@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.keila.io",
     "tested_at": "2026-10-26T10:12:00.577Z"
   },
-  "scanned_at": "2026-10-26T10:12:02.478Z",
+  "scanned_at": "2026-10-29T11:03:15.128Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.keila.io&hideResults=on",
-    "tested_at": "2026-10-15T09:22:34.399Z"
+    "tested_at": "2026-10-29T11:03:15.128Z"
   },
   "trackers": {
     "url": "https://www.keila.io",

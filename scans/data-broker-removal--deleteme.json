@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=joindeleteme.com",
     "tested_at": "2026-10-25T09:11:42.710Z"
   },
-  "scanned_at": "2026-10-25T09:11:43.628Z",
+  "scanned_at": "2026-10-29T11:00:24.155Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=joindeleteme.com&hideResults=on",
-    "tested_at": "2026-10-15T09:17:21.906Z"
+    "tested_at": "2026-10-29T11:00:24.155Z"
   },
   "trackers": {
     "url": "https://joindeleteme.com",

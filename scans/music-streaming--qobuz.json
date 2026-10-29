@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=play.qobuz.com",
     "tested_at": "2026-10-24T08:55:30.828Z"
   },
-  "scanned_at": "2026-10-24T08:55:32.417Z",
+  "scanned_at": "2026-10-29T11:12:01.261Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=play.qobuz.com&hideResults=on",
-    "tested_at": "2026-10-15T09:35:54.545Z"
+    "tested_at": "2026-10-29T11:12:01.261Z"
   },
   "trackers": {
     "url": "https://www.qobuz.com/us-en/discover",

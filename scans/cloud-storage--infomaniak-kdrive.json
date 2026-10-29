@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kdrive.infomaniak.com",
-    "tested_at": "2026-10-16T09:04:38.992Z"
+    "tested_at": "2026-10-29T10:55:56.662Z"
   },
-  "scanned_at": "2026-10-19T10:15:55.952Z",
+  "scanned_at": "2026-10-29T10:56:00.900Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -4,7 +4,7 @@
     "repo": "AdguardTeam/AdGuardDNS",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:10.885Z"
+    "checked_at": "2026-10-29T10:55:34.211Z"
   },
   "internetnl": {
     "web": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=adguard-dns.io",
     "tested_at": "2026-10-23T09:23:19.480Z"
   },
-  "scanned_at": "2026-10-23T09:23:21.042Z",
+  "scanned_at": "2026-10-29T11:06:10.114Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=adguard-dns.io&hideResults=on",
-    "tested_at": "2026-10-15T09:28:10.427Z"
+    "tested_at": "2026-10-29T11:06:10.114Z"
   },
   "trackers": {
     "url": "https://adguard-dns.io/en/welcome.html",

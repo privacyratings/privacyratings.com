@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.chatwoot.com",
     "tested_at": "2026-10-26T10:12:02.635Z"
   },
-  "scanned_at": "2026-10-26T10:12:03.611Z",
+  "scanned_at": "2026-10-29T11:03:24.281Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

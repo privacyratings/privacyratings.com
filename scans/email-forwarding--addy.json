@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-28T10:38:17.908Z",
+    "tested_at": "2026-10-29T10:56:32.289Z",
     "imap": {
       "offered": false
     },
@@ -54,13 +54,13 @@
   "mail_domain": "addy.io",
   "observatory": {
     "grade": "A+",
-    "score": 120,
-    "tests_passed": 11,
+    "score": 125,
+    "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
-    "tested_at": "2026-10-17T08:36:46.434Z"
+    "tested_at": "2026-10-29T10:55:33.856Z"
   },
-  "scanned_at": "2026-10-28T10:38:17.908Z",
+  "scanned_at": "2026-10-29T10:56:32.289Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

@@ -49,7 +49,7 @@
         }
       }
     },
-    "tested_at": "2026-10-28T10:38:00.167Z",
+    "tested_at": "2026-10-29T10:56:09.633Z",
     "imap": {
       "host": "mail.privateemail.com",
       "port": 993,
@@ -107,7 +107,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privateemail.com",
     "tested_at": "2026-10-21T09:24:09.214Z"
   },
-  "scanned_at": "2026-10-28T10:38:01.979Z",
+  "scanned_at": "2026-10-29T10:56:10.228Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

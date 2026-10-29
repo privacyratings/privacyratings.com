@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidycal.com",
     "tested_at": "2026-10-24T08:55:22.852Z"
   },
-  "scanned_at": "2026-10-28T10:46:56.843Z",
+  "scanned_at": "2026-10-29T11:06:24.490Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

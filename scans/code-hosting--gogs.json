@@ -4,7 +4,7 @@
     "repo": "gogs/gogs",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:11.191Z"
+    "checked_at": "2026-10-29T10:55:34.835Z"
   },
   "observatory": {
     "grade": "B+",
@@ -14,7 +14,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=gogs.io",
     "tested_at": "2026-09-29T17:59:44.528Z"
   },
-  "scanned_at": "2026-10-01T07:02:00.937Z",
+  "scanned_at": "2026-10-29T10:55:34.835Z",
   "trackers": {
     "url": "https://gogs.io/getting-started/introduction",
     "found": [

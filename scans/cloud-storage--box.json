@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.box.com",
-    "tested_at": "2026-10-16T09:04:37.038Z"
+    "tested_at": "2026-10-29T10:55:54.062Z"
   },
-  "scanned_at": "2026-10-19T10:09:14.394Z",
+  "scanned_at": "2026-10-29T10:55:54.538Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mega.nz",
-    "tested_at": "2026-10-17T08:36:52.170Z"
+    "tested_at": "2026-10-29T10:56:01.137Z"
   },
-  "scanned_at": "2026-10-19T10:23:34.789Z",
+  "scanned_at": "2026-10-29T10:56:02.502Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

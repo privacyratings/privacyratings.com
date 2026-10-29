@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=uruky.com",
-    "tested_at": "2026-10-17T08:36:50.183Z"
+    "tested_at": "2026-10-29T10:55:37.246Z"
   },
-  "scanned_at": "2026-10-22T09:31:12.903Z",
+  "scanned_at": "2026-10-29T10:55:38.656Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

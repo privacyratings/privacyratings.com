@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=grc.strikegraph.com",
     "tested_at": "2026-10-24T08:55:11.101Z"
   },
-  "scanned_at": "2026-10-24T08:55:11.843Z",
+  "scanned_at": "2026-10-29T10:57:29.791Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=grc.strikegraph.com&hideResults=on",
-    "tested_at": "2026-10-15T09:14:27.912Z"
+    "tested_at": "2026-10-29T10:57:29.791Z"
   },
   "trackers": {
     "url": "https://www.strikegraph.com",
