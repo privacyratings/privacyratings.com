@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.islegitsite.com",
-    "tested_at": "2026-10-18T08:53:31.317Z"
+    "tested_at": "2026-10-30T10:53:47.532Z"
   },
-  "scanned_at": "2026-10-29T10:55:34.822Z",
+  "scanned_at": "2026-10-30T10:53:49.518Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

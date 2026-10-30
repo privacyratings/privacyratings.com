@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.joindns4.eu",
     "tested_at": "2026-10-27T09:51:33.945Z"
   },
-  "scanned_at": "2026-10-27T09:51:35.227Z",
+  "scanned_at": "2026-10-30T11:08:57.051Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.joindns4.eu&hideResults=on",
-    "tested_at": "2026-10-16T09:24:47.471Z"
+    "tested_at": "2026-10-30T11:08:57.051Z"
   },
   "trackers": {
     "url": "https://joindns4.eu",

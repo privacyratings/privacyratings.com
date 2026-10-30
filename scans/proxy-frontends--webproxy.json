@@ -13,9 +13,9 @@
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=weboproxy.com",
-    "tested_at": "2026-10-18T08:53:16.703Z"
+    "tested_at": "2026-10-30T10:53:33.022Z"
   },
-  "scanned_at": "2026-10-19T10:02:21.961Z",
+  "scanned_at": "2026-10-30T10:53:33.851Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

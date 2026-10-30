@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getresponse.com",
     "tested_at": "2026-10-27T09:51:25.288Z"
   },
-  "scanned_at": "2026-10-27T09:51:26.547Z",
+  "scanned_at": "2026-10-30T10:53:32.451Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=getresponse.com&hideResults=on",
-    "tested_at": "2026-10-16T09:07:08.294Z"
+    "tested_at": "2026-10-30T10:53:32.451Z"
   },
   "trackers": {
     "url": "https://www.getresponse.com",

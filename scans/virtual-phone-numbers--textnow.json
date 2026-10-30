@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.textnow.com",
     "tested_at": "2026-10-26T10:12:05.427Z"
   },
-  "scanned_at": "2026-10-29T10:55:35.422Z",
+  "scanned_at": "2026-10-30T11:01:59.822Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.textnow.com&hideResults=on",
-    "tested_at": "2026-10-16T09:10:54.272Z"
+    "tested_at": "2026-10-30T11:01:59.822Z"
   },
   "trackers": {
     "url": "https://www.textnow.com",

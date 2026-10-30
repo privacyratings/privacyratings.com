@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=coveryourtracks.eff.org",
-    "tested_at": "2026-10-18T08:53:29.807Z"
+    "tested_at": "2026-10-30T10:53:45.675Z"
   },
-  "scanned_at": "2026-10-22T09:26:55.792Z",
+  "scanned_at": "2026-10-30T10:53:46.068Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.trustifi.com",
     "tested_at": "2026-10-22T09:26:57.116Z"
   },
-  "scanned_at": "2026-10-29T10:55:33.936Z",
+  "scanned_at": "2026-10-30T10:53:31.297Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hushed.com",
     "tested_at": "2026-10-26T10:12:05.376Z"
   },
-  "scanned_at": "2026-10-26T10:12:08.499Z",
+  "scanned_at": "2026-10-30T11:01:24.256Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hushed.com&hideResults=on",
-    "tested_at": "2026-10-16T09:10:59.153Z"
+    "tested_at": "2026-10-30T11:01:24.256Z"
   },
   "trackers": {
     "url": "https://hushed.com",

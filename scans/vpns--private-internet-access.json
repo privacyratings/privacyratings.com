@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.privateinternetaccess.com",
     "tested_at": "2026-10-26T10:12:10.231Z"
   },
-  "scanned_at": "2026-10-26T10:12:10.892Z",
+  "scanned_at": "2026-10-30T11:04:25.461Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.privateinternetaccess.com&hideResults=on",
-    "tested_at": "2026-10-16T09:17:06.133Z"
+    "tested_at": "2026-10-30T11:04:25.461Z"
   },
   "trackers": {
     "url": "https://www.privateinternetaccess.com",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.zendesk.com",
     "tested_at": "2026-10-26T10:12:04.069Z"
   },
-  "scanned_at": "2026-10-26T10:12:04.310Z",
+  "scanned_at": "2026-10-30T11:02:59.379Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.zendesk.com&hideResults=on",
-    "tested_at": "2026-10-16T09:13:09.942Z"
+    "tested_at": "2026-10-30T11:02:59.378Z"
   },
   "trackers": {
     "url": "https://www.zendesk.com",

@@ -19,9 +19,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.blocked.org.uk",
-    "tested_at": "2026-10-18T08:53:26.439Z"
+    "tested_at": "2026-10-30T10:53:42.589Z"
   },
-  "scanned_at": "2026-10-22T09:26:55.601Z",
+  "scanned_at": "2026-10-30T10:53:44.057Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

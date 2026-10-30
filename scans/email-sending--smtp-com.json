@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=smtp.com",
     "tested_at": "2026-10-27T09:51:22.134Z"
   },
-  "scanned_at": "2026-10-27T09:51:23.532Z",
+  "scanned_at": "2026-10-30T10:53:31.842Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=smtp.com&hideResults=on",
-    "tested_at": "2026-10-16T09:07:48.548Z"
+    "tested_at": "2026-10-30T10:53:31.842Z"
   },
   "trackers": {
     "url": "https://www.smtp.com",

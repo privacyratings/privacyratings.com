@@ -1,11 +1,11 @@
 {
   "github": {
-    "repo": "facebook/docusaurus",
+    "repo": "meta/docusaurus",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:13.461Z"
+    "checked_at": "2026-10-30T10:53:32.971Z"
   },
-  "scanned_at": "2026-10-01T07:02:07.002Z",
+  "scanned_at": "2026-10-30T10:53:32.971Z",
   "trackers": {
     "url": "https://docusaurus.io",
     "found": [

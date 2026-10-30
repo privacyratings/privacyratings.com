@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=browserleaks.com",
-    "tested_at": "2026-10-18T08:53:28.177Z"
+    "tested_at": "2026-10-30T10:53:44.156Z"
   },
-  "scanned_at": "2026-10-21T09:24:08.676Z",
+  "scanned_at": "2026-10-30T10:53:44.796Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

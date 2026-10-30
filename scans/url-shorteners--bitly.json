@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitly.com",
-    "tested_at": "2026-10-17T08:37:18.890Z"
+    "tested_at": "2026-10-30T10:53:57.575Z"
   },
-  "scanned_at": "2026-10-22T09:45:39.057Z",
+  "scanned_at": "2026-10-30T10:53:57.935Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

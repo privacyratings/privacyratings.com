@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swetrix.com",
-    "tested_at": "2026-10-17T08:37:18.712Z"
+    "tested_at": "2026-10-30T10:53:55.193Z"
   },
-  "scanned_at": "2026-10-20T09:41:17.920Z",
+  "scanned_at": "2026-10-30T10:53:56.892Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

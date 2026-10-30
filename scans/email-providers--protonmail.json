@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-29T10:56:15.773Z",
+    "tested_at": "2026-10-30T10:54:07.651Z",
     "imap": {
       "offered": false
     },
@@ -58,9 +58,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=proton.me",
-    "tested_at": "2026-10-18T08:53:14.778Z"
+    "tested_at": "2026-10-30T10:53:31.175Z"
   },
-  "scanned_at": "2026-10-29T10:56:15.773Z",
+  "scanned_at": "2026-10-30T10:54:07.651Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

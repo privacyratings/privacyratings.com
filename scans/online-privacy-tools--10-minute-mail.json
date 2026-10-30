@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=10minutemail.com",
-    "tested_at": "2026-10-18T08:53:22.390Z"
+    "tested_at": "2026-10-30T10:53:38.832Z"
   },
-  "scanned_at": "2026-10-29T10:55:34.820Z",
+  "scanned_at": "2026-10-30T10:53:39.132Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=customerportal.darktrace.com",
     "tested_at": "2026-10-27T09:51:20.383Z"
   },
-  "scanned_at": "2026-10-27T09:51:23.794Z",
+  "scanned_at": "2026-10-30T10:58:13.103Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=customerportal.darktrace.com&hideResults=on",
-    "tested_at": "2026-10-16T09:07:53.596Z"
+    "tested_at": "2026-10-30T10:58:13.103Z"
   },
   "trackers": {
     "url": "https://www.darktrace.com/products/email",

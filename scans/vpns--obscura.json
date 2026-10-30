@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=obscura.com",
     "tested_at": "2026-10-26T10:12:09.421Z"
   },
-  "scanned_at": "2026-10-26T10:12:10.126Z",
+  "scanned_at": "2026-10-30T11:01:24.442Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=obscura.com&hideResults=on",
-    "tested_at": "2026-10-16T09:14:05.346Z"
+    "tested_at": "2026-10-30T11:01:24.442Z"
   },
   "trackers": {
     "url": "https://obscura.com",

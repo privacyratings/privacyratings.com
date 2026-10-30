@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovhcloud.com",
     "tested_at": "2026-10-23T09:23:24.337Z"
   },
-  "scanned_at": "2026-10-29T11:06:15.234Z",
+  "scanned_at": "2026-10-30T11:05:08.157Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.ovhcloud.com&hideResults=on",
-    "tested_at": "2026-10-15T09:28:48.185Z"
+    "tested_at": "2026-10-30T11:05:08.157Z"
   },
   "trackers": {
     "url": "https://us.ovhcloud.com/",
