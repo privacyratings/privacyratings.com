@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.dynadot.com",
-    "tested_at": "2026-10-19T09:58:50.454Z"
+    "tested_at": "2026-10-31T10:26:07.987Z"
   },
-  "scanned_at": "2026-10-23T09:30:28.112Z",
+  "scanned_at": "2026-10-31T10:26:08.335Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

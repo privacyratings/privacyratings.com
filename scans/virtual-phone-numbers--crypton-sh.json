@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=crypton.sh",
-    "tested_at": "2026-10-19T09:58:18.503Z"
+    "tested_at": "2026-10-31T10:25:52.524Z"
   },
-  "scanned_at": "2026-10-22T09:29:28.147Z",
+  "scanned_at": "2026-10-31T10:25:56.151Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

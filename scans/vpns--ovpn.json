@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovpn.com",
-    "tested_at": "2026-10-19T09:58:39.725Z"
+    "tested_at": "2026-10-31T10:26:01.482Z"
   },
-  "scanned_at": "2026-10-22T09:32:57.235Z",
+  "scanned_at": "2026-10-31T10:26:03.786Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

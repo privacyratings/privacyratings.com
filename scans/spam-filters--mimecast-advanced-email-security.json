@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=login.mimecast.com",
     "tested_at": "2026-10-27T09:51:21.171Z"
   },
-  "scanned_at": "2026-10-27T09:51:30.698Z",
+  "scanned_at": "2026-10-31T10:25:51.335Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=login.mimecast.com&hideResults=on",
-    "tested_at": "2026-10-17T08:48:31.199Z"
+    "tested_at": "2026-10-31T10:25:51.335Z"
   },
   "trackers": {
     "url": "https://www.mimecast.com/products/email-security/",

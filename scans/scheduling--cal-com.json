@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.cal.com",
     "tested_at": "2026-10-28T10:37:40.736Z"
   },
-  "scanned_at": "2026-10-28T10:37:43.206Z",
+  "scanned_at": "2026-10-31T10:43:58.025Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

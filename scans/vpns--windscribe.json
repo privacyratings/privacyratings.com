@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=windscribe.com",
-    "tested_at": "2026-10-19T09:58:42.247Z"
+    "tested_at": "2026-10-31T10:26:03.912Z"
   },
-  "scanned_at": "2026-10-22T09:35:43.844Z",
+  "scanned_at": "2026-10-31T10:26:04.292Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

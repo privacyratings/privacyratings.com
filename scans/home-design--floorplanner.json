@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=floorplanner.com",
     "tested_at": "2026-10-26T10:12:14.653Z"
   },
-  "scanned_at": "2026-10-30T11:10:26.003Z",
+  "scanned_at": "2026-10-31T10:46:24.793Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=floorplanner.com&hideResults=on",
-    "tested_at": "2026-10-14T09:52:08.221Z"
+    "tested_at": "2026-10-31T10:46:24.793Z"
   },
   "trackers": {
     "url": "https://floorplanner.com",

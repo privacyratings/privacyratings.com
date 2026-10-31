@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=surfshark.com",
     "tested_at": "2026-10-26T10:12:11.813Z"
   },
-  "scanned_at": "2026-10-26T10:12:12.572Z",
+  "scanned_at": "2026-10-31T10:34:56.670Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=surfshark.com&hideResults=on",
-    "tested_at": "2026-10-17T08:48:06.591Z"
+    "tested_at": "2026-10-31T10:34:56.670Z"
   },
   "trackers": {
     "url": "https://surfshark.com",

@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=partyvpn.com",
-    "tested_at": "2026-10-19T09:58:40.422Z"
+    "tested_at": "2026-10-31T10:26:01.612Z"
   },
-  "scanned_at": "2026-10-22T09:32:14.021Z",
+  "scanned_at": "2026-10-31T10:26:02.339Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

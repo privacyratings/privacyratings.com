@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=eu1-smtp-ui.titanhq.com",
     "tested_at": "2026-10-27T09:51:21.323Z"
   },
-  "scanned_at": "2026-10-27T09:51:23.448Z",
+  "scanned_at": "2026-10-31T10:37:53.878Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=eu1-smtp-ui.titanhq.com&hideResults=on",
-    "tested_at": "2026-10-17T08:49:50.990Z"
+    "tested_at": "2026-10-31T10:37:53.878Z"
   },
   "trackers": {
     "url": "https://www.titanhq.com/email-protection/",

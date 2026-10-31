@@ -3,9 +3,9 @@
     "repo": "rust-lang/mdBook",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:14.001Z"
+    "checked_at": "2026-10-31T10:25:49.745Z"
   },
-  "scanned_at": "2026-10-01T07:02:07.181Z",
+  "scanned_at": "2026-10-31T10:25:49.745Z",
   "trackers": {
     "url": "https://rust-lang.github.io/mdBook/",
     "found": [],

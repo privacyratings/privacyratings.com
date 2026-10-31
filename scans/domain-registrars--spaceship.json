@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.spaceship.com",
     "tested_at": "2026-10-28T10:37:33.468Z"
   },
-  "scanned_at": "2026-10-28T10:37:33.700Z",
+  "scanned_at": "2026-10-31T10:40:56.877Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

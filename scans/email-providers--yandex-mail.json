@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-30T10:54:21.209Z",
+    "tested_at": "2026-10-31T10:26:44.883Z",
     "imap": {
       "host": "imap.yandex.com",
       "port": 993,
@@ -102,7 +102,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yandex.com",
     "tested_at": "2026-10-22T09:26:55.277Z"
   },
-  "scanned_at": "2026-10-30T10:54:25.406Z",
+  "scanned_at": "2026-10-31T10:26:48.323Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

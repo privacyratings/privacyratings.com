@@ -15,11 +15,11 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.google",
     "tested_at": "2026-10-27T09:51:35.290Z"
   },
-  "scanned_at": "2026-10-27T09:51:44.671Z",
+  "scanned_at": "2026-10-31T10:32:23.826Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dns.google&hideResults=on",
-    "tested_at": "2026-10-17T08:48:46.708Z"
+    "tested_at": "2026-10-31T10:32:23.826Z"
   },
   "trackers": {
     "url": "https://developers.google.com/speed/public-dns",

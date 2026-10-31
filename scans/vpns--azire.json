@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.azirevpn.com",
-    "tested_at": "2026-10-19T09:58:38.328Z"
+    "tested_at": "2026-10-31T10:25:59.589Z"
   },
-  "scanned_at": "2026-10-22T09:32:14.346Z",
+  "scanned_at": "2026-10-31T10:26:01.471Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

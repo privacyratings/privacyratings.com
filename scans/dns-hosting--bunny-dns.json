@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.bunny.net",
     "tested_at": "2026-10-27T09:51:43.880Z"
   },
-  "scanned_at": "2026-10-27T09:51:44.651Z",
+  "scanned_at": "2026-10-31T10:39:28.710Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dash.bunny.net&hideResults=on",
-    "tested_at": "2026-10-18T08:53:15.455Z"
+    "tested_at": "2026-10-31T10:39:28.710Z"
   },
   "trackers": {
     "url": "https://bunny.net/dns/",

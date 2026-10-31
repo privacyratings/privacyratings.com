@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=desec.io",
-    "tested_at": "2026-10-19T09:58:50.196Z"
+    "tested_at": "2026-10-31T10:26:07.893Z"
   },
-  "scanned_at": "2026-10-23T09:23:12.439Z",
+  "scanned_at": "2026-10-31T10:26:09.379Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

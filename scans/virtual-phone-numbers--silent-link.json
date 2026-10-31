@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=silent.link",
-    "tested_at": "2026-10-19T09:58:34.057Z"
+    "tested_at": "2026-10-31T10:25:58.265Z"
   },
-  "scanned_at": "2026-10-22T09:30:25.065Z",
+  "scanned_at": "2026-10-31T10:25:58.887Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

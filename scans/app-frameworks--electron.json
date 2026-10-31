@@ -3,9 +3,9 @@
     "repo": "electron/electron",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:14.867Z"
+    "checked_at": "2026-10-31T10:25:50.672Z"
   },
-  "scanned_at": "2026-10-01T07:02:08.506Z",
+  "scanned_at": "2026-10-31T10:25:50.672Z",
   "trackers": {
     "url": "https://www.electronjs.org",
     "found": [

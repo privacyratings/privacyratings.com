@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=jmp.chat",
-    "tested_at": "2026-10-19T09:58:18.559Z"
+    "tested_at": "2026-10-31T10:25:52.579Z"
   },
-  "scanned_at": "2026-10-21T09:29:20.707Z",
+  "scanned_at": "2026-10-31T10:25:53.245Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

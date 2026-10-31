@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-10-30T10:53:58.833Z",
+    "tested_at": "2026-10-31T10:26:20.661Z",
     "imap": {
       "host": "imap.mailfence.com",
       "error": "timeout"
@@ -57,7 +57,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailfence.com",
     "tested_at": "2026-10-21T09:24:09.450Z"
   },
-  "scanned_at": "2026-10-30T10:55:29.567Z",
+  "scanned_at": "2026-10-31T10:27:51.527Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
