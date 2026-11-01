@@ -322,6 +322,17 @@ categories:
           Chronos Authenticator is a free, open-source two-factor authentication app for iOS, designed to provide robust
           security and reliable backup options.
 
+      - name: Autheris
+        url: https://autheris.app
+        icon: https://autheris.app/assets/img/app-icon-192.png
+        openSource: true
+        github: nerdykidtech/Autheris
+        iosApp: https://apps.apple.com/us/app/autheris/id6760686327
+        followWith: iOS
+        description: |
+          Open-source 2FA authenticator for iPhone, iPad, Mac and Apple Watch. Secrets stay
+          in the device Keychain, with no account, no analytics and optional iCloud Sync
+
       furtherInfo: >
         Check which websites support multi-factor authentication: [2fa.directory](https://2fa.directory/)
       notableMentions: >
@@ -2736,6 +2747,14 @@ categories:
           Variety of lists (free and paid-for) for blocking content based on certain topics, inducing: spam, abuse,
           political, illegal, hijacked, bad peers and more.
 
+      - name: HaGeZi DNS Blocklists
+        url: https://github.com/hagezi/dns-blocklists
+        github: hagezi/dns-blocklists
+        openSource: true
+        description: |
+          A set of DNS blocklists that block ads, trackers, telemetry, phishing, malware, scams, and other unwanted domains network-wide.
+          They work for any region and with every common DNS server, ad blocker, and content blocker.
+
     #############################
     ###### Router FirmWARE ######
     #############################
@@ -3226,6 +3245,16 @@ categories:
           Keystore. Events are not end-to-end encrypted, so sync security depends on
           your provider.
 
+      - name: Calendula
+        url: https://codeberg.org/jlmakiola/calendula
+        codeberg: jlmakiola/calendula
+        androidApp: de.jeanlucmakiola.calendula
+        followWith: Android
+        icon: https://codeberg.org/jlmakiola/calendula/media/branch/main/fastlane/metadata/android/en-US/images/icon.png
+        description: |
+          A modern Material 3 Expressive calendar for Android. Reads, writes, and
+          reminds — on top of the system calendar, with zero network access.
+
     ########################
     ###### Scheduling ######
     ########################
@@ -3501,6 +3530,22 @@ categories:
           Has optional open-source client-side encryption, compatible with RClone. Can connect to other cloud services
           and MS Office. 10GB free, on ISO27001 servers (DE).
 
+      - name: Proton Drive
+        url: https://proton.me/drive
+        icon: https://drive.proton.me/assets/android-chrome-256x256.png
+        github: ProtonDriveApps/android-drive
+        openSource: true
+        securityAudited: true
+        acceptsCrypto: true
+        tosdrId: 491
+        androidApp: me.proton.android.drive
+        iosApp: https://apps.apple.com/us/app/proton-drive-cloud-storage/id1509667851
+        subreddit: ProtonDrive
+        description: |
+          End-to-end encrypted cloud storage from the Proton suite, based in Switzerland.
+          Open source apps for web, desktop and mobile, with file sharing and photo backup.
+          Free plan available.
+
       notableMentions: |
         An alternative option, is to use a cloud computing provider, and implement
         the syncing functionality yourself, and encrypt data locally before
@@ -3516,16 +3561,6 @@ categories:
     - name: Secret Sharing
       alternativeTo: ['pastebin', 'hastebin', 'ghostbin', 'justpaste.it']
       services:
-      - name: Hemmelig.app
-        url: https://hemmelig.app/
-        icon: https://hemmelig.app/icons/icon-512x512.png
-        openSource: true
-        github: HemmeligOrg/Hemmelig.app
-        description: |
-          Share rich text and files securely with locally encrypted messages that automatically self-destruct, or
-          invite others to send you a secret. Allows setting maximum views, webhooks, expiration times and IP restrictions.
-          Open source and self-hostable.
-
       - name: crypt.fyi
         url: https://crypt.fyi
         icon: https://www.crypt.fyi/logo.ico
@@ -3546,21 +3581,22 @@ categories:
           1time.io - Zero-knowledge one-time secret sharing with AES-256-GCM browser-side
           encryption, HKDF key derivation, CLI tool, and Docker self-hosting.
 
+      - name: SkySend
+        url: https://skysend.app/
+        icon: https://skysend.app/logo.svg
+        openSource: true
+        github: skyfay/skysend
+        description: |
+          Share end-to-end encrypted Markdown notes, files, code and passwords/keys,
+          or request secrets from others. Set a password, expiration time and/or maximum views.
+          No account necessary. Self-hostable and has a client and admin CLI.
+
     ########################
     ###### File Drop ######
     #######################
     - name: File Drop
       alternativeTo: ['wetransfer', 'send anywhere', 'filemail', 'smash']
       services:
-      - name: FileSend
-        url: https://filesend.standardnotes.org
-        github: standardnotes/FileSend
-        followWith: Web
-        description: |
-          Simple, encrypted file sharing, with a 500mb limit and 5-day retention. Files are secured with client-side AES-256
-          encryption and no IP address or device info is logged. Files are permanently deleted after download or after specified
-          duration. Developed by StandardNotes, and has built-in integration with the SN app.
-
       - name: OnionShare
         url: https://onionshare.org/
         github: micahflee/onionshare
@@ -3743,6 +3779,48 @@ categories:
         followWith: Linux
         openSource: true
 
+    ###############################
+    ######## Office Suites ########
+    ###############################
+    - name: Office Suites
+      alternativeTo: ['microsoft office', 'microsoft 365', 'apple iwork', 'google workspace']
+      intro: |
+        Mainstream office suites use a lot of telemetry, which analyzes not
+        only how you're using the applications, but can also include parts
+        of your actual work. A privacy-respecting office suite works offline
+        and collects nothing about you.
+      services:
+      - name: Euro-Office
+        url: https://github.com/Euro-Office/DesktopEditors
+        github: Euro-Office/DesktopEditors
+        icon: https://raw.githubusercontent.com/Euro-Office/desktop-apps/refs/heads/main/win-linux/res/icons/app-icon-eo.svg
+        followWith: Linux, MacOS, Windows
+        openSource: true
+        description: |
+          With Euro-Office you can view, edit and work with others on
+          documents, spreadsheets, presentations and PDF files. You can
+          connect to a NextCloud server for real-time collaboration.
+      - name: LibreOffice
+        url: https://www.libreoffice.org
+        github: LibreOffice/core
+        icon: https://raw.githubusercontent.com/LibreOffice/core/refs/heads/master/sysui/desktop/icons/soffice.ico
+        followWith: Linux, MacOS, Windows
+        openSource: true
+        description: |
+          LibreOffice is a free and open-source office productivity software
+          suite with applications for word processing, spreadsheets,
+          presentations, vector graphics, formulas and database management.
+      - name: Collabora Office
+        url: https://www.collaboraonline.com/collabora-office
+        github: CollaboraOnline/online.mirror
+        icon: https://www.collaboraonline.com/favicon.ico
+        followWith: Linux, MacOS, Windows
+        openSource: true
+        description: |
+          Brings the online suite to the local desktop. Collabora is based on
+          LibreOffice, but comes with the simpler and more modern web interface
+          of Collabora Online.
+
   - name: Utilities
     sections:
     ##############################
@@ -3889,6 +3967,21 @@ categories:
           Mailvelope is an addon for email applications, that makes using PGP very easy for beginners. You can use the hosted
           version for free, or opt to host your own instance.
           Works with Gmail, Yahoo, Outlook, GMX, Posteo, Web.de, FreeNet.de, Mailbox.org and [many others](https://mailvelope.com/en/faq#mailer_list).
+
+      - name: PGP Tools
+        url: https://github.com/Am-I-Being-Pwned/PGP-Tools
+        github: Am-I-Being-Pwned/PGP-Tools
+        icon: https://raw.githubusercontent.com/Am-I-Being-Pwned/PGP-Tools/refs/heads/main/apps/pgp/public/icon-128.png
+        followWith: Browser
+        description: |
+          Encrypt, decrypt, sign and verify OpenPGP messages, plus age encryption.
+          Uses Sequoia-PGP in WASM, keys are encrypted at rest with a password or passkey,
+          and it needs no sensitive permissions, so it can't read the sites you visit.
+          **Download**: [Chrome](https://chromewebstore.google.com/detail/pgp-tools-encrypt-decrypt/pgpcdgggohpbombhkffjoiiafdlfcpgp) - [Edge](https://microsoftedge.microsoft.com/addons/detail/pgp-tools-encrypt-decr/ngdbamkfldpokifphlmbflhoaepkcehf)
+
+      wordOfWarning: >
+        Browser extensions are inherently more risky, given how exposed they are and that updates happen automatically.
+        For long-term storage and important keys, prefer a hardware token or offline desktop app.
 
 
     ##############################
@@ -4894,6 +4987,17 @@ categories:
         is tagged with its KYC level, jurisdiction, supported payment methods, and a trust score
         reflecting audit history and known incidents.
 
+    - name: Crypto Tools
+      services:
+      - name: Umbra
+        url: https://app.umbra.cash
+        icon: https://app.umbra.cash/icons/favicon-128x128.png
+        github: ScopeLift/umbra-protocol
+        followWith: Ethereum
+        openSource: true
+        description: |
+          Umbra is a stealth address protocol on the EVM. It allows users to send payments to a one-time address controlled by a recipient without their interaction, promoting unlinkability (if proper hygiene is followed) without resorting to mixers or pools.
+
     - name: Virtual Credit Cards
       alternativeTo: ['visa', 'mastercard', 'american express', 'discover', 'capital one']
       intro: |
@@ -5042,7 +5146,8 @@ categories:
       notableMentions: |
         Spreadsheets remain a popular choice for managing budgets and financial planning.
         [Collabora](https://nextcloud.com/collaboraonline) or
-        [OnlyOffice](https://nextcloud.com/onlyoffice) (on [NextCloud](https://nextcloud.com)),
+        [Euro-Office](https://nextcloud.com/office) on [NextCloud](https://nextcloud.com),
+        [Euro-Office Desktop Editors](https://github.com/Euro-Office/DesktopEditors),
         [Libre Office](https://www.libreoffice.org) and [EtherCalc](https://ethercalc.net)
         are popular open source spread sheet applications. [Mintable](https://github.com/kevinschaich/mintable)
         allows you to auto-populate your spreadsheets from your financial data,
@@ -5309,11 +5414,58 @@ categories:
           on Linux, Windows and Mac. Replaces the official proprietary clients, though it
           still connects to your third-party store accounts.
     - name: Media Servers
-      alternativeTo: ['plex', 'emby', 'kodi', 'jellyfin', 'universal media server']
-      services: []
+      alternativeTo: ['plex', 'emby']
+      services:
+      - name: Jellyfin
+        url: https://jellyfin.org
+        icon: https://avatars.githubusercontent.com/u/45698031?s=256&v=4
+        openSource: true
+        followWith: Self-hosted
+        github: jellyfin/jellyfin
+        iosApp: https://apps.apple.com/us/app/jellyfin-mobile/id1480192618
+        androidApp: org.jellyfin.mobile
+        discordInvite: zHBxVSXdBV
+        subreddit: jellyfin
+        description: |
+          Self-hosted server for streaming your own films, TV, music and live TV to apps
+          on most devices. Volunteer-run, with no telemetry or paid tiers. Some media
+          endpoints don't require login, so avoid exposing it directly to the internet.
+      - name: Navidrome
+        url: https://www.navidrome.org
+        icon: https://avatars.githubusercontent.com/u/26692192?s=256&v=4
+        openSource: true
+        followWith: Self-hosted
+        github: navidrome/navidrome
+        discordInvite: xh7j7yF
+        subreddit: navidrome
+        description: |
+          Self-hosted music streaming server with a web player, and support for the many
+          Subsonic-compatible apps (there's no official mobile app)
+      - name: Koel
+        url: https://koel.dev
+        icon: https://avatars.githubusercontent.com/u/20983373
+        openSource: true
+        followWith: Self-hosted
+        github: koel/koel
+        androidApp: phanan.koel.app
+        iosApp: https://apps.apple.com/app/koel-player/id1576886982
+        description: |
+          Music streaming solution that turns your personal collection into a sleek,
+          web-based listening experience. With (smart) playlists, scrobbling, podcasts, radio,
+          Last.fm/Spotify/MusicBrainz integrations and an AI for natural-language commands.
     - name: Music Players
       alternativeTo: ['spotify', 'apple music', 'google play music', 'amazon music', 'pandora']
-      services: []
+      services:
+      - name: Feishin
+        url: https://github.com/jeffvli/feishin
+        icon: https://raw.githubusercontent.com/jeffvli/feishin/refs/heads/development/media/feishin.svg
+        openSource: true
+        followWith: Self-hosted
+        github: jeffvli/feishin
+        description: |
+          A desktop or self-hosted web music player for Navidrome, Jellyfin and
+          OpenSubsonic compatible music servers. A fork with support for Plex is also
+          available.
 
     - name: Video Players
       alternativeTo: ['windows media player', 'quicktime', 'mplayer', 'kmplayer']
