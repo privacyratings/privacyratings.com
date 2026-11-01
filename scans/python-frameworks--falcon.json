@@ -3,9 +3,9 @@
     "repo": "falconry/falcon",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:16.478Z"
+    "checked_at": "2026-11-01T11:18:50.019Z"
   },
-  "scanned_at": "2026-10-01T07:02:12.319Z",
+  "scanned_at": "2026-11-01T11:18:50.019Z",
   "trackers": {
     "url": "https://falconframework.org",
     "found": [

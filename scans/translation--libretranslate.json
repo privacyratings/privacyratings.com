@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=libretranslate.com",
     "tested_at": "2026-10-28T10:37:52.623Z"
   },
-  "scanned_at": "2026-10-28T10:37:55.281Z",
+  "scanned_at": "2026-11-01T11:33:06.059Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=libretranslate.com&hideResults=on",
-    "tested_at": "2026-10-18T09:04:45.826Z"
+    "tested_at": "2026-11-01T11:33:06.058Z"
   },
   "trackers": {
     "url": "https://libretranslate.com",

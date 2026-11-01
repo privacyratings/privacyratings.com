@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=chatgpt.com",
     "tested_at": "2026-10-28T10:37:53.101Z"
   },
-  "scanned_at": "2026-10-28T10:37:53.279Z",
+  "scanned_at": "2026-11-01T11:29:28.381Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=chatgpt.com&hideResults=on",
-    "tested_at": "2026-10-18T09:04:46.044Z"
+    "tested_at": "2026-11-01T11:29:28.381Z"
   },
   "trackers": {
     "url": "https://chatgpt.com",

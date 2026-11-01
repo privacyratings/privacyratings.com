@@ -8,14 +8,14 @@
     }
   },
   "observatory": {
-    "grade": "B",
-    "score": 75,
-    "tests_passed": 11,
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hetzner.com",
-    "tested_at": "2026-10-19T09:58:55.565Z"
+    "tested_at": "2026-11-01T11:19:04.412Z"
   },
-  "scanned_at": "2026-10-22T09:37:12.126Z",
+  "scanned_at": "2026-11-01T11:19:05.989Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

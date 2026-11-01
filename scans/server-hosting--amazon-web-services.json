@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.aws.amazon.com",
     "tested_at": "2026-10-27T09:51:42.969Z"
   },
-  "scanned_at": "2026-10-27T09:51:49.615Z",
+  "scanned_at": "2026-11-01T11:22:47.478Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=console.aws.amazon.com&hideResults=on",
-    "tested_at": "2026-10-18T08:57:52.777Z"
+    "tested_at": "2026-11-01T11:22:47.477Z"
   },
   "trackers": {
     "url": "https://aws.amazon.com",

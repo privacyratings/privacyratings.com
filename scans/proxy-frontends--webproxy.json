@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=weboproxy.com",
     "tested_at": "2026-10-30T10:53:33.022Z"
   },
-  "scanned_at": "2026-10-30T10:53:33.851Z",
+  "scanned_at": "2026-11-01T11:23:02.097Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=weboproxy.com&hideResults=on",
-    "tested_at": "2026-10-19T10:02:21.961Z"
+    "tested_at": "2026-11-01T11:23:02.097Z"
   },
   "trackers": {
     "url": "https://weboproxy.com",

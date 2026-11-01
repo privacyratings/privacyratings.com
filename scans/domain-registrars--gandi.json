@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gandi.net",
-    "tested_at": "2026-10-19T09:58:51.053Z"
+    "tested_at": "2026-11-01T11:18:55.027Z"
   },
-  "scanned_at": "2026-10-22T09:37:09.777Z",
+  "scanned_at": "2026-11-01T11:18:57.316Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

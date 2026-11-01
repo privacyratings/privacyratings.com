@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lumo.proton.me",
     "tested_at": "2026-10-29T10:55:39.369Z"
   },
-  "scanned_at": "2026-10-29T10:55:40.892Z",
+  "scanned_at": "2026-11-01T11:32:04.007Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=lumo.proton.me&hideResults=on",
-    "tested_at": "2026-10-18T09:08:54.835Z"
+    "tested_at": "2026-11-01T11:32:04.007Z"
   },
   "trackers": {
     "url": "https://proton.me/lumo",

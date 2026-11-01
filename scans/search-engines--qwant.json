@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.qwant.com",
     "tested_at": "2026-10-29T10:55:35.995Z"
   },
-  "scanned_at": "2026-10-29T10:55:38.029Z",
+  "scanned_at": "2026-11-01T11:18:51.571Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.qwant.com&hideResults=on",
-    "tested_at": "2026-10-19T10:00:55.292Z"
+    "tested_at": "2026-11-01T11:18:51.571Z"
   },
   "trackers": {
     "url": "https://www.qwant.com",

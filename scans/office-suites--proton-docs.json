@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.proton.me",
     "tested_at": "2026-10-28T10:37:43.377Z"
   },
-  "scanned_at": "2026-10-28T10:37:44.833Z",
+  "scanned_at": "2026-11-01T11:29:25.394Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

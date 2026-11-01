@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=crab.fit",
     "tested_at": "2026-10-28T10:37:41.988Z"
   },
-  "scanned_at": "2026-10-28T10:37:43.092Z",
+  "scanned_at": "2026-11-01T11:26:39.101Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=crab.fit&hideResults=on",
-    "tested_at": "2026-10-18T08:58:27.303Z"
+    "tested_at": "2026-11-01T11:26:39.101Z"
   },
   "trackers": {
     "url": "https://crab.fit",

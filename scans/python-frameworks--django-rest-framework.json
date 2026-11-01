@@ -3,9 +3,9 @@
     "repo": "encode/django-rest-framework",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T07:00:16.365Z"
+    "checked_at": "2026-11-01T11:18:49.959Z"
   },
-  "scanned_at": "2026-10-01T07:02:12.110Z",
+  "scanned_at": "2026-11-01T11:18:49.959Z",
   "trackers": {
     "url": "https://www.django-rest-framework.org",
     "found": [

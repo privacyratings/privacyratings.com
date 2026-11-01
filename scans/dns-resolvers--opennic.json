@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=opennic.org",
-    "tested_at": "2026-10-19T09:58:51.128Z"
+    "tested_at": "2026-11-01T11:18:54.556Z"
   },
-  "scanned_at": "2026-10-21T09:46:43.857Z",
+  "scanned_at": "2026-11-01T11:18:54.861Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,

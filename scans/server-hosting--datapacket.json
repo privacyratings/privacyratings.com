@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.datapacket.com",
-    "tested_at": "2026-10-20T09:28:30.742Z"
+    "tested_at": "2026-11-01T11:19:03.195Z"
   },
-  "scanned_at": "2026-10-26T10:20:15.507Z",
+  "scanned_at": "2026-11-01T11:19:04.516Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
