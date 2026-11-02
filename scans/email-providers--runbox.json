@@ -9,13 +9,13 @@
   "internetnl": {
     "web": {
       "score": 56,
-      "report": "https://batch.internet.nl/site/runbox.com/22278750/",
-      "tested_at": "2026-10-26T10:56:20.040Z"
+      "report": "https://batch.internet.nl/site/runbox.com/22513263/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     },
     "mail": {
       "score": 64,
-      "report": "https://batch.internet.nl/mail/runbox.com/22638669/",
-      "tested_at": "2026-10-26T10:56:20.451Z"
+      "report": "https://batch.internet.nl/mail/runbox.com/22780183/",
+      "tested_at": "2026-11-02T13:18:16.447Z"
     }
   },
   "mail": {
@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-01T11:19:25.767Z",
+    "tested_at": "2026-11-02T12:30:52.226Z",
     "imap": {
       "host": "mail.runbox.com",
       "port": 993,
@@ -86,14 +86,14 @@
   },
   "mail_domain": "runbox.com",
   "observatory": {
-    "grade": "D-",
-    "score": 25,
-    "tests_passed": 7,
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=runbox.com",
-    "tested_at": "2026-10-21T09:24:10.308Z"
+    "tested_at": "2026-11-02T12:30:20.640Z"
   },
-  "scanned_at": "2026-11-01T11:19:28.605Z",
+  "scanned_at": "2026-11-02T12:30:55.071Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=runbox.com&hideResults=on",

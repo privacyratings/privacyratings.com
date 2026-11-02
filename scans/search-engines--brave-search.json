@@ -9,11 +9,11 @@
   "internetnl": {
     "web": {
       "score": 98,
-      "report": "https://batch.internet.nl/site/search.brave.com/22279361/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/search.brave.com/22513528/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
-  "scanned_at": "2026-11-01T11:19:24.141Z",
+  "scanned_at": "2026-11-02T12:30:58.394Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 12,

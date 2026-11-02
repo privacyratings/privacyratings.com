@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/admin.typeform.com/22279342/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/admin.typeform.com/22513541/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=admin.typeform.com",
     "tested_at": "2026-10-28T10:37:51.599Z"
   },
-  "scanned_at": "2026-10-28T10:37:52.057Z",
+  "scanned_at": "2026-11-02T12:47:59.696Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=admin.typeform.com&hideResults=on",
-    "tested_at": "2026-10-19T10:17:26.322Z"
+    "tested_at": "2026-11-02T12:47:59.696Z"
   },
   "trackers": {
     "url": "https://www.typeform.com",

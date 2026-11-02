@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 86,
-      "report": "https://batch.internet.nl/site/posthog.com/22278699/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/posthog.com/22513536/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=posthog.com",
     "tested_at": "2026-10-30T10:53:52.068Z"
   },
-  "scanned_at": "2026-10-30T10:53:52.602Z",
+  "scanned_at": "2026-11-02T12:48:34.830Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=posthog.com&hideResults=on",
-    "tested_at": "2026-10-19T10:21:46.747Z"
+    "tested_at": "2026-11-02T12:48:34.830Z"
   },
   "trackers": {
     "url": "https://posthog.com",

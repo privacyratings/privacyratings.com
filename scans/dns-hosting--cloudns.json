@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/www.cloudns.net/22279131/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/www.cloudns.net/22513570/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cloudns.net",
     "tested_at": "2026-10-27T09:51:44.754Z"
   },
-  "scanned_at": "2026-10-27T09:51:46.313Z",
+  "scanned_at": "2026-11-02T12:49:28.634Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.cloudns.net&hideResults=on",
-    "tested_at": "2026-10-19T10:16:26.475Z"
+    "tested_at": "2026-11-02T12:49:28.634Z"
   },
   "trackers": {
     "url": "https://www.cloudns.net",

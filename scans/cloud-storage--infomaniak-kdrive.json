@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/kdrive.infomaniak.com/22279064/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/kdrive.infomaniak.com/22513384/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kdrive.infomaniak.com",
     "tested_at": "2026-10-29T10:55:56.662Z"
   },
-  "scanned_at": "2026-10-29T10:56:00.900Z",
+  "scanned_at": "2026-11-02T12:44:31.379Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kdrive.infomaniak.com&hideResults=on",
-    "tested_at": "2026-10-19T10:15:55.952Z"
+    "tested_at": "2026-11-02T12:44:31.379Z"
   },
   "trackers": {
     "url": "https://www.infomaniak.com/en/ksuite/kdrive",

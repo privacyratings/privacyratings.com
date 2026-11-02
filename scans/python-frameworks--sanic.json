@@ -3,9 +3,9 @@
     "repo": "sanic-org/sanic",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:17.042Z"
+    "checked_at": "2026-11-02T12:30:18.642Z"
   },
-  "scanned_at": "2026-10-01T07:02:13.367Z",
+  "scanned_at": "2026-11-02T12:30:18.642Z",
   "trackers": {
     "url": "https://sanic.dev/en/",
     "found": [],

@@ -9,13 +9,13 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/addy.io/22279216/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/addy.io/22513255/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     },
     "mail": {
-      "score": 90,
-      "report": "https://batch.internet.nl/mail/addy.io/22638682/",
-      "tested_at": "2026-10-26T10:56:20.451Z"
+      "score": 98,
+      "report": "https://batch.internet.nl/mail/addy.io/22780134/",
+      "tested_at": "2026-11-02T13:18:16.447Z"
     }
   },
   "mail": {
@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-01T11:19:32.021Z",
+    "tested_at": "2026-11-02T12:30:57.909Z",
     "imap": {
       "offered": false
     },
@@ -60,7 +60,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
     "tested_at": "2026-10-29T10:55:33.856Z"
   },
-  "scanned_at": "2026-11-01T11:19:32.021Z",
+  "scanned_at": "2026-11-02T12:30:57.910Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

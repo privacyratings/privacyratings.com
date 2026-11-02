@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/tally.so/22279009/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/tally.so/22513585/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tally.so",
     "tested_at": "2026-10-28T10:37:51.087Z"
   },
-  "scanned_at": "2026-10-28T10:37:52.142Z",
+  "scanned_at": "2026-11-02T12:36:24.388Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tally.so&hideResults=on",
-    "tested_at": "2026-10-19T10:13:27.741Z"
+    "tested_at": "2026-11-02T12:36:24.388Z"
   },
   "trackers": {
     "url": "https://tally.so",

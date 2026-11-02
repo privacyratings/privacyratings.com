@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/switch.egress.com/22278809/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/switch.egress.com/22513157/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=switch.egress.com",
-    "tested_at": "2026-10-21T09:24:14.366Z"
+    "tested_at": "2026-11-02T12:30:23.949Z"
   },
-  "scanned_at": "2026-10-24T09:02:19.816Z",
+  "scanned_at": "2026-11-02T12:30:28.968Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

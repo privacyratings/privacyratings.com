@@ -3,9 +3,9 @@
     "repo": "symfony/symfony",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:18.388Z"
+    "checked_at": "2026-11-02T12:30:19.958Z"
   },
-  "scanned_at": "2026-10-01T07:02:15.844Z",
+  "scanned_at": "2026-11-02T12:30:19.958Z",
   "trackers": {
     "url": "https://symfony.com",
     "found": [

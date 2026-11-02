@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 91,
-      "report": "https://batch.internet.nl/site/ultahost.com/22278967/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/ultahost.com/22513408/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ultahost.com",
-    "tested_at": "2026-10-20T09:28:36.149Z"
+    "tested_at": "2026-11-02T12:30:34.494Z"
   },
-  "scanned_at": "2026-10-22T09:38:19.215Z",
+  "scanned_at": "2026-11-02T12:30:35.332Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,

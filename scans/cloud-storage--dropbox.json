@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/www.dropbox.com/22278925/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/www.dropbox.com/22513573/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.dropbox.com",
     "tested_at": "2026-10-29T10:55:54.617Z"
   },
-  "scanned_at": "2026-10-29T10:55:55.705Z",
+  "scanned_at": "2026-11-02T12:39:59.609Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.dropbox.com&hideResults=on",
-    "tested_at": "2026-10-19T10:11:03.600Z"
+    "tested_at": "2026-11-02T12:39:59.609Z"
   },
   "trackers": {
     "url": "https://www.dropbox.com",

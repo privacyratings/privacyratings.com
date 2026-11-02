@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 71,
-      "report": "https://batch.internet.nl/site/analytics.google.com/22279173/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/analytics.google.com/22513402/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=analytics.google.com",
     "tested_at": "2026-10-29T10:56:09.473Z"
   },
-  "scanned_at": "2026-10-29T10:56:09.916Z",
+  "scanned_at": "2026-11-02T12:47:39.460Z",
   "ssllabs": {
     "grade": "B",
-    "endpoints": 10,
+    "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=analytics.google.com&hideResults=on",
-    "tested_at": "2026-10-19T10:20:49.001Z"
+    "tested_at": "2026-11-02T12:47:39.460Z"
   },
   "trackers": {
     "url": "https://marketingplatform.google.com/about/analytics/",

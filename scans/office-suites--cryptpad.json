@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/cryptpad.org/22278781/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/cryptpad.org/22513426/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cryptpad.org",
-    "tested_at": "2026-10-20T09:28:40.381Z"
+    "tested_at": "2026-11-02T12:30:36.783Z"
   },
-  "scanned_at": "2026-10-23T09:34:29.194Z",
+  "scanned_at": "2026-11-02T12:30:38.671Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

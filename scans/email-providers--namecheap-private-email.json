@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 82,
-      "report": "https://batch.internet.nl/site/privateemail.com/22278983/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/privateemail.com/22513504/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     },
     "mail": {
       "score": 80,
-      "report": "https://batch.internet.nl/mail/privateemail.com/22638795/",
-      "tested_at": "2026-10-26T10:56:20.451Z"
+      "report": "https://batch.internet.nl/mail/privateemail.com/22780302/",
+      "tested_at": "2026-11-02T13:18:16.447Z"
     }
   },
   "mail": {
@@ -49,7 +49,7 @@
         }
       }
     },
-    "tested_at": "2026-11-01T11:19:15.790Z",
+    "tested_at": "2026-11-02T12:30:41.047Z",
     "imap": {
       "host": "mail.privateemail.com",
       "port": 993,
@@ -105,9 +105,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privateemail.com",
-    "tested_at": "2026-10-21T09:24:09.214Z"
+    "tested_at": "2026-11-02T12:30:19.702Z"
   },
-  "scanned_at": "2026-11-01T11:19:16.613Z",
+  "scanned_at": "2026-11-02T12:30:42.934Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

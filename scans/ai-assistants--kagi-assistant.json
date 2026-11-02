@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 93,
-      "report": "https://batch.internet.nl/site/assistant.kagi.com/22278738/",
-      "tested_at": "2026-10-26T10:56:20.040Z"
+      "report": "https://batch.internet.nl/site/assistant.kagi.com/22513424/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=assistant.kagi.com",
     "tested_at": "2026-10-29T10:55:38.986Z"
   },
-  "scanned_at": "2026-10-29T10:55:39.217Z",
+  "scanned_at": "2026-11-02T12:40:07.913Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=assistant.kagi.com&hideResults=on",
-    "tested_at": "2026-10-19T10:10:12.954Z"
+    "tested_at": "2026-11-02T12:40:07.912Z"
   },
   "trackers": {
     "url": "https://assistant.kagi.com",

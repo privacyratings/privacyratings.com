@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/www.meta.ai/22278647/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/www.meta.ai/22513335/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.meta.ai",
     "tested_at": "2026-10-29T10:55:40.987Z"
   },
-  "scanned_at": "2026-10-29T10:55:41.136Z",
+  "scanned_at": "2026-11-02T12:36:46.599Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.meta.ai&hideResults=on",
-    "tested_at": "2026-10-19T10:07:04.763Z"
+    "tested_at": "2026-11-02T12:36:46.599Z"
   },
   "trackers": {
     "error": "HTTP 403",

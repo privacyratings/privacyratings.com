@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/drive.google.com/22278675/",
-      "tested_at": "2026-10-26T10:56:20.040Z"
+      "report": "https://batch.internet.nl/site/drive.google.com/22513501/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=drive.google.com",
     "tested_at": "2026-10-29T10:55:55.788Z"
   },
-  "scanned_at": "2026-10-29T10:55:56.306Z",
+  "scanned_at": "2026-11-02T12:40:00.141Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=drive.google.com&hideResults=on",
-    "tested_at": "2026-10-19T10:27:46.976Z"
+    "tested_at": "2026-11-02T12:40:00.141Z"
   },
   "trackers": {
     "url": "https://workspace.google.com/products/drive/",

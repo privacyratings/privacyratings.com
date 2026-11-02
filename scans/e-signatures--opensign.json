@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 76,
-      "report": "https://batch.internet.nl/site/app.opensignlabs.com/22278639/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/app.opensignlabs.com/22513558/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.opensignlabs.com",
     "tested_at": "2026-10-28T10:37:46.887Z"
   },
-  "scanned_at": "2026-10-28T10:37:48.058Z",
+  "scanned_at": "2026-11-02T12:36:44.441Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.opensignlabs.com&hideResults=on",
-    "tested_at": "2026-10-19T10:06:36.097Z"
+    "tested_at": "2026-11-02T12:36:44.441Z"
   },
   "trackers": {
     "url": "https://www.opensignlabs.com",

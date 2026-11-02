@@ -3,9 +3,9 @@
     "repo": "ruby-grape/grape",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:17.401Z"
+    "checked_at": "2026-11-02T12:30:19.027Z"
   },
-  "scanned_at": "2026-10-01T07:02:13.963Z",
+  "scanned_at": "2026-11-02T12:30:19.027Z",
   "trackers": {
     "url": "https://www.ruby-grape.org",
     "found": [

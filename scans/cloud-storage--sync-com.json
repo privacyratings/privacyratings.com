@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/cp.sync.com/22279154/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/cp.sync.com/22513438/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cp.sync.com",
     "tested_at": "2026-10-29T10:56:05.769Z"
   },
-  "scanned_at": "2026-10-29T10:56:06.354Z",
+  "scanned_at": "2026-11-02T12:46:13.339Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cp.sync.com&hideResults=on",
-    "tested_at": "2026-10-19T10:14:14.477Z"
+    "tested_at": "2026-11-02T12:46:13.339Z"
   },
   "trackers": {
     "url": "https://www.sync.com",

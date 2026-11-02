@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 78,
-      "report": "https://batch.internet.nl/site/www.linode.com/22279322/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/www.linode.com/22513474/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.linode.com",
-    "tested_at": "2026-10-20T09:28:32.126Z"
+    "tested_at": "2026-11-02T12:30:33.245Z"
   },
-  "scanned_at": "2026-10-25T09:28:29.145Z",
+  "scanned_at": "2026-11-02T12:30:33.728Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/www.icloud.com/22278993/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/www.icloud.com/22513412/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
     "tested_at": "2026-10-25T09:11:38.060Z"
   },
-  "scanned_at": "2026-10-25T09:11:55.714Z",
+  "scanned_at": "2026-11-02T12:40:00.326Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.icloud.com&hideResults=on",
-    "tested_at": "2026-10-19T10:14:10.191Z"
+    "tested_at": "2026-11-02T12:40:00.326Z"
   },
   "trackers": {
     "url": "https://www.icloud.com/iclouddrive",

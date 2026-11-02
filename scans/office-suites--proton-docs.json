@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/docs.proton.me/22278846/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/docs.proton.me/22513589/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.proton.me",
     "tested_at": "2026-10-28T10:37:43.377Z"
   },
-  "scanned_at": "2026-11-01T11:29:25.394Z",
+  "scanned_at": "2026-11-02T12:33:45.711Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=docs.proton.me&hideResults=on",
-    "tested_at": "2026-10-19T10:03:55.066Z"
+    "tested_at": "2026-11-02T12:33:45.711Z"
   },
   "trackers": {
     "url": "https://proton.me/drive/docs",

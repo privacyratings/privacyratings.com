@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 76,
-      "report": "https://batch.internet.nl/site/internxt.com/22278986/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/internxt.com/22513520/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=internxt.com",
-    "tested_at": "2026-10-20T09:29:02.565Z"
+    "tested_at": "2026-11-02T12:30:42.847Z"
   },
-  "scanned_at": "2026-10-23T09:23:12.716Z",
+  "scanned_at": "2026-11-02T12:30:52.365Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

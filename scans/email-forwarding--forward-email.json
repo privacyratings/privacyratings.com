@@ -9,13 +9,13 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/forwardemail.net/22279317/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/forwardemail.net/22513421/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     },
     "mail": {
       "score": 100,
-      "report": "https://batch.internet.nl/mail/forwardemail.net/22638693/",
-      "tested_at": "2026-10-26T10:56:20.451Z"
+      "report": "https://batch.internet.nl/mail/forwardemail.net/22780139/",
+      "tested_at": "2026-11-02T13:18:16.447Z"
     }
   },
   "mail": {
@@ -52,7 +52,7 @@
         }
       }
     },
-    "tested_at": "2026-11-01T11:19:32.387Z",
+    "tested_at": "2026-11-02T12:30:58.072Z",
     "imap": {
       "host": "imap.forwardemail.net",
       "port": 993,
@@ -116,9 +116,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
-    "tested_at": "2026-10-21T09:24:07.159Z"
+    "tested_at": "2026-11-02T12:30:15.462Z"
   },
-  "scanned_at": "2026-11-01T11:19:33.511Z",
+  "scanned_at": "2026-11-02T12:30:59.060Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

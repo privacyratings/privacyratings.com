@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 78,
-      "report": "https://batch.internet.nl/site/bitbucket.org/22278737/",
-      "tested_at": "2026-10-26T10:56:20.040Z"
+      "report": "https://batch.internet.nl/site/bitbucket.org/22513475/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitbucket.org",
     "tested_at": "2026-10-29T10:56:07.522Z"
   },
-  "scanned_at": "2026-10-29T10:56:08.960Z",
+  "scanned_at": "2026-11-02T12:46:14.584Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bitbucket.org&hideResults=on",
-    "tested_at": "2026-10-19T10:22:42.551Z"
+    "tested_at": "2026-11-02T12:46:14.584Z"
   },
   "trackers": {
     "url": "https://bitbucket.org",

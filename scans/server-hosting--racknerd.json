@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 70,
-      "report": "https://batch.internet.nl/site/www.racknerd.com/22279343/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/www.racknerd.com/22513379/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.racknerd.com",
-    "tested_at": "2026-10-20T09:28:33.758Z"
+    "tested_at": "2026-11-02T12:30:33.840Z"
   },
-  "scanned_at": "2026-10-22T09:38:18.211Z",
+  "scanned_at": "2026-11-02T12:30:34.125Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

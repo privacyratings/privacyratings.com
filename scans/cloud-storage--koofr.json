@@ -8,20 +8,20 @@
   },
   "internetnl": {
     "web": {
-      "score": 73,
-      "report": "https://batch.internet.nl/site/koofr.eu/22279307/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "score": 75,
+      "report": "https://batch.internet.nl/site/koofr.eu/22513301/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
-    "grade": "C+",
-    "score": 60,
-    "tests_passed": 10,
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=koofr.eu",
-    "tested_at": "2026-10-20T09:29:03.029Z"
+    "tested_at": "2026-11-02T12:30:52.916Z"
   },
-  "scanned_at": "2026-10-24T09:09:07.709Z",
+  "scanned_at": "2026-11-02T12:30:54.314Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

@@ -2,14 +2,14 @@
   "domain": "mailfence.com",
   "internetnl": {
     "web": {
-      "score": 37,
-      "report": "https://batch.internet.nl/site/mailfence.com/22279356/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "score": 62,
+      "report": "https://batch.internet.nl/site/mailfence.com/22513213/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     },
     "mail": {
-      "score": 41,
-      "report": "https://batch.internet.nl/mail/mailfence.com/22638660/",
-      "tested_at": "2026-10-26T10:56:20.451Z"
+      "score": 40,
+      "report": "https://batch.internet.nl/mail/mailfence.com/22780244/",
+      "tested_at": "2026-11-02T13:18:16.447Z"
     }
   },
   "mail": {
@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-01T11:19:16.577Z",
+    "tested_at": "2026-11-02T12:30:40.081Z",
     "imap": {
       "host": "imap.mailfence.com",
       "port": 993,
@@ -86,9 +86,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailfence.com",
-    "tested_at": "2026-10-21T09:24:09.450Z"
+    "tested_at": "2026-11-02T12:30:19.805Z"
   },
-  "scanned_at": "2026-11-01T11:19:18.674Z",
+  "scanned_at": "2026-11-02T12:30:41.990Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

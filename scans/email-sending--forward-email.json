@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/forwardemail.net/22279317/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/forwardemail.net/22513421/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
-    "tested_at": "2026-10-21T09:24:07.159Z"
+    "tested_at": "2026-11-02T12:30:15.462Z"
   },
-  "scanned_at": "2026-10-27T09:51:19.938Z",
+  "scanned_at": "2026-11-02T12:30:27.294Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

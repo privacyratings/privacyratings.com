@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 61,
-      "report": "https://batch.internet.nl/site/portal.duocircle.com/22278920/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/portal.duocircle.com/22513293/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.duocircle.com",
-    "tested_at": "2026-10-21T09:24:13.964Z"
+    "tested_at": "2026-11-02T12:30:23.777Z"
   },
-  "scanned_at": "2026-10-24T09:00:37.999Z",
+  "scanned_at": "2026-11-02T12:30:33.055Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

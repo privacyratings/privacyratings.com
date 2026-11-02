@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 84,
-      "report": "https://batch.internet.nl/site/dashboard.heimdalsecurity.com/22279355/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/dashboard.heimdalsecurity.com/22513317/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.heimdalsecurity.com",
-    "tested_at": "2026-10-21T09:24:14.877Z"
+    "tested_at": "2026-11-02T12:30:24.461Z"
   },
-  "scanned_at": "2026-10-24T09:03:18.985Z",
+  "scanned_at": "2026-11-02T12:30:27.211Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

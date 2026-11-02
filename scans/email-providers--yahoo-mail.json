@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 51,
-      "report": "https://batch.internet.nl/site/mail.yahoo.com/22279070/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/mail.yahoo.com/22513247/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     },
     "mail": {
-      "score": 26,
-      "report": "https://batch.internet.nl/mail/yahoo.com/22638771/",
-      "tested_at": "2026-10-26T10:56:20.451Z"
+      "score": 30,
+      "report": "https://batch.internet.nl/mail/yahoo.com/22780160/",
+      "tested_at": "2026-11-02T13:18:16.447Z"
     }
   },
   "mail": {
@@ -17,9 +17,9 @@
       "domain": "yahoo.com",
       "dnssec": false,
       "mx": [
-        "mta6.am0.yahoodns.net",
+        "mta7.am0.yahoodns.net",
         "mta5.am0.yahoodns.net",
-        "mta7.am0.yahoodns.net"
+        "mta6.am0.yahoodns.net"
       ],
       "spf": true,
       "dmarc": "reject",
@@ -35,7 +35,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-01T11:19:27.692Z",
+    "tested_at": "2026-11-02T12:30:53.274Z",
     "imap": {
       "host": "imap.mail.yahoo.com",
       "port": 993,
@@ -105,7 +105,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yahoo.com",
     "tested_at": "2026-11-01T11:18:52.166Z"
   },
-  "scanned_at": "2026-11-01T11:19:28.485Z",
+  "scanned_at": "2026-11-02T12:30:53.918Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

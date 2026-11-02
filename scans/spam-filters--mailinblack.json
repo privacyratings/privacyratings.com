@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/app.mailinblack.com/22278828/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/app.mailinblack.com/22513515/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.mailinblack.com",
-    "tested_at": "2026-10-21T09:24:17.886Z"
+    "tested_at": "2026-11-02T12:30:24.759Z"
   },
-  "scanned_at": "2026-10-24T09:03:24.572Z",
+  "scanned_at": "2026-11-02T12:30:34.390Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

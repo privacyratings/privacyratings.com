@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 96,
-      "report": "https://batch.internet.nl/site/venice.ai/22279353/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/venice.ai/22513351/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=venice.ai",
     "tested_at": "2026-10-29T10:55:53.637Z"
   },
-  "scanned_at": "2026-10-29T10:55:53.996Z",
+  "scanned_at": "2026-11-02T12:36:54.172Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=venice.ai&hideResults=on",
-    "tested_at": "2026-10-19T10:07:10.209Z"
+    "tested_at": "2026-11-02T12:36:54.172Z"
   },
   "trackers": {
     "url": "https://venice.ai",

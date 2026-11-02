@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/mail.aol.com/22279081/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/mail.aol.com/22513487/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     },
     "mail": {
       "score": 48,
-      "report": "https://batch.internet.nl/mail/aol.com/22638715/",
-      "tested_at": "2026-10-26T10:56:20.451Z"
+      "report": "https://batch.internet.nl/mail/aol.com/22780142/",
+      "tested_at": "2026-11-02T13:18:16.447Z"
     }
   },
   "mail": {
@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-01T11:18:49.594Z",
+    "tested_at": "2026-11-02T12:30:19.336Z",
     "imap": {
       "host": "imap.aol.com",
       "port": 993,
@@ -97,9 +97,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.aol.com",
-    "tested_at": "2026-10-21T09:24:07.604Z"
+    "tested_at": "2026-11-02T12:30:18.373Z"
   },
-  "scanned_at": "2026-11-01T11:18:50.556Z",
+  "scanned_at": "2026-11-02T12:30:20.515Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

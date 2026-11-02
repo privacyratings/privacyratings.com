@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 84,
-      "report": "https://batch.internet.nl/site/secure.adobesign.com/22279247/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/secure.adobesign.com/22513315/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.adobesign.com",
     "tested_at": "2026-10-28T10:37:44.388Z"
   },
-  "scanned_at": "2026-10-28T10:37:46.032Z",
+  "scanned_at": "2026-11-02T12:36:23.616Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=secure.adobesign.com&hideResults=on",
-    "tested_at": "2026-10-19T10:05:52.079Z"
+    "tested_at": "2026-11-02T12:36:23.616Z"
   },
   "trackers": {
     "error": "The operation was aborted",

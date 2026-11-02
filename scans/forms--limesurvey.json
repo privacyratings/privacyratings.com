@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 55,
-      "report": "https://batch.internet.nl/site/account.limesurvey.org/22278635/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/account.limesurvey.org/22513207/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.limesurvey.org",
     "tested_at": "2026-10-28T10:37:49.401Z"
   },
-  "scanned_at": "2026-11-01T11:30:55.829Z",
+  "scanned_at": "2026-11-02T12:36:52.472Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=account.limesurvey.org&hideResults=on",
-    "tested_at": "2026-10-18T09:04:45.689Z"
+    "tested_at": "2026-11-02T12:36:52.472Z"
   },
   "trackers": {
     "url": "https://www.limesurvey.org",

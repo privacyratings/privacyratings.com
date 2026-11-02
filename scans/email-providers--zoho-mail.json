@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/mail.zoho.com/22279364/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/mail.zoho.com/22513241/",
+      "tested_at": "2026-11-02T13:18:16.060Z"
     },
     "mail": {
       "score": 67,
-      "report": "https://batch.internet.nl/mail/zohomail.com/22638758/",
-      "tested_at": "2026-10-26T10:56:20.451Z"
+      "report": "https://batch.internet.nl/mail/zohomail.com/22780182/",
+      "tested_at": "2026-11-02T13:18:16.447Z"
     }
   },
   "mail": {
@@ -17,9 +17,9 @@
       "domain": "zohomail.com",
       "dnssec": false,
       "mx": [
-        "smtpin.zoho.com",
         "smtpin3.zoho.com",
-        "smtpin2.zoho.com"
+        "smtpin2.zoho.com",
+        "smtpin.zoho.com"
       ],
       "spf": true,
       "dmarc": "reject",
@@ -35,7 +35,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-01T11:19:29.068Z",
+    "tested_at": "2026-11-02T12:30:55.457Z",
     "imap": {
       "host": "imap.zoho.com",
       "port": 993,
@@ -93,7 +93,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.zoho.com",
     "tested_at": "2026-11-01T11:18:52.446Z"
   },
-  "scanned_at": "2026-11-01T11:19:30.617Z",
+  "scanned_at": "2026-11-02T12:30:56.523Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

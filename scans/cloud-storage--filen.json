@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/filen.io/22278782/",
-      "tested_at": "2026-10-26T10:56:20.041Z"
+      "report": "https://batch.internet.nl/site/filen.io/22513283/",
+      "tested_at": "2026-11-02T13:18:16.059Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=filen.io",
-    "tested_at": "2026-10-20T09:29:00.399Z"
+    "tested_at": "2026-11-02T12:30:38.773Z"
   },
-  "scanned_at": "2026-10-23T09:31:03.461Z",
+  "scanned_at": "2026-11-02T12:30:40.656Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,
