@@ -191,6 +191,7 @@
  "Not a criterion for {category}",
  "Not applicable",
  "Not graded",
+ "Not graded ({pct}% evidence)",
  "Not graded yet, {pct}% of criteria have evidence",
  "Not graded yet: {pct}% of criteria have evidence",
  "Not graded yet: {pct}% of criteria have evidence, {min}% needed.",
