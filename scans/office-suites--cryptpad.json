@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cryptpad.org",
     "tested_at": "2026-11-03T01:47:23.304Z"
   },
-  "scanned_at": "2026-11-03T04:11:14.787Z",
+  "scanned_at": "2026-11-03T12:13:57.615Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

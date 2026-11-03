@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-03T01:39:03.935Z",
+    "tested_at": "2026-11-03T11:58:53.816Z",
     "imap": {
       "host": "mail.gandi.net",
       "port": 993,
@@ -89,9 +89,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=webmail.gandi.net",
-    "tested_at": "2026-11-03T01:39:00.130Z"
+    "tested_at": "2026-11-03T11:58:51.037Z"
   },
-  "scanned_at": "2026-11-03T01:43:52.804Z",
+  "scanned_at": "2026-11-03T11:58:55.428Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

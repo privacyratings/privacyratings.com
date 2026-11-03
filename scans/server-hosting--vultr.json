@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.vultr.com",
-    "tested_at": "2026-11-02T12:30:35.509Z"
+    "tested_at": "2026-11-03T11:58:57.463Z"
   },
-  "scanned_at": "2026-11-03T04:01:49.396Z",
+  "scanned_at": "2026-11-03T11:58:57.644Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

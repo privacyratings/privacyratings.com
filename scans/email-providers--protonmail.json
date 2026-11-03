@@ -4,7 +4,7 @@
     "repo": "ProtonMail/WebClients",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:38:55.979Z"
+    "checked_at": "2026-11-03T11:58:48.506Z"
   },
   "internetnl": {
     "web": {
@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-03T01:39:45.486Z",
+    "tested_at": "2026-11-03T11:59:26.047Z",
     "imap": {
       "offered": false
     },
@@ -60,7 +60,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=proton.me",
     "tested_at": "2026-11-03T01:39:06.098Z"
   },
-  "scanned_at": "2026-11-03T01:48:16.316Z",
+  "scanned_at": "2026-11-03T11:59:26.047Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

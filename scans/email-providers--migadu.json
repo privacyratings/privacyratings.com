@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-03T01:39:40.892Z",
+    "tested_at": "2026-11-03T11:59:22.409Z",
     "imap": {
       "host": "imap.migadu.com",
       "port": 993,
@@ -89,16 +89,16 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=migadu.com",
-    "tested_at": "2026-11-03T01:38:31.951Z"
+    "tested_at": "2026-11-03T11:58:52.818Z"
   },
-  "scanned_at": "2026-11-03T01:45:02.780Z",
+  "scanned_at": "2026-11-03T12:00:29.470Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=migadu.com&hideResults=on",
     "tested_at": "2026-10-23T09:25:58.926Z",
     "last_error": "No endpoint could be graded",
-    "last_error_at": "2026-11-03T01:45:02.779Z"
+    "last_error_at": "2026-11-03T12:00:29.470Z"
   },
   "trackers": {
     "url": "https://www.migadu.com/",

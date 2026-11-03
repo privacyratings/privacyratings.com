@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=newpipe.net",
     "tested_at": "2026-11-03T01:39:52.450Z"
   },
-  "scanned_at": "2026-11-03T02:26:40.575Z",
+  "scanned_at": "2026-11-03T12:08:31.423Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=newpipe.net&hideResults=on",
-    "tested_at": "2026-10-21T09:30:50.669Z"
+    "tested_at": "2026-11-03T12:08:31.423Z"
   },
   "trackers": {
     "url": "https://newpipe.net",

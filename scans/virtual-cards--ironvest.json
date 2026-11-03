@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ironvest.com",
     "tested_at": "2026-11-03T01:48:08.054Z"
   },
-  "scanned_at": "2026-11-03T04:47:03.604Z",
+  "scanned_at": "2026-11-03T12:18:23.425Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

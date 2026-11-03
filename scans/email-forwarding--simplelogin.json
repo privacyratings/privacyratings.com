@@ -4,7 +4,7 @@
     "repo": "simple-login/app",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:38:56.258Z"
+    "checked_at": "2026-11-03T11:58:48.859Z"
   },
   "internetnl": {
     "web": {
@@ -60,12 +60,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=simplelogin.io",
     "tested_at": "2026-11-03T01:39:15.242Z"
   },
-  "scanned_at": "2026-11-03T01:58:39.585Z",
+  "scanned_at": "2026-11-03T12:01:14.517Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=simplelogin.io&hideResults=on",
-    "tested_at": "2026-10-24T08:58:02.430Z"
+    "tested_at": "2026-11-03T12:01:14.517Z"
   },
   "trackers": {
     "url": "https://simplelogin.io",

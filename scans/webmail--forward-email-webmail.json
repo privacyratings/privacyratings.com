@@ -4,7 +4,7 @@
     "repo": "forwardemail/mail.forwardemail.net",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:38:57.102Z"
+    "checked_at": "2026-11-03T11:58:49.935Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.forwardemail.net",
     "tested_at": "2026-11-03T01:39:15.325Z"
   },
-  "scanned_at": "2026-11-03T02:07:18.256Z",
+  "scanned_at": "2026-11-03T11:58:49.935Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,

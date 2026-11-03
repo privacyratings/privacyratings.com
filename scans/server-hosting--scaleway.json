@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.scaleway.com",
-    "tested_at": "2026-10-28T10:37:38.416Z"
+    "tested_at": "2026-11-03T11:58:55.894Z"
   },
-  "scanned_at": "2026-11-03T03:57:04.809Z",
+  "scanned_at": "2026-11-03T11:58:57.334Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

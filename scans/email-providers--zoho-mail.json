@@ -93,12 +93,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.zoho.com",
     "tested_at": "2026-11-03T01:39:12.566Z"
   },
-  "scanned_at": "2026-11-03T01:54:27.470Z",
+  "scanned_at": "2026-11-03T12:02:10.097Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.zoho.com&hideResults=on",
-    "tested_at": "2026-10-23T09:26:53.666Z"
+    "tested_at": "2026-11-03T12:02:10.097Z"
   },
   "trackers": {
     "url": "https://www.zoho.com/mail/",

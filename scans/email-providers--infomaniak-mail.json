@@ -4,7 +4,7 @@
     "repo": "Infomaniak/android-kMail",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:38:55.758Z"
+    "checked_at": "2026-11-03T11:58:48.265Z"
   },
   "internetnl": {
     "web": {
@@ -54,7 +54,7 @@
         }
       }
     },
-    "tested_at": "2026-11-03T01:39:12.729Z",
+    "tested_at": "2026-11-03T11:59:02.271Z",
     "imap": {
       "host": "mail.infomaniak.com",
       "port": 993,
@@ -108,7 +108,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ksuite.infomaniak.com",
     "tested_at": "2026-11-03T01:39:03.416Z"
   },
-  "scanned_at": "2026-11-03T01:44:42.995Z",
+  "scanned_at": "2026-11-03T11:59:04.463Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

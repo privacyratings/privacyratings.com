@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ultahost.com",
-    "tested_at": "2026-11-02T12:30:34.494Z"
+    "tested_at": "2026-11-03T11:58:56.182Z"
   },
-  "scanned_at": "2026-11-03T03:57:05.448Z",
+  "scanned_at": "2026-11-03T11:58:56.926Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,

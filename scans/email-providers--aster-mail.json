@@ -4,7 +4,7 @@
     "repo": "Aster-Privacy/Aster-Mail",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:38:55.756Z"
+    "checked_at": "2026-11-03T11:58:48.283Z"
   },
   "mail": {
     "dns": {
@@ -27,7 +27,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-03T01:38:56.710Z",
+    "tested_at": "2026-11-03T11:58:49.306Z",
     "imap": {
       "offered": false
     },
@@ -46,9 +46,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=astermail.org",
-    "tested_at": "2026-11-03T01:38:56.106Z"
+    "tested_at": "2026-11-03T11:58:48.452Z"
   },
-  "scanned_at": "2026-11-03T01:49:37.706Z",
+  "scanned_at": "2026-11-03T11:58:49.306Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

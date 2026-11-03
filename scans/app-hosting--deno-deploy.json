@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.deno.com",
-    "tested_at": "2026-10-23T09:23:25.293Z"
+    "tested_at": "2026-11-03T11:58:58.397Z"
   },
-  "scanned_at": "2026-11-03T04:00:15.928Z",
+  "scanned_at": "2026-11-03T11:58:59.313Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

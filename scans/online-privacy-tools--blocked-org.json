@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.blocked.org.uk",
     "tested_at": "2026-11-03T01:40:10.440Z"
   },
-  "scanned_at": "2026-11-03T02:37:28.448Z",
+  "scanned_at": "2026-11-03T12:09:17.269Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.blocked.org.uk&hideResults=on",
-    "tested_at": "2026-10-21T09:29:04.915Z"
+    "tested_at": "2026-11-03T12:09:17.269Z"
   },
   "trackers": {
     "url": "https://www.blocked.org.uk",

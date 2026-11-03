@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=umami.is",
     "tested_at": "2026-11-03T01:48:03.113Z"
   },
-  "scanned_at": "2026-11-03T04:41:05.697Z",
+  "scanned_at": "2026-11-03T12:18:18.338Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.ghost.org",
     "tested_at": "2026-11-03T01:48:13.274Z"
   },
-  "scanned_at": "2026-11-03T04:51:05.951Z",
+  "scanned_at": "2026-11-03T12:23:01.428Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=account.ghost.org&hideResults=on",
-    "tested_at": "2026-10-20T09:48:49.000Z"
+    "tested_at": "2026-11-03T12:23:01.428Z"
   },
   "trackers": {
     "url": "https://ghost.org",

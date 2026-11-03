@@ -34,7 +34,7 @@
         }
       }
     },
-    "tested_at": "2026-11-03T01:39:06.983Z",
+    "tested_at": "2026-11-03T11:58:56.477Z",
     "imap": {
       "host": "imap.hushmail.com",
       "port": 993,
@@ -74,9 +74,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hushmail.com",
-    "tested_at": "2026-11-03T01:39:01.052Z"
+    "tested_at": "2026-11-03T11:58:52.022Z"
   },
-  "scanned_at": "2026-11-03T01:42:01.871Z",
+  "scanned_at": "2026-11-03T11:58:57.860Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
