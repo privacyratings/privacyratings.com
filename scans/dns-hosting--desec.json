@@ -4,7 +4,7 @@
     "repo": "desec-io/desec-stack",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-23T09:23:12.439Z"
+    "checked_at": "2026-11-03T01:39:11.257Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=desec.io",
-    "tested_at": "2026-10-31T10:26:07.893Z"
+    "tested_at": "2026-11-03T01:41:00.421Z"
   },
-  "scanned_at": "2026-10-31T10:26:09.379Z",
+  "scanned_at": "2026-11-03T03:40:12.882Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=desec.io&hideResults=on",
-    "tested_at": "2026-10-21T09:39:02.445Z"
+    "tested_at": "2026-11-03T03:40:12.882Z"
   },
   "trackers": {
     "url": "https://desec.io",
     "found": [],
-    "tested_at": "2026-10-01T07:01:24.266Z"
+    "tested_at": "2026-11-03T01:39:50.744Z"
   }
 }

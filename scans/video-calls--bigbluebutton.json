@@ -3,9 +3,9 @@
     "repo": "bigbluebutton/bigbluebutton",
     "license": "LGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-02T10:32:57.531Z"
+    "checked_at": "2026-11-03T01:39:09.230Z"
   },
-  "scanned_at": "2026-10-02T10:32:57.531Z",
+  "scanned_at": "2026-11-03T01:39:42.823Z",
   "trackers": {
     "url": "https://bigbluebutton.org",
     "found": [
@@ -19,6 +19,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:23.670Z"
+    "tested_at": "2026-11-03T01:39:42.823Z"
   }
 }

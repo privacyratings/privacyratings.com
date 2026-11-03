@@ -3,12 +3,12 @@
     "repo": "juanfont/headscale",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-10-04T10:36:40.237Z"
+    "checked_at": "2026-11-03T01:39:14.095Z"
   },
-  "scanned_at": "2026-10-04T10:36:40.237Z",
+  "scanned_at": "2026-11-03T01:40:00.124Z",
   "trackers": {
     "url": "https://headscale.net",
     "found": [],
-    "tested_at": "2026-10-01T06:38:30.666Z"
+    "tested_at": "2026-11-03T01:40:00.123Z"
   }
 }

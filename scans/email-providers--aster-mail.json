@@ -1,0 +1,63 @@
+{
+  "domain": "astermail.org",
+  "github": {
+    "repo": "Aster-Privacy/Aster-Mail",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-11-03T01:38:55.756Z"
+  },
+  "mail": {
+    "dns": {
+      "domain": "astermail.org",
+      "dnssec": true,
+      "mx": [
+        "mx.astermail.org"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "invalid",
+      "dane": "all",
+      "bimi": true,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-11-03T01:38:56.710Z",
+    "imap": {
+      "offered": false
+    },
+    "pop3": {
+      "offered": false
+    },
+    "smtp": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    }
+  },
+  "mail_domain": "astermail.org",
+  "observatory": {
+    "grade": "A+",
+    "score": 135,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=astermail.org",
+    "tested_at": "2026-11-03T01:38:56.106Z"
+  },
+  "scanned_at": "2026-11-03T01:49:37.706Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 6,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=astermail.org&hideResults=on",
+    "tested_at": "2026-11-03T01:49:37.706Z"
+  },
+  "trackers": {
+    "url": "https://astermail.org",
+    "found": [],
+    "tested_at": "2026-11-03T01:38:56.033Z"
+  }
+}

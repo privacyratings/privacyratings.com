@@ -3,9 +3,9 @@
     "repo": "BiglySoftware/BiglyBT",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-13T11:51:44.868Z"
+    "checked_at": "2026-11-03T01:39:48.365Z"
   },
-  "scanned_at": "2026-10-13T11:51:44.868Z",
+  "scanned_at": "2026-11-03T01:41:00.358Z",
   "trackers": {
     "url": "https://www.biglybt.com",
     "found": [
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:00:03.133Z"
+    "tested_at": "2026-11-03T01:41:00.358Z"
   }
 }

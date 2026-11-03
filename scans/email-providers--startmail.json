@@ -45,7 +45,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:50.791Z",
+    "tested_at": "2026-11-03T01:39:57.459Z",
     "imap": {
       "host": "imap.startmail.com",
       "port": 993,
@@ -87,18 +87,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startmail.com",
-    "tested_at": "2026-11-02T12:30:21.136Z"
+    "tested_at": "2026-11-03T01:39:09.903Z"
   },
-  "scanned_at": "2026-11-02T12:30:51.767Z",
+  "scanned_at": "2026-11-03T01:49:46.765Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.startmail.com&hideResults=on",
-    "tested_at": "2026-10-26T10:16:43.144Z"
+    "tested_at": "2026-11-03T01:49:46.765Z"
   },
   "trackers": {
     "url": "https://www.startmail.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:32.739Z"
+    "tested_at": "2026-11-03T01:39:00.438Z"
   }
 }

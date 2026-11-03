@@ -3,9 +3,9 @@
     "repo": "fastapi/fastapi",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-01T11:18:50.162Z"
+    "checked_at": "2026-11-03T01:39:36.139Z"
   },
-  "scanned_at": "2026-11-01T11:18:50.162Z",
+  "scanned_at": "2026-11-03T01:40:37.171Z",
   "trackers": {
     "url": "https://fastapi.tiangolo.com",
     "found": [
@@ -21,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:12.356Z"
+    "tested_at": "2026-11-03T01:40:37.171Z"
   }
 }

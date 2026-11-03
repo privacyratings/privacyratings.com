@@ -13,17 +13,17 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.meta.ai",
-    "tested_at": "2026-10-29T10:55:40.987Z"
+    "tested_at": "2026-11-03T01:47:39.476Z"
   },
-  "scanned_at": "2026-11-02T12:36:46.599Z",
+  "scanned_at": "2026-11-03T04:24:41.328Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.meta.ai&hideResults=on",
-    "tested_at": "2026-11-02T12:36:46.599Z"
+    "tested_at": "2026-11-03T04:24:41.328Z"
   },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-10-01T06:38:50.101Z"
+    "tested_at": "2026-11-03T01:40:22.818Z"
   }
 }

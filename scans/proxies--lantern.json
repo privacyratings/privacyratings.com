@@ -3,9 +3,9 @@
     "repo": "getlantern/lantern",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-04T10:36:39.784Z"
+    "checked_at": "2026-11-03T01:39:13.111Z"
   },
-  "scanned_at": "2026-10-04T10:36:39.784Z",
+  "scanned_at": "2026-11-03T01:39:58.314Z",
   "trackers": {
     "url": "https://lantern.io",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:30.325Z"
+    "tested_at": "2026-11-03T01:39:58.314Z"
   }
 }

@@ -13,18 +13,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=workplace.zoho.com",
-    "tested_at": "2026-10-28T10:37:44.148Z"
+    "tested_at": "2026-11-03T01:47:23.949Z"
   },
-  "scanned_at": "2026-11-01T11:28:23.288Z",
+  "scanned_at": "2026-11-03T04:11:26.125Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=workplace.zoho.com&hideResults=on",
-    "tested_at": "2026-11-01T11:28:23.288Z"
+    "tested_at": "2026-11-03T04:11:26.125Z"
   },
   "trackers": {
     "url": "https://www.zoho.com/workplace/",
     "found": [],
-    "tested_at": "2026-10-01T06:38:45.649Z"
+    "tested_at": "2026-11-03T01:40:19.018Z"
   }
 }

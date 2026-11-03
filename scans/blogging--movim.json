@@ -4,7 +4,7 @@
     "repo": "movim/movim",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-23T09:23:13.322Z"
+    "checked_at": "2026-11-03T01:39:46.163Z"
   },
   "internetnl": {
     "web": {
@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=movim.eu",
-    "tested_at": "2026-10-21T09:24:56.721Z"
+    "tested_at": "2026-11-03T01:48:13.869Z"
   },
-  "scanned_at": "2026-10-23T09:37:44.692Z",
+  "scanned_at": "2026-11-03T04:51:53.028Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
@@ -37,6 +37,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:29.349Z"
+    "tested_at": "2026-11-03T01:40:56.276Z"
   }
 }

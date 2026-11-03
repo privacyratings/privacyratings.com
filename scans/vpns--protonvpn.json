@@ -4,7 +4,7 @@
     "repo": "ProtonVPN/android-app",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-22T09:26:55.847Z"
+    "checked_at": "2026-11-03T01:39:10.847Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=protonvpn.com",
-    "tested_at": "2026-10-31T10:26:02.441Z"
+    "tested_at": "2026-11-03T01:40:50.554Z"
   },
-  "scanned_at": "2026-10-31T10:26:04.252Z",
+  "scanned_at": "2026-11-03T03:29:34.127Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=protonvpn.com&hideResults=on",
-    "tested_at": "2026-10-21T09:34:36.879Z"
+    "tested_at": "2026-11-03T03:29:34.127Z"
   },
   "trackers": {
     "url": "https://protonvpn.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:23.712Z"
+    "tested_at": "2026-11-03T01:39:47.179Z"
   }
 }

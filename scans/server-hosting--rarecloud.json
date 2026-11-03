@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rarecloud.io",
-    "tested_at": "2026-11-02T12:30:34.550Z"
+    "tested_at": "2026-11-03T01:41:15.597Z"
   },
-  "scanned_at": "2026-11-02T12:30:36.107Z",
+  "scanned_at": "2026-11-03T03:59:25.539Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=rarecloud.io&hideResults=on",
-    "tested_at": "2026-10-23T09:32:48.032Z"
+    "tested_at": "2026-11-03T03:59:25.539Z"
   },
   "trackers": {
     "url": "https://rarecloud.io",
@@ -30,6 +30,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:27.235Z"
+    "tested_at": "2026-11-03T01:39:54.266Z"
   }
 }

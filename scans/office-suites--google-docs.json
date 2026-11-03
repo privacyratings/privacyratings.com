@@ -8,23 +8,23 @@
     }
   },
   "observatory": {
-    "grade": "A+",
-    "score": 110,
-    "tests_passed": 10,
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.google.com",
-    "tested_at": "2026-10-24T08:55:23.360Z"
+    "tested_at": "2026-11-03T01:47:23.419Z"
   },
-  "scanned_at": "2026-10-26T10:24:30.033Z",
+  "scanned_at": "2026-11-03T04:08:34.383Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=docs.google.com&hideResults=on",
-    "tested_at": "2026-10-26T10:24:30.033Z"
+    "tested_at": "2026-11-03T04:08:34.383Z"
   },
   "trackers": {
-    "url": "https://accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1896006686:1790838119969056",
+    "url": "https://accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S104416510:1793670018389204",
     "found": [],
-    "tested_at": "2026-10-01T07:02:00.290Z"
+    "tested_at": "2026-11-03T01:40:18.611Z"
   }
 }

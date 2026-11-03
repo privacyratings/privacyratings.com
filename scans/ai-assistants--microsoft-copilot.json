@@ -13,18 +13,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=copilot.microsoft.com",
-    "tested_at": "2026-10-29T10:55:41.222Z"
+    "tested_at": "2026-11-03T01:47:39.594Z"
   },
-  "scanned_at": "2026-11-02T12:36:47.094Z",
+  "scanned_at": "2026-11-03T04:24:44.003Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=copilot.microsoft.com&hideResults=on",
-    "tested_at": "2026-11-02T12:36:47.094Z"
+    "tested_at": "2026-11-03T04:24:44.003Z"
   },
   "trackers": {
-    "url": "https://copilot.microsoft.com",
+    "url": "https://copilot.com/?fromcode=cmmlf487uwy&sessionId=0c518d9d-e18a-4f62-8e48-af3bf34d1bb1&",
     "found": [],
-    "tested_at": "2026-10-01T06:38:50.177Z"
+    "tested_at": "2026-11-03T01:40:22.930Z"
   }
 }

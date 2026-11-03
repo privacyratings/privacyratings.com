@@ -3,9 +3,9 @@
     "repo": "laravel/framework",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-02T12:30:19.728Z"
+    "checked_at": "2026-11-03T01:39:37.481Z"
   },
-  "scanned_at": "2026-11-02T12:30:19.728Z",
+  "scanned_at": "2026-11-03T01:40:39.323Z",
   "trackers": {
     "url": "https://laravel.com",
     "found": [
@@ -17,13 +17,13 @@
       },
       {
         "name": "Google Tag Manager",
-        "host": "www.googletagmanager.com"
+        "host": "inline code"
       },
       {
         "name": "HubSpot",
         "host": "js.hs-scripts.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:14.919Z"
+    "tested_at": "2026-11-03T01:40:39.323Z"
   }
 }

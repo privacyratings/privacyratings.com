@@ -3,12 +3,12 @@
     "repo": "spamscanner/spamscanner",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-24T08:55:01.069Z"
+    "checked_at": "2026-11-03T01:38:57.833Z"
   },
-  "scanned_at": "2026-10-24T08:55:01.069Z",
+  "scanned_at": "2026-11-03T01:39:06.252Z",
   "trackers": {
     "url": "https://spamscanner.net",
     "found": [],
-    "tested_at": "2026-10-01T07:01:37.412Z"
+    "tested_at": "2026-11-03T01:39:06.252Z"
   }
 }

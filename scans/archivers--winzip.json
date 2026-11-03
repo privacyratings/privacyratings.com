@@ -1,17 +1,13 @@
 {
-  "scanned_at": "2026-10-01T07:01:59.817Z",
+  "scanned_at": "2026-11-03T01:40:18.104Z",
   "trackers": {
     "url": "https://www.winzip.com/en/",
     "found": [
       {
         "name": "Google Tag Manager",
         "host": "www.googletagmanager.com"
-      },
-      {
-        "name": "Optimizely",
-        "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:59.817Z"
+    "tested_at": "2026-11-03T01:40:18.104Z"
   }
 }

@@ -3,9 +3,9 @@
     "repo": "withastro/astro",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-26T10:11:57.907Z"
+    "checked_at": "2026-11-03T01:39:31.028Z"
   },
-  "scanned_at": "2026-10-26T10:11:57.907Z",
+  "scanned_at": "2026-11-03T01:40:31.612Z",
   "trackers": {
     "url": "https://astro.build",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:45.915Z"
+    "tested_at": "2026-11-03T01:40:31.612Z"
   }
 }

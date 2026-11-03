@@ -13,14 +13,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=substack.com",
-    "tested_at": "2026-10-26T10:12:01.755Z"
+    "tested_at": "2026-11-03T01:40:34.095Z"
   },
-  "scanned_at": "2026-11-02T12:30:18.902Z",
+  "scanned_at": "2026-11-03T03:15:20.928Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=substack.com&hideResults=on",
-    "tested_at": "2026-10-31T10:28:00.604Z"
+    "tested_at": "2026-11-03T03:15:20.928Z"
   },
   "trackers": {
     "url": "https://substack.com",

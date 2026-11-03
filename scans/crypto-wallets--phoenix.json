@@ -3,9 +3,9 @@
     "repo": "ACINQ/phoenix",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-11T10:51:34.435Z"
+    "checked_at": "2026-11-03T01:39:44.343Z"
   },
-  "scanned_at": "2026-10-11T10:51:34.435Z",
+  "scanned_at": "2026-11-03T01:40:48.355Z",
   "trackers": {
     "url": "https://phoenix.acinq.co",
     "found": [
@@ -21,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:59:52.319Z"
+    "tested_at": "2026-11-03T01:40:48.355Z"
   }
 }

@@ -4,7 +4,7 @@
     "repo": "umami-software/umami",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-10T10:38:57.527Z"
+    "checked_at": "2026-11-03T01:39:41.856Z"
   },
   "internetnl": {
     "web": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=umami.is",
-    "tested_at": "2026-10-30T10:53:57.076Z"
+    "tested_at": "2026-11-03T01:48:03.113Z"
   },
-  "scanned_at": "2026-10-30T10:53:57.495Z",
+  "scanned_at": "2026-11-03T04:41:05.697Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
@@ -46,6 +46,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:59:46.069Z"
+    "tested_at": "2026-11-03T01:40:42.277Z"
   }
 }

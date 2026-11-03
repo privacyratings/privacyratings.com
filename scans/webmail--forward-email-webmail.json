@@ -4,7 +4,7 @@
     "repo": "forwardemail/mail.forwardemail.net",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-24T08:55:00.624Z"
+    "checked_at": "2026-11-03T01:38:57.102Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.forwardemail.net",
-    "tested_at": "2026-11-02T12:30:22.704Z"
+    "tested_at": "2026-11-03T01:39:15.325Z"
   },
-  "scanned_at": "2026-11-02T12:30:23.598Z",
+  "scanned_at": "2026-11-03T02:07:18.256Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.forwardemail.net&hideResults=on",
-    "tested_at": "2026-10-24T09:09:07.234Z"
+    "tested_at": "2026-11-03T02:07:18.256Z"
   },
   "trackers": {
     "url": "https://mail.forwardemail.net",
     "found": [],
-    "tested_at": "2026-10-01T07:01:34.133Z"
+    "tested_at": "2026-11-03T01:39:03.978Z"
   }
 }

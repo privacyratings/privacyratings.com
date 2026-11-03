@@ -3,12 +3,12 @@
     "repo": "johnfactotum/foliate",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-08T11:24:51.267Z"
+    "checked_at": "2026-11-03T01:39:25.940Z"
   },
-  "scanned_at": "2026-10-08T11:24:51.267Z",
+  "scanned_at": "2026-11-03T01:40:21.262Z",
   "trackers": {
     "url": "https://johnfactotum.github.io/foliate/",
     "found": [],
-    "tested_at": "2026-10-01T06:38:47.935Z"
+    "tested_at": "2026-11-03T01:40:21.262Z"
   }
 }

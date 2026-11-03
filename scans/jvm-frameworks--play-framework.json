@@ -3,9 +3,9 @@
     "repo": "playframework/playframework",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:20.343Z"
+    "checked_at": "2026-11-03T01:39:39.522Z"
   },
-  "scanned_at": "2026-10-01T07:02:18.354Z",
+  "scanned_at": "2026-11-03T01:40:41.281Z",
   "trackers": {
     "url": "https://www.playframework.com",
     "found": [
@@ -21,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:18.353Z"
+    "tested_at": "2026-11-03T01:40:41.281Z"
   }
 }

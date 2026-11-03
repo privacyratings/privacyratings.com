@@ -3,12 +3,12 @@
     "repo": "yacy/yacy_search_server",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T10:59:34.991Z"
+    "checked_at": "2026-11-03T01:39:02.075Z"
   },
-  "scanned_at": "2026-10-01T10:59:34.991Z",
+  "scanned_at": "2026-11-03T01:39:14.951Z",
   "trackers": {
     "url": "https://yacy.net",
     "found": [],
-    "tested_at": "2026-10-01T06:38:16.509Z"
+    "tested_at": "2026-11-03T01:39:14.950Z"
   }
 }

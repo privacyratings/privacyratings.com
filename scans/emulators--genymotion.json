@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T07:01:44.240Z",
+  "scanned_at": "2026-11-03T01:40:10.317Z",
   "trackers": {
     "url": "https://www.genymotion.com",
     "found": [
@@ -11,8 +11,12 @@
       {
         "name": "Google Tag Manager",
         "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "LinkedIn Insight",
+        "host": "snap.licdn.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:44.240Z"
+    "tested_at": "2026-11-03T01:40:10.317Z"
   }
 }

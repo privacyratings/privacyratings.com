@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.adobesign.com",
-    "tested_at": "2026-10-28T10:37:44.388Z"
+    "tested_at": "2026-11-03T01:47:24.224Z"
   },
-  "scanned_at": "2026-11-02T12:36:23.616Z",
+  "scanned_at": "2026-11-03T04:12:25.045Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,
@@ -23,7 +23,7 @@
     "tested_at": "2026-11-02T12:36:23.616Z"
   },
   "trackers": {
-    "error": "The operation was aborted",
-    "tested_at": "2026-10-01T06:39:16.005Z"
+    "error": "HTTP 403",
+    "tested_at": "2026-11-03T01:40:19.630Z"
   }
 }

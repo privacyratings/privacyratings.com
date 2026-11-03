@@ -1,0 +1,85 @@
+{
+  "domain": "www.mailo.com",
+  "mail": {
+    "dns": {
+      "domain": "mailo.com",
+      "dnssec": false,
+      "mx": [
+        "mx.mailo.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-11-03T01:39:39.600Z",
+    "imap": {
+      "host": "mail.mailo.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "ID",
+        "LITERAL+",
+        "AUTH=LOGIN",
+        "AUTH=PLAIN",
+        "STARTTLS"
+      ]
+    },
+    "pop3": {
+      "host": "mail.mailo.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "UIDL",
+        "USER",
+        "STLS"
+      ]
+    },
+    "smtp": {
+      "host": "mail.mailo.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "VRFY",
+        "STARTTLS",
+        "SIZE",
+        "AUTH",
+        "HELP"
+      ]
+    }
+  },
+  "mail_domain": "mailo.com",
+  "observatory": {
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mailo.com",
+    "tested_at": "2026-11-03T01:39:05.411Z"
+  },
+  "scanned_at": "2026-11-03T01:47:26.538Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.mailo.com&hideResults=on",
+    "tested_at": "2026-11-03T01:47:26.538Z"
+  },
+  "trackers": {
+    "url": "https://www.mailo.com",
+    "found": [],
+    "tested_at": "2026-11-03T01:38:58.605Z"
+  }
+}

@@ -3,12 +3,12 @@
     "repo": "Authenticator-Extension/Authenticator",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-15T09:11:22.787Z"
+    "checked_at": "2026-11-03T01:39:04.424Z"
   },
-  "scanned_at": "2026-10-15T09:11:22.787Z",
+  "scanned_at": "2026-11-03T01:39:19.056Z",
   "trackers": {
     "url": "https://authenticator.cc",
     "found": [],
-    "tested_at": "2026-10-01T07:00:41.573Z"
+    "tested_at": "2026-11-03T01:39:19.056Z"
   }
 }

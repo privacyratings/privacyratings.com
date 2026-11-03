@@ -3,12 +3,12 @@
     "repo": "hluk/CopyQ",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-28T10:37:34.536Z"
+    "checked_at": "2026-11-03T01:39:18.018Z"
   },
-  "scanned_at": "2026-10-28T10:37:34.536Z",
+  "scanned_at": "2026-11-03T01:40:06.653Z",
   "trackers": {
     "url": "https://hluk.github.io/CopyQ/",
     "found": [],
-    "tested_at": "2026-10-01T07:01:50.401Z"
+    "tested_at": "2026-11-03T01:40:06.653Z"
   }
 }

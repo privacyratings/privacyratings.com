@@ -3,12 +3,12 @@
     "repo": "horde/imp",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-24T08:55:00.668Z"
+    "checked_at": "2026-11-03T01:38:57.149Z"
   },
-  "scanned_at": "2026-10-24T08:55:00.668Z",
+  "scanned_at": "2026-11-03T01:39:03.999Z",
   "trackers": {
     "url": "https://www.horde.org/apps/webmail/",
     "found": [],
-    "tested_at": "2026-10-01T07:01:34.760Z"
+    "tested_at": "2026-11-03T01:39:03.999Z"
   }
 }

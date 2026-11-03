@@ -4,7 +4,7 @@
     "repo": "matomo-org/matomo",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-10T10:38:57.156Z"
+    "checked_at": "2026-11-03T01:39:41.548Z"
   },
   "internetnl": {
     "web": {
@@ -19,14 +19,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=matomo.org",
-    "tested_at": "2026-10-29T10:56:09.743Z"
+    "tested_at": "2026-11-03T01:47:59.474Z"
   },
-  "scanned_at": "2026-11-02T12:47:42.436Z",
+  "scanned_at": "2026-11-03T04:35:00.179Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=matomo.org&hideResults=on",
-    "tested_at": "2026-11-02T12:47:42.436Z"
+    "tested_at": "2026-11-03T04:35:00.179Z"
   },
   "trackers": {
     "url": "https://matomo.org",
@@ -42,6 +42,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:59:45.768Z"
+    "tested_at": "2026-11-03T01:40:41.742Z"
   }
 }

@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:19.408Z",
+    "tested_at": "2026-11-03T01:38:56.691Z",
     "imap": {
       "host": "imap.secureserver.net",
       "port": 993,
@@ -86,14 +86,14 @@
     "tests_passed": 5,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.123-reg.co.uk",
-    "tested_at": "2026-11-02T12:30:18.404Z"
+    "tested_at": "2026-11-03T01:38:56.085Z"
   },
-  "scanned_at": "2026-11-02T12:30:21.060Z",
+  "scanned_at": "2026-11-03T01:42:57.625Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.123-reg.co.uk&hideResults=on",
-    "tested_at": "2026-10-24T08:58:41.834Z"
+    "tested_at": "2026-11-03T01:42:57.625Z"
   },
   "trackers": {
     "url": "https://www.123-reg.co.uk/email-hosting/",
@@ -104,6 +104,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:33.951Z"
+    "tested_at": "2026-11-03T01:38:56.971Z"
   }
 }

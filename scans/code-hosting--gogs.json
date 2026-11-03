@@ -4,7 +4,7 @@
     "repo": "gogs/gogs",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-29T10:55:34.835Z"
+    "checked_at": "2026-11-03T01:39:28.752Z"
   },
   "observatory": {
     "grade": "B+",
@@ -14,22 +14,10 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=gogs.io",
     "tested_at": "2026-09-29T17:59:44.528Z"
   },
-  "scanned_at": "2026-10-29T10:55:34.835Z",
+  "scanned_at": "2026-11-03T01:40:28.218Z",
   "trackers": {
     "url": "https://gogs.io/getting-started/introduction",
-    "found": [
-      {
-        "name": "Google Fonts",
-        "host": "fonts.googleapis.com",
-        "soft": true
-      },
-      {
-        "name": "Plausible",
-        "host": "plausible.io",
-        "soft": true,
-        "analytics": true
-      }
-    ],
-    "tested_at": "2026-10-01T07:02:00.937Z"
+    "found": [],
+    "tested_at": "2026-11-03T01:40:28.218Z"
   }
 }

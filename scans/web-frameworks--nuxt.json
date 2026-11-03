@@ -3,12 +3,12 @@
     "repo": "nuxt/nuxt",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:58.227Z"
+    "checked_at": "2026-11-03T01:39:31.928Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.227Z",
+  "scanned_at": "2026-11-03T01:40:32.779Z",
   "trackers": {
     "url": "https://nuxt.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:46.281Z"
+    "tested_at": "2026-11-03T01:40:32.779Z"
   }
 }

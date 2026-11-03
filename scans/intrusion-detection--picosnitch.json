@@ -3,9 +3,9 @@
     "repo": "elesiuta/picosnitch",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-18T08:53:16.118Z"
+    "checked_at": "2026-11-03T01:39:15.631Z"
   },
-  "scanned_at": "2026-10-18T08:53:16.118Z",
+  "scanned_at": "2026-11-03T01:40:02.230Z",
   "trackers": {
     "url": "https://elesiuta.github.io/picosnitch/",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:00:59.212Z"
+    "tested_at": "2026-11-03T01:40:02.230Z"
   }
 }

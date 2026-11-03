@@ -3,12 +3,12 @@
     "repo": "Mailu/Mailu",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-28T10:37:33.691Z"
+    "checked_at": "2026-11-03T01:38:58.663Z"
   },
-  "scanned_at": "2026-10-28T10:37:33.691Z",
+  "scanned_at": "2026-11-03T01:39:08.517Z",
   "trackers": {
     "url": "https://mailu.io/2024.06/",
     "found": [],
-    "tested_at": "2026-10-01T07:01:53.104Z"
+    "tested_at": "2026-11-03T01:39:08.517Z"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "honojs/hono",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:57.382Z"
+    "checked_at": "2026-11-03T01:39:30.314Z"
   },
-  "scanned_at": "2026-10-26T10:11:57.382Z",
+  "scanned_at": "2026-11-03T01:40:30.010Z",
   "trackers": {
     "url": "https://hono.dev",
     "found": [],
-    "tested_at": "2026-10-01T07:01:45.019Z"
+    "tested_at": "2026-11-03T01:40:30.010Z"
   }
 }

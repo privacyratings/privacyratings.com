@@ -3,9 +3,9 @@
     "repo": "Flow-Launcher/Flow.Launcher",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-28T10:37:34.155Z"
+    "checked_at": "2026-11-03T01:39:17.683Z"
   },
-  "scanned_at": "2026-10-28T10:37:34.155Z",
+  "scanned_at": "2026-11-03T01:40:05.977Z",
   "trackers": {
     "url": "https://www.flowlauncher.com",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:49.616Z"
+    "tested_at": "2026-11-03T01:40:05.977Z"
   }
 }

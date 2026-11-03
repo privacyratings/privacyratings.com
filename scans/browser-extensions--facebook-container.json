@@ -3,9 +3,9 @@
     "repo": "mozilla/contain-facebook",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:27.512Z"
+    "checked_at": "2026-11-03T01:39:00.793Z"
   },
-  "scanned_at": "2026-10-01T07:02:38.587Z",
+  "scanned_at": "2026-11-03T01:39:00.793Z",
   "trackers": {
     "url": "https://addons.mozilla.org/en-US/firefox/addon/facebook-container/",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

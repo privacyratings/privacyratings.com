@@ -1,0 +1,50 @@
+{
+  "domain": "secria.me",
+  "mail": {
+    "dns": {
+      "domain": "secria.me",
+      "dnssec": true,
+      "mx": [
+        "mx1.secria.me"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "enforce",
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-11-03T01:39:51.568Z",
+    "imap": {
+      "offered": false
+    },
+    "pop3": {
+      "offered": false
+    },
+    "smtp": {
+      "offered": false
+    }
+  },
+  "mail_domain": "secria.me",
+  "observatory": {
+    "grade": "A+",
+    "score": 115,
+    "tests_passed": 12,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secria.me",
+    "tested_at": "2026-11-03T01:39:09.412Z"
+  },
+  "scanned_at": "2026-11-03T01:51:21.626Z",
+  "trackers": {
+    "url": "https://secria.me",
+    "found": [],
+    "tested_at": "2026-11-03T01:39:00.072Z"
+  }
+}

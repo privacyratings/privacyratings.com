@@ -3,9 +3,9 @@
     "repo": "gatsbyjs/gatsby",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:58.017Z"
+    "checked_at": "2026-11-03T01:39:31.385Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.017Z",
+  "scanned_at": "2026-11-03T01:40:31.969Z",
   "trackers": {
     "url": "https://www.gatsbyjs.com",
     "found": [
@@ -18,6 +18,6 @@
         "host": "cdn.segment.io"
       }
     ],
-    "tested_at": "2026-10-01T07:01:46.159Z"
+    "tested_at": "2026-11-03T01:40:31.969Z"
   }
 }

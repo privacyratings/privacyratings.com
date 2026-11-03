@@ -3,9 +3,9 @@
     "repo": "zauberzeug/nicegui",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-01T11:18:50.370Z"
+    "checked_at": "2026-11-03T01:39:36.379Z"
   },
-  "scanned_at": "2026-11-01T11:18:50.370Z",
+  "scanned_at": "2026-11-03T01:40:37.533Z",
   "trackers": {
     "url": "https://nicegui.io",
     "found": [
@@ -21,6 +21,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:12.749Z"
+    "tested_at": "2026-11-03T01:40:37.533Z"
   }
 }

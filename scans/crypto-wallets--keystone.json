@@ -3,9 +3,9 @@
     "repo": "KeystoneHQ/keystone3-firmware",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-11T10:51:34.335Z"
+    "checked_at": "2026-11-03T01:39:44.131Z"
   },
-  "scanned_at": "2026-10-11T10:51:34.335Z",
+  "scanned_at": "2026-11-03T01:40:48.940Z",
   "trackers": {
     "url": "https://keyst.one",
     "found": [
@@ -35,6 +35,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-10-01T06:59:53.058Z"
+    "tested_at": "2026-11-03T01:40:48.940Z"
   }
 }

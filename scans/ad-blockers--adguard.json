@@ -3,12 +3,12 @@
     "repo": "AdguardTeam/AdguardBrowserExtension",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-29T10:55:33.531Z"
+    "checked_at": "2026-11-03T01:39:00.251Z"
   },
-  "scanned_at": "2026-10-29T10:55:33.531Z",
+  "scanned_at": "2026-11-03T01:39:10.554Z",
   "trackers": {
     "url": "https://adguard.com/en/welcome.html",
     "found": [],
-    "tested_at": "2026-10-01T07:01:53.766Z"
+    "tested_at": "2026-11-03T01:39:10.554Z"
   }
 }

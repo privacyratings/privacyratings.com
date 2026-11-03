@@ -13,18 +13,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=translate.kagi.com",
-    "tested_at": "2026-10-28T10:37:52.276Z"
+    "tested_at": "2026-11-03T01:47:36.607Z"
   },
-  "scanned_at": "2026-10-28T10:37:52.616Z",
+  "scanned_at": "2026-11-03T04:24:12.776Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=translate.kagi.com&hideResults=on",
-    "tested_at": "2026-10-20T09:38:07.755Z"
+    "tested_at": "2026-11-03T04:24:12.776Z"
   },
   "trackers": {
     "url": "https://translate.kagi.com",
     "found": [],
-    "tested_at": "2026-10-01T06:38:48.938Z"
+    "tested_at": "2026-11-03T01:40:21.946Z"
   }
 }

@@ -3,9 +3,9 @@
     "repo": "slimphp/Slim",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-02T12:30:19.919Z"
+    "checked_at": "2026-11-03T01:39:37.589Z"
   },
-  "scanned_at": "2026-11-02T12:30:19.919Z",
+  "scanned_at": "2026-11-03T01:40:39.265Z",
   "trackers": {
     "url": "https://www.slimframework.com",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:14.870Z"
+    "tested_at": "2026-11-03T01:40:39.265Z"
   }
 }

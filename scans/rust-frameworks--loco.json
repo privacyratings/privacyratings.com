@@ -3,12 +3,12 @@
     "repo": "loco-rs/loco",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:19.407Z"
+    "checked_at": "2026-11-03T01:39:38.718Z"
   },
-  "scanned_at": "2026-10-01T07:02:17.040Z",
+  "scanned_at": "2026-11-03T01:40:40.658Z",
   "trackers": {
     "url": "https://loco.rs",
     "found": [],
-    "tested_at": "2026-10-01T07:02:17.040Z"
+    "tested_at": "2026-11-03T01:40:40.658Z"
   }
 }

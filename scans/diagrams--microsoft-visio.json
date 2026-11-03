@@ -9,18 +9,18 @@
   },
   "observatory": {
     "grade": "A+",
-    "score": 110,
+    "score": 115,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
-    "tested_at": "2026-10-23T09:23:30.601Z"
+    "tested_at": "2026-11-03T01:47:17.966Z"
   },
-  "scanned_at": "2026-10-26T10:23:05.050Z",
+  "scanned_at": "2026-11-03T04:01:50.036Z",
   "ssllabs": {
     "grade": "A+",
-    "endpoints": 8,
+    "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=m365.cloud.microsoft&hideResults=on",
-    "tested_at": "2026-10-26T10:23:05.050Z"
+    "tested_at": "2026-11-03T04:01:50.036Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365/visio",

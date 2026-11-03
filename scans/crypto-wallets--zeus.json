@@ -3,12 +3,12 @@
     "repo": "ZeusLN/zeus",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-27T09:51:21.155Z"
+    "checked_at": "2026-11-03T01:39:44.618Z"
   },
-  "scanned_at": "2026-10-27T09:51:21.155Z",
+  "scanned_at": "2026-11-03T01:40:48.831Z",
   "trackers": {
     "url": "https://zeusln.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:48.316Z"
+    "tested_at": "2026-11-03T01:40:48.831Z"
   }
 }

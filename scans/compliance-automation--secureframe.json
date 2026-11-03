@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.secureframe.com",
-    "tested_at": "2026-10-22T09:27:18.552Z"
+    "tested_at": "2026-11-03T01:40:24.649Z"
   },
-  "scanned_at": "2026-10-26T10:18:09.121Z",
+  "scanned_at": "2026-11-03T02:55:02.957Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
@@ -38,6 +38,6 @@
         "host": "js.hs-scripts.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:41.708Z"
+    "tested_at": "2026-11-03T01:39:33.924Z"
   }
 }

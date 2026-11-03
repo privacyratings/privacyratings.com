@@ -13,18 +13,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.assured.se",
-    "tested_at": "2026-10-22T09:27:02.709Z"
+    "tested_at": "2026-11-03T01:40:17.785Z"
   },
-  "scanned_at": "2026-10-25T09:19:13.073Z",
+  "scanned_at": "2026-11-03T02:42:26.706Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.assured.se&hideResults=on",
-    "tested_at": "2026-10-25T09:19:13.073Z"
+    "tested_at": "2026-11-03T02:42:26.706Z"
   },
   "trackers": {
     "url": "https://www.assured.se",
     "found": [],
-    "tested_at": "2026-10-01T07:01:39.959Z"
+    "tested_at": "2026-11-03T01:39:31.648Z"
   }
 }

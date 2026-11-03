@@ -3,12 +3,12 @@
     "repo": "vercel/next.js",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:58.184Z"
+    "checked_at": "2026-11-03T01:39:31.833Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.184Z",
+  "scanned_at": "2026-11-03T01:40:32.665Z",
   "trackers": {
     "url": "https://nextjs.org",
     "found": [],
-    "tested_at": "2026-10-01T07:01:46.316Z"
+    "tested_at": "2026-11-03T01:40:32.665Z"
   }
 }

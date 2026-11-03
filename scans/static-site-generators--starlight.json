@@ -3,9 +3,9 @@
     "repo": "withastro/starlight",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-31T10:25:50.200Z"
+    "checked_at": "2026-11-03T01:39:34.141Z"
   },
-  "scanned_at": "2026-10-31T10:25:50.200Z",
+  "scanned_at": "2026-11-03T01:40:34.738Z",
   "trackers": {
     "url": "https://starlight.astro.build",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:07.675Z"
+    "tested_at": "2026-11-03T01:40:34.738Z"
   }
 }

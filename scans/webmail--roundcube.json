@@ -3,9 +3,9 @@
     "repo": "roundcube/roundcubemail",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-14T09:33:43.221Z"
+    "checked_at": "2026-11-03T01:38:57.190Z"
   },
-  "scanned_at": "2026-10-14T09:33:43.221Z",
+  "scanned_at": "2026-11-03T01:39:03.778Z",
   "trackers": {
     "url": "https://roundcube.net",
     "found": [
@@ -21,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:00:28.206Z"
+    "tested_at": "2026-11-03T01:39:03.778Z"
   }
 }

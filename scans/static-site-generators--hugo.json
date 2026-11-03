@@ -3,9 +3,9 @@
     "repo": "gohugoio/hugo",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-31T10:25:49.472Z"
+    "checked_at": "2026-11-03T01:39:33.470Z"
   },
-  "scanned_at": "2026-10-31T10:25:49.472Z",
+  "scanned_at": "2026-11-03T01:40:34.388Z",
   "trackers": {
     "url": "https://gohugo.io",
     "found": [
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:07.213Z"
+    "tested_at": "2026-11-03T01:40:34.388Z"
   }
 }

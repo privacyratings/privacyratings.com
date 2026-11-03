@@ -13,14 +13,14 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hyperproof.app",
-    "tested_at": "2026-10-24T08:55:04.719Z"
+    "tested_at": "2026-11-03T01:40:24.149Z"
   },
-  "scanned_at": "2026-10-31T10:26:49.230Z",
+  "scanned_at": "2026-11-03T02:52:24.466Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hyperproof.app&hideResults=on",
-    "tested_at": "2026-10-31T10:26:49.230Z"
+    "tested_at": "2026-11-03T02:52:24.466Z"
   },
   "trackers": {
     "url": "https://hyperproof.io",

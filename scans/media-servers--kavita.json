@@ -3,9 +3,9 @@
     "repo": "Kareadita/Kavita",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-12T12:04:26.504Z"
+    "checked_at": "2026-11-03T01:39:47.732Z"
   },
-  "scanned_at": "2026-10-12T12:04:26.504Z",
+  "scanned_at": "2026-11-03T01:40:59.229Z",
   "trackers": {
     "url": "https://www.kavitareader.com",
     "found": [
@@ -20,6 +20,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:00:01.233Z"
+    "tested_at": "2026-11-03T01:40:59.229Z"
   }
 }

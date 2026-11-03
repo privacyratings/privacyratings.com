@@ -4,7 +4,7 @@
     "repo": "iv-org/invidious",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-22T09:26:54.751Z"
+    "checked_at": "2026-11-03T01:39:02.968Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=invidious.io",
-    "tested_at": "2026-10-30T10:53:31.380Z"
+    "tested_at": "2026-11-03T01:39:51.339Z"
   },
-  "scanned_at": "2026-11-01T11:21:11.038Z",
+  "scanned_at": "2026-11-03T02:24:37.669Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=invidious.io&hideResults=on",
-    "tested_at": "2026-11-01T11:21:11.037Z"
+    "tested_at": "2026-11-03T02:24:37.669Z"
   },
   "trackers": {
     "url": "https://invidious.io",
     "found": [],
-    "tested_at": "2026-10-01T07:01:17.695Z"
+    "tested_at": "2026-11-03T01:39:17.298Z"
   }
 }

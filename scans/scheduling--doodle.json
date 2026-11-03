@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=doodle.com",
-    "tested_at": "2026-10-23T09:23:34.008Z"
+    "tested_at": "2026-11-03T01:47:20.289Z"
   },
-  "scanned_at": "2026-10-26T10:24:15.596Z",
+  "scanned_at": "2026-11-03T04:08:33.862Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
@@ -35,6 +35,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:59.856Z"
+    "tested_at": "2026-11-03T01:40:14.428Z"
   }
 }

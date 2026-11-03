@@ -3,9 +3,9 @@
     "repo": "alpinejs/alpine",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:31.375Z"
+    "checked_at": "2026-11-03T01:39:30.942Z"
   },
-  "scanned_at": "2026-10-30T10:53:31.375Z",
+  "scanned_at": "2026-11-03T01:40:31.464Z",
   "trackers": {
     "url": "https://alpinejs.dev",
     "found": [
@@ -27,6 +27,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:04.912Z"
+    "tested_at": "2026-11-03T01:40:31.464Z"
   }
 }

@@ -3,9 +3,9 @@
     "repo": "owncloud/ocis",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-07T11:07:09.405Z"
+    "checked_at": "2026-11-03T01:39:23.704Z"
   },
-  "scanned_at": "2026-10-07T11:07:09.405Z",
+  "scanned_at": "2026-11-03T01:40:17.172Z",
   "trackers": {
     "url": "https://owncloud.com/infinite-scale/",
     "found": [
@@ -15,14 +15,10 @@
         "soft": true
       },
       {
-        "name": "Google Analytics",
-        "host": "www.google-analytics.com"
-      },
-      {
         "name": "Google Tag Manager",
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:44.364Z"
+    "tested_at": "2026-11-03T01:40:17.172Z"
   }
 }

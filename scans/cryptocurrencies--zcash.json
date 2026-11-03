@@ -3,12 +3,25 @@
     "repo": "ZcashFoundation/zebra",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-20T09:28:24.148Z"
+    "checked_at": "2026-11-03T01:39:43.473Z"
   },
-  "scanned_at": "2026-10-20T09:28:24.148Z",
+  "scanned_at": "2026-11-03T01:40:46.859Z",
   "trackers": {
     "url": "https://z.cash",
-    "found": [],
-    "tested_at": "2026-10-01T07:01:09.932Z"
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Hotjar",
+        "host": "www.hotjar.com"
+      }
+    ],
+    "tested_at": "2026-11-03T01:40:46.859Z"
   }
 }

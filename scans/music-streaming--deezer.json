@@ -13,14 +13,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.deezer.com",
-    "tested_at": "2026-10-24T08:55:28.329Z"
+    "tested_at": "2026-11-03T01:48:10.809Z"
   },
-  "scanned_at": "2026-10-26T10:26:16.098Z",
+  "scanned_at": "2026-11-03T04:48:49.503Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.deezer.com&hideResults=on",
-    "tested_at": "2026-10-26T10:26:16.098Z"
+    "tested_at": "2026-11-03T04:48:49.503Z"
   },
   "trackers": {
     "url": "https://www.deezer.com/en/",
@@ -30,6 +30,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:02.290Z"
+    "tested_at": "2026-11-03T01:40:54.959Z"
   }
 }

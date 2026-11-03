@@ -3,12 +3,12 @@
     "repo": "brave/brave-core",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-08T11:24:51.924Z"
+    "checked_at": "2026-11-03T01:39:26.827Z"
   },
-  "scanned_at": "2026-10-08T11:24:51.924Z",
+  "scanned_at": "2026-11-03T01:40:22.405Z",
   "trackers": {
     "url": "https://brave.com/leo/",
     "found": [],
-    "tested_at": "2026-10-01T06:38:49.421Z"
+    "tested_at": "2026-11-03T01:40:22.405Z"
   }
 }

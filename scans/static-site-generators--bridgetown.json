@@ -3,12 +3,12 @@
     "repo": "bridgetownrb/bridgetown",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:32.781Z"
+    "checked_at": "2026-11-03T01:39:33.267Z"
   },
-  "scanned_at": "2026-10-30T10:53:32.781Z",
+  "scanned_at": "2026-11-03T01:40:34.298Z",
   "trackers": {
     "url": "https://www.bridgetownrb.com",
     "found": [],
-    "tested_at": "2026-10-01T07:02:06.579Z"
+    "tested_at": "2026-11-03T01:40:34.298Z"
   }
 }

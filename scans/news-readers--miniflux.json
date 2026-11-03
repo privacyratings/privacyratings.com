@@ -3,12 +3,12 @@
     "repo": "miniflux/v2",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-12T12:04:25.494Z"
+    "checked_at": "2026-11-03T01:39:46.588Z"
   },
-  "scanned_at": "2026-10-12T12:04:25.494Z",
+  "scanned_at": "2026-11-03T01:40:57.015Z",
   "trackers": {
     "url": "https://miniflux.app",
     "found": [],
-    "tested_at": "2026-10-01T06:59:58.630Z"
+    "tested_at": "2026-11-03T01:40:57.015Z"
   }
 }

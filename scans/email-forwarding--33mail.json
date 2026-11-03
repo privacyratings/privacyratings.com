@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:56.701Z",
+    "tested_at": "2026-11-03T01:40:03.688Z",
     "imap": {
       "offered": false
     },
@@ -57,14 +57,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.33mail.com",
-    "tested_at": "2026-11-01T11:18:52.544Z"
+    "tested_at": "2026-11-03T01:39:12.732Z"
   },
-  "scanned_at": "2026-11-02T12:30:56.701Z",
+  "scanned_at": "2026-11-03T01:55:34.975Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.33mail.com&hideResults=on",
-    "tested_at": "2026-10-23T09:28:16.031Z"
+    "tested_at": "2026-11-03T01:55:34.975Z"
   },
   "trackers": {
     "url": "https://www.33mail.com",
@@ -87,6 +87,6 @@
         "host": "www.facebook.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:31.540Z"
+    "tested_at": "2026-11-03T01:39:00.843Z"
   }
 }

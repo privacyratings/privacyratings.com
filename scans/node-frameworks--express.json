@@ -3,9 +3,9 @@
     "repo": "expressjs/express",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-25T09:11:35.928Z"
+    "checked_at": "2026-11-03T01:39:30.099Z"
   },
-  "scanned_at": "2026-10-25T09:11:35.928Z",
+  "scanned_at": "2026-11-03T01:40:29.771Z",
   "trackers": {
     "url": "https://expressjs.com",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:44.964Z"
+    "tested_at": "2026-11-03T01:40:29.771Z"
   }
 }

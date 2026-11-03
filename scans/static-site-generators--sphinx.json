@@ -3,12 +3,12 @@
     "repo": "sphinx-doc/sphinx",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-31T10:25:50.161Z"
+    "checked_at": "2026-11-03T01:39:34.157Z"
   },
-  "scanned_at": "2026-10-31T10:25:50.161Z",
+  "scanned_at": "2026-11-03T01:40:34.919Z",
   "trackers": {
     "url": "https://www.sphinx-doc.org/en/master/",
     "found": [],
-    "tested_at": "2026-10-01T07:02:07.953Z"
+    "tested_at": "2026-11-03T01:40:34.919Z"
   }
 }

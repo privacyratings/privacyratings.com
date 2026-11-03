@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T07:00:50.288Z",
+  "scanned_at": "2026-11-03T01:39:54.829Z",
   "trackers": {
     "url": "https://betterstack.com",
     "found": [
@@ -32,12 +32,6 @@
         "host": "bat.bing.com"
       },
       {
-        "name": "Plausible",
-        "host": "plausible.io",
-        "soft": true,
-        "analytics": true
-      },
-      {
         "name": "Reddit Pixel",
         "host": "www.redditstatic.com"
       },
@@ -46,6 +40,6 @@
         "host": "static.ads-twitter.com"
       }
     ],
-    "tested_at": "2026-10-01T07:00:50.288Z"
+    "tested_at": "2026-11-03T01:39:54.829Z"
   }
 }

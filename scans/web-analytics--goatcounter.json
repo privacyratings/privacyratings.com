@@ -4,7 +4,7 @@
     "repo": "arp242/goatcounter",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-10T10:38:57.160Z"
+    "checked_at": "2026-11-03T01:39:41.494Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.goatcounter.com",
-    "tested_at": "2026-10-29T10:56:09.449Z"
+    "tested_at": "2026-11-03T01:47:58.618Z"
   },
-  "scanned_at": "2026-11-02T12:50:06.464Z",
+  "scanned_at": "2026-11-03T04:39:12.111Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.goatcounter.com&hideResults=on",
-    "tested_at": "2026-11-02T12:50:06.464Z"
+    "tested_at": "2026-11-03T04:39:12.111Z"
   },
   "trackers": {
     "url": "https://www.goatcounter.com",
     "found": [],
-    "tested_at": "2026-10-01T06:59:45.908Z"
+    "tested_at": "2026-11-03T01:40:41.801Z"
   }
 }

@@ -3,9 +3,9 @@
     "repo": "spesmilo/electrum",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-20T09:28:24.470Z"
+    "checked_at": "2026-11-03T01:39:43.956Z"
   },
-  "scanned_at": "2026-10-20T09:28:24.470Z",
+  "scanned_at": "2026-11-03T01:40:47.949Z",
   "trackers": {
     "url": "https://electrum.org",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:10.430Z"
+    "tested_at": "2026-11-03T01:40:47.949Z"
   }
 }

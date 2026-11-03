@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=grc.strikegraph.com",
-    "tested_at": "2026-10-24T08:55:11.101Z"
+    "tested_at": "2026-11-03T01:40:25.419Z"
   },
-  "scanned_at": "2026-10-29T10:57:29.791Z",
+  "scanned_at": "2026-11-03T02:55:47.312Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=grc.strikegraph.com&hideResults=on",
-    "tested_at": "2026-10-29T10:57:29.791Z"
+    "tested_at": "2026-11-03T02:55:47.312Z"
   },
   "trackers": {
     "url": "https://www.strikegraph.com",

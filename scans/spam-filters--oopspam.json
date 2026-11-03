@@ -13,14 +13,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.oopspam.com",
-    "tested_at": "2026-10-22T09:26:55.837Z"
+    "tested_at": "2026-11-03T01:39:24.985Z"
   },
-  "scanned_at": "2026-10-25T09:18:02.867Z",
+  "scanned_at": "2026-11-03T02:07:54.054Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.oopspam.com&hideResults=on",
-    "tested_at": "2026-10-25T09:18:02.867Z"
+    "tested_at": "2026-11-03T02:07:54.054Z"
   },
   "trackers": {
     "url": "https://www.oopspam.com",
@@ -32,6 +32,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:36.549Z"
+    "tested_at": "2026-11-03T01:39:05.392Z"
   }
 }

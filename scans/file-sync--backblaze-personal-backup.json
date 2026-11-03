@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T06:38:43.192Z",
+  "scanned_at": "2026-11-03T01:40:16.189Z",
   "trackers": {
     "url": "https://www.backblaze.com/cloud-backup/personal",
     "found": [
@@ -26,6 +26,7 @@
         "host": "dev.visualwebsiteoptimizer.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:43.191Z"
+    "tested_at": "2026-10-01T06:38:43.191Z",
+    "last_error": "HTTP 403"
   }
 }

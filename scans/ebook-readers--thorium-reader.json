@@ -3,9 +3,9 @@
     "repo": "edrlab/thorium-reader",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-10-08T11:24:51.532Z"
+    "checked_at": "2026-11-03T01:39:26.170Z"
   },
-  "scanned_at": "2026-10-08T11:24:51.532Z",
+  "scanned_at": "2026-11-03T01:40:22.291Z",
   "trackers": {
     "url": "https://www.edrlab.org/software/thorium-reader/",
     "found": [
@@ -25,6 +25,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:49.291Z"
+    "tested_at": "2026-11-03T01:40:22.291Z"
   }
 }

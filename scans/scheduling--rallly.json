@@ -4,7 +4,7 @@
     "repo": "lukevella/rallly",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-23T09:23:12.427Z"
+    "checked_at": "2026-11-03T01:39:22.618Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rallly.co",
-    "tested_at": "2026-11-02T12:30:35.815Z"
+    "tested_at": "2026-11-03T01:47:21.329Z"
   },
-  "scanned_at": "2026-11-02T12:30:36.278Z",
+  "scanned_at": "2026-11-03T04:07:23.985Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=rallly.co&hideResults=on",
-    "tested_at": "2026-10-22T09:39:17.622Z"
+    "tested_at": "2026-11-03T04:07:23.985Z"
   },
   "trackers": {
     "url": "https://rallly.co",
     "found": [],
-    "tested_at": "2026-10-01T07:01:27.167Z"
+    "tested_at": "2026-11-03T01:40:14.417Z"
   }
 }

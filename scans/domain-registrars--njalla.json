@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=njal.la",
-    "tested_at": "2026-10-28T10:37:33.892Z"
+    "tested_at": "2026-11-03T01:41:05.818Z"
   },
-  "scanned_at": "2026-10-31T10:37:54.259Z",
+  "scanned_at": "2026-11-03T03:48:04.387Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
@@ -25,6 +25,6 @@
   "trackers": {
     "url": "https://njal.la/domains/",
     "found": [],
-    "tested_at": "2026-10-01T06:38:28.291Z"
+    "tested_at": "2026-11-03T01:39:51.888Z"
   }
 }

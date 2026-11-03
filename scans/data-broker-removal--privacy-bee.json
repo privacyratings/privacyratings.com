@@ -13,18 +13,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privacybee.com",
-    "tested_at": "2026-10-26T10:11:58.582Z"
+    "tested_at": "2026-11-03T01:40:27.377Z"
   },
-  "scanned_at": "2026-10-29T11:07:20.638Z",
+  "scanned_at": "2026-11-03T03:09:48.657Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=privacybee.com&hideResults=on",
-    "tested_at": "2026-10-29T11:07:20.638Z"
+    "tested_at": "2026-11-03T03:09:48.657Z"
   },
   "trackers": {
     "url": "https://privacybee.com",
     "found": [],
-    "tested_at": "2026-10-01T06:38:20.151Z"
+    "tested_at": "2026-11-03T01:39:34.738Z"
   }
 }

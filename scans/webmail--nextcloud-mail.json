@@ -3,12 +3,12 @@
     "repo": "nextcloud/mail",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-24T08:55:00.682Z"
+    "checked_at": "2026-11-03T01:38:57.144Z"
   },
-  "scanned_at": "2026-10-24T08:55:00.682Z",
+  "scanned_at": "2026-11-03T01:39:05.358Z",
   "trackers": {
     "url": "https://apps.nextcloud.com/apps/mail",
     "found": [],
-    "tested_at": "2026-10-01T07:01:43.772Z"
+    "tested_at": "2026-11-03T01:39:05.358Z"
   }
 }

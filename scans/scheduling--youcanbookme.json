@@ -13,14 +13,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.youcanbook.me",
-    "tested_at": "2026-10-24T08:55:23.078Z"
+    "tested_at": "2026-11-03T01:47:22.721Z"
   },
-  "scanned_at": "2026-10-31T11:01:41.183Z",
+  "scanned_at": "2026-11-03T04:08:09.401Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.youcanbook.me&hideResults=on",
-    "tested_at": "2026-10-31T11:01:41.183Z"
+    "tested_at": "2026-11-03T04:08:09.401Z"
   },
   "trackers": {
     "url": "https://youcanbook.me",

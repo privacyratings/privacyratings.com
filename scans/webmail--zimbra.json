@@ -3,9 +3,9 @@
     "repo": "Zimbra/zm-web-client",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-24T08:55:00.892Z"
+    "checked_at": "2026-11-03T01:38:57.378Z"
   },
-  "scanned_at": "2026-10-24T08:55:00.892Z",
+  "scanned_at": "2026-11-03T01:39:04.115Z",
   "trackers": {
     "url": "https://www.zimbra.com",
     "found": [
@@ -32,6 +32,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:35.112Z"
+    "tested_at": "2026-11-03T01:39:04.115Z"
   }
 }

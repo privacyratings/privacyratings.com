@@ -3,12 +3,12 @@
     "repo": "iced-rs/iced",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-31T10:25:50.979Z"
+    "checked_at": "2026-11-03T01:39:34.936Z"
   },
-  "scanned_at": "2026-10-31T10:25:50.979Z",
+  "scanned_at": "2026-11-03T01:40:35.985Z",
   "trackers": {
     "url": "https://iced.rs",
     "found": [],
-    "tested_at": "2026-10-01T07:02:10.454Z"
+    "tested_at": "2026-11-03T01:40:35.985Z"
   }
 }

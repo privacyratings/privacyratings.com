@@ -4,7 +4,7 @@
     "repo": "pentacent/keila",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-03T09:53:54.164Z"
+    "checked_at": "2026-11-03T01:39:09.588Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.keila.io",
-    "tested_at": "2026-10-26T10:12:00.577Z"
+    "tested_at": "2026-11-03T01:40:31.541Z"
   },
-  "scanned_at": "2026-10-29T11:03:15.128Z",
+  "scanned_at": "2026-11-03T03:10:05.046Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.keila.io&hideResults=on",
-    "tested_at": "2026-10-29T11:03:15.128Z"
+    "tested_at": "2026-11-03T03:10:05.046Z"
   },
   "trackers": {
     "url": "https://www.keila.io",
     "found": [],
-    "tested_at": "2026-10-01T06:38:24.570Z"
+    "tested_at": "2026-11-03T01:39:43.348Z"
   }
 }

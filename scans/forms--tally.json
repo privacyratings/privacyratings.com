@@ -13,18 +13,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tally.so",
-    "tested_at": "2026-10-28T10:37:51.087Z"
+    "tested_at": "2026-11-03T01:47:34.895Z"
   },
-  "scanned_at": "2026-11-02T12:36:24.388Z",
+  "scanned_at": "2026-11-03T04:19:47.907Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tally.so&hideResults=on",
-    "tested_at": "2026-11-02T12:36:24.388Z"
+    "tested_at": "2026-11-03T04:19:47.907Z"
   },
   "trackers": {
     "url": "https://tally.so",
     "found": [],
-    "tested_at": "2026-10-01T06:38:47.973Z"
+    "tested_at": "2026-11-03T01:40:21.207Z"
   }
 }

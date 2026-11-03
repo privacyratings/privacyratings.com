@@ -13,14 +13,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.drata.com",
-    "tested_at": "2026-10-22T09:27:17.552Z"
+    "tested_at": "2026-11-03T01:40:23.660Z"
   },
-  "scanned_at": "2026-11-02T12:30:18.910Z",
+  "scanned_at": "2026-11-03T02:57:20.738Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.drata.com&hideResults=on",
-    "tested_at": "2026-10-26T10:19:20.094Z"
+    "tested_at": "2026-11-03T02:57:20.738Z"
   },
   "trackers": {
     "url": "https://drata.com",

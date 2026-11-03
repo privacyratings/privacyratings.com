@@ -3,9 +3,9 @@
     "repo": "LibreSprite/LibreSprite",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-13T11:51:46.091Z"
+    "checked_at": "2026-11-03T01:39:50.139Z"
   },
-  "scanned_at": "2026-10-13T11:51:46.091Z",
+  "scanned_at": "2026-11-03T01:41:04.230Z",
   "trackers": {
     "url": "https://libresprite.github.io",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:00:22.257Z"
+    "tested_at": "2026-11-03T01:41:04.230Z"
   }
 }

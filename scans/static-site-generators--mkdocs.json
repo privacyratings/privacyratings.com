@@ -3,9 +3,9 @@
     "repo": "mkdocs/mkdocs",
     "license": "BSD-2-Clause",
     "archived": false,
-    "checked_at": "2026-10-31T10:25:49.765Z"
+    "checked_at": "2026-11-03T01:39:33.930Z"
   },
-  "scanned_at": "2026-10-31T10:25:49.765Z",
+  "scanned_at": "2026-11-03T01:40:34.555Z",
   "trackers": {
     "url": "https://www.mkdocs.org",
     "found": [
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:07.436Z"
+    "tested_at": "2026-11-03T01:40:34.555Z"
   }
 }

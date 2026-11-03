@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.northflank.com",
-    "tested_at": "2026-10-23T09:23:28.550Z"
+    "tested_at": "2026-11-03T01:47:13.991Z"
   },
-  "scanned_at": "2026-10-27T10:02:14.450Z",
+  "scanned_at": "2026-11-03T04:02:31.502Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
@@ -25,6 +25,6 @@
   "trackers": {
     "url": "https://northflank.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:42.686Z"
+    "tested_at": "2026-11-03T01:39:54.785Z"
   }
 }

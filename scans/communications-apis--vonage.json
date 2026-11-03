@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=vonage.com",
-    "tested_at": "2026-10-24T08:55:21.793Z"
+    "tested_at": "2026-11-03T01:40:45.303Z"
   },
-  "scanned_at": "2026-10-27T10:01:07.846Z",
+  "scanned_at": "2026-11-03T03:25:48.231Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=vonage.com&hideResults=on",
-    "tested_at": "2026-10-27T10:01:07.846Z"
+    "tested_at": "2026-11-03T03:25:48.231Z"
   },
   "trackers": {
     "url": "https://www.vonage.com/communications-apis/",

@@ -3,12 +3,12 @@
     "repo": "waydroid/waydroid",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-25T09:11:35.732Z"
+    "checked_at": "2026-11-03T01:39:20.062Z"
   },
-  "scanned_at": "2026-10-25T09:11:35.732Z",
+  "scanned_at": "2026-11-03T01:40:10.299Z",
   "trackers": {
     "url": "https://waydro.id",
     "found": [],
-    "tested_at": "2026-10-01T07:01:44.424Z"
+    "tested_at": "2026-11-03T01:40:10.299Z"
   }
 }

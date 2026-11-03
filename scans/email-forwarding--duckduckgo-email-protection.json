@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:57.884Z",
+    "tested_at": "2026-11-03T01:40:05.437Z",
     "imap": {
       "offered": false
     },
@@ -51,18 +51,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
-    "tested_at": "2026-11-01T11:18:52.813Z"
+    "tested_at": "2026-11-03T01:39:14.032Z"
   },
-  "scanned_at": "2026-11-02T12:30:57.884Z",
+  "scanned_at": "2026-11-03T01:53:05.817Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=duckduckgo.com&hideResults=on",
-    "tested_at": "2026-10-23T09:25:16.885Z"
+    "tested_at": "2026-11-03T01:53:05.817Z"
   },
   "trackers": {
     "url": "https://duckduckgo.com/email/",
     "found": [],
-    "tested_at": "2026-10-01T07:01:32.247Z"
+    "tested_at": "2026-11-03T01:39:01.325Z"
   }
 }

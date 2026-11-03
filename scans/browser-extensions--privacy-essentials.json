@@ -3,12 +3,12 @@
     "repo": "duckduckgo/duckduckgo-privacy-extension",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-15T09:11:21.316Z"
+    "checked_at": "2026-11-03T01:39:01.240Z"
   },
-  "scanned_at": "2026-10-15T09:11:21.316Z",
+  "scanned_at": "2026-11-03T01:39:12.809Z",
   "trackers": {
     "url": "https://duckduckgo.com/duckduckgo-help-pages/desktop/adding-duckduckgo-to-your-browser",
     "found": [],
-    "tested_at": "2026-10-01T07:00:40.250Z"
+    "tested_at": "2026-11-03T01:39:12.809Z"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "davatorium/rofi",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-28T10:37:34.272Z"
+    "checked_at": "2026-11-03T01:39:17.800Z"
   },
-  "scanned_at": "2026-10-28T10:37:34.272Z",
+  "scanned_at": "2026-11-03T01:40:06.123Z",
   "trackers": {
     "url": "https://github.com/davatorium/rofi",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-10-01T07:01:49.819Z"
+    "tested_at": "2026-11-03T01:40:06.123Z"
   }
 }

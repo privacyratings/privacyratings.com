@@ -13,14 +13,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.quarkslab.com",
-    "tested_at": "2026-10-22T09:27:09.368Z"
+    "tested_at": "2026-11-03T01:40:20.074Z"
   },
-  "scanned_at": "2026-10-27T09:55:32.078Z",
+  "scanned_at": "2026-11-03T02:49:08.270Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.quarkslab.com&hideResults=on",
-    "tested_at": "2026-10-27T09:55:32.078Z"
+    "tested_at": "2026-11-03T02:49:08.270Z"
   },
   "trackers": {
     "url": "https://www.quarkslab.com",
@@ -39,6 +39,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:40.399Z"
+    "tested_at": "2026-11-03T01:39:32.679Z"
   }
 }

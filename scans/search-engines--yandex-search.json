@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=yandex.com",
-    "tested_at": "2026-10-25T09:11:02.551Z"
+    "tested_at": "2026-11-03T01:39:49.293Z"
   },
-  "scanned_at": "2026-10-28T10:39:45.469Z",
+  "scanned_at": "2026-11-03T02:22:17.478Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=yandex.com&hideResults=on",
-    "tested_at": "2026-10-28T10:39:45.469Z"
+    "tested_at": "2026-11-03T02:22:17.478Z"
   },
   "trackers": {
     "url": "https://yandex.com",
@@ -34,6 +34,6 @@
         "host": "mc.yandex.ru"
       }
     ],
-    "tested_at": "2026-10-01T06:38:16.790Z"
+    "tested_at": "2026-11-03T01:39:15.476Z"
   }
 }

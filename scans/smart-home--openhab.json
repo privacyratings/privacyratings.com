@@ -3,12 +3,12 @@
     "repo": "openhab/openhab-core",
     "license": "EPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-10T10:38:57.999Z"
+    "checked_at": "2026-11-03T01:39:42.391Z"
   },
-  "scanned_at": "2026-10-10T10:38:57.999Z",
+  "scanned_at": "2026-11-03T01:40:42.790Z",
   "trackers": {
     "url": "https://www.openhab.org",
     "found": [],
-    "tested_at": "2026-10-01T06:59:47.661Z"
+    "tested_at": "2026-11-03T01:40:42.789Z"
   }
 }

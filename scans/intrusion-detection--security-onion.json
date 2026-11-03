@@ -3,9 +3,9 @@
     "repo": "Security-Onion-Solutions/securityonion",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-05T11:33:32.273Z"
+    "checked_at": "2026-11-03T01:39:15.635Z"
   },
-  "scanned_at": "2026-10-05T11:33:32.273Z",
+  "scanned_at": "2026-11-03T01:40:02.222Z",
   "trackers": {
     "url": "https://securityonionsolutions.com",
     "found": [
@@ -14,6 +14,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-10-01T06:38:32.008Z"
+    "tested_at": "2026-11-03T01:40:02.222Z"
   }
 }

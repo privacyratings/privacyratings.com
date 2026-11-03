@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.inwx.com",
-    "tested_at": "2026-11-01T11:18:56.848Z"
+    "tested_at": "2026-11-03T01:41:03.449Z"
   },
-  "scanned_at": "2026-11-01T11:18:59.600Z",
+  "scanned_at": "2026-11-03T03:45:04.351Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
@@ -25,6 +25,6 @@
   "trackers": {
     "url": "https://www.inwx.com/en",
     "found": [],
-    "tested_at": "2026-10-01T07:01:25.378Z"
+    "tested_at": "2026-11-03T01:39:51.487Z"
   }
 }

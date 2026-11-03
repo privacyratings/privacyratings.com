@@ -3,9 +3,9 @@
     "repo": "qbittorrent/qBittorrent",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-21T09:24:07.734Z"
+    "checked_at": "2026-11-03T01:39:48.655Z"
   },
-  "scanned_at": "2026-11-02T12:30:20.414Z",
+  "scanned_at": "2026-11-03T01:41:00.748Z",
   "trackers": {
     "url": "https://www.qbittorrent.org",
     "found": [

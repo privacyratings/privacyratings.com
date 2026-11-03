@@ -3,9 +3,9 @@
     "repo": "Yubico/yubioath-flutter",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-02T10:32:55.599Z"
+    "checked_at": "2026-11-03T01:39:05.014Z"
   },
-  "scanned_at": "2026-10-02T10:32:55.599Z",
+  "scanned_at": "2026-11-03T01:39:19.874Z",
   "trackers": {
     "url": "https://www.yubico.com/products/yubico-authenticator/",
     "found": [
@@ -14,6 +14,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-10-01T06:38:18.999Z"
+    "tested_at": "2026-11-03T01:39:19.873Z"
   }
 }

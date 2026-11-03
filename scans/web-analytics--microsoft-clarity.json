@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=clarity.microsoft.com",
-    "tested_at": "2026-10-29T10:56:10.008Z"
+    "tested_at": "2026-11-03T01:47:59.584Z"
   },
-  "scanned_at": "2026-10-29T10:56:10.240Z",
+  "scanned_at": "2026-11-03T04:38:03.959Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
@@ -24,7 +24,16 @@
   },
   "trackers": {
     "url": "https://clarity.microsoft.com",
-    "found": [],
-    "tested_at": "2026-10-01T06:59:45.743Z"
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Microsoft Clarity",
+        "host": "www.clarity.ms"
+      }
+    ],
+    "tested_at": "2026-11-03T01:40:41.690Z"
   }
 }

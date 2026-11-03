@@ -3,12 +3,12 @@
     "repo": "claustromaniac/poop",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-15T09:11:21.371Z"
+    "checked_at": "2026-11-03T01:39:01.376Z"
   },
-  "scanned_at": "2026-10-15T09:11:21.371Z",
+  "scanned_at": "2026-11-03T01:39:13.167Z",
   "trackers": {
     "url": "https://claustromaniac.github.io/poop/",
     "found": [],
-    "tested_at": "2026-10-01T07:00:40.077Z"
+    "tested_at": "2026-11-03T01:39:13.167Z"
   }
 }

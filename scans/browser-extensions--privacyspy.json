@@ -3,12 +3,12 @@
     "repo": "Politiwatch/privacyspy",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-15T09:11:21.428Z"
+    "checked_at": "2026-11-03T01:39:01.391Z"
   },
-  "scanned_at": "2026-10-15T09:11:21.428Z",
+  "scanned_at": "2026-11-03T01:39:13.236Z",
   "trackers": {
     "url": "https://privacyspy.org",
     "found": [],
-    "tested_at": "2026-10-01T07:00:40.489Z"
+    "tested_at": "2026-11-03T01:39:13.236Z"
   }
 }

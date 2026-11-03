@@ -1,7 +1,7 @@
 {
-  "scanned_at": "2026-10-01T07:00:35.238Z",
+  "scanned_at": "2026-11-03T01:41:02.511Z",
   "trackers": {
-    "error": "The operation was aborted",
-    "tested_at": "2026-10-01T07:00:35.238Z"
+    "error": "HTTP 403",
+    "tested_at": "2026-11-03T01:41:02.511Z"
   }
 }

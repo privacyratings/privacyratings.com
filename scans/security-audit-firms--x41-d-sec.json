@@ -13,18 +13,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=x41-dsec.de",
-    "tested_at": "2026-10-22T09:27:14.588Z"
+    "tested_at": "2026-11-03T01:40:23.089Z"
   },
-  "scanned_at": "2026-10-25T09:22:34.684Z",
+  "scanned_at": "2026-11-03T02:51:20.788Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=x41-dsec.de&hideResults=on",
-    "tested_at": "2026-10-25T09:22:34.683Z"
+    "tested_at": "2026-11-03T02:51:20.788Z"
   },
   "trackers": {
     "url": "https://x41-dsec.de",
     "found": [],
-    "tested_at": "2026-10-01T07:01:41.209Z"
+    "tested_at": "2026-11-03T01:39:33.275Z"
   }
 }

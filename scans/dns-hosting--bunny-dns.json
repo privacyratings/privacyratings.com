@@ -13,14 +13,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.bunny.net",
-    "tested_at": "2026-10-27T09:51:43.880Z"
+    "tested_at": "2026-11-03T01:40:59.548Z"
   },
-  "scanned_at": "2026-10-31T10:39:28.710Z",
+  "scanned_at": "2026-11-03T03:42:43.911Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dash.bunny.net&hideResults=on",
-    "tested_at": "2026-10-31T10:39:28.710Z"
+    "tested_at": "2026-11-03T03:42:43.911Z"
   },
   "trackers": {
     "url": "https://bunny.net/dns/",
@@ -29,6 +29,14 @@
         "name": "Cookiebot",
         "host": "consent.cookiebot.com",
         "soft": true
+      },
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
       },
       {
         "name": "PostHog",
@@ -40,6 +48,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:26.990Z"
+    "tested_at": "2026-11-03T01:39:50.335Z"
   }
 }

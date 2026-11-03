@@ -3,12 +3,12 @@
     "repo": "BusKill/buskill-app",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-24T08:55:01.700Z"
+    "checked_at": "2026-11-03T01:39:07.793Z"
   },
-  "scanned_at": "2026-10-24T08:55:01.700Z",
+  "scanned_at": "2026-11-03T01:39:37.474Z",
   "trackers": {
     "url": "https://www.buskill.in",
     "found": [],
-    "tested_at": "2026-10-01T07:01:43.077Z"
+    "tested_at": "2026-11-03T01:39:37.474Z"
   }
 }

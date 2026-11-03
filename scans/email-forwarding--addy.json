@@ -4,7 +4,7 @@
     "repo": "anonaddy/anonaddy",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-24T08:55:00.414Z"
+    "checked_at": "2026-11-03T01:38:56.210Z"
   },
   "internetnl": {
     "web": {
@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:57.909Z",
+    "tested_at": "2026-11-03T01:40:05.214Z",
     "imap": {
       "offered": false
     },
@@ -58,18 +58,24 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
-    "tested_at": "2026-10-29T10:55:33.856Z"
+    "tested_at": "2026-11-03T01:39:12.946Z"
   },
-  "scanned_at": "2026-11-02T12:30:57.910Z",
+  "scanned_at": "2026-11-03T01:52:20.728Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=addy.io&hideResults=on",
-    "tested_at": "2026-10-24T08:58:01.755Z"
+    "tested_at": "2026-11-03T01:52:20.728Z"
   },
   "trackers": {
     "url": "https://addy.io",
-    "found": [],
-    "tested_at": "2026-10-01T07:01:33.039Z"
+    "found": [
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-11-03T01:39:01.582Z"
   }
 }

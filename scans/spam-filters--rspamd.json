@@ -3,9 +3,9 @@
     "repo": "rspamd/rspamd",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-24T08:55:00.969Z"
+    "checked_at": "2026-11-03T01:38:57.623Z"
   },
-  "scanned_at": "2026-10-24T08:55:00.969Z",
+  "scanned_at": "2026-11-03T01:39:06.588Z",
   "trackers": {
     "url": "https://rspamd.com",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:38.087Z"
+    "tested_at": "2026-11-03T01:39:06.588Z"
   }
 }

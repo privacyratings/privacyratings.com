@@ -3,9 +3,9 @@
     "repo": "Leantime/leantime",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-06T11:19:07.846Z"
+    "checked_at": "2026-11-03T01:39:22.810Z"
   },
-  "scanned_at": "2026-10-06T11:19:07.846Z",
+  "scanned_at": "2026-11-03T01:40:14.891Z",
   "trackers": {
     "url": "https://leantime.io",
     "found": [
@@ -21,18 +21,14 @@
         "soft": true
       },
       {
-        "name": "Google Analytics",
-        "host": "www.google-analytics.com"
-      },
-      {
         "name": "Google Tag Manager",
         "host": "www.googletagmanager.com"
       },
       {
-        "name": "Microsoft Clarity",
-        "host": "www.clarity.ms"
+        "name": "PostHog",
+        "host": "eu-assets.i.posthog.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:40.675Z"
+    "tested_at": "2026-11-03T01:40:14.891Z"
   }
 }

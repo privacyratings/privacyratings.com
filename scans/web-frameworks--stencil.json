@@ -3,9 +3,9 @@
     "repo": "stenciljs/core",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-30T10:53:32.440Z"
+    "checked_at": "2026-11-03T01:39:32.411Z"
   },
-  "scanned_at": "2026-10-30T10:53:32.440Z",
+  "scanned_at": "2026-11-03T01:40:33.224Z",
   "trackers": {
     "url": "https://stenciljs.com",
     "found": [
@@ -20,6 +20,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:06.364Z"
+    "tested_at": "2026-11-03T01:40:33.224Z"
   }
 }

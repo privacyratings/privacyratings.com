@@ -3,12 +3,12 @@
     "repo": "apache/spamassassin",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-24T08:55:01.073Z"
+    "checked_at": "2026-11-03T01:38:57.637Z"
   },
-  "scanned_at": "2026-10-24T08:55:01.073Z",
+  "scanned_at": "2026-11-03T01:39:05.760Z",
   "trackers": {
     "url": "https://spamassassin.apache.org",
     "found": [],
-    "tested_at": "2026-10-01T07:01:36.783Z"
+    "tested_at": "2026-11-03T01:39:05.760Z"
   }
 }

@@ -13,18 +13,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=metager.org",
-    "tested_at": "2026-10-25T09:11:35.535Z"
+    "tested_at": "2026-11-03T01:39:40.742Z"
   },
-  "scanned_at": "2026-10-28T10:37:34.185Z",
+  "scanned_at": "2026-11-03T02:20:33.814Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=metager.org&hideResults=on",
-    "tested_at": "2026-10-28T10:37:34.185Z"
+    "tested_at": "2026-11-03T02:20:33.814Z"
   },
   "trackers": {
     "url": "https://metager.org",
     "found": [],
-    "tested_at": "2026-10-01T06:38:15.867Z"
+    "tested_at": "2026-11-03T01:39:14.099Z"
   }
 }

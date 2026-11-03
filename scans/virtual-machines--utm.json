@@ -3,17 +3,18 @@
     "repo": "utmapp/UTM",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-19T09:58:10.400Z"
+    "checked_at": "2026-11-03T01:39:19.188Z"
   },
-  "scanned_at": "2026-10-19T09:58:10.400Z",
+  "scanned_at": "2026-11-03T01:40:09.238Z",
   "trackers": {
-    "url": "https://mac.getutm.app",
+    "url": "https://getutm.app/",
     "found": [
       {
-        "name": "Google Analytics",
-        "host": "www.google-analytics.com"
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:03.905Z"
+    "tested_at": "2026-11-03T01:40:09.238Z"
   }
 }

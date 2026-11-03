@@ -3,12 +3,12 @@
     "repo": "remix-run/react-router",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:58.426Z"
+    "checked_at": "2026-11-03T01:39:32.032Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.426Z",
+  "scanned_at": "2026-11-03T01:40:32.955Z",
   "trackers": {
     "url": "https://reactrouter.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:46.435Z"
+    "tested_at": "2026-11-03T01:40:32.955Z"
   }
 }

@@ -3,17 +3,22 @@
     "repo": "ImageMagick/ImageMagick",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-13T11:51:45.765Z"
+    "checked_at": "2026-11-03T01:39:49.330Z"
   },
-  "scanned_at": "2026-10-13T11:51:45.765Z",
+  "scanned_at": "2026-11-03T01:41:02.115Z",
   "trackers": {
     "url": "https://imagemagick.org",
     "found": [
       {
         "name": "Google AdSense",
         "host": "pagead2.googlesyndication.com"
+      },
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:00:05.006Z"
+    "tested_at": "2026-11-03T01:41:02.115Z"
   }
 }

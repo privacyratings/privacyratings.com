@@ -3,9 +3,9 @@
     "repo": "kovidgoyal/calibre",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-08T11:24:51.261Z"
+    "checked_at": "2026-11-03T01:39:25.944Z"
   },
-  "scanned_at": "2026-10-08T11:24:51.261Z",
+  "scanned_at": "2026-11-03T01:40:21.242Z",
   "trackers": {
     "url": "https://calibre-ebook.com",
     "found": [
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:48.026Z"
+    "tested_at": "2026-11-03T01:40:21.242Z"
   }
 }

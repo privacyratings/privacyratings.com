@@ -3,12 +3,12 @@
     "repo": "GrapheneOS/Vanadium",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-28T10:37:33.904Z"
+    "checked_at": "2026-11-03T01:38:59.951Z"
   },
-  "scanned_at": "2026-10-28T10:37:33.904Z",
+  "scanned_at": "2026-11-03T01:39:09.633Z",
   "trackers": {
     "url": "https://grapheneos.org/features#vanadium",
     "found": [],
-    "tested_at": "2026-10-01T07:01:52.723Z"
+    "tested_at": "2026-11-03T01:39:09.633Z"
   }
 }

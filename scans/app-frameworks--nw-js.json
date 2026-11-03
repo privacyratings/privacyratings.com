@@ -3,9 +3,9 @@
     "repo": "nwjs/nw.js",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-01T11:18:49.487Z"
+    "checked_at": "2026-11-03T01:39:35.499Z"
   },
-  "scanned_at": "2026-11-01T11:18:49.487Z",
+  "scanned_at": "2026-11-03T01:40:36.317Z",
   "trackers": {
     "url": "https://nwjs.io",
     "found": [
@@ -21,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:10.753Z"
+    "tested_at": "2026-11-03T01:40:36.317Z"
   }
 }

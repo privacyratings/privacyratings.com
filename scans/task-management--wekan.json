@@ -3,12 +3,12 @@
     "repo": "wekan/wekan",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-07T11:07:09.257Z"
+    "checked_at": "2026-11-03T01:39:23.477Z"
   },
-  "scanned_at": "2026-10-07T11:07:09.257Z",
+  "scanned_at": "2026-11-03T01:40:16.121Z",
   "trackers": {
     "url": "https://wekan.fi",
     "found": [],
-    "tested_at": "2026-10-01T06:38:43.030Z"
+    "tested_at": "2026-11-03T01:40:16.121Z"
   }
 }

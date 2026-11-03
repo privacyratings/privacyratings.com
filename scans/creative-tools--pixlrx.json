@@ -1,14 +1,22 @@
 {
-  "scanned_at": "2026-10-01T07:01:16.508Z",
+  "scanned_at": "2026-11-03T01:41:05.212Z",
   "trackers": {
     "url": "https://pixlr.com/express/",
     "found": [
       {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
         "name": "Google Fonts",
         "host": "fonts.googleapis.com",
         "soft": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:16.508Z"
+    "tested_at": "2026-11-03T01:41:05.212Z"
   }
 }

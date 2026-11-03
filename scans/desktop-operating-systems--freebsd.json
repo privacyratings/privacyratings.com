@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T06:38:34.283Z",
+  "scanned_at": "2026-11-03T01:40:04.189Z",
   "trackers": {
     "url": "https://www.freebsd.org",
     "found": [
@@ -10,6 +10,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:34.283Z"
+    "tested_at": "2026-11-03T01:40:04.189Z"
   }
 }

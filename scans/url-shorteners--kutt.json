@@ -4,7 +4,7 @@
     "repo": "thedevs-network/kutt",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-10T10:38:57.632Z"
+    "checked_at": "2026-11-03T01:39:41.977Z"
   },
   "internetnl": {
     "web": {
@@ -19,14 +19,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kutt.to",
-    "tested_at": "2026-10-30T10:53:58.670Z"
+    "tested_at": "2026-11-03T01:48:03.932Z"
   },
-  "scanned_at": "2026-10-30T10:54:04.860Z",
+  "scanned_at": "2026-11-03T04:44:54.711Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kutt.to&hideResults=on",
-    "tested_at": "2026-10-20T09:44:40.834Z"
+    "tested_at": "2026-11-03T04:44:54.711Z"
   },
   "trackers": {
     "url": "https://kutt.to",
@@ -38,6 +38,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:59:46.482Z"
+    "tested_at": "2026-11-03T01:40:42.618Z"
   }
 }

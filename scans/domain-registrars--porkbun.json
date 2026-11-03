@@ -13,14 +13,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=porkbun.com",
-    "tested_at": "2026-11-01T11:18:59.735Z"
+    "tested_at": "2026-11-03T01:41:06.369Z"
   },
-  "scanned_at": "2026-11-01T11:19:00.087Z",
+  "scanned_at": "2026-11-03T03:45:57.989Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=porkbun.com&hideResults=on",
-    "tested_at": "2026-10-22T09:36:08.469Z"
+    "tested_at": "2026-11-03T03:45:57.989Z"
   },
   "trackers": {
     "url": "https://porkbun.com",
@@ -56,6 +56,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:26.071Z"
+    "tested_at": "2026-11-03T01:39:52.049Z"
   }
 }

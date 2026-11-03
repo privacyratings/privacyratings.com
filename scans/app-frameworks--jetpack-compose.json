@@ -3,11 +3,11 @@
     "repo": "androidx/androidx",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-11-01T11:18:49.057Z"
+    "checked_at": "2026-11-03T01:39:35.080Z"
   },
-  "scanned_at": "2026-11-01T11:18:49.057Z",
+  "scanned_at": "2026-11-03T01:40:36.786Z",
   "trackers": {
     "error": "Too many redirects",
-    "tested_at": "2026-10-01T07:02:11.569Z"
+    "tested_at": "2026-11-03T01:40:36.786Z"
   }
 }

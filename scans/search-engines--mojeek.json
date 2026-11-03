@@ -13,18 +13,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mojeek.com",
-    "tested_at": "2026-10-29T10:55:33.738Z"
+    "tested_at": "2026-11-03T01:39:42.392Z"
   },
-  "scanned_at": "2026-10-29T10:55:35.602Z",
+  "scanned_at": "2026-11-03T02:21:13.047Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mojeek.com&hideResults=on",
-    "tested_at": "2026-10-20T09:30:43.030Z"
+    "tested_at": "2026-11-03T02:21:13.046Z"
   },
   "trackers": {
     "url": "https://www.mojeek.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:14.970Z"
+    "tested_at": "2026-11-03T01:39:14.042Z"
   }
 }

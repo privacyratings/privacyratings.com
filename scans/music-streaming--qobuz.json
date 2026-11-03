@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=play.qobuz.com",
-    "tested_at": "2026-10-24T08:55:30.828Z"
+    "tested_at": "2026-11-03T01:48:10.988Z"
   },
-  "scanned_at": "2026-10-29T11:12:01.261Z",
+  "scanned_at": "2026-11-03T04:50:04.680Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
@@ -30,6 +30,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-10-01T07:02:02.995Z"
+    "tested_at": "2026-11-03T01:40:55.102Z"
   }
 }

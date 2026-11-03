@@ -3,12 +3,12 @@
     "repo": "firezone/firezone",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-18T08:53:15.807Z"
+    "checked_at": "2026-11-03T01:39:14.139Z"
   },
-  "scanned_at": "2026-10-18T08:53:15.807Z",
+  "scanned_at": "2026-11-03T01:40:00.174Z",
   "trackers": {
     "url": "https://www.firezone.dev",
     "found": [],
-    "tested_at": "2026-10-01T07:00:57.432Z"
+    "tested_at": "2026-11-03T01:40:00.174Z"
   }
 }

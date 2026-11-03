@@ -3,9 +3,9 @@
     "repo": "iSoron/uhabits",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-09T11:21:54.963Z"
+    "checked_at": "2026-11-03T01:39:28.155Z"
   },
-  "scanned_at": "2026-10-09T11:21:54.963Z",
+  "scanned_at": "2026-11-03T01:40:26.632Z",
   "trackers": {
     "url": "https://loophabits.org",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:53.890Z"
+    "tested_at": "2026-11-03T01:40:26.632Z"
   }
 }

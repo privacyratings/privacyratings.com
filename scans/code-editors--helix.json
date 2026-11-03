@@ -3,9 +3,9 @@
     "repo": "helix-editor/helix",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-09T11:21:55.420Z"
+    "checked_at": "2026-11-03T01:39:28.807Z"
   },
-  "scanned_at": "2026-10-09T11:21:55.420Z",
+  "scanned_at": "2026-11-03T01:40:28.024Z",
   "trackers": {
     "url": "https://helix-editor.com",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:59:41.116Z"
+    "tested_at": "2026-11-03T01:40:28.024Z"
   }
 }

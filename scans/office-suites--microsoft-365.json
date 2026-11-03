@@ -13,18 +13,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
-    "tested_at": "2026-10-28T10:37:43.174Z"
+    "tested_at": "2026-11-03T01:47:17.966Z"
   },
-  "scanned_at": "2026-11-01T11:26:23.758Z",
+  "scanned_at": "2026-11-03T04:08:36.718Z",
   "ssllabs": {
-    "grade": "A",
+    "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=m365.cloud.microsoft&hideResults=on",
-    "tested_at": "2026-11-01T11:26:23.758Z"
+    "tested_at": "2026-11-03T04:08:36.718Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365",
     "found": [],
-    "tested_at": "2026-10-01T06:38:45.383Z"
+    "tested_at": "2026-11-03T01:40:18.562Z"
   }
 }

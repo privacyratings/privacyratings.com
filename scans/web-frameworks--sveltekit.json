@@ -3,12 +3,12 @@
     "repo": "sveltejs/kit",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:58.659Z"
+    "checked_at": "2026-11-03T01:39:32.447Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.659Z",
+  "scanned_at": "2026-11-03T01:40:33.241Z",
   "trackers": {
     "url": "https://svelte.dev",
     "found": [],
-    "tested_at": "2026-10-01T07:01:46.640Z"
+    "tested_at": "2026-11-03T01:40:33.241Z"
   }
 }

@@ -8,14 +8,14 @@
     }
   },
   "observatory": {
-    "grade": "C",
-    "score": 50,
-    "tests_passed": 8,
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=translate.google.com",
-    "tested_at": "2026-10-28T10:37:52.114Z"
+    "tested_at": "2026-11-03T01:47:36.219Z"
   },
-  "scanned_at": "2026-11-01T11:28:51.261Z",
+  "scanned_at": "2026-11-03T04:23:00.426Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,
@@ -31,6 +31,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:48.830Z"
+    "tested_at": "2026-11-03T01:40:22.069Z"
   }
 }

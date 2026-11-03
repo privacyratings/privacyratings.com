@@ -13,14 +13,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.granola.ai",
-    "tested_at": "2026-10-26T10:12:12.165Z"
+    "tested_at": "2026-11-03T01:47:37.383Z"
   },
-  "scanned_at": "2026-10-29T11:08:04.579Z",
+  "scanned_at": "2026-11-03T04:24:15.010Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.granola.ai&hideResults=on",
-    "tested_at": "2026-10-29T11:08:04.579Z"
+    "tested_at": "2026-11-03T04:24:15.010Z"
   },
   "trackers": {
     "url": "https://www.granola.ai",

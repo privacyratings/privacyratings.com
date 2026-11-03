@@ -3,9 +3,9 @@
     "repo": "turtl/desktop",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-19T09:58:10.910Z"
+    "checked_at": "2026-11-03T01:39:20.938Z"
   },
-  "scanned_at": "2026-10-19T09:58:10.910Z",
+  "scanned_at": "2026-11-03T01:40:12.276Z",
   "trackers": {
     "url": "https://turtlapp.com",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:06.072Z"
+    "tested_at": "2026-11-03T01:40:12.276Z"
   }
 }

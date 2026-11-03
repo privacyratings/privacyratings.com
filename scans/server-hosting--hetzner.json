@@ -13,18 +13,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hetzner.com",
-    "tested_at": "2026-11-01T11:19:04.412Z"
+    "tested_at": "2026-11-03T01:41:10.844Z"
   },
-  "scanned_at": "2026-11-01T11:19:05.989Z",
+  "scanned_at": "2026-11-03T03:54:35.822Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.hetzner.com&hideResults=on",
-    "tested_at": "2026-10-22T09:37:12.126Z"
+    "tested_at": "2026-11-03T03:54:35.822Z"
   },
   "trackers": {
     "url": "https://www.hetzner.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:27.084Z"
+    "tested_at": "2026-11-03T01:39:52.867Z"
   }
 }

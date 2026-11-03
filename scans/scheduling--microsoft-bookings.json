@@ -13,14 +13,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bookings.cloud.microsoft",
-    "tested_at": "2026-10-23T09:23:35.351Z"
+    "tested_at": "2026-11-03T01:47:21.002Z"
   },
-  "scanned_at": "2026-10-30T11:05:08.391Z",
+  "scanned_at": "2026-11-03T04:06:36.387Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 16,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bookings.cloud.microsoft&hideResults=on",
-    "tested_at": "2026-10-30T11:05:08.391Z"
+    "tested_at": "2026-11-03T04:06:36.386Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app",

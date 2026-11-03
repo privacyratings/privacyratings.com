@@ -3,9 +3,9 @@
     "repo": "libretro/RetroArch",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-25T09:11:35.466Z"
+    "checked_at": "2026-11-03T01:39:19.740Z"
   },
-  "scanned_at": "2026-10-25T09:11:35.466Z",
+  "scanned_at": "2026-11-03T01:40:10.218Z",
   "trackers": {
     "url": "https://www.retroarch.com",
     "found": [
@@ -37,6 +37,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:44.737Z"
+    "tested_at": "2026-11-03T01:40:10.217Z"
   }
 }

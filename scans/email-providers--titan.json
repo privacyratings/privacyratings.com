@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:52.229Z",
+    "tested_at": "2026-11-03T01:39:58.282Z",
     "imap": {
       "host": "imap.titan.email",
       "port": 993,
@@ -88,14 +88,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.titan.email",
-    "tested_at": "2026-11-02T12:30:21.415Z"
+    "tested_at": "2026-11-03T01:39:10.828Z"
   },
-  "scanned_at": "2026-11-02T12:30:52.472Z",
+  "scanned_at": "2026-11-03T01:56:06.085Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.titan.email&hideResults=on",
-    "tested_at": "2026-10-24T09:01:13.718Z"
+    "tested_at": "2026-11-03T01:56:06.084Z"
   },
   "trackers": {
     "url": "https://titan.email",
@@ -113,6 +113,6 @@
         "host": "stats.wp.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:34.776Z"
+    "tested_at": "2026-11-03T01:39:01.441Z"
   }
 }

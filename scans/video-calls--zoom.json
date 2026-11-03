@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T06:38:23.726Z",
+  "scanned_at": "2026-11-03T01:39:42.898Z",
   "trackers": {
     "url": "https://www.zoom.com",
     "found": [
@@ -17,6 +17,6 @@
         "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:23.726Z"
+    "tested_at": "2026-11-03T01:39:42.898Z"
   }
 }

@@ -1,11 +1,11 @@
 {
-  "scanned_at": "2026-10-01T07:00:45.372Z",
+  "scanned_at": "2026-11-03T01:39:35.473Z",
   "trackers": {
     "url": "https://www.fing.com/app/",
     "found": [
       {
         "name": "Cookiebot",
-        "host": "consentcdn.cookiebot.com",
+        "host": "consent.cookiebot.com",
         "soft": true
       },
       {
@@ -17,20 +17,8 @@
         "host": "google-analytics.com"
       },
       {
-        "name": "Google DoubleClick",
-        "host": "googleads.g.doubleclick.net"
-      },
-      {
         "name": "Google Tag Manager",
         "host": "www.googletagmanager.com"
-      },
-      {
-        "name": "Microsoft Ads",
-        "host": "bat.bing.com"
-      },
-      {
-        "name": "TikTok Pixel",
-        "host": "analytics.tiktok.com"
       },
       {
         "name": "Trustpilot",
@@ -42,6 +30,6 @@
         "host": "stats.wp.com"
       }
     ],
-    "tested_at": "2026-10-01T07:00:45.372Z"
+    "tested_at": "2026-11-03T01:39:35.473Z"
   }
 }

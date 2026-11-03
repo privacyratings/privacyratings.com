@@ -3,12 +3,12 @@
     "repo": "brave/brave-browser",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-14T09:33:43.712Z"
+    "checked_at": "2026-11-03T01:38:59.247Z"
   },
-  "scanned_at": "2026-10-14T09:33:43.712Z",
+  "scanned_at": "2026-11-03T01:39:08.108Z",
   "trackers": {
     "url": "https://brave.com",
     "found": [],
-    "tested_at": "2026-10-01T07:00:34.078Z"
+    "tested_at": "2026-11-03T01:39:08.108Z"
   }
 }

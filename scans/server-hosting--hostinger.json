@@ -13,14 +13,14 @@
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hostinger.com",
-    "tested_at": "2026-11-01T11:19:04.655Z"
+    "tested_at": "2026-11-03T01:41:10.827Z"
   },
-  "scanned_at": "2026-11-01T11:19:04.931Z",
+  "scanned_at": "2026-11-03T03:57:53.177Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.hostinger.com&hideResults=on",
-    "tested_at": "2026-10-22T09:37:12.348Z"
+    "tested_at": "2026-11-03T03:57:53.177Z"
   },
   "trackers": {
     "url": "https://www.hostinger.com",
@@ -45,6 +45,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:26.434Z"
+    "tested_at": "2026-11-03T01:39:52.717Z"
   }
 }

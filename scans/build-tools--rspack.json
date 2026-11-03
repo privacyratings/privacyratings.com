@@ -3,9 +3,9 @@
     "repo": "web-infra-dev/rspack",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-27T09:51:20.260Z"
+    "checked_at": "2026-11-03T01:39:33.083Z"
   },
-  "scanned_at": "2026-10-27T09:51:20.260Z",
+  "scanned_at": "2026-11-03T01:40:34.123Z",
   "trackers": {
     "url": "https://rspack.rs",
     "found": [
@@ -24,6 +24,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:47.367Z"
+    "tested_at": "2026-11-03T01:40:34.123Z"
   }
 }

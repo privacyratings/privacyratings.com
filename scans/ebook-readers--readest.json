@@ -3,9 +3,9 @@
     "repo": "readest/readest",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-08T11:24:51.672Z"
+    "checked_at": "2026-11-03T01:39:26.158Z"
   },
-  "scanned_at": "2026-10-08T11:24:51.672Z",
+  "scanned_at": "2026-11-03T01:40:22.198Z",
   "trackers": {
     "url": "https://readest.com",
     "found": [
@@ -20,6 +20,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:48.450Z"
+    "tested_at": "2026-11-03T01:40:22.198Z"
   }
 }

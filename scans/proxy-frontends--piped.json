@@ -4,7 +4,7 @@
     "repo": "TeamPiped/Piped",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T10:59:35.731Z"
+    "checked_at": "2026-11-03T01:39:03.229Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=piped.video",
-    "tested_at": "2026-10-25T09:11:37.667Z"
+    "tested_at": "2026-11-03T01:39:53.104Z"
   },
-  "scanned_at": "2026-10-28T10:46:36.148Z",
+  "scanned_at": "2026-11-03T02:23:50.207Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=piped.video&hideResults=on",
-    "tested_at": "2026-10-28T10:46:36.148Z"
+    "tested_at": "2026-11-03T02:23:50.207Z"
   },
   "trackers": {
     "url": "https://piped.video",
     "found": [],
-    "tested_at": "2026-10-01T06:38:17.554Z"
+    "tested_at": "2026-11-03T01:39:17.071Z"
   }
 }

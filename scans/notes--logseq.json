@@ -3,12 +3,12 @@
     "repo": "logseq/logseq",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-19T09:58:10.700Z"
+    "checked_at": "2026-11-03T01:39:20.383Z"
   },
-  "scanned_at": "2026-10-19T09:58:10.700Z",
+  "scanned_at": "2026-11-03T01:40:11.097Z",
   "trackers": {
     "url": "https://logseq.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:05.057Z"
+    "tested_at": "2026-11-03T01:40:11.097Z"
   }
 }

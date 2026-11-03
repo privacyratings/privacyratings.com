@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T06:38:34.693Z",
+  "scanned_at": "2026-11-03T01:40:04.568Z",
   "trackers": {
     "url": "https://www.microsoft.com/en-us/swiftkey",
     "found": [
@@ -16,6 +16,6 @@
         "host": "www.clarity.ms"
       }
     ],
-    "tested_at": "2026-10-01T06:38:34.693Z"
+    "tested_at": "2026-11-03T01:40:04.568Z"
   }
 }

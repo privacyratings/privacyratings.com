@@ -3,21 +3,12 @@
     "repo": "trpc/trpc",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:31.365Z"
+    "checked_at": "2026-11-03T01:39:30.826Z"
   },
-  "scanned_at": "2026-10-30T10:53:31.365Z",
+  "scanned_at": "2026-11-03T01:40:31.432Z",
   "trackers": {
     "url": "https://trpc.io",
-    "found": [
-      {
-        "name": "Google Analytics",
-        "host": "inline code"
-      },
-      {
-        "name": "Google Tag Manager",
-        "host": "www.googletagmanager.com"
-      }
-    ],
-    "tested_at": "2026-10-01T07:02:04.840Z"
+    "found": [],
+    "tested_at": "2026-11-03T01:40:31.432Z"
   }
 }

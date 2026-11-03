@@ -3,12 +3,12 @@
     "repo": "pbatard/rufus",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-27T09:51:20.084Z"
+    "checked_at": "2026-11-03T01:39:16.833Z"
   },
-  "scanned_at": "2026-10-27T09:51:20.084Z",
+  "scanned_at": "2026-11-03T01:40:05.587Z",
   "trackers": {
     "url": "https://rufus.ie",
     "found": [],
-    "tested_at": "2026-10-01T07:01:49.502Z"
+    "tested_at": "2026-11-03T01:40:05.587Z"
   }
 }

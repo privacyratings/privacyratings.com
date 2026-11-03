@@ -4,7 +4,7 @@
     "repo": "forwardemail/forwardemail.net",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-28T10:37:33.361Z"
+    "checked_at": "2026-11-03T01:38:55.740Z"
   },
   "internetnl": {
     "web": {
@@ -52,7 +52,7 @@
         }
       }
     },
-    "tested_at": "2026-11-02T12:30:22.105Z",
+    "tested_at": "2026-11-03T01:39:00.524Z",
     "imap": {
       "host": "imap.forwardemail.net",
       "port": 993,
@@ -116,18 +116,24 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
-    "tested_at": "2026-11-02T12:30:15.462Z"
+    "tested_at": "2026-11-03T01:38:33.859Z"
   },
-  "scanned_at": "2026-11-02T12:30:23.472Z",
+  "scanned_at": "2026-11-03T01:39:01.697Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=forwardemail.net&hideResults=on",
-    "tested_at": "2026-10-25T09:11:34.822Z"
+    "tested_at": "2026-11-03T01:39:01.578Z"
   },
   "trackers": {
     "url": "https://forwardemail.net/en",
-    "found": [],
-    "tested_at": "2026-10-01T07:01:51.066Z"
+    "found": [
+      {
+        "name": "Trustpilot",
+        "host": "www.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-11-03T01:38:57.023Z"
   }
 }

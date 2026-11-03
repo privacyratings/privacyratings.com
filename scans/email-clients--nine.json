@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T07:01:48.714Z",
+  "scanned_at": "2026-11-03T01:39:03.440Z",
   "trackers": {
     "url": "https://www.9folders.com/en/",
     "found": [
@@ -12,6 +12,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:48.714Z"
+    "tested_at": "2026-11-03T01:39:03.440Z"
   }
 }

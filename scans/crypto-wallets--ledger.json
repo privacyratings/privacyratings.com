@@ -3,11 +3,11 @@
     "repo": "LedgerHQ/ledger-live",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-29T10:55:35.354Z"
+    "checked_at": "2026-11-03T01:39:44.213Z"
   },
-  "scanned_at": "2026-10-29T10:55:35.354Z",
+  "scanned_at": "2026-11-03T01:40:48.156Z",
   "trackers": {
-    "url": "https://www.ledger.com/?hp_variant=g4.hero.b",
+    "url": "https://www.ledger.com",
     "found": [
       {
         "name": "Google Tag Manager",
@@ -23,6 +23,6 @@
         "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:02.299Z"
+    "tested_at": "2026-11-03T01:40:48.156Z"
   }
 }

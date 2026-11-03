@@ -3,12 +3,12 @@
     "repo": "slackhq/nebula",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-04T10:36:40.204Z"
+    "checked_at": "2026-11-03T01:39:14.347Z"
   },
-  "scanned_at": "2026-10-04T10:36:40.204Z",
+  "scanned_at": "2026-11-03T01:40:00.125Z",
   "trackers": {
     "url": "https://github.com/slackhq/nebula",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-10-01T06:38:30.480Z"
+    "tested_at": "2026-11-03T01:40:00.125Z"
   }
 }

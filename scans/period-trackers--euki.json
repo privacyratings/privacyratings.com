@@ -3,9 +3,9 @@
     "repo": "Euki-Inc/Euki-Android",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-11T10:51:33.874Z"
+    "checked_at": "2026-11-03T01:39:42.996Z"
   },
-  "scanned_at": "2026-10-11T10:51:33.874Z",
+  "scanned_at": "2026-11-03T01:40:45.330Z",
   "trackers": {
     "url": "https://eukiapp.org",
     "found": [
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:59:50.274Z"
+    "tested_at": "2026-11-03T01:40:45.330Z"
   }
 }

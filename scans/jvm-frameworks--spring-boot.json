@@ -3,9 +3,9 @@
     "repo": "spring-projects/spring-boot",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:20.525Z"
+    "checked_at": "2026-11-03T01:39:39.597Z"
   },
-  "scanned_at": "2026-10-01T07:02:18.381Z",
+  "scanned_at": "2026-11-03T01:40:41.269Z",
   "trackers": {
     "url": "https://spring.io/projects/spring-boot/",
     "found": [
@@ -25,6 +25,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:18.381Z"
+    "tested_at": "2026-11-03T01:40:41.269Z"
   }
 }

@@ -1,0 +1,65 @@
+{
+  "domain": "atomicmail.io",
+  "mail": {
+    "dns": {
+      "domain": "atomicmail.io",
+      "dnssec": false,
+      "mx": [
+        "mail1.atomicmail.io"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-11-03T01:38:57.853Z",
+    "imap": {
+      "offered": false
+    },
+    "pop3": {
+      "offered": false
+    },
+    "smtp": {
+      "offered": false
+    }
+  },
+  "mail_domain": "atomicmail.io",
+  "observatory": {
+    "grade": "C-",
+    "score": 45,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=atomicmail.io",
+    "tested_at": "2026-11-03T01:38:56.388Z"
+  },
+  "scanned_at": "2026-11-03T01:42:00.898Z",
+  "trackers": {
+    "url": "https://atomicmail.io",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Hotjar",
+        "host": "inline code"
+      }
+    ],
+    "tested_at": "2026-11-03T01:38:56.381Z"
+  }
+}

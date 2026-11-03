@@ -13,17 +13,17 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=contabo.com",
-    "tested_at": "2026-11-01T11:19:02.343Z"
+    "tested_at": "2026-11-03T01:41:08.576Z"
   },
-  "scanned_at": "2026-11-01T11:19:03.062Z",
+  "scanned_at": "2026-11-03T03:50:23.178Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=contabo.com&hideResults=on",
-    "tested_at": "2026-10-23T09:28:27.746Z"
+    "tested_at": "2026-11-03T03:50:23.178Z"
   },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-10-01T07:01:26.148Z"
+    "tested_at": "2026-11-03T01:39:52.415Z"
   }
 }

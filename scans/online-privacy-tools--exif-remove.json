@@ -13,18 +13,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.exifremove.com",
-    "tested_at": "2026-10-30T10:53:46.183Z"
+    "tested_at": "2026-11-03T01:40:12.909Z"
   },
-  "scanned_at": "2026-10-30T10:53:46.576Z",
+  "scanned_at": "2026-11-03T02:36:52.344Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.exifremove.com&hideResults=on",
-    "tested_at": "2026-10-22T09:29:26.921Z"
+    "tested_at": "2026-11-03T02:36:52.344Z"
   },
   "trackers": {
     "url": "https://www.exifremove.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:19.895Z"
+    "tested_at": "2026-11-03T01:39:29.577Z"
   }
 }

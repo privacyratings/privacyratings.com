@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=voice.google.com",
-    "tested_at": "2026-10-23T09:23:16.715Z"
+    "tested_at": "2026-11-03T01:40:37.135Z"
   },
-  "scanned_at": "2026-10-26T10:18:29.415Z",
+  "scanned_at": "2026-11-03T03:14:49.839Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=voice.google.com&hideResults=on",
-    "tested_at": "2026-10-26T10:18:29.415Z"
+    "tested_at": "2026-11-03T03:14:49.839Z"
   },
   "trackers": {
     "url": "https://workspace.google.com/products/voice/",
@@ -35,6 +35,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:57.343Z"
+    "tested_at": "2026-11-03T01:39:44.256Z"
   }
 }

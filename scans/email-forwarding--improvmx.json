@@ -13,14 +13,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.improvmx.com",
-    "tested_at": "2026-10-25T09:11:34.587Z"
+    "tested_at": "2026-11-03T01:39:15.028Z"
   },
-  "scanned_at": "2026-10-28T10:39:45.038Z",
+  "scanned_at": "2026-11-03T01:57:38.785Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.improvmx.com&hideResults=on",
-    "tested_at": "2026-10-28T10:39:45.038Z"
+    "tested_at": "2026-11-03T01:57:38.785Z"
   },
   "trackers": {
     "url": "https://improvmx.com",

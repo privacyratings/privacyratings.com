@@ -3,12 +3,12 @@
     "repo": "wger-project/wger",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-11T10:51:33.871Z"
+    "checked_at": "2026-11-03T01:39:43.058Z"
   },
-  "scanned_at": "2026-10-11T10:51:33.871Z",
+  "scanned_at": "2026-11-03T01:40:46.097Z",
   "trackers": {
     "url": "https://wger.de",
     "found": [],
-    "tested_at": "2026-10-01T06:59:51.309Z"
+    "tested_at": "2026-11-03T01:40:46.097Z"
   }
 }

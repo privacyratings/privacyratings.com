@@ -4,7 +4,7 @@
     "repo": "brave/brave-browser",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-23T09:23:12.119Z"
+    "checked_at": "2026-11-03T01:39:01.910Z"
   },
   "internetnl": {
     "web": {
@@ -13,16 +13,16 @@
       "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
-  "scanned_at": "2026-11-02T12:30:58.394Z",
+  "scanned_at": "2026-11-03T02:15:56.463Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=search.brave.com&hideResults=on",
-    "tested_at": "2026-10-23T09:25:17.193Z"
+    "tested_at": "2026-11-03T02:15:56.463Z"
   },
   "trackers": {
     "url": "https://search.brave.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:28.728Z"
+    "tested_at": "2026-11-03T01:39:13.401Z"
   }
 }

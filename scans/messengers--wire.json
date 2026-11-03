@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-02T12:30:18.029Z",
+  "scanned_at": "2026-11-03T01:39:41.759Z",
   "trackers": {
     "url": "https://wire.com/en/",
     "found": [
@@ -8,6 +8,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:57.449Z"
+    "tested_at": "2026-11-03T01:39:41.759Z"
   }
 }

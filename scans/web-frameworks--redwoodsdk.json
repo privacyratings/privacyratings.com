@@ -3,9 +3,9 @@
     "repo": "redwoodjs/sdk",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:32.263Z"
+    "checked_at": "2026-11-03T01:39:32.138Z"
   },
-  "scanned_at": "2026-10-30T10:53:32.263Z",
+  "scanned_at": "2026-11-03T01:40:33.502Z",
   "trackers": {
     "url": "https://rwsdk.com",
     "found": [
@@ -26,6 +26,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:06.222Z"
+    "tested_at": "2026-11-03T01:40:33.502Z"
   }
 }

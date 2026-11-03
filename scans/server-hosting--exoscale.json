@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.exoscale.com",
-    "tested_at": "2026-10-28T10:37:35.724Z"
+    "tested_at": "2026-11-03T01:41:10.326Z"
   },
-  "scanned_at": "2026-11-02T12:32:22.371Z",
+  "scanned_at": "2026-11-03T03:53:59.917Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
@@ -25,6 +25,6 @@
   "trackers": {
     "url": "https://www.exoscale.com",
     "found": [],
-    "tested_at": "2026-10-01T06:38:28.342Z"
+    "tested_at": "2026-11-03T01:39:53.150Z"
   }
 }

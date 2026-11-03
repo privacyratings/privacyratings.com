@@ -4,7 +4,7 @@
     "repo": "nymtech/nym-vpn-client",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-03T09:53:54.803Z"
+    "checked_at": "2026-11-03T01:39:10.557Z"
   },
   "internetnl": {
     "web": {
@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nym.com",
-    "tested_at": "2026-10-26T10:12:09.458Z"
+    "tested_at": "2026-11-03T01:40:48.474Z"
   },
-  "scanned_at": "2026-10-31T10:29:00.399Z",
+  "scanned_at": "2026-11-03T03:31:23.486Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
@@ -31,6 +31,6 @@
   "trackers": {
     "url": "https://nym.com",
     "found": [],
-    "tested_at": "2026-10-01T06:38:26.426Z"
+    "tested_at": "2026-11-03T01:39:47.135Z"
   }
 }

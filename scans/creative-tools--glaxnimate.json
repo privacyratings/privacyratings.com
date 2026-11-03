@@ -3,12 +3,12 @@
     "repo": "KDE/glaxnimate",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-13T11:51:46.237Z"
+    "checked_at": "2026-11-03T01:39:50.038Z"
   },
-  "scanned_at": "2026-10-13T11:51:46.237Z",
+  "scanned_at": "2026-11-03T01:41:03.961Z",
   "trackers": {
     "url": "https://glaxnimate.org",
     "found": [],
-    "tested_at": "2026-10-01T07:00:22.111Z"
+    "tested_at": "2026-11-03T01:41:03.961Z"
   }
 }

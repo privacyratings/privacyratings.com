@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.vanta.com",
-    "tested_at": "2026-10-23T09:23:16.351Z"
+    "tested_at": "2026-11-03T01:40:25.788Z"
   },
-  "scanned_at": "2026-10-25T09:22:55.026Z",
+  "scanned_at": "2026-11-03T02:55:03.695Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.vanta.com&hideResults=on",
-    "tested_at": "2026-10-25T09:22:55.026Z"
+    "tested_at": "2026-11-03T02:55:03.695Z"
   },
   "trackers": {
     "url": "https://www.vanta.com",
@@ -39,6 +39,6 @@
         "host": "js.hsforms.net"
       }
     ],
-    "tested_at": "2026-10-01T07:01:41.570Z"
+    "tested_at": "2026-11-03T01:39:34.371Z"
   }
 }

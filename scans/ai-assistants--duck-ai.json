@@ -4,7 +4,7 @@
     "repo": "duckduckgo/Android",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-08T11:24:51.945Z"
+    "checked_at": "2026-11-03T01:39:26.952Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duck.ai",
-    "tested_at": "2026-10-29T10:55:38.720Z"
+    "tested_at": "2026-11-03T01:47:39.095Z"
   },
-  "scanned_at": "2026-11-01T11:31:53.422Z",
+  "scanned_at": "2026-11-03T04:26:16.389Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=duck.ai&hideResults=on",
-    "tested_at": "2026-11-01T11:31:53.422Z"
+    "tested_at": "2026-11-03T04:26:16.389Z"
   },
   "trackers": {
     "url": "https://duck.ai",
     "found": [],
-    "tested_at": "2026-10-01T06:38:49.629Z"
+    "tested_at": "2026-11-03T01:40:22.358Z"
   }
 }

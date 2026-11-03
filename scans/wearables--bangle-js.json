@@ -3,12 +3,13 @@
     "repo": "espruino/Espruino",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-10T10:38:58.225Z"
+    "checked_at": "2026-11-03T01:39:42.783Z"
   },
-  "scanned_at": "2026-10-10T10:38:58.225Z",
+  "scanned_at": "2026-11-03T01:40:43.959Z",
   "trackers": {
     "url": "https://banglejs.com",
     "found": [],
-    "tested_at": "2026-10-01T06:59:49.173Z"
+    "tested_at": "2026-10-01T06:59:49.173Z",
+    "last_error": "banglejs.com resolves to a non-public address (fe80::5054:ff:fe29:19fe)"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "vercel/next.js",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-27T09:51:20.256Z"
+    "checked_at": "2026-11-03T01:39:33.063Z"
   },
-  "scanned_at": "2026-10-27T09:51:20.256Z",
+  "scanned_at": "2026-11-03T01:40:34.100Z",
   "trackers": {
     "url": "https://nextjs.org/docs/app/api-reference/turbopack",
     "found": [],
-    "tested_at": "2026-10-01T07:01:47.459Z"
+    "tested_at": "2026-11-03T01:40:34.100Z"
   }
 }

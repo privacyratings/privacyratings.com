@@ -3,12 +3,12 @@
     "repo": "evanw/esbuild",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:58.923Z"
+    "checked_at": "2026-11-03T01:39:32.846Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.923Z",
+  "scanned_at": "2026-11-03T01:40:33.609Z",
   "trackers": {
     "url": "https://esbuild.github.io",
     "found": [],
-    "tested_at": "2026-10-01T07:01:46.660Z"
+    "tested_at": "2026-11-03T01:40:33.609Z"
   }
 }

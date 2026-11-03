@@ -3,9 +3,9 @@
     "repo": "nomic-ai/gpt4all",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-08T11:24:52.238Z"
+    "checked_at": "2026-11-03T01:39:27.007Z"
   },
-  "scanned_at": "2026-10-08T11:24:52.238Z",
+  "scanned_at": "2026-11-03T01:40:22.668Z",
   "trackers": {
     "url": "https://www.nomic.ai/gpt4all",
     "found": [
@@ -26,6 +26,6 @@
         "host": "snap.licdn.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:49.803Z"
+    "tested_at": "2026-11-03T01:40:22.668Z"
   }
 }

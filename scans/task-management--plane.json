@@ -3,9 +3,9 @@
     "repo": "makeplane/plane",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-07T11:07:08.966Z"
+    "checked_at": "2026-11-03T01:39:23.040Z"
   },
-  "scanned_at": "2026-10-07T11:07:08.966Z",
+  "scanned_at": "2026-11-03T01:40:15.374Z",
   "trackers": {
     "url": "https://plane.so",
     "found": [
@@ -24,6 +24,6 @@
         "host": "dev.visualwebsiteoptimizer.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:43.063Z"
+    "tested_at": "2026-11-03T01:40:15.374Z"
   }
 }

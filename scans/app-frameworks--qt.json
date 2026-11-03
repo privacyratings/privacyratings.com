@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T07:02:11.871Z",
+  "scanned_at": "2026-11-03T01:40:37.252Z",
   "trackers": {
     "url": "https://www.qt.io",
     "found": [
@@ -22,6 +22,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:11.871Z"
+    "tested_at": "2026-11-03T01:40:37.251Z"
   }
 }

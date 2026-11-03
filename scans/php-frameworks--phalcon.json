@@ -3,11 +3,11 @@
     "repo": "phalcon/cphalcon",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-11-02T12:30:19.758Z"
+    "checked_at": "2026-11-03T01:39:37.522Z"
   },
-  "scanned_at": "2026-11-02T12:30:19.758Z",
+  "scanned_at": "2026-11-03T01:40:39.377Z",
   "trackers": {
-    "url": "https://phalcon.io/en-us",
+    "url": "https://phalcon.io",
     "found": [
       {
         "name": "Cloudflare Web Analytics",
@@ -16,14 +16,10 @@
         "analytics": true
       },
       {
-        "name": "Google Analytics",
-        "host": "inline code"
-      },
-      {
         "name": "Google Tag Manager",
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:14.961Z"
+    "tested_at": "2026-11-03T01:40:39.377Z"
   }
 }

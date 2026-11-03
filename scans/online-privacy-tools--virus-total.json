@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.virustotal.com",
-    "tested_at": "2026-10-22T09:27:01.678Z"
+    "tested_at": "2026-11-03T01:40:15.489Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.175Z",
+  "scanned_at": "2026-11-03T02:40:46.764Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.virustotal.com&hideResults=on",
-    "tested_at": "2026-10-26T10:11:58.175Z"
+    "tested_at": "2026-11-03T02:40:46.764Z"
   },
   "trackers": {
     "url": "https://www.virustotal.com/gui/",
@@ -30,6 +30,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:55.900Z"
+    "tested_at": "2026-11-03T01:39:31.422Z"
   }
 }

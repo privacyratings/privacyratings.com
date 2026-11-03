@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=analytics.google.com",
-    "tested_at": "2026-10-29T10:56:09.473Z"
+    "tested_at": "2026-11-03T01:47:58.915Z"
   },
-  "scanned_at": "2026-11-02T12:47:39.460Z",
+  "scanned_at": "2026-11-03T04:34:57.813Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=analytics.google.com&hideResults=on",
-    "tested_at": "2026-11-02T12:47:39.460Z"
+    "tested_at": "2026-11-03T04:34:57.813Z"
   },
   "trackers": {
     "url": "https://marketingplatform.google.com/about/analytics/",
@@ -35,6 +35,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:59:45.544Z"
+    "tested_at": "2026-11-03T01:40:41.557Z"
   }
 }

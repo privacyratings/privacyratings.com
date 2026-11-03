@@ -3,9 +3,9 @@
     "repo": "adonisjs/core",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-25T09:11:35.749Z"
+    "checked_at": "2026-11-03T01:39:29.950Z"
   },
-  "scanned_at": "2026-10-25T09:11:35.749Z",
+  "scanned_at": "2026-11-03T01:40:29.790Z",
   "trackers": {
     "url": "https://adonisjs.com",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:44.812Z"
+    "tested_at": "2026-11-03T01:40:29.790Z"
   }
 }

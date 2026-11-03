@@ -3,9 +3,9 @@
     "repo": "feathersjs/feathers",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:57.385Z"
+    "checked_at": "2026-11-03T01:39:30.167Z"
   },
-  "scanned_at": "2026-10-26T10:11:57.385Z",
+  "scanned_at": "2026-11-03T01:40:30.117Z",
   "trackers": {
     "url": "https://feathersjs.com",
     "found": [
@@ -21,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:45.021Z"
+    "tested_at": "2026-11-03T01:40:30.117Z"
   }
 }

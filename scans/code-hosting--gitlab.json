@@ -13,14 +13,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=gitlab.com",
-    "tested_at": "2026-10-24T08:55:26.393Z"
+    "tested_at": "2026-11-03T01:47:57.526Z"
   },
-  "scanned_at": "2026-10-27T10:05:25.263Z",
+  "scanned_at": "2026-11-03T04:33:35.505Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=gitlab.com&hideResults=on",
-    "tested_at": "2026-10-27T10:05:25.263Z"
+    "tested_at": "2026-11-03T04:33:35.505Z"
   },
   "trackers": {
     "url": "https://about.gitlab.com/",
@@ -35,6 +35,6 @@
         "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:00.572Z"
+    "tested_at": "2026-11-03T01:40:27.734Z"
   }
 }

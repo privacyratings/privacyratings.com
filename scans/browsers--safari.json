@@ -3,12 +3,12 @@
     "repo": "WebKit/WebKit",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-14T09:33:43.809Z"
+    "checked_at": "2026-11-03T01:38:59.708Z"
   },
-  "scanned_at": "2026-10-14T09:33:43.809Z",
+  "scanned_at": "2026-11-03T01:39:09.392Z",
   "trackers": {
     "url": "https://www.apple.com/safari/",
     "found": [],
-    "tested_at": "2026-10-01T07:00:35.856Z"
+    "tested_at": "2026-11-03T01:39:09.392Z"
   }
 }

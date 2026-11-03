@@ -3,18 +3,12 @@
     "repo": "KashCal/KashCal",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-19T09:58:11.090Z"
+    "checked_at": "2026-11-03T01:39:22.093Z"
   },
-  "scanned_at": "2026-10-19T09:58:11.090Z",
+  "scanned_at": "2026-11-03T01:40:13.540Z",
   "trackers": {
     "url": "https://kashcal.onekash.org",
-    "found": [
-      {
-        "name": "Google Fonts",
-        "host": "fonts.googleapis.com",
-        "soft": true
-      }
-    ],
-    "tested_at": "2026-10-01T07:01:06.473Z"
+    "found": [],
+    "tested_at": "2026-11-03T01:40:13.540Z"
   }
 }

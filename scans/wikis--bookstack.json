@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T06:38:38.799Z",
+  "scanned_at": "2026-11-03T01:40:12.813Z",
   "trackers": {
     "url": "https://www.bookstackapp.com",
     "found": [
@@ -10,6 +10,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:38.799Z"
+    "tested_at": "2026-11-03T01:40:12.813Z"
   }
 }

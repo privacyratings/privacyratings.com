@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=trailofbits.com",
-    "tested_at": "2026-10-22T09:27:13.751Z"
+    "tested_at": "2026-11-03T01:40:22.600Z"
   },
-  "scanned_at": "2026-10-27T10:05:29.348Z",
+  "scanned_at": "2026-11-03T02:51:59.139Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,
@@ -36,6 +36,6 @@
         "host": "js.hs-scripts.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:40.473Z"
+    "tested_at": "2026-11-03T01:39:33.106Z"
   }
 }

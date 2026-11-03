@@ -3,9 +3,9 @@
     "repo": "open-webui/open-webui",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-08T11:24:52.495Z"
+    "checked_at": "2026-11-03T01:39:27.283Z"
   },
-  "scanned_at": "2026-10-08T11:24:52.495Z",
+  "scanned_at": "2026-11-03T01:40:23.061Z",
   "trackers": {
     "url": "https://openwebui.com",
     "found": [
@@ -28,6 +28,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:50.999Z"
+    "tested_at": "2026-11-03T01:40:23.061Z"
   }
 }

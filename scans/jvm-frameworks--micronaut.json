@@ -3,9 +3,9 @@
     "repo": "micronaut-projects/micronaut-core",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:20.236Z"
+    "checked_at": "2026-11-03T01:39:39.461Z"
   },
-  "scanned_at": "2026-10-01T07:02:18.134Z",
+  "scanned_at": "2026-11-03T01:40:41.050Z",
   "trackers": {
     "url": "https://micronaut.io",
     "found": [
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:18.134Z"
+    "tested_at": "2026-11-03T01:40:41.049Z"
   }
 }

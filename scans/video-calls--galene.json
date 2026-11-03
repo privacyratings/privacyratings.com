@@ -3,12 +3,12 @@
     "repo": "jech/galene",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-03T09:53:54.144Z"
+    "checked_at": "2026-11-03T01:39:09.402Z"
   },
-  "scanned_at": "2026-10-03T09:53:54.144Z",
+  "scanned_at": "2026-11-03T01:39:42.939Z",
   "trackers": {
     "url": "https://galene.org",
     "found": [],
-    "tested_at": "2026-10-01T06:38:24.003Z"
+    "tested_at": "2026-11-03T01:39:42.939Z"
   }
 }

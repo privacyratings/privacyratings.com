@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=surfshark.com",
-    "tested_at": "2026-10-26T10:12:11.813Z"
+    "tested_at": "2026-11-03T01:40:51.427Z"
   },
-  "scanned_at": "2026-10-31T10:34:56.670Z",
+  "scanned_at": "2026-11-03T03:29:38.191Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=surfshark.com&hideResults=on",
-    "tested_at": "2026-10-31T10:34:56.670Z"
+    "tested_at": "2026-11-03T03:29:38.191Z"
   },
   "trackers": {
     "url": "https://surfshark.com",
@@ -31,6 +31,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:25.701Z"
+    "tested_at": "2026-11-03T01:39:46.994Z"
   }
 }

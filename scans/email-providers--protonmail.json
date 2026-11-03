@@ -4,7 +4,7 @@
     "repo": "ProtonMail/WebClients",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-23T09:23:11.676Z"
+    "checked_at": "2026-11-03T01:38:55.979Z"
   },
   "internetnl": {
     "web": {
@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:44.243Z",
+    "tested_at": "2026-11-03T01:39:45.486Z",
     "imap": {
       "offered": false
     },
@@ -58,18 +58,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=proton.me",
-    "tested_at": "2026-10-30T10:53:31.175Z"
+    "tested_at": "2026-11-03T01:39:06.098Z"
   },
-  "scanned_at": "2026-11-02T12:30:44.243Z",
+  "scanned_at": "2026-11-03T01:48:16.316Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=proton.me&hideResults=on",
-    "tested_at": "2026-10-23T09:23:14.903Z"
+    "tested_at": "2026-11-03T01:48:16.316Z"
   },
   "trackers": {
     "url": "https://proton.me/mail",
     "found": [],
-    "tested_at": "2026-10-01T07:01:32.513Z"
+    "tested_at": "2026-11-03T01:38:59.533Z"
   }
 }

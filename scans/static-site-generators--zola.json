@@ -3,12 +3,12 @@
     "repo": "getzola/zola",
     "license": "EUPL-1.2",
     "archived": false,
-    "checked_at": "2026-10-31T10:25:50.302Z"
+    "checked_at": "2026-11-03T01:39:34.373Z"
   },
-  "scanned_at": "2026-10-31T10:25:50.302Z",
+  "scanned_at": "2026-11-03T01:40:34.922Z",
   "trackers": {
     "url": "https://www.getzola.org",
     "found": [],
-    "tested_at": "2026-10-01T07:02:07.868Z"
+    "tested_at": "2026-11-03T01:40:34.922Z"
   }
 }

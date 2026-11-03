@@ -4,7 +4,7 @@
     "repo": "AirVPN/Eddie",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-29T10:55:34.204Z"
+    "checked_at": "2026-11-03T01:39:10.274Z"
   },
   "internetnl": {
     "web": {
@@ -14,14 +14,14 @@
     }
   },
   "observatory": {
-    "grade": "B",
-    "score": 75,
+    "grade": "B+",
+    "score": 80,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=airvpn.org",
-    "tested_at": "2026-10-23T09:23:17.044Z"
+    "tested_at": "2026-11-03T01:40:45.644Z"
   },
-  "scanned_at": "2026-10-29T10:55:34.204Z",
+  "scanned_at": "2026-11-03T03:27:35.745Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
@@ -29,8 +29,8 @@
     "tested_at": "2026-10-26T10:19:38.998Z"
   },
   "trackers": {
-    "url": "https://airvpn.org/entry/?aek_v=18&aek_id=dd304c1d41ab8d868d2a8d5814082ce9&aek_url=%2F",
+    "url": "https://airvpn.org",
     "found": [],
-    "tested_at": "2026-10-01T07:01:58.180Z"
+    "tested_at": "2026-11-03T01:39:45.677Z"
   }
 }

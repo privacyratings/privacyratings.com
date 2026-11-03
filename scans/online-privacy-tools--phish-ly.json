@@ -13,14 +13,14 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=phish.ly",
-    "tested_at": "2026-10-31T10:25:49.521Z"
+    "tested_at": "2026-11-03T01:40:14.661Z"
   },
-  "scanned_at": "2026-10-31T10:25:50.489Z",
+  "scanned_at": "2026-11-03T02:36:56.508Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=phish.ly&hideResults=on",
-    "tested_at": "2026-10-21T09:26:30.895Z"
+    "tested_at": "2026-11-03T02:36:56.508Z"
   },
   "trackers": {
     "url": "https://phish.ly",
@@ -34,6 +34,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:20.921Z"
+    "tested_at": "2026-11-03T01:39:30.803Z"
   }
 }

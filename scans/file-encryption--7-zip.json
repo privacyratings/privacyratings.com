@@ -3,12 +3,12 @@
     "repo": "ip7z/7zip",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-02T10:32:55.466Z"
+    "checked_at": "2026-11-03T01:39:04.992Z"
   },
-  "scanned_at": "2026-10-02T10:32:55.466Z",
+  "scanned_at": "2026-11-03T01:39:30.416Z",
   "trackers": {
     "url": "https://www.7-zip.org",
     "found": [],
-    "tested_at": "2026-10-01T06:38:19.751Z"
+    "tested_at": "2026-11-03T01:39:30.416Z"
   }
 }

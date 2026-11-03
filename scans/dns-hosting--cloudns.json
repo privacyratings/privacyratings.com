@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cloudns.net",
-    "tested_at": "2026-10-27T09:51:44.754Z"
+    "tested_at": "2026-11-03T01:40:59.695Z"
   },
-  "scanned_at": "2026-11-02T12:49:28.634Z",
+  "scanned_at": "2026-11-03T03:55:09.260Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.cloudns.net&hideResults=on",
-    "tested_at": "2026-11-02T12:49:28.634Z"
+    "tested_at": "2026-11-03T03:55:09.260Z"
   },
   "trackers": {
     "url": "https://www.cloudns.net",
@@ -39,6 +39,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:27.124Z"
+    "tested_at": "2026-11-03T01:39:50.542Z"
   }
 }

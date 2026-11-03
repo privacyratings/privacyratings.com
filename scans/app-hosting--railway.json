@@ -13,18 +13,24 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=railway.com",
-    "tested_at": "2026-10-23T09:23:28.683Z"
+    "tested_at": "2026-11-03T01:47:15.402Z"
   },
-  "scanned_at": "2026-10-29T11:03:24.327Z",
+  "scanned_at": "2026-11-03T04:00:16.578Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=railway.com&hideResults=on",
-    "tested_at": "2026-10-29T11:03:24.327Z"
+    "tested_at": "2026-11-03T04:00:16.578Z"
   },
   "trackers": {
     "url": "https://railway.com",
-    "found": [],
-    "tested_at": "2026-10-01T07:01:42.872Z"
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-11-03T01:39:54.709Z"
   }
 }

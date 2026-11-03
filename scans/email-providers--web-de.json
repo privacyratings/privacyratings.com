@@ -1,0 +1,103 @@
+{
+  "domain": "web.de",
+  "mail": {
+    "dns": {
+      "domain": "web.de",
+      "dnssec": true,
+      "mx": [
+        "mx-ha02.web.de",
+        "mx-ha03.web.de"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": true,
+      "mta_sts": "testing",
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-11-03T01:40:03.201Z",
+    "imap": {
+      "host": "imap.web.de",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "CHILDREN",
+        "ENABLE",
+        "ID",
+        "IDLE",
+        "LIST-EXTENDED",
+        "LIST-STATUS",
+        "LITERAL-",
+        "MOVE",
+        "NAMESPACE",
+        "QUOTA",
+        "SASL-IR",
+        "SORT",
+        "SPECIAL-USE",
+        "THREAD=ORDEREDSUBJECT",
+        "UIDPLUS",
+        "UNSELECT",
+        "WITHIN",
+        "AUTH=LOGIN",
+        "AUTH=PLAIN"
+      ]
+    },
+    "pop3": {
+      "host": "pop3.web.de",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "UIDL",
+        "USER",
+        "SASL",
+        "IMPLEMENTATION"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.web.de",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "8BITMIME",
+        "AUTH",
+        "SIZE"
+      ]
+    }
+  },
+  "mail_domain": "web.de",
+  "observatory": {
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=web.de",
+    "tested_at": "2026-11-03T01:39:00.309Z"
+  },
+  "scanned_at": "2026-11-03T01:51:22.625Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=web.de&hideResults=on",
+    "tested_at": "2026-11-03T01:51:22.625Z"
+  },
+  "trackers": {
+    "url": "https://web.de",
+    "found": [
+      {
+        "name": "Criteo",
+        "host": "static.criteo.net"
+      }
+    ],
+    "tested_at": "2026-11-03T01:39:01.096Z"
+  }
+}

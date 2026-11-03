@@ -4,7 +4,7 @@
     "repo": "runbox/runbox7",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-23T09:23:11.853Z"
+    "checked_at": "2026-11-03T01:38:56.007Z"
   },
   "internetnl": {
     "web": {
@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:52.226Z",
+    "tested_at": "2026-11-03T01:39:53.893Z",
     "imap": {
       "host": "mail.runbox.com",
       "port": 993,
@@ -91,17 +91,17 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=runbox.com",
-    "tested_at": "2026-11-02T12:30:20.640Z"
+    "tested_at": "2026-11-03T01:39:09.572Z"
   },
-  "scanned_at": "2026-11-02T12:30:55.071Z",
+  "scanned_at": "2026-11-03T01:51:25.395Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=runbox.com&hideResults=on",
-    "tested_at": "2026-10-25T09:14:01.273Z"
+    "tested_at": "2026-11-03T01:51:25.395Z"
   },
   "trackers": {
     "url": "https://runbox.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:33.519Z"
+    "tested_at": "2026-11-03T01:39:00.535Z"
   }
 }

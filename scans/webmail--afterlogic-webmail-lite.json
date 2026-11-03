@@ -3,9 +3,9 @@
     "repo": "afterlogic/webmail-lite-8",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-24T08:55:00.416Z"
+    "checked_at": "2026-11-03T01:38:56.973Z"
   },
-  "scanned_at": "2026-10-24T08:55:00.416Z",
+  "scanned_at": "2026-11-03T01:39:04.068Z",
   "trackers": {
     "url": "https://afterlogic.org/webmail-lite",
     "found": [
@@ -27,6 +27,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:34.820Z"
+    "tested_at": "2026-11-03T01:39:04.068Z"
   }
 }

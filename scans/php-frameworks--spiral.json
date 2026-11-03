@@ -3,9 +3,9 @@
     "repo": "spiral/framework",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-02T12:30:19.983Z"
+    "checked_at": "2026-11-03T01:39:37.726Z"
   },
-  "scanned_at": "2026-11-02T12:30:19.984Z",
+  "scanned_at": "2026-11-03T01:40:39.465Z",
   "trackers": {
     "url": "https://spiral.dev",
     "found": [
@@ -23,6 +23,6 @@
         "host": "snap.licdn.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:15.478Z"
+    "tested_at": "2026-11-03T01:40:39.465Z"
   }
 }

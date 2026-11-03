@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cleanbrowsing.org",
-    "tested_at": "2026-10-31T10:26:04.711Z"
+    "tested_at": "2026-11-03T01:40:52.607Z"
   },
-  "scanned_at": "2026-10-31T10:26:05.303Z",
+  "scanned_at": "2026-11-03T03:35:34.561Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
@@ -45,6 +45,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:23.758Z"
+    "tested_at": "2026-11-03T01:39:48.313Z"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "yang991178/fluent-reader",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-10-12T12:04:25.357Z"
+    "checked_at": "2026-11-03T01:39:46.543Z"
   },
-  "scanned_at": "2026-10-12T12:04:25.357Z",
+  "scanned_at": "2026-11-03T01:40:56.786Z",
   "trackers": {
     "url": "https://hyliu.me/fluent-reader/",
     "found": [],
-    "tested_at": "2026-10-01T06:59:58.197Z"
+    "tested_at": "2026-11-03T01:40:56.786Z"
   }
 }

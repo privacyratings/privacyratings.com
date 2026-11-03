@@ -3,12 +3,12 @@
     "repo": "brave/brave-talk",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-03T09:53:54.142Z"
+    "checked_at": "2026-11-03T01:39:09.278Z"
   },
-  "scanned_at": "2026-10-03T09:53:54.142Z",
+  "scanned_at": "2026-11-03T01:39:42.390Z",
   "trackers": {
     "url": "https://talk.brave.com",
     "found": [],
-    "tested_at": "2026-10-01T06:38:23.181Z"
+    "tested_at": "2026-11-03T01:39:42.390Z"
   }
 }

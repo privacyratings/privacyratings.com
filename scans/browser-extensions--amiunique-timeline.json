@@ -3,12 +3,12 @@
     "repo": "plaperdr/amiunique-webextension-firefox",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-15T09:11:20.900Z"
+    "checked_at": "2026-11-03T01:39:00.422Z"
   },
-  "scanned_at": "2026-10-15T09:11:20.900Z",
+  "scanned_at": "2026-11-03T01:39:11.825Z",
   "trackers": {
     "url": "https://amiunique.org/timeline",
     "found": [],
-    "tested_at": "2026-10-01T07:00:38.503Z"
+    "tested_at": "2026-11-03T01:39:11.825Z"
   }
 }

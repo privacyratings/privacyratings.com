@@ -3,9 +3,9 @@
     "repo": "balderdashy/sails",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:57.679Z"
+    "checked_at": "2026-11-03T01:39:30.735Z"
   },
-  "scanned_at": "2026-10-26T10:11:57.679Z",
+  "scanned_at": "2026-11-03T01:40:30.790Z",
   "trackers": {
     "url": "https://sailsjs.com",
     "found": [
@@ -29,6 +29,6 @@
         "host": "www.facebook.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:45.538Z"
+    "tested_at": "2026-11-03T01:40:30.790Z"
   }
 }

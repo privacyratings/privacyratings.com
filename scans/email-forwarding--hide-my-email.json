@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:58.159Z",
+    "tested_at": "2026-11-03T01:40:05.658Z",
     "imap": {
       "host": "imap.mail.me.com",
       "port": 993,
@@ -61,8 +61,8 @@
     },
     "smtp": {
       "host": "smtp.mail.me.com",
-      "port": 465,
-      "tls": "implicit",
+      "port": 587,
+      "tls": "starttls",
       "extensions": [
         "PIPELINING",
         "SIZE",
@@ -83,18 +83,18 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
-    "tested_at": "2026-11-01T11:18:49.821Z"
+    "tested_at": "2026-11-03T01:39:01.142Z"
   },
-  "scanned_at": "2026-11-02T12:30:58.392Z",
+  "scanned_at": "2026-11-03T01:54:28.748Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.icloud.com&hideResults=on",
-    "tested_at": "2026-10-24T08:58:02.145Z"
+    "tested_at": "2026-11-03T01:54:28.748Z"
   },
   "trackers": {
     "url": "https://support.apple.com/en-us/102548",
     "found": [],
-    "tested_at": "2026-10-01T07:01:32.753Z"
+    "tested_at": "2026-11-03T01:39:01.878Z"
   }
 }

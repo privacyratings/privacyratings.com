@@ -3,9 +3,9 @@
     "repo": "encoredev/encore",
     "license": "MPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:18.692Z"
+    "checked_at": "2026-11-03T01:39:38.018Z"
   },
-  "scanned_at": "2026-10-01T07:02:15.849Z",
+  "scanned_at": "2026-11-03T01:40:40.025Z",
   "trackers": {
     "url": "https://encore.dev",
     "found": [
@@ -26,6 +26,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-10-01T07:02:15.849Z"
+    "tested_at": "2026-11-03T01:40:40.025Z"
   }
 }

@@ -4,7 +4,7 @@
     "repo": "pia-foss/desktop",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-03T09:53:55.005Z"
+    "checked_at": "2026-11-03T01:39:10.809Z"
   },
   "internetnl": {
     "web": {
@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.privateinternetaccess.com",
-    "tested_at": "2026-10-26T10:12:10.231Z"
+    "tested_at": "2026-11-03T01:40:50.435Z"
   },
-  "scanned_at": "2026-10-30T11:04:25.461Z",
+  "scanned_at": "2026-11-03T03:32:29.034Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
@@ -56,6 +56,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:25.547Z"
+    "tested_at": "2026-11-03T01:39:46.702Z"
   }
 }

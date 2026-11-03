@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.netlify.com",
-    "tested_at": "2026-10-23T09:23:28.083Z"
+    "tested_at": "2026-11-03T01:47:13.403Z"
   },
-  "scanned_at": "2026-10-27T10:00:33.785Z",
+  "scanned_at": "2026-11-03T03:59:25.936Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.netlify.com&hideResults=on",
-    "tested_at": "2026-10-27T10:00:33.785Z"
+    "tested_at": "2026-11-03T03:59:25.936Z"
   },
   "trackers": {
     "url": "https://www.netlify.com",
@@ -39,6 +39,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:42.828Z"
+    "tested_at": "2026-11-03T01:39:54.768Z"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "blitz-js/blitz",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:31.651Z"
+    "checked_at": "2026-11-03T01:39:31.197Z"
   },
-  "scanned_at": "2026-10-30T10:53:31.651Z",
+  "scanned_at": "2026-11-03T01:40:31.898Z",
   "trackers": {
     "url": "https://blitzjs.com",
     "found": [],
-    "tested_at": "2026-10-01T07:02:05.212Z"
+    "tested_at": "2026-11-03T01:40:31.898Z"
   }
 }

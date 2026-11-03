@@ -13,18 +13,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=easyoptouts.com",
-    "tested_at": "2026-10-25T09:11:42.912Z"
+    "tested_at": "2026-11-03T01:40:26.309Z"
   },
-  "scanned_at": "2026-10-29T10:57:29.905Z",
+  "scanned_at": "2026-11-03T03:10:11.604Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=easyoptouts.com&hideResults=on",
-    "tested_at": "2026-10-29T10:57:29.905Z"
+    "tested_at": "2026-11-03T03:10:11.604Z"
   },
   "trackers": {
     "url": "https://easyoptouts.com",
     "found": [],
-    "tested_at": "2026-10-01T06:38:19.871Z"
+    "tested_at": "2026-11-03T01:39:34.507Z"
   }
 }

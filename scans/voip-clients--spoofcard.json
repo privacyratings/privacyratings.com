@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T07:00:50.254Z",
+  "scanned_at": "2026-11-03T01:39:43.963Z",
   "trackers": {
     "url": "https://www.spoofcard.com",
     "found": [
@@ -8,6 +8,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:00:50.253Z"
+    "tested_at": "2026-11-03T01:39:43.963Z"
   }
 }

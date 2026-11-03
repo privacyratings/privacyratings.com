@@ -4,7 +4,7 @@
     "repo": "LibreTranslate/LibreTranslate",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-08T11:24:51.810Z"
+    "checked_at": "2026-11-03T01:39:26.369Z"
   },
   "internetnl": {
     "web": {
@@ -19,14 +19,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=libretranslate.com",
-    "tested_at": "2026-10-28T10:37:52.623Z"
+    "tested_at": "2026-11-03T01:47:36.686Z"
   },
-  "scanned_at": "2026-11-01T11:33:06.059Z",
+  "scanned_at": "2026-11-03T04:26:59.949Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=libretranslate.com&hideResults=on",
-    "tested_at": "2026-11-01T11:33:06.058Z"
+    "tested_at": "2026-11-03T04:26:59.949Z"
   },
   "trackers": {
     "url": "https://libretranslate.com",
@@ -38,6 +38,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:49.118Z"
+    "tested_at": "2026-11-03T01:40:22.307Z"
   }
 }

@@ -4,7 +4,7 @@
     "repo": "Infomaniak/android-SwissTransfer",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-09T11:21:54.660Z"
+    "checked_at": "2026-11-03T01:39:28.004Z"
   },
   "internetnl": {
     "web": {
@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.swisstransfer.com",
-    "tested_at": "2026-10-29T10:56:06.959Z"
+    "tested_at": "2026-11-03T01:47:54.985Z"
   },
-  "scanned_at": "2026-11-02T12:46:14.031Z",
+  "scanned_at": "2026-11-03T04:34:55.075Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
@@ -31,6 +31,6 @@
   "trackers": {
     "url": "https://www.swisstransfer.com/en",
     "found": [],
-    "tested_at": "2026-10-01T06:38:53.289Z"
+    "tested_at": "2026-11-03T01:40:26.144Z"
   }
 }

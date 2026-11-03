@@ -15,15 +15,15 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.vultr.com",
     "tested_at": "2026-11-02T12:30:35.509Z"
   },
-  "scanned_at": "2026-11-02T12:30:35.707Z",
+  "scanned_at": "2026-11-03T04:01:49.396Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.vultr.com&hideResults=on",
-    "tested_at": "2026-10-23T09:34:05.279Z"
+    "tested_at": "2026-11-03T04:01:49.396Z"
   },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-10-01T07:01:26.831Z"
+    "tested_at": "2026-11-03T01:39:53.944Z"
   }
 }

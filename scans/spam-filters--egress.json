@@ -13,14 +13,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=switch.egress.com",
-    "tested_at": "2026-11-02T12:30:23.949Z"
+    "tested_at": "2026-11-03T01:39:17.829Z"
   },
-  "scanned_at": "2026-11-02T12:30:28.968Z",
+  "scanned_at": "2026-11-03T02:01:58.598Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=switch.egress.com&hideResults=on",
-    "tested_at": "2026-10-24T09:02:19.816Z"
+    "tested_at": "2026-11-03T02:01:58.598Z"
   },
   "trackers": {
     "url": "https://www.egress.com",
@@ -30,6 +30,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:35.858Z"
+    "tested_at": "2026-11-03T01:39:05.040Z"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "rfjakob/gocryptfs",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-02T10:32:55.350Z"
+    "checked_at": "2026-11-03T01:39:05.405Z"
   },
-  "scanned_at": "2026-10-02T10:32:55.350Z",
+  "scanned_at": "2026-11-03T01:39:21.140Z",
   "trackers": {
     "url": "https://nuetzlich.net/gocryptfs/",
     "found": [],
-    "tested_at": "2026-10-01T06:38:19.650Z"
+    "tested_at": "2026-11-03T01:39:21.140Z"
   }
 }

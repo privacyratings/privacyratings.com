@@ -48,7 +48,7 @@
         }
       }
     },
-    "tested_at": "2026-11-02T12:30:48.727Z",
+    "tested_at": "2026-11-03T01:39:49.638Z",
     "imap": {
       "host": "mail.riseup.net",
       "port": 993,
@@ -104,18 +104,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=riseup.net",
-    "tested_at": "2026-11-01T11:18:51.948Z"
+    "tested_at": "2026-11-03T01:39:08.845Z"
   },
-  "scanned_at": "2026-11-02T12:30:50.147Z",
+  "scanned_at": "2026-11-03T01:49:46.259Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=riseup.net&hideResults=on",
-    "tested_at": "2026-10-23T09:25:04.316Z"
+    "tested_at": "2026-11-03T01:49:46.259Z"
   },
   "trackers": {
     "url": "https://riseup.net",
     "found": [],
-    "tested_at": "2026-10-01T07:01:30.355Z"
+    "tested_at": "2026-11-03T01:38:59.882Z"
   }
 }

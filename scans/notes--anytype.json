@@ -3,12 +3,12 @@
     "repo": "anyproto/anytype-ts",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-05T11:33:34.053Z"
+    "checked_at": "2026-11-03T01:39:20.054Z"
   },
-  "scanned_at": "2026-10-05T11:33:34.053Z",
+  "scanned_at": "2026-11-03T01:40:11.041Z",
   "trackers": {
     "url": "https://anytype.io",
     "found": [],
-    "tested_at": "2026-10-01T06:38:37.831Z"
+    "tested_at": "2026-11-03T01:40:11.041Z"
   }
 }

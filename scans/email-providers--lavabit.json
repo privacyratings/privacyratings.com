@@ -1,0 +1,105 @@
+{
+  "domain": "lavabit.com",
+  "github": {
+    "repo": "lavabit/magma",
+    "license": "AGPL-3.0",
+    "archived": false,
+    "checked_at": "2026-11-03T01:38:55.757Z"
+  },
+  "mail": {
+    "dns": {
+      "domain": "lavabit.com",
+      "dnssec": true,
+      "mx": [
+        "lavabit.com"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "lavabit.com",
+          "port": 587
+        },
+        "imaps": {
+          "host": "lavabit.com",
+          "port": 993
+        },
+        "imap": {
+          "host": "lavabit.com",
+          "port": 143
+        },
+        "pop3s": {
+          "host": "lavabit.com",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-11-03T01:39:24.210Z",
+    "imap": {
+      "host": "lavabit.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4",
+        "IMAP4REV1",
+        "LITERAL+",
+        "ID"
+      ]
+    },
+    "pop3": {
+      "host": "lavabit.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "USER",
+        "UIDL",
+        "PIPELINING",
+        "EXPIRE",
+        "LOGIN-DELAY",
+        "RESP-CODES",
+        "AUTH-RESP-CODE",
+        "IMPLEMENTATION"
+      ]
+    },
+    "smtp": {
+      "host": "lavabit.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "8BITMIME",
+        "PIPELINING",
+        "SIZE",
+        "AUTH",
+        "EHLO"
+      ]
+    }
+  },
+  "mail_domain": "lavabit.com",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lavabit.com",
+    "tested_at": "2026-11-03T01:39:02.495Z"
+  },
+  "scanned_at": "2026-11-03T01:45:02.316Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 1,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=lavabit.com&hideResults=on",
+    "tested_at": "2026-11-03T01:45:02.316Z"
+  },
+  "trackers": {
+    "url": "https://lavabit.com",
+    "found": [],
+    "tested_at": "2026-11-03T01:38:57.655Z"
+  }
+}

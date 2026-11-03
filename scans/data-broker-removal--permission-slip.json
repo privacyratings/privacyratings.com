@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T06:38:20.175Z",
+  "scanned_at": "2026-11-03T01:39:34.558Z",
   "trackers": {
     "url": "https://joindeleteme.com/permission-slip/",
     "found": [
@@ -8,11 +8,15 @@
         "host": "inline code"
       },
       {
+        "name": "VWO",
+        "host": "dev.visualwebsiteoptimizer.com"
+      },
+      {
         "name": "Zendesk",
         "host": "static.zdassets.com",
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:20.175Z"
+    "tested_at": "2026-11-03T01:39:34.557Z"
   }
 }

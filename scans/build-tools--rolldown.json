@@ -3,12 +3,12 @@
     "repo": "rolldown/rolldown",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:59.110Z"
+    "checked_at": "2026-11-03T01:39:32.859Z"
   },
-  "scanned_at": "2026-10-26T10:11:59.110Z",
+  "scanned_at": "2026-11-03T01:40:34.058Z",
   "trackers": {
     "url": "https://rolldown.rs",
     "found": [],
-    "tested_at": "2026-10-01T07:01:46.969Z"
+    "tested_at": "2026-11-03T01:40:34.058Z"
   }
 }

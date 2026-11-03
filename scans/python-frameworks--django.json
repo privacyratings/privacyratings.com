@@ -3,12 +3,12 @@
     "repo": "django/django",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-11-01T11:18:49.971Z"
+    "checked_at": "2026-11-03T01:39:35.986Z"
   },
-  "scanned_at": "2026-11-01T11:18:49.971Z",
+  "scanned_at": "2026-11-03T01:40:37.132Z",
   "trackers": {
     "url": "https://www.djangoproject.com",
     "found": [],
-    "tested_at": "2026-10-01T07:02:12.063Z"
+    "tested_at": "2026-11-03T01:40:37.132Z"
   }
 }

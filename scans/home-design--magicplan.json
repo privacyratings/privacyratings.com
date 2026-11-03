@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cloud.magicplan.app",
-    "tested_at": "2026-10-26T10:12:18.777Z"
+    "tested_at": "2026-11-03T01:48:05.251Z"
   },
-  "scanned_at": "2026-10-28T10:56:50.140Z",
+  "scanned_at": "2026-11-03T04:47:10.436Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cloud.magicplan.app&hideResults=on",
-    "tested_at": "2026-10-28T10:56:50.140Z"
+    "tested_at": "2026-11-03T04:47:10.436Z"
   },
   "trackers": {
     "url": "https://magicplan.app",

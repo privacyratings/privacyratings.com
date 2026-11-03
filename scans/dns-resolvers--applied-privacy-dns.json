@@ -13,18 +13,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=applied-privacy.net",
-    "tested_at": "2026-10-27T09:51:30.352Z"
+    "tested_at": "2026-11-03T01:40:52.499Z"
   },
-  "scanned_at": "2026-10-31T10:32:22.959Z",
+  "scanned_at": "2026-11-03T03:34:32.168Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=applied-privacy.net&hideResults=on",
-    "tested_at": "2026-10-31T10:32:22.959Z"
+    "tested_at": "2026-11-03T03:34:32.168Z"
   },
   "trackers": {
     "url": "https://applied-privacy.net/services/dns/",
     "found": [],
-    "tested_at": "2026-10-01T06:38:26.170Z"
+    "tested_at": "2026-11-03T01:39:47.866Z"
   }
 }

@@ -3,9 +3,9 @@
     "repo": "tasks/tasks",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-07T11:07:09.182Z"
+    "checked_at": "2026-11-03T01:39:23.280Z"
   },
-  "scanned_at": "2026-10-07T11:07:09.182Z",
+  "scanned_at": "2026-11-03T01:40:15.904Z",
   "trackers": {
     "url": "https://tasks.org",
     "found": [
@@ -20,6 +20,6 @@
         "host": "us.i.posthog.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:42.833Z"
+    "tested_at": "2026-11-03T01:40:15.904Z"
   }
 }

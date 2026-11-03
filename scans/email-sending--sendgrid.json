@@ -13,14 +13,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sendgrid.com",
-    "tested_at": "2026-10-22T09:26:58.108Z"
+    "tested_at": "2026-11-03T01:39:37.349Z"
   },
-  "scanned_at": "2026-10-27T09:51:21.389Z",
+  "scanned_at": "2026-11-03T02:26:43.388Z",
   "ssllabs": {
     "grade": "A-",
-    "endpoints": 9,
+    "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sendgrid.com&hideResults=on",
-    "tested_at": "2026-10-27T09:51:21.389Z"
+    "tested_at": "2026-11-03T02:26:43.388Z"
   },
   "trackers": {
     "url": "https://www.twilio.com/en-us/sendgrid",

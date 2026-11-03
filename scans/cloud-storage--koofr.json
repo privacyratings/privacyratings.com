@@ -4,7 +4,7 @@
     "repo": "koofr/vault",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-23T09:23:13.036Z"
+    "checked_at": "2026-11-03T01:39:27.473Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=koofr.eu",
-    "tested_at": "2026-11-02T12:30:52.916Z"
+    "tested_at": "2026-11-03T01:47:49.428Z"
   },
-  "scanned_at": "2026-11-02T12:30:54.314Z",
+  "scanned_at": "2026-11-03T04:30:29.406Z",
   "ssllabs": {
-    "grade": "A-",
+    "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=koofr.eu&hideResults=on",
-    "tested_at": "2026-10-24T09:09:07.709Z"
+    "tested_at": "2026-11-03T04:30:29.406Z"
   },
   "trackers": {
     "url": "https://koofr.eu",
     "found": [],
-    "tested_at": "2026-10-01T07:01:28.074Z"
+    "tested_at": "2026-11-03T01:40:24.092Z"
   }
 }

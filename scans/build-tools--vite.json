@@ -3,9 +3,9 @@
     "repo": "vitejs/vite",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-27T09:51:20.305Z"
+    "checked_at": "2026-11-03T01:39:33.132Z"
   },
-  "scanned_at": "2026-10-27T09:51:20.305Z",
+  "scanned_at": "2026-11-03T01:40:34.037Z",
   "trackers": {
     "url": "https://vite.dev",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:47.400Z"
+    "tested_at": "2026-11-03T01:40:34.037Z"
   }
 }

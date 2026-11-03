@@ -3,9 +3,9 @@
     "repo": "nunchuk-io/nunchuk-android",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-27T09:51:21.107Z"
+    "checked_at": "2026-11-03T01:39:44.323Z"
   },
-  "scanned_at": "2026-10-27T09:51:21.107Z",
+  "scanned_at": "2026-11-03T01:40:48.451Z",
   "trackers": {
     "url": "https://nunchuk.io",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:48.551Z"
+    "tested_at": "2026-11-03T01:40:48.451Z"
   }
 }

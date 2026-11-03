@@ -4,7 +4,7 @@
     "repo": "TryGhost/Ghost",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-11T10:51:35.087Z"
+    "checked_at": "2026-11-03T01:39:46.109Z"
   },
   "internetnl": {
     "web": {
@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.ghost.org",
-    "tested_at": "2026-10-31T10:26:21.013Z"
+    "tested_at": "2026-11-03T01:48:13.274Z"
   },
-  "scanned_at": "2026-10-31T10:26:21.688Z",
+  "scanned_at": "2026-11-03T04:51:05.951Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
@@ -31,6 +31,6 @@
   "trackers": {
     "url": "https://ghost.org",
     "found": [],
-    "tested_at": "2026-10-01T06:59:57.819Z"
+    "tested_at": "2026-11-03T01:40:55.484Z"
   }
 }

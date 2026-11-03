@@ -3,9 +3,9 @@
     "repo": "timothepoznanski/poznote",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-19T09:58:10.675Z"
+    "checked_at": "2026-11-03T01:39:20.596Z"
   },
-  "scanned_at": "2026-10-19T09:58:10.675Z",
+  "scanned_at": "2026-11-03T01:40:11.749Z",
   "trackers": {
     "url": "https://poznote.com",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:06.033Z"
+    "tested_at": "2026-11-03T01:40:11.749Z"
   }
 }

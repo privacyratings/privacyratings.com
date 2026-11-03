@@ -15,16 +15,16 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.azure.com",
     "tested_at": "2026-10-28T10:37:36.489Z"
   },
-  "scanned_at": "2026-10-31T10:40:42.178Z",
+  "scanned_at": "2026-11-03T03:54:01.597Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=portal.azure.com&hideResults=on",
-    "tested_at": "2026-10-31T10:40:42.178Z"
+    "tested_at": "2026-11-03T03:54:01.597Z"
   },
   "trackers": {
     "url": "https://azure.microsoft.com/en-us",
     "found": [],
-    "tested_at": "2026-10-01T06:38:36.294Z"
+    "tested_at": "2026-11-03T01:40:01.150Z"
   }
 }

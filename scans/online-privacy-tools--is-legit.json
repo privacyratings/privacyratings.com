@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.islegitsite.com",
-    "tested_at": "2026-10-30T10:53:47.532Z"
+    "tested_at": "2026-11-03T01:40:13.901Z"
   },
-  "scanned_at": "2026-11-02T12:30:18.670Z",
+  "scanned_at": "2026-11-03T02:36:53.318Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.islegitsite.com&hideResults=on",
-    "tested_at": "2026-10-21T09:24:50.107Z"
+    "tested_at": "2026-11-03T02:36:53.318Z"
   },
   "trackers": {
     "url": "https://www.islegitsite.com",

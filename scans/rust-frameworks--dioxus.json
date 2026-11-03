@@ -3,9 +3,9 @@
     "repo": "DioxusLabs/dioxus",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:19.414Z"
+    "checked_at": "2026-11-03T01:39:38.608Z"
   },
-  "scanned_at": "2026-10-01T07:02:16.572Z",
+  "scanned_at": "2026-11-03T01:40:40.335Z",
   "trackers": {
     "url": "https://dioxuslabs.com",
     "found": [
@@ -25,6 +25,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:16.572Z"
+    "tested_at": "2026-11-03T01:40:40.335Z"
   }
 }

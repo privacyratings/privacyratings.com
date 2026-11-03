@@ -3,12 +3,12 @@
     "repo": "zed-industries/zed",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-09T11:21:55.734Z"
+    "checked_at": "2026-11-03T01:39:29.251Z"
   },
-  "scanned_at": "2026-10-09T11:21:55.734Z",
+  "scanned_at": "2026-11-03T01:40:29.516Z",
   "trackers": {
     "url": "https://zed.dev",
     "found": [],
-    "tested_at": "2026-10-01T06:59:43.645Z"
+    "tested_at": "2026-11-03T01:40:29.515Z"
   }
 }

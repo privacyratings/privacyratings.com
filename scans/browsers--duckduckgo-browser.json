@@ -3,12 +3,12 @@
     "repo": "duckduckgo/Android",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-28T10:37:33.693Z"
+    "checked_at": "2026-11-03T01:38:59.283Z"
   },
-  "scanned_at": "2026-10-28T10:37:33.693Z",
+  "scanned_at": "2026-11-03T01:39:08.262Z",
   "trackers": {
     "url": "https://duckduckgo.com/app/unsupported",
     "found": [],
-    "tested_at": "2026-10-01T07:01:52.604Z"
+    "tested_at": "2026-11-03T01:39:08.262Z"
   }
 }

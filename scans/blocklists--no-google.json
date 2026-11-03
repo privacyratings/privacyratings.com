@@ -3,12 +3,12 @@
     "repo": "nickspaargaren/no-google",
     "license": "Unlicense",
     "archived": false,
-    "checked_at": "2026-10-18T08:53:15.316Z"
+    "checked_at": "2026-11-03T01:39:12.904Z"
   },
-  "scanned_at": "2026-10-18T08:53:15.316Z",
+  "scanned_at": "2026-11-03T01:39:57.472Z",
   "trackers": {
     "url": "https://github.com/nickspaargaren/no-google",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-10-01T07:00:55.091Z"
+    "tested_at": "2026-11-03T01:39:57.472Z"
   }
 }

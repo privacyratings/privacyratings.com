@@ -3,12 +3,12 @@
     "repo": "FreeCAD/FreeCAD",
     "license": "LGPL-2.1",
     "archived": false,
-    "checked_at": "2026-10-13T11:51:45.997Z"
+    "checked_at": "2026-11-03T01:39:49.880Z"
   },
-  "scanned_at": "2026-10-13T11:51:45.997Z",
+  "scanned_at": "2026-11-03T01:41:04.143Z",
   "trackers": {
     "url": "https://www.freecad.org",
     "found": [],
-    "tested_at": "2026-10-01T07:00:21.215Z"
+    "tested_at": "2026-11-03T01:41:04.143Z"
   }
 }

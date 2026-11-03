@@ -1,18 +1,13 @@
 {
-  "scanned_at": "2026-10-01T06:59:50.340Z",
+  "scanned_at": "2026-11-03T01:40:45.084Z",
   "trackers": {
     "url": "https://flo.health",
     "found": [
       {
         "name": "Google Tag Manager",
         "host": "inline code"
-      },
-      {
-        "name": "Trustpilot",
-        "host": "widget.trustpilot.com",
-        "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:59:50.340Z"
+    "tested_at": "2026-11-03T01:40:45.084Z"
   }
 }

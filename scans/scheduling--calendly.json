@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=calendly.com",
-    "tested_at": "2026-10-28T10:37:41.029Z"
+    "tested_at": "2026-11-03T01:47:19.706Z"
   },
-  "scanned_at": "2026-10-31T10:41:51.707Z",
+  "scanned_at": "2026-11-03T04:08:08.981Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=calendly.com&hideResults=on",
-    "tested_at": "2026-10-31T10:41:51.707Z"
+    "tested_at": "2026-11-03T04:08:08.981Z"
   },
   "trackers": {
     "url": "https://calendly.com",
@@ -30,6 +30,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:39.869Z"
+    "tested_at": "2026-11-03T01:40:14.088Z"
   }
 }

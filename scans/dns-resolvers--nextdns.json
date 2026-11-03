@@ -4,7 +4,7 @@
     "repo": "nextdns/nextdns",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-22T09:26:56.023Z"
+    "checked_at": "2026-11-03T01:39:11.117Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nextdns.io",
-    "tested_at": "2026-10-31T10:26:05.694Z"
+    "tested_at": "2026-11-03T01:40:55.375Z"
   },
-  "scanned_at": "2026-10-31T10:26:06.138Z",
+  "scanned_at": "2026-11-03T03:35:38.155Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=nextdns.io&hideResults=on",
-    "tested_at": "2026-10-21T09:34:37.239Z"
+    "tested_at": "2026-11-03T03:35:38.155Z"
   },
   "trackers": {
     "url": "https://nextdns.io",
     "found": [],
-    "tested_at": "2026-10-01T07:01:23.845Z"
+    "tested_at": "2026-11-03T01:39:49.834Z"
   }
 }

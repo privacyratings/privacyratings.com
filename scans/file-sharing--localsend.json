@@ -3,9 +3,9 @@
     "repo": "localsend/localsend",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-09T11:21:54.491Z"
+    "checked_at": "2026-11-03T01:39:27.809Z"
   },
-  "scanned_at": "2026-10-09T11:21:54.491Z",
+  "scanned_at": "2026-11-03T01:40:25.005Z",
   "trackers": {
     "url": "https://localsend.org",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:52.307Z"
+    "tested_at": "2026-11-03T01:40:25.005Z"
   }
 }

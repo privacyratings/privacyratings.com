@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.hellosign.com",
-    "tested_at": "2026-10-28T10:37:46.722Z"
+    "tested_at": "2026-11-03T01:47:25.498Z"
   },
-  "scanned_at": "2026-11-01T11:28:50.171Z",
+  "scanned_at": "2026-11-03T04:11:38.858Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.hellosign.com&hideResults=on",
-    "tested_at": "2026-11-01T11:28:50.171Z"
+    "tested_at": "2026-11-03T04:11:38.858Z"
   },
   "trackers": {
     "url": "https://sign.dropbox.com",
@@ -30,6 +30,6 @@
         "host": "pubads.g.doubleclick.net"
       }
     ],
-    "tested_at": "2026-10-01T06:38:46.662Z"
+    "tested_at": "2026-11-03T01:40:20.311Z"
   }
 }

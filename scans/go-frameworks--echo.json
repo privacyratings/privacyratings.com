@@ -3,9 +3,9 @@
     "repo": "labstack/echo",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:18.621Z"
+    "checked_at": "2026-11-03T01:39:37.982Z"
   },
-  "scanned_at": "2026-10-01T07:02:15.881Z",
+  "scanned_at": "2026-11-03T01:40:39.734Z",
   "trackers": {
     "url": "https://echo.labstack.com",
     "found": [
@@ -20,15 +20,10 @@
         "host": "inline code"
       },
       {
-        "name": "Google Fonts",
-        "host": "fonts.googleapis.com",
-        "soft": true
-      },
-      {
         "name": "Google Tag Manager",
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:15.881Z"
+    "tested_at": "2026-11-03T01:40:39.734Z"
   }
 }

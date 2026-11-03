@@ -3,12 +3,12 @@
     "repo": "cryptoadvance/specter-desktop",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-27T09:51:21.128Z"
+    "checked_at": "2026-11-03T01:39:44.551Z"
   },
-  "scanned_at": "2026-10-27T09:51:21.128Z",
+  "scanned_at": "2026-11-03T01:40:48.542Z",
   "trackers": {
     "url": "https://specter.solutions/desktop/",
     "found": [],
-    "tested_at": "2026-10-01T07:01:48.475Z"
+    "tested_at": "2026-11-03T01:40:48.542Z"
   }
 }

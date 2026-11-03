@@ -13,18 +13,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.bing.com",
-    "tested_at": "2026-11-01T11:18:53.110Z"
+    "tested_at": "2026-11-03T01:39:38.766Z"
   },
-  "scanned_at": "2026-11-01T11:18:53.370Z",
+  "scanned_at": "2026-11-03T02:15:55.327Z",
   "ssllabs": {
     "grade": "A+",
-    "endpoints": 11,
+    "endpoints": 13,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.bing.com&hideResults=on",
-    "tested_at": "2026-10-21T09:24:07.567Z"
+    "tested_at": "2026-11-03T02:15:55.327Z"
   },
   "trackers": {
     "url": "https://www.bing.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:28.342Z"
+    "tested_at": "2026-11-03T01:39:13.314Z"
   }
 }

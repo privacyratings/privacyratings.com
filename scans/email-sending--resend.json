@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=resend.com",
-    "tested_at": "2026-10-24T08:55:02.821Z"
+    "tested_at": "2026-11-03T01:39:36.371Z"
   },
-  "scanned_at": "2026-10-27T09:51:20.990Z",
+  "scanned_at": "2026-11-03T02:13:32.173Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=resend.com&hideResults=on",
-    "tested_at": "2026-10-27T09:51:20.990Z"
+    "tested_at": "2026-11-03T02:13:32.173Z"
   },
   "trackers": {
     "url": "https://resend.com",

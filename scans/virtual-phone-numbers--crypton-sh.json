@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=crypton.sh",
-    "tested_at": "2026-10-31T10:25:52.524Z"
+    "tested_at": "2026-11-03T01:40:36.304Z"
   },
-  "scanned_at": "2026-10-31T10:25:56.151Z",
+  "scanned_at": "2026-11-03T03:20:32.628Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=crypton.sh&hideResults=on",
-    "tested_at": "2026-10-22T09:29:28.147Z"
+    "tested_at": "2026-11-03T03:20:32.628Z"
   },
   "trackers": {
     "url": "https://crypton.sh",
@@ -37,6 +37,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:22.434Z"
+    "tested_at": "2026-11-03T01:39:45.076Z"
   }
 }

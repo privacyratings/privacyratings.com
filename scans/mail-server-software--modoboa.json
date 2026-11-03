@@ -3,18 +3,12 @@
     "repo": "modoboa/modoboa",
     "license": "ISC",
     "archived": false,
-    "checked_at": "2026-10-28T10:37:33.633Z"
+    "checked_at": "2026-11-03T01:38:58.829Z"
   },
-  "scanned_at": "2026-10-28T10:37:33.633Z",
+  "scanned_at": "2026-11-03T01:39:09.370Z",
   "trackers": {
     "url": "https://modoboa.org/en/",
-    "found": [
-      {
-        "name": "Google Fonts",
-        "host": "fonts.googleapis.com",
-        "soft": true
-      }
-    ],
-    "tested_at": "2026-10-01T07:01:53.418Z"
+    "found": [],
+    "tested_at": "2026-11-03T01:39:09.370Z"
   }
 }

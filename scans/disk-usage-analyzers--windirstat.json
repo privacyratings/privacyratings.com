@@ -1,11 +1,11 @@
 {
   "github": {
     "repo": "windirstat/windirstat",
-    "license": "GPL-2.0",
+    "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:24.889Z"
+    "checked_at": "2026-11-03T01:39:17.596Z"
   },
-  "scanned_at": "2026-10-01T07:02:27.708Z",
+  "scanned_at": "2026-11-03T01:39:17.596Z",
   "trackers": {
     "url": "https://windirstat.net",
     "found": [],

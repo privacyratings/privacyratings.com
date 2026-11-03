@@ -3,12 +3,12 @@
     "repo": "scribusproject/scribus",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-14T09:33:44.603Z"
+    "checked_at": "2026-11-03T01:39:50.693Z"
   },
-  "scanned_at": "2026-10-14T09:33:44.603Z",
+  "scanned_at": "2026-11-03T01:41:05.481Z",
   "trackers": {
     "url": "https://www.scribus.net",
     "found": [],
-    "tested_at": "2026-10-01T07:00:30.456Z"
+    "tested_at": "2026-11-03T01:41:05.481Z"
   }
 }

@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.perplexity.ai",
-    "tested_at": "2026-10-29T10:55:53.394Z"
+    "tested_at": "2026-11-03T01:47:41.849Z"
   },
-  "scanned_at": "2026-11-02T12:41:37.470Z",
+  "scanned_at": "2026-11-03T04:27:49.559Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
@@ -23,7 +23,15 @@
     "tested_at": "2026-11-02T12:41:37.470Z"
   },
   "trackers": {
-    "error": "HTTP 403",
-    "tested_at": "2026-10-01T06:38:50.700Z"
+    "url": "https://www.perplexity.ai",
+    "found": [
+      {
+        "name": "Cloudflare Web Analytics",
+        "host": "static.cloudflareinsights.com",
+        "soft": true,
+        "analytics": true
+      }
+    ],
+    "tested_at": "2026-11-03T01:40:23.059Z"
   }
 }

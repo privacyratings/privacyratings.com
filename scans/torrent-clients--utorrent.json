@@ -1,17 +1,13 @@
 {
-  "scanned_at": "2026-10-01T07:00:04.027Z",
+  "scanned_at": "2026-11-03T01:41:01.048Z",
   "trackers": {
     "url": "https://www.utorrent.com",
     "found": [
-      {
-        "name": "Google Analytics",
-        "host": "inline code"
-      },
       {
         "name": "Google Tag Manager",
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:00:04.027Z"
+    "tested_at": "2026-11-03T01:41:01.047Z"
   }
 }

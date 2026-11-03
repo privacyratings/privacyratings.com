@@ -3,9 +3,9 @@
     "repo": "aurelia/aurelia",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:31.595Z"
+    "checked_at": "2026-11-03T01:39:31.125Z"
   },
-  "scanned_at": "2026-10-30T10:53:31.595Z",
+  "scanned_at": "2026-11-03T01:40:31.726Z",
   "trackers": {
     "url": "https://aurelia.io",
     "found": [
@@ -23,6 +23,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:05.176Z"
+    "tested_at": "2026-11-03T01:40:31.726Z"
   }
 }

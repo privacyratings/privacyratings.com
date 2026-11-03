@@ -4,7 +4,7 @@
     "repo": "Infomaniak/android-kMail",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-23T09:23:11.713Z"
+    "checked_at": "2026-11-03T01:38:55.758Z"
   },
   "internetnl": {
     "web": {
@@ -54,7 +54,7 @@
         }
       }
     },
-    "tested_at": "2026-11-02T12:30:29.237Z",
+    "tested_at": "2026-11-03T01:39:12.729Z",
     "imap": {
       "host": "mail.infomaniak.com",
       "port": 993,
@@ -106,18 +106,18 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ksuite.infomaniak.com",
-    "tested_at": "2026-11-01T11:18:50.314Z"
+    "tested_at": "2026-11-03T01:39:03.416Z"
   },
-  "scanned_at": "2026-11-02T12:30:31.416Z",
+  "scanned_at": "2026-11-03T01:44:42.995Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=ksuite.infomaniak.com&hideResults=on",
-    "tested_at": "2026-10-22T09:29:58.685Z"
+    "tested_at": "2026-11-03T01:44:42.995Z"
   },
   "trackers": {
     "url": "https://www.infomaniak.com/en/ksuite/service-mail",
     "found": [],
-    "tested_at": "2026-10-01T07:01:30.813Z"
+    "tested_at": "2026-11-03T01:38:57.715Z"
   }
 }

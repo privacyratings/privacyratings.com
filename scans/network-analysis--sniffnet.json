@@ -3,12 +3,12 @@
     "repo": "GyulyVGC/sniffnet",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-05T11:33:32.203Z"
+    "checked_at": "2026-11-03T01:39:15.426Z"
   },
-  "scanned_at": "2026-10-05T11:33:32.203Z",
+  "scanned_at": "2026-11-03T01:40:01.909Z",
   "trackers": {
     "url": "https://sniffnet.app",
     "found": [],
-    "tested_at": "2026-10-01T06:38:32.616Z"
+    "tested_at": "2026-11-03T01:40:01.909Z"
   }
 }

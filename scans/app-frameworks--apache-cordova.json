@@ -3,12 +3,12 @@
     "repo": "apache/cordova",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-31T10:25:50.446Z"
+    "checked_at": "2026-11-03T01:39:34.423Z"
   },
-  "scanned_at": "2026-10-31T10:25:50.446Z",
+  "scanned_at": "2026-11-03T01:40:34.857Z",
   "trackers": {
     "url": "https://cordova.apache.org",
     "found": [],
-    "tested_at": "2026-10-01T07:02:07.739Z"
+    "tested_at": "2026-11-03T01:40:34.856Z"
   }
 }

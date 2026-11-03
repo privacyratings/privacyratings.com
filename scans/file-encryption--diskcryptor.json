@@ -3,9 +3,9 @@
     "repo": "DiskCryptor/DiskCryptor",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-16T09:04:08.161Z"
+    "checked_at": "2026-11-03T01:39:05.364Z"
   },
-  "scanned_at": "2026-10-16T09:04:08.161Z",
+  "scanned_at": "2026-11-03T01:39:21.324Z",
   "trackers": {
     "url": "https://diskcryptor.org",
     "found": [
@@ -20,6 +20,6 @@
         "host": "pagead2.googlesyndication.com"
       }
     ],
-    "tested_at": "2026-10-01T07:00:43.660Z"
+    "tested_at": "2026-11-03T01:39:21.324Z"
   }
 }

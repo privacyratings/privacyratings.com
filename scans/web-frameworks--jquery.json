@@ -3,12 +3,12 @@
     "repo": "jquery/jquery",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:32.133Z"
+    "checked_at": "2026-11-03T01:39:31.609Z"
   },
-  "scanned_at": "2026-10-30T10:53:32.133Z",
+  "scanned_at": "2026-11-03T01:40:32.225Z",
   "trackers": {
     "url": "https://jquery.com",
     "found": [],
-    "tested_at": "2026-10-01T07:02:05.515Z"
+    "tested_at": "2026-11-03T01:40:32.225Z"
   }
 }

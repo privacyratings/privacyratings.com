@@ -3,12 +3,12 @@
     "repo": "FiloSottile/age",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-10-29T10:55:33.902Z"
+    "checked_at": "2026-11-03T01:39:05.167Z"
   },
-  "scanned_at": "2026-10-29T10:55:33.902Z",
+  "scanned_at": "2026-11-03T01:39:21.125Z",
   "trackers": {
     "url": "https://github.com/FiloSottile/age",
     "found": [],
-    "tested_at": "2026-10-01T07:01:55.155Z"
+    "tested_at": "2026-11-03T01:39:21.125Z"
   }
 }

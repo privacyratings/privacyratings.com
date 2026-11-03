@@ -4,7 +4,7 @@
     "repo": "internxt/drive-desktop",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-23T09:23:12.716Z"
+    "checked_at": "2026-11-03T01:39:27.420Z"
   },
   "internetnl": {
     "web": {
@@ -19,14 +19,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=internxt.com",
-    "tested_at": "2026-11-02T12:30:42.847Z"
+    "tested_at": "2026-11-03T01:47:46.845Z"
   },
-  "scanned_at": "2026-11-02T12:30:52.365Z",
+  "scanned_at": "2026-11-03T04:30:59.903Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=internxt.com&hideResults=on",
-    "tested_at": "2026-10-22T09:44:06.683Z"
+    "tested_at": "2026-11-03T04:30:59.903Z"
   },
   "trackers": {
     "url": "https://internxt.com",
@@ -41,6 +41,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:29.899Z"
+    "tested_at": "2026-11-03T01:40:26.690Z"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "tauri-apps/tauri",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-11-01T11:18:49.706Z"
+    "checked_at": "2026-11-03T01:39:35.726Z"
   },
-  "scanned_at": "2026-11-01T11:18:49.706Z",
+  "scanned_at": "2026-11-03T01:40:36.765Z",
   "trackers": {
     "url": "https://tauri.app",
     "found": [],
-    "tested_at": "2026-10-01T07:02:11.470Z"
+    "tested_at": "2026-11-03T01:40:36.765Z"
   }
 }

@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=zcal.co",
-    "tested_at": "2026-10-24T08:55:23.238Z"
+    "tested_at": "2026-11-03T01:47:22.666Z"
   },
-  "scanned_at": "2026-10-27T10:08:10.023Z",
+  "scanned_at": "2026-11-03T04:08:10.390Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=zcal.co&hideResults=on",
-    "tested_at": "2026-10-27T10:08:10.023Z"
+    "tested_at": "2026-11-03T04:08:10.390Z"
   },
   "trackers": {
     "url": "https://zcal.co",

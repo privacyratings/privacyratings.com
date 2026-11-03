@@ -3,11 +3,11 @@
     "repo": "raspberrypi/rpi-imager",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-27T09:51:19.995Z"
+    "checked_at": "2026-11-03T01:39:16.839Z"
   },
-  "scanned_at": "2026-10-27T09:51:19.995Z",
+  "scanned_at": "2026-11-03T01:40:05.644Z",
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-10-01T07:01:48.979Z"
+    "tested_at": "2026-11-03T01:40:05.643Z"
   }
 }

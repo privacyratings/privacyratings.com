@@ -3,12 +3,12 @@
     "repo": "emberjs/ember.js",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:57.932Z"
+    "checked_at": "2026-11-03T01:39:31.225Z"
   },
-  "scanned_at": "2026-10-26T10:11:57.932Z",
+  "scanned_at": "2026-11-03T01:40:31.964Z",
   "trackers": {
     "url": "https://emberjs.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:46.143Z"
+    "tested_at": "2026-11-03T01:40:31.964Z"
   }
 }

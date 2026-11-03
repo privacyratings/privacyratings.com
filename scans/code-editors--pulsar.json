@@ -3,12 +3,12 @@
     "repo": "pulsar-edit/pulsar",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-09T11:21:55.483Z"
+    "checked_at": "2026-11-03T01:39:28.980Z"
   },
-  "scanned_at": "2026-10-09T11:21:55.483Z",
+  "scanned_at": "2026-11-03T01:40:28.346Z",
   "trackers": {
     "url": "https://pulsar-edit.dev",
     "found": [],
-    "tested_at": "2026-10-01T06:59:41.457Z"
+    "tested_at": "2026-11-03T01:40:28.346Z"
   }
 }

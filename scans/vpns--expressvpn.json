@@ -4,7 +4,7 @@
     "repo": "expressvpn/lightway",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-03T09:53:54.579Z"
+    "checked_at": "2026-11-03T01:39:10.255Z"
   },
   "internetnl": {
     "web": {
@@ -19,14 +19,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.expressvpn.com",
-    "tested_at": "2026-10-26T10:12:07.137Z"
+    "tested_at": "2026-11-03T01:40:46.866Z"
   },
-  "scanned_at": "2026-10-30T10:59:29.699Z",
+  "scanned_at": "2026-11-03T03:27:03.441Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.expressvpn.com&hideResults=on",
-    "tested_at": "2026-10-30T10:59:29.699Z"
+    "tested_at": "2026-11-03T03:27:03.441Z"
   },
   "trackers": {
     "url": "https://www.expressvpn.com",
@@ -41,6 +41,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:25.254Z"
+    "tested_at": "2026-11-03T01:39:45.406Z"
   }
 }

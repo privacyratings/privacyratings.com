@@ -4,7 +4,7 @@
     "repo": "trycompai/comp",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-24T08:55:01.560Z"
+    "checked_at": "2026-11-03T01:39:06.526Z"
   },
   "internetnl": {
     "web": {
@@ -19,14 +19,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.trycomp.ai",
-    "tested_at": "2026-10-22T09:27:16.510Z"
+    "tested_at": "2026-11-03T01:40:23.658Z"
   },
-  "scanned_at": "2026-10-25T09:23:54.686Z",
+  "scanned_at": "2026-11-03T02:53:38.571Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.trycomp.ai&hideResults=on",
-    "tested_at": "2026-10-25T09:23:54.686Z"
+    "tested_at": "2026-11-03T02:53:38.571Z"
   },
   "trackers": {
     "url": "https://www.trycomp.ai",
@@ -36,6 +36,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-10-01T07:01:41.163Z"
+    "tested_at": "2026-11-03T01:39:33.756Z"
   }
 }

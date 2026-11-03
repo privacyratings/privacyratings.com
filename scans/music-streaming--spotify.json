@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=open.spotify.com",
-    "tested_at": "2026-10-24T08:55:32.490Z"
+    "tested_at": "2026-11-03T01:48:11.975Z"
   },
-  "scanned_at": "2026-10-27T10:05:25.360Z",
+  "scanned_at": "2026-11-03T04:47:12.462Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=open.spotify.com&hideResults=on",
-    "tested_at": "2026-10-27T10:05:25.360Z"
+    "tested_at": "2026-11-03T04:47:12.462Z"
   },
   "trackers": {
     "url": "https://open.spotify.com",
@@ -31,6 +31,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:02.575Z"
+    "tested_at": "2026-11-03T01:40:55.264Z"
   }
 }

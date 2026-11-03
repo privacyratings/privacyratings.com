@@ -13,17 +13,17 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kit.com",
-    "tested_at": "2026-10-26T10:12:00.389Z"
+    "tested_at": "2026-11-03T01:40:32.610Z"
   },
-  "scanned_at": "2026-10-30T10:59:29.550Z",
+  "scanned_at": "2026-11-03T03:14:15.009Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kit.com&hideResults=on",
-    "tested_at": "2026-10-30T10:59:29.550Z"
+    "tested_at": "2026-11-03T03:14:15.009Z"
   },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-10-01T06:38:23.842Z"
+    "tested_at": "2026-11-03T01:39:42.950Z"
   }
 }

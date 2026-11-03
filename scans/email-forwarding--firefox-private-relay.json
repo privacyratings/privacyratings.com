@@ -4,7 +4,7 @@
     "repo": "mozilla/fx-private-relay",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-24T08:55:00.421Z"
+    "checked_at": "2026-11-03T01:38:56.234Z"
   },
   "internetnl": {
     "web": {
@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:58.046Z",
+    "tested_at": "2026-11-03T01:40:05.453Z",
     "imap": {
       "offered": false
     },
@@ -57,18 +57,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=relay.firefox.com",
-    "tested_at": "2026-11-02T12:30:22.044Z"
+    "tested_at": "2026-11-03T01:39:14.593Z"
   },
-  "scanned_at": "2026-11-02T12:30:58.046Z",
+  "scanned_at": "2026-11-03T02:00:59.470Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=relay.firefox.com&hideResults=on",
-    "tested_at": "2026-10-24T09:04:14.492Z"
+    "tested_at": "2026-11-03T02:00:59.470Z"
   },
   "trackers": {
     "url": "https://relay.firefox.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:32.669Z"
+    "tested_at": "2026-11-03T01:39:01.595Z"
   }
 }

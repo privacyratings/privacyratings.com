@@ -3,12 +3,12 @@
     "repo": "samuel-lucas6/Kryptor",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-02T10:32:55.553Z"
+    "checked_at": "2026-11-03T01:39:05.389Z"
   },
-  "scanned_at": "2026-10-02T10:32:55.553Z",
+  "scanned_at": "2026-11-03T01:39:22.254Z",
   "trackers": {
     "url": "https://www.kryptor.co.uk",
     "found": [],
-    "tested_at": "2026-10-01T06:38:19.255Z"
+    "tested_at": "2026-11-03T01:39:22.254Z"
   }
 }

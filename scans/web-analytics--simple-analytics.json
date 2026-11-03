@@ -4,7 +4,7 @@
     "repo": "simpleanalytics/scripts",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-10T10:38:57.363Z"
+    "checked_at": "2026-11-03T01:39:41.742Z"
   },
   "internetnl": {
     "web": {
@@ -19,14 +19,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.simpleanalytics.com",
-    "tested_at": "2026-10-30T10:53:52.839Z"
+    "tested_at": "2026-11-03T01:48:01.796Z"
   },
-  "scanned_at": "2026-11-02T12:51:10.618Z",
+  "scanned_at": "2026-11-03T04:37:55.068Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.simpleanalytics.com&hideResults=on",
-    "tested_at": "2026-11-02T12:51:10.618Z"
+    "tested_at": "2026-11-03T04:37:55.067Z"
   },
   "trackers": {
     "url": "https://www.simpleanalytics.com",
@@ -38,6 +38,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:59:46.652Z"
+    "tested_at": "2026-11-03T01:40:42.592Z"
   }
 }

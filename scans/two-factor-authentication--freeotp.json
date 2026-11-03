@@ -3,12 +3,12 @@
     "repo": "freeotp/freeotp-android",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-02T10:32:55.140Z"
+    "checked_at": "2026-11-03T01:39:04.798Z"
   },
-  "scanned_at": "2026-10-02T10:32:55.140Z",
+  "scanned_at": "2026-11-03T01:39:19.370Z",
   "trackers": {
     "url": "https://freeotp.github.io",
     "found": [],
-    "tested_at": "2026-10-01T06:38:18.551Z"
+    "tested_at": "2026-11-03T01:39:19.370Z"
   }
 }

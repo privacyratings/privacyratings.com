@@ -3,12 +3,12 @@
     "repo": "dgud/wings",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-22T09:26:56.404Z"
+    "checked_at": "2026-11-03T01:39:51.070Z"
   },
-  "scanned_at": "2026-10-22T09:26:56.404Z",
+  "scanned_at": "2026-11-03T01:41:06.625Z",
   "trackers": {
     "url": "https://www.wings3d.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:19.568Z"
+    "tested_at": "2026-11-03T01:41:06.625Z"
   }
 }

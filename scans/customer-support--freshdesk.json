@@ -13,14 +13,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.freshworks.com",
-    "tested_at": "2026-10-26T10:12:02.879Z"
+    "tested_at": "2026-11-03T01:40:35.581Z"
   },
-  "scanned_at": "2026-10-29T11:01:44.582Z",
+  "scanned_at": "2026-11-03T03:14:48.344Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.freshworks.com&hideResults=on",
-    "tested_at": "2026-10-29T11:01:44.582Z"
+    "tested_at": "2026-11-03T03:14:48.344Z"
   },
   "trackers": {
     "url": "https://www.freshworks.com/freshdesk/",
@@ -39,6 +39,6 @@
         "host": "cdn.optimizely.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:24.498Z"
+    "tested_at": "2026-11-03T01:39:43.426Z"
   }
 }

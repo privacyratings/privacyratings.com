@@ -13,14 +13,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=doyensec.com",
-    "tested_at": "2026-10-22T09:27:04.737Z"
+    "tested_at": "2026-11-03T01:40:18.763Z"
   },
-  "scanned_at": "2026-10-27T09:55:13.016Z",
+  "scanned_at": "2026-11-03T02:45:56.243Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=doyensec.com&hideResults=on",
-    "tested_at": "2026-10-27T09:55:13.016Z"
+    "tested_at": "2026-11-03T02:45:56.243Z"
   },
   "trackers": {
     "url": "https://doyensec.com",
@@ -31,6 +31,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:39.048Z"
+    "tested_at": "2026-11-03T01:39:32.185Z"
   }
 }

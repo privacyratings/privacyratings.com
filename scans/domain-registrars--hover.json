@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hover.com",
-    "tested_at": "2026-10-27T09:51:47.908Z"
+    "tested_at": "2026-11-03T01:41:03.038Z"
   },
-  "scanned_at": "2026-11-01T11:22:12.268Z",
+  "scanned_at": "2026-11-03T03:45:01.596Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
@@ -35,6 +35,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:27.572Z"
+    "tested_at": "2026-11-03T01:39:51.420Z"
   }
 }

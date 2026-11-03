@@ -3,11 +3,11 @@
     "repo": "dokuwiki/dokuwiki",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-06T11:19:07.167Z"
+    "checked_at": "2026-11-03T01:39:21.259Z"
   },
-  "scanned_at": "2026-10-06T11:19:07.167Z",
+  "scanned_at": "2026-11-03T01:40:13.470Z",
   "trackers": {
     "error": "HTTP 402",
-    "tested_at": "2026-10-01T06:38:39.328Z"
+    "tested_at": "2026-11-03T01:40:13.470Z"
   }
 }

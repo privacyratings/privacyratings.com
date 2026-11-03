@@ -3,12 +3,12 @@
     "repo": "ProtonMail/android-calendar",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-19T09:58:11.227Z"
+    "checked_at": "2026-11-03T01:39:22.212Z"
   },
-  "scanned_at": "2026-10-19T09:58:11.227Z",
+  "scanned_at": "2026-11-03T01:40:14.268Z",
   "trackers": {
     "url": "https://proton.me/calendar",
     "found": [],
-    "tested_at": "2026-10-01T07:01:07.067Z"
+    "tested_at": "2026-11-03T01:40:14.268Z"
   }
 }

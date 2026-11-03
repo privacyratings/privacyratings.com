@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=customerportal.darktrace.com",
-    "tested_at": "2026-10-27T09:51:20.383Z"
+    "tested_at": "2026-11-03T01:39:17.021Z"
   },
-  "scanned_at": "2026-10-30T10:58:13.103Z",
+  "scanned_at": "2026-11-03T02:00:43.746Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

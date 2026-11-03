@@ -13,17 +13,17 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.godaddy.com",
-    "tested_at": "2026-10-27T09:51:47.505Z"
+    "tested_at": "2026-11-03T01:41:02.974Z"
   },
-  "scanned_at": "2026-11-01T11:27:33.745Z",
+  "scanned_at": "2026-11-03T03:42:00.984Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.godaddy.com&hideResults=on",
-    "tested_at": "2026-11-01T11:27:33.745Z"
+    "tested_at": "2026-11-03T03:42:00.984Z"
   },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-10-01T06:38:27.371Z"
+    "tested_at": "2026-11-03T01:39:50.854Z"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "CarterCommunity/Carter",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:20.786Z"
+    "checked_at": "2026-11-03T01:39:39.885Z"
   },
-  "scanned_at": "2026-10-01T07:02:18.433Z",
+  "scanned_at": "2026-11-03T01:40:41.141Z",
   "trackers": {
     "url": "https://github.com/CarterCommunity/Carter",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-10-01T07:02:18.433Z"
+    "tested_at": "2026-11-03T01:40:41.141Z"
   }
 }

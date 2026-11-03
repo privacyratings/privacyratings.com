@@ -3,9 +3,9 @@
     "repo": "hotwired/turbo",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-02T12:30:19.063Z"
+    "checked_at": "2026-11-03T01:39:36.996Z"
   },
-  "scanned_at": "2026-11-02T12:30:19.063Z",
+  "scanned_at": "2026-11-03T01:40:38.252Z",
   "trackers": {
     "url": "https://hotwired.dev",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:13.919Z"
+    "tested_at": "2026-11-03T01:40:38.252Z"
   }
 }

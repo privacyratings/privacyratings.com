@@ -3,12 +3,12 @@
     "repo": "infernojs/inferno",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:31.899Z"
+    "checked_at": "2026-11-03T01:39:31.637Z"
   },
-  "scanned_at": "2026-10-30T10:53:31.899Z",
+  "scanned_at": "2026-11-03T01:40:32.591Z",
   "trackers": {
     "url": "https://www.infernojs.org",
     "found": [],
-    "tested_at": "2026-10-01T07:02:06.901Z"
+    "tested_at": "2026-11-03T01:40:32.591Z"
   }
 }

@@ -1,0 +1,103 @@
+{
+  "domain": "tb.pro",
+  "github": {
+    "repo": "thunderbird/thunderbird-accounts",
+    "license": "MPL-2.0",
+    "archived": false,
+    "checked_at": "2026-11-03T01:38:56.036Z"
+  },
+  "mail": {
+    "dns": {
+      "domain": "thundermail.com",
+      "dnssec": false,
+      "mx": [
+        "mail.thundermail.com"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": true,
+      "mta_sts": "testing",
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": {
+          "host": "mail.thundermail.com",
+          "port": 465
+        },
+        "submission": {
+          "host": "mail.thundermail.com",
+          "port": 587
+        },
+        "imaps": {
+          "host": "mail.thundermail.com",
+          "port": 993
+        },
+        "imap": {
+          "host": "mail.thundermail.com",
+          "port": 143
+        },
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-11-03T01:39:58.039Z",
+    "imap": {
+      "host": "mail.thundermail.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV2",
+        "IMAP4REV1",
+        "ENABLE",
+        "SASL-IR",
+        "LITERAL+",
+        "ID",
+        "UTF8=ACCEPT",
+        "JMAPACCESS",
+        "AUTH=PLAIN",
+        "AUTH=OAUTHBEARER",
+        "AUTH=XOAUTH2"
+      ]
+    },
+    "pop3": {
+      "offered": false
+    },
+    "smtp": {
+      "host": "mail.thundermail.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "SMTPUTF8",
+        "SIZE",
+        "REQUIRETLS",
+        "PIPELINING",
+        "NO-SOLICITING",
+        "ENHANCEDSTATUSCODES",
+        "CHUNKING",
+        "BINARYMIME",
+        "AUTH",
+        "8BITMIME"
+      ]
+    }
+  },
+  "mail_domain": "thundermail.com",
+  "observatory": {
+    "grade": "B",
+    "score": 70,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tb.pro",
+    "tested_at": "2026-11-03T01:39:10.112Z"
+  },
+  "scanned_at": "2026-11-03T01:49:51.781Z",
+  "ssllabs": {
+    "grade": "B",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tb.pro&hideResults=on",
+    "tested_at": "2026-11-03T01:49:51.780Z"
+  },
+  "trackers": {
+    "url": "https://tb.pro/en-US/",
+    "found": [],
+    "tested_at": "2026-11-03T01:39:00.495Z"
+  }
+}

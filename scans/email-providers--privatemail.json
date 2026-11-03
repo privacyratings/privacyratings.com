@@ -1,0 +1,70 @@
+{
+  "domain": "privatemail.com",
+  "mail": {
+    "dns": {
+      "domain": "privatemail.com",
+      "dnssec": false,
+      "mx": [
+        "mx1.mailchannels.net",
+        "mx2.mailchannels.net"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": null,
+        "imaps": null,
+        "imap": null,
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-11-03T01:39:44.044Z",
+    "imap": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "pop3": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "smtp": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    }
+  },
+  "mail_domain": "privatemail.com",
+  "observatory": {
+    "grade": "D",
+    "score": 30,
+    "tests_passed": 8,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privatemail.com",
+    "tested_at": "2026-11-03T01:39:08.343Z"
+  },
+  "scanned_at": "2026-11-03T01:52:17.424Z",
+  "ssllabs": {
+    "grade": "A",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=privatemail.com&hideResults=on",
+    "tested_at": "2026-11-03T01:52:17.424Z"
+  },
+  "trackers": {
+    "url": "https://privatemail.com",
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.googleapis.com",
+        "soft": true
+      },
+      {
+        "name": "LiveChat",
+        "host": "www.livechatinc.com"
+      }
+    ],
+    "tested_at": "2026-11-03T01:38:58.918Z"
+  }
+}

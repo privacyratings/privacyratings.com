@@ -3,9 +3,9 @@
     "repo": "QwikDev/qwik",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-26T10:11:58.260Z"
+    "checked_at": "2026-11-03T01:39:32.019Z"
   },
-  "scanned_at": "2026-10-26T10:11:58.260Z",
+  "scanned_at": "2026-11-03T01:40:32.841Z",
   "trackers": {
     "url": "https://qwik.dev",
     "found": [
@@ -20,6 +20,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:46.771Z"
+    "tested_at": "2026-11-03T01:40:32.841Z"
   }
 }

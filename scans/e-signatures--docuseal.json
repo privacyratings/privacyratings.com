@@ -4,7 +4,7 @@
     "repo": "docusealco/docuseal",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-07T11:07:10.404Z"
+    "checked_at": "2026-11-03T01:39:25.519Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.docuseal.com",
-    "tested_at": "2026-10-28T10:37:46.245Z"
+    "tested_at": "2026-11-03T01:47:25.547Z"
   },
-  "scanned_at": "2026-11-02T12:47:38.977Z",
+  "scanned_at": "2026-11-03T04:24:32.364Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.docuseal.com&hideResults=on",
-    "tested_at": "2026-11-02T12:47:38.977Z"
+    "tested_at": "2026-11-03T04:24:32.364Z"
   },
   "trackers": {
     "url": "https://www.docuseal.com",
     "found": [],
-    "tested_at": "2026-10-01T06:38:46.528Z"
+    "tested_at": "2026-11-03T01:40:19.992Z"
   }
 }

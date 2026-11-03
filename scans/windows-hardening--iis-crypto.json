@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T07:01:03.024Z",
+  "scanned_at": "2026-11-03T01:40:07.892Z",
   "trackers": {
     "url": "https://www.nartac.com/Products/IISCrypto",
     "found": [
@@ -8,6 +8,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:03.024Z"
+    "tested_at": "2026-11-03T01:40:07.891Z"
   }
 }

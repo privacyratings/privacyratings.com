@@ -3,9 +3,9 @@
     "repo": "coollabsio/coolify",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-25T09:11:34.785Z"
+    "checked_at": "2026-11-03T01:39:11.319Z"
   },
-  "scanned_at": "2026-10-25T09:11:34.785Z",
+  "scanned_at": "2026-11-03T01:39:54.561Z",
   "trackers": {
     "url": "https://coolify.io",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:42.083Z"
+    "tested_at": "2026-11-03T01:39:54.560Z"
   }
 }

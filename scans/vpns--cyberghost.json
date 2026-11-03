@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cyberghostvpn.com",
-    "tested_at": "2026-10-26T10:12:06.318Z"
+    "tested_at": "2026-11-03T01:40:46.813Z"
   },
-  "scanned_at": "2026-10-30T11:07:10.288Z",
+  "scanned_at": "2026-11-03T03:29:02.578Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
@@ -46,6 +46,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:25.263Z"
+    "tested_at": "2026-11-03T01:39:45.397Z"
   }
 }

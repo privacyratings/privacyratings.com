@@ -3,9 +3,9 @@
     "repo": "blueprint-freespeech/ricochet-refresh",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-17T08:36:46.611Z"
+    "checked_at": "2026-11-03T01:39:08.447Z"
   },
-  "scanned_at": "2026-10-17T08:36:46.611Z",
+  "scanned_at": "2026-11-03T01:39:40.710Z",
   "trackers": {
     "url": "https://www.ricochetrefresh.net",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:00:47.912Z"
+    "tested_at": "2026-11-03T01:39:40.710Z"
   }
 }

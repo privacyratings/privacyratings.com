@@ -37,7 +37,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-02T12:30:37.737Z",
+    "tested_at": "2026-11-03T01:39:32.905Z",
     "imap": {
       "host": "imap.mailbox.org",
       "port": 993,
@@ -96,9 +96,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailbox.org",
-    "tested_at": "2026-10-22T09:26:54.846Z"
+    "tested_at": "2026-11-03T01:38:31.602Z"
   },
-  "scanned_at": "2026-11-02T12:30:39.312Z",
+  "scanned_at": "2026-11-03T01:46:59.307Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
@@ -108,6 +108,6 @@
   "trackers": {
     "url": "https://mailbox.org/en/",
     "found": [],
-    "tested_at": "2026-10-01T07:01:53.301Z"
+    "tested_at": "2026-11-03T01:38:58.742Z"
   }
 }

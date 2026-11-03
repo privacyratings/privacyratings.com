@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-01T06:38:50.250Z",
+  "scanned_at": "2026-11-03T01:40:22.670Z",
   "trackers": {
     "url": "https://lmstudio.ai",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:50.250Z"
+    "tested_at": "2026-11-03T01:40:22.670Z"
   }
 }

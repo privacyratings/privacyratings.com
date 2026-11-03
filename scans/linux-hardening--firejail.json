@@ -3,12 +3,12 @@
     "repo": "netblue30/firejail",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-19T09:58:09.621Z"
+    "checked_at": "2026-11-03T01:39:18.472Z"
   },
-  "scanned_at": "2026-10-19T09:58:09.621Z",
+  "scanned_at": "2026-11-03T01:40:07.231Z",
   "trackers": {
     "url": "https://github.com/netblue30/firejail",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-10-01T07:01:02.048Z"
+    "tested_at": "2026-11-03T01:40:07.231Z"
   }
 }

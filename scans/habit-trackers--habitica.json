@@ -3,9 +3,9 @@
     "repo": "HabitRPG/habitica",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-09T11:21:54.962Z"
+    "checked_at": "2026-11-03T01:39:28.086Z"
   },
-  "scanned_at": "2026-10-09T11:21:54.962Z",
+  "scanned_at": "2026-11-03T01:40:25.772Z",
   "trackers": {
     "url": "https://habitica.com",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:53.303Z"
+    "tested_at": "2026-11-03T01:40:25.772Z"
   }
 }

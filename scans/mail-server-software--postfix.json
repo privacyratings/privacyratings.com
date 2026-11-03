@@ -3,9 +3,9 @@
     "repo": "vdukhovni/postfix",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-01T07:00:27.106Z"
+    "checked_at": "2026-11-03T01:38:58.808Z"
   },
-  "scanned_at": "2026-10-01T07:02:38.396Z",
+  "scanned_at": "2026-11-03T01:38:58.808Z",
   "trackers": {
     "url": "https://www.postfix.org",
     "found": [],

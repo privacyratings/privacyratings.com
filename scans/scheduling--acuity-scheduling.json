@@ -13,14 +13,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.acuityscheduling.com",
-    "tested_at": "2026-10-23T09:23:33.473Z"
+    "tested_at": "2026-11-03T01:47:19.157Z"
   },
-  "scanned_at": "2026-10-28T10:46:57.193Z",
+  "scanned_at": "2026-11-03T04:06:17.122Z",
   "ssllabs": {
     "grade": "A+",
-    "endpoints": 2,
+    "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=secure.acuityscheduling.com&hideResults=on",
-    "tested_at": "2026-10-28T10:46:57.193Z"
+    "tested_at": "2026-11-03T04:06:17.122Z"
   },
   "trackers": {
     "url": "https://acuityscheduling.com",

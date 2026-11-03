@@ -3,9 +3,9 @@
     "repo": "vim/vim",
     "license": "Vim",
     "archived": false,
-    "checked_at": "2026-10-09T11:21:55.671Z"
+    "checked_at": "2026-11-03T01:39:29.013Z"
   },
-  "scanned_at": "2026-10-09T11:21:55.671Z",
+  "scanned_at": "2026-11-03T01:40:29.094Z",
   "trackers": {
     "url": "https://www.vim.org",
     "found": [
@@ -14,6 +14,6 @@
         "host": "pagead2.googlesyndication.com"
       }
     ],
-    "tested_at": "2026-10-01T06:59:43.423Z"
+    "tested_at": "2026-11-03T01:40:29.094Z"
   }
 }

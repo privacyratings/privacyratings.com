@@ -4,7 +4,7 @@
     "repo": "ivpn/desktop-app",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-22T09:26:55.721Z"
+    "checked_at": "2026-11-03T01:39:10.345Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ivpn.net",
-    "tested_at": "2026-10-31T10:26:00.203Z"
+    "tested_at": "2026-11-03T01:40:47.698Z"
   },
-  "scanned_at": "2026-10-31T10:26:00.850Z",
+  "scanned_at": "2026-11-03T03:28:39.381Z",
   "ssllabs": {
-    "grade": "A-",
-    "endpoints": 2,
+    "grade": "A+",
+    "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.ivpn.net&hideResults=on",
-    "tested_at": "2026-10-21T09:34:11.879Z"
+    "tested_at": "2026-11-03T03:28:39.381Z"
   },
   "trackers": {
     "url": "https://www.ivpn.net",
     "found": [],
-    "tested_at": "2026-10-01T07:01:22.587Z"
+    "tested_at": "2026-11-03T01:39:45.785Z"
   }
 }

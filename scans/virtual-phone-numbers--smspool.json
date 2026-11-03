@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.smspool.net",
-    "tested_at": "2026-10-31T10:25:59.059Z"
+    "tested_at": "2026-11-03T01:40:40.881Z"
   },
-  "scanned_at": "2026-10-31T10:25:59.409Z",
+  "scanned_at": "2026-11-03T03:21:10.190Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
@@ -24,6 +24,6 @@
   },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-10-01T07:01:21.854Z"
+    "tested_at": "2026-11-03T01:39:44.948Z"
   }
 }

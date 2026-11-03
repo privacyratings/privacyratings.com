@@ -13,14 +13,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.mailinblack.com",
-    "tested_at": "2026-11-02T12:30:24.759Z"
+    "tested_at": "2026-11-03T01:39:20.631Z"
   },
-  "scanned_at": "2026-11-02T12:30:34.390Z",
+  "scanned_at": "2026-11-03T02:00:59.691Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.mailinblack.com&hideResults=on",
-    "tested_at": "2026-10-24T09:03:24.572Z"
+    "tested_at": "2026-11-03T02:00:59.691Z"
   },
   "trackers": {
     "url": "https://www.mailinblack.com",
@@ -31,15 +31,9 @@
       },
       {
         "name": "HubSpot",
-        "host": "js.hs-analytics.net"
-      },
-      {
-        "name": "Matomo Cloud",
-        "host": "cdn.matomo.cloud",
-        "soft": true,
-        "analytics": true
+        "host": "js-eu1.hsforms.net"
       }
     ],
-    "tested_at": "2026-10-01T07:01:36.317Z"
+    "tested_at": "2026-11-03T01:39:05.725Z"
   }
 }

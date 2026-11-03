@@ -3,9 +3,9 @@
     "repo": "beeware/toga",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-10-31T10:25:50.482Z"
+    "checked_at": "2026-11-03T01:39:34.498Z"
   },
-  "scanned_at": "2026-10-31T10:25:50.482Z",
+  "scanned_at": "2026-11-03T01:40:35.319Z",
   "trackers": {
     "url": "https://beeware.org",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:08.314Z"
+    "tested_at": "2026-11-03T01:40:35.319Z"
   }
 }

@@ -3,9 +3,9 @@
     "repo": "RMerl/asuswrt-merlin.ng",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-04T10:36:40.712Z"
+    "checked_at": "2026-11-03T01:39:15.054Z"
   },
-  "scanned_at": "2026-10-04T10:36:40.712Z",
+  "scanned_at": "2026-11-03T01:40:01.006Z",
   "trackers": {
     "url": "https://www.asuswrt-merlin.net",
     "found": [
@@ -20,6 +20,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:38:31.479Z"
+    "tested_at": "2026-11-03T01:40:01.006Z"
   }
 }

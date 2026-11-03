@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wisprflow.ai",
-    "tested_at": "2026-10-26T10:12:13.597Z"
+    "tested_at": "2026-11-03T01:47:38.162Z"
   },
-  "scanned_at": "2026-10-29T11:06:24.539Z",
+  "scanned_at": "2026-11-03T04:24:34.156Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=wisprflow.ai&hideResults=on",
-    "tested_at": "2026-10-29T11:06:24.539Z"
+    "tested_at": "2026-11-03T04:24:34.155Z"
   },
   "trackers": {
     "url": "https://wisprflow.ai",

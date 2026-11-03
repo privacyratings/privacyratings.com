@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=miro.com",
-    "tested_at": "2026-10-23T09:23:31.057Z"
+    "tested_at": "2026-11-03T01:47:18.246Z"
   },
-  "scanned_at": "2026-10-26T10:23:05.145Z",
+  "scanned_at": "2026-11-03T04:04:54.089Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

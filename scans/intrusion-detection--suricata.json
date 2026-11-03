@@ -3,12 +3,27 @@
     "repo": "OISF/suricata",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-05T11:33:32.245Z"
+    "checked_at": "2026-11-03T01:39:15.731Z"
   },
-  "scanned_at": "2026-10-05T11:33:32.245Z",
+  "scanned_at": "2026-11-03T01:40:02.195Z",
   "trackers": {
     "url": "https://suricata.io",
-    "found": [],
-    "tested_at": "2026-10-01T06:38:32.210Z"
+    "found": [
+      {
+        "name": "Google Fonts",
+        "host": "fonts.gstatic.com",
+        "soft": true
+      },
+      {
+        "name": "Google reCAPTCHA",
+        "host": "www.google.com",
+        "soft": true
+      },
+      {
+        "name": "WordPress.com Stats",
+        "host": "stats.wp.com"
+      }
+    ],
+    "tested_at": "2026-11-03T01:40:02.195Z"
   }
 }

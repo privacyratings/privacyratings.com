@@ -3,9 +3,9 @@
     "repo": "restic/restic",
     "license": "BSD-2-Clause",
     "archived": false,
-    "checked_at": "2026-10-07T11:07:09.464Z"
+    "checked_at": "2026-11-03T01:39:23.956Z"
   },
-  "scanned_at": "2026-10-07T11:07:09.464Z",
+  "scanned_at": "2026-11-03T01:40:17.728Z",
   "trackers": {
     "url": "https://restic.net",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:45.096Z"
+    "tested_at": "2026-11-03T01:40:17.728Z"
   }
 }

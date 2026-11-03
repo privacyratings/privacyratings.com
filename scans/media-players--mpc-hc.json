@@ -3,12 +3,12 @@
     "repo": "clsid2/mpc-hc",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-12T12:04:26.293Z"
+    "checked_at": "2026-11-03T01:39:47.303Z"
   },
-  "scanned_at": "2026-10-12T12:04:26.293Z",
+  "scanned_at": "2026-11-03T01:40:58.342Z",
   "trackers": {
     "url": "https://github.com/clsid2/mpc-hc",
     "skipped": "The website is a code host or app store page, not a site run by the project.",
-    "tested_at": "2026-10-01T06:59:59.994Z"
+    "tested_at": "2026-11-03T01:40:58.342Z"
   }
 }

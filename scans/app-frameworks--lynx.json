@@ -3,9 +3,9 @@
     "repo": "lynx-family/lynx",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-11-01T11:18:49.271Z"
+    "checked_at": "2026-11-03T01:39:35.276Z"
   },
-  "scanned_at": "2026-11-01T11:18:49.271Z",
+  "scanned_at": "2026-11-03T01:40:36.150Z",
   "trackers": {
     "url": "https://lynxjs.org",
     "found": [
@@ -18,6 +18,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:10.601Z"
+    "tested_at": "2026-11-03T01:40:36.150Z"
   }
 }

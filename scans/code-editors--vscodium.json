@@ -3,9 +3,9 @@
     "repo": "VSCodium/vscodium",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-20T09:28:23.635Z"
+    "checked_at": "2026-11-03T01:39:29.125Z"
   },
-  "scanned_at": "2026-10-20T09:28:23.635Z",
+  "scanned_at": "2026-11-03T01:40:28.628Z",
   "trackers": {
     "url": "https://vscodium.com",
     "found": [
@@ -21,6 +21,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:08.465Z"
+    "tested_at": "2026-11-03T01:40:28.628Z"
   }
 }

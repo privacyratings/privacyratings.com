@@ -3,9 +3,9 @@
     "repo": "muun/apollo",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-27T09:51:20.847Z"
+    "checked_at": "2026-11-03T01:39:44.338Z"
   },
-  "scanned_at": "2026-10-27T09:51:20.847Z",
+  "scanned_at": "2026-11-03T01:40:48.217Z",
   "trackers": {
     "url": "https://muun.com",
     "found": [
@@ -14,6 +14,6 @@
         "host": "www.google-analytics.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:48.181Z"
+    "tested_at": "2026-11-03T01:40:48.217Z"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "quarkusio/quarkus",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:20.476Z"
+    "checked_at": "2026-11-03T01:39:39.562Z"
   },
-  "scanned_at": "2026-10-01T07:02:18.433Z",
+  "scanned_at": "2026-11-03T01:40:41.135Z",
   "trackers": {
     "url": "https://quarkus.io",
     "found": [],
-    "tested_at": "2026-10-01T07:02:18.433Z"
+    "tested_at": "2026-11-03T01:40:41.135Z"
   }
 }

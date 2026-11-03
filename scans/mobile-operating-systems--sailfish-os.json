@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-02T12:30:18.030Z",
+  "scanned_at": "2026-11-03T01:40:03.573Z",
   "trackers": {
     "url": "https://sailfishos.org",
     "found": [
@@ -10,6 +10,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:33.456Z"
+    "tested_at": "2026-11-03T01:40:03.572Z"
   }
 }

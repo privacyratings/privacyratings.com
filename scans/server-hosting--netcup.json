@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.customercontrolpanel.de",
-    "tested_at": "2026-10-28T10:37:37.154Z"
+    "tested_at": "2026-11-03T01:41:13.713Z"
   },
-  "scanned_at": "2026-10-31T10:44:39.095Z",
+  "scanned_at": "2026-11-03T03:57:03.436Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,
@@ -25,6 +25,6 @@
   "trackers": {
     "url": "https://www.netcup.com/en",
     "found": [],
-    "tested_at": "2026-10-01T06:38:29.666Z"
+    "tested_at": "2026-11-03T01:39:53.752Z"
   }
 }

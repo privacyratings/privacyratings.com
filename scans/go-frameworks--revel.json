@@ -3,9 +3,9 @@
     "repo": "revel/revel",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:19.124Z"
+    "checked_at": "2026-11-03T01:39:38.409Z"
   },
-  "scanned_at": "2026-10-01T07:02:16.518Z",
+  "scanned_at": "2026-11-03T01:40:40.014Z",
   "trackers": {
     "url": "https://revel.github.io",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:02:16.517Z"
+    "tested_at": "2026-11-03T01:40:40.014Z"
   }
 }

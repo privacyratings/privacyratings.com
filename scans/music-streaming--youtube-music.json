@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.youtube.com",
     "tested_at": "2026-10-18T08:53:37.082Z"
   },
-  "scanned_at": "2026-11-02T12:31:26.846Z",
+  "scanned_at": "2026-11-03T04:47:25.878Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 16,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=music.youtube.com&hideResults=on",
-    "tested_at": "2026-10-26T10:26:56.668Z"
+    "tested_at": "2026-11-03T04:47:25.877Z"
   },
   "trackers": {
     "url": "https://music.youtube.com",
@@ -35,6 +35,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T06:59:57.731Z"
+    "tested_at": "2026-11-03T01:40:55.672Z"
   }
 }

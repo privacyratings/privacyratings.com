@@ -13,17 +13,17 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.revolut.com",
-    "tested_at": "2026-10-30T10:54:02.642Z"
+    "tested_at": "2026-11-03T01:48:10.114Z"
   },
-  "scanned_at": "2026-10-30T10:54:03.187Z",
+  "scanned_at": "2026-11-03T04:46:56.474Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.revolut.com&hideResults=on",
-    "tested_at": "2026-10-21T09:40:48.461Z"
+    "tested_at": "2026-11-03T04:46:56.474Z"
   },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-10-01T06:59:53.588Z"
+    "tested_at": "2026-11-03T01:40:49.528Z"
   }
 }

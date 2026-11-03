@@ -3,12 +3,12 @@
     "repo": "NixOS/nixpkgs",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-05T11:33:32.986Z"
+    "checked_at": "2026-11-03T01:39:16.241Z"
   },
-  "scanned_at": "2026-10-05T11:33:32.986Z",
+  "scanned_at": "2026-11-03T01:40:04.761Z",
   "trackers": {
     "url": "https://nixos.org",
     "found": [],
-    "tested_at": "2026-10-01T06:38:34.675Z"
+    "tested_at": "2026-11-03T01:40:04.761Z"
   }
 }

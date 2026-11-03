@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=blog.uncensoreddns.org",
-    "tested_at": "2026-10-27T09:51:40.415Z"
+    "tested_at": "2026-11-03T01:40:56.953Z"
   },
-  "scanned_at": "2026-10-31T10:36:13.408Z",
+  "scanned_at": "2026-11-03T03:39:55.571Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
@@ -25,6 +25,6 @@
   "trackers": {
     "url": "https://blog.uncensoreddns.org",
     "found": [],
-    "tested_at": "2026-10-01T06:38:27.356Z"
+    "tested_at": "2026-11-03T01:39:50.828Z"
   }
 }

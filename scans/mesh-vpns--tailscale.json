@@ -3,12 +3,12 @@
     "repo": "tailscale/tailscale",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-10-04T10:36:40.463Z"
+    "checked_at": "2026-11-03T01:39:14.686Z"
   },
-  "scanned_at": "2026-10-04T10:36:40.463Z",
+  "scanned_at": "2026-11-03T01:40:00.422Z",
   "trackers": {
     "url": "https://tailscale.com",
     "found": [],
-    "tested_at": "2026-10-01T06:38:30.978Z"
+    "tested_at": "2026-11-03T01:40:00.422Z"
   }
 }

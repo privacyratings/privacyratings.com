@@ -3,12 +3,12 @@
     "repo": "microsoft/vscode",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-09T11:21:55.715Z"
+    "checked_at": "2026-11-03T01:39:29.058Z"
   },
-  "scanned_at": "2026-10-09T11:21:55.715Z",
+  "scanned_at": "2026-11-03T01:40:28.570Z",
   "trackers": {
-    "url": "https://code.visualstudio.com",
+    "url": "https://code.visualstudio.com/?_exp_home=1a03665a82",
     "found": [],
-    "tested_at": "2026-10-01T06:59:43.730Z"
+    "tested_at": "2026-11-03T01:40:28.570Z"
   }
 }

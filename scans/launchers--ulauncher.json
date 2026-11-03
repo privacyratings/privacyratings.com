@@ -3,9 +3,9 @@
     "repo": "Ulauncher/Ulauncher",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-28T10:37:34.462Z"
+    "checked_at": "2026-11-03T01:39:17.849Z"
   },
-  "scanned_at": "2026-10-28T10:37:34.462Z",
+  "scanned_at": "2026-11-03T01:40:06.588Z",
   "trackers": {
     "url": "https://ulauncher.io",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:50.428Z"
+    "tested_at": "2026-11-03T01:40:06.588Z"
   }
 }

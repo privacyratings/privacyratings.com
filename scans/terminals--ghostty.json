@@ -3,12 +3,12 @@
     "repo": "ghostty-org/ghostty",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-09T11:21:55.804Z"
+    "checked_at": "2026-11-03T01:39:29.269Z"
   },
-  "scanned_at": "2026-10-09T11:21:55.804Z",
+  "scanned_at": "2026-11-03T01:40:28.823Z",
   "trackers": {
     "url": "https://ghostty.org",
     "found": [],
-    "tested_at": "2026-10-01T06:59:43.599Z"
+    "tested_at": "2026-11-03T01:40:28.823Z"
   }
 }

@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=framadate.org",
-    "tested_at": "2026-10-23T09:23:35.625Z"
+    "tested_at": "2026-11-03T01:47:21.037Z"
   },
-  "scanned_at": "2026-10-26T10:26:56.467Z",
+  "scanned_at": "2026-11-03T04:09:22.254Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
@@ -25,6 +25,6 @@
   "trackers": {
     "url": "https://framadate.org/abc/",
     "found": [],
-    "tested_at": "2026-10-01T07:02:00.255Z"
+    "tested_at": "2026-11-03T01:40:15.243Z"
   }
 }

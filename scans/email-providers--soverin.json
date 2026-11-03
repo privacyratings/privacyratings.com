@@ -1,0 +1,92 @@
+{
+  "domain": "soverin.com",
+  "mail": {
+    "dns": {
+      "domain": "soverin.nl",
+      "dnssec": true,
+      "mx": [
+        "mx.soverin.net"
+      ],
+      "spf": true,
+      "dmarc": "reject",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "all",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "smtp.soverin.net",
+          "port": 587
+        },
+        "imaps": {
+          "host": "imap.soverin.net",
+          "port": 993
+        },
+        "imap": {
+          "host": "imap.soverin.net",
+          "port": 143
+        },
+        "pop3s": null
+      }
+    },
+    "tested_at": "2026-11-03T01:39:55.095Z",
+    "imap": {
+      "host": "imap.soverin.net",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4REV1",
+        "SASL-IR",
+        "LOGIN-REFERRALS",
+        "ID",
+        "ENABLE",
+        "IDLE",
+        "LITERAL+",
+        "AUTH=PLAIN",
+        "AUTH=OAUTHBEARER",
+        "AUTH=XOAUTH2"
+      ]
+    },
+    "pop3": {
+      "host": null,
+      "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
+    },
+    "smtp": {
+      "host": "smtp.soverin.net",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "PIPELINING",
+        "SIZE",
+        "ETRN",
+        "AUTH",
+        "ENHANCEDSTATUSCODES",
+        "8BITMIME",
+        "DSN",
+        "CHUNKING"
+      ]
+    }
+  },
+  "mail_domain": "soverin.nl",
+  "observatory": {
+    "grade": "C",
+    "score": 55,
+    "tests_passed": 10,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=soverin.com",
+    "tested_at": "2026-11-03T01:39:09.695Z"
+  },
+  "scanned_at": "2026-11-03T01:52:13.885Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 2,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=soverin.com&hideResults=on",
+    "tested_at": "2026-11-03T01:52:13.885Z"
+  },
+  "trackers": {
+    "url": "https://soverin.com",
+    "found": [],
+    "tested_at": "2026-11-03T01:39:00.508Z"
+  }
+}

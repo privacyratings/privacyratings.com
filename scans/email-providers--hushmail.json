@@ -1,0 +1,105 @@
+{
+  "domain": "www.hushmail.com",
+  "mail": {
+    "dns": {
+      "domain": "hushmail.com",
+      "dnssec": false,
+      "mx": [
+        "plsmtp1.hushmail.com",
+        "plsmtp2.hushmail.com"
+      ],
+      "spf": true,
+      "dmarc": "quarantine",
+      "tls_rpt": false,
+      "mta_sts": null,
+      "dane": "none",
+      "bimi": false,
+      "srv": {
+        "submissions": null,
+        "submission": {
+          "host": "hosted-submission.hushmail.com",
+          "port": 465
+        },
+        "imaps": {
+          "host": "hosted-imap.hushmail.com",
+          "port": 993
+        },
+        "imap": {
+          "host": "hosted-imap.hushmail.com",
+          "port": 143
+        },
+        "pop3s": {
+          "host": "hosted-pop.hushmail.com",
+          "port": 995
+        }
+      }
+    },
+    "tested_at": "2026-11-03T01:39:06.983Z",
+    "imap": {
+      "host": "imap.hushmail.com",
+      "port": 993,
+      "tls": "implicit",
+      "capabilities": [
+        "IMAP4",
+        "IMAP4REV1",
+        "UIDPLUS",
+        "AUTH=PLAIN"
+      ]
+    },
+    "pop3": {
+      "host": "pop.hushmail.com",
+      "port": 995,
+      "tls": "implicit",
+      "capa": true,
+      "capabilities": [
+        "TOP",
+        "USER",
+        "UIDL",
+        "SASL"
+      ]
+    },
+    "smtp": {
+      "host": "smtp.hushmail.com",
+      "port": 465,
+      "tls": "implicit",
+      "extensions": [
+        "AUTH"
+      ]
+    }
+  },
+  "mail_domain": "hushmail.com",
+  "observatory": {
+    "grade": "F",
+    "score": 0,
+    "tests_passed": 7,
+    "tests_quantity": 12,
+    "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hushmail.com",
+    "tested_at": "2026-11-03T01:39:01.052Z"
+  },
+  "scanned_at": "2026-11-03T01:42:01.871Z",
+  "ssllabs": {
+    "grade": "A+",
+    "endpoints": 4,
+    "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.hushmail.com&hideResults=on",
+    "tested_at": "2026-11-03T01:42:01.871Z"
+  },
+  "trackers": {
+    "url": "https://www.hushmail.com",
+    "found": [
+      {
+        "name": "Google Analytics",
+        "host": "inline code"
+      },
+      {
+        "name": "Google Tag Manager",
+        "host": "www.googletagmanager.com"
+      },
+      {
+        "name": "Trustpilot",
+        "host": "widget.trustpilot.com",
+        "soft": true
+      }
+    ],
+    "tested_at": "2026-11-03T01:38:56.910Z"
+  }
+}

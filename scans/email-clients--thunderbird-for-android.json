@@ -3,12 +3,12 @@
     "repo": "thunderbird/thunderbird-android",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-14T09:33:43.198Z"
+    "checked_at": "2026-11-03T01:38:56.914Z"
   },
-  "scanned_at": "2026-10-14T09:33:43.198Z",
+  "scanned_at": "2026-11-03T01:39:03.299Z",
   "trackers": {
     "url": "https://www.thunderbird.net/en-US/mobile/",
     "found": [],
-    "tested_at": "2026-10-01T07:00:27.960Z"
+    "tested_at": "2026-11-03T01:39:03.299Z"
   }
 }

@@ -3,9 +3,9 @@
     "repo": "mozilla-firefox/firefox",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-28T10:37:33.648Z"
+    "checked_at": "2026-11-03T01:38:59.494Z"
   },
-  "scanned_at": "2026-10-28T10:37:33.648Z",
+  "scanned_at": "2026-11-03T01:39:08.978Z",
   "trackers": {
     "url": "https://www.firefox.com/en-US/",
     "found": [
@@ -14,6 +14,6 @@
         "host": "inline code"
       }
     ],
-    "tested_at": "2026-10-01T07:01:57.625Z"
+    "tested_at": "2026-11-03T01:39:08.978Z"
   }
 }

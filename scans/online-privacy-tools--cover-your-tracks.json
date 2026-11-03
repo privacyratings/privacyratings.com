@@ -4,7 +4,7 @@
     "repo": "EFForg/cover-your-tracks",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-22T09:26:55.792Z"
+    "checked_at": "2026-11-03T01:39:06.395Z"
   },
   "internetnl": {
     "web": {
@@ -19,18 +19,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=coveryourtracks.eff.org",
-    "tested_at": "2026-10-30T10:53:45.675Z"
+    "tested_at": "2026-11-03T01:40:13.286Z"
   },
-  "scanned_at": "2026-10-30T10:53:46.068Z",
+  "scanned_at": "2026-11-03T02:35:52.923Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=coveryourtracks.eff.org&hideResults=on",
-    "tested_at": "2026-10-21T09:24:49.498Z"
+    "tested_at": "2026-11-03T02:35:52.923Z"
   },
   "trackers": {
     "url": "https://coveryourtracks.eff.org",
     "found": [],
-    "tested_at": "2026-10-01T07:01:19.948Z"
+    "tested_at": "2026-11-03T01:39:29.735Z"
   }
 }

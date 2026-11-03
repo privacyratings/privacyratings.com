@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.scrut.io",
-    "tested_at": "2026-10-24T08:55:05.235Z"
+    "tested_at": "2026-11-03T01:40:24.627Z"
   },
-  "scanned_at": "2026-10-28T10:43:10.814Z",
+  "scanned_at": "2026-11-03T02:54:37.238Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

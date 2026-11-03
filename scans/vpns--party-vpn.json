@@ -13,18 +13,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=partyvpn.com",
-    "tested_at": "2026-10-31T10:26:01.612Z"
+    "tested_at": "2026-11-03T01:40:49.726Z"
   },
-  "scanned_at": "2026-10-31T10:26:02.339Z",
+  "scanned_at": "2026-11-03T03:31:30.215Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=partyvpn.com&hideResults=on",
-    "tested_at": "2026-10-22T09:32:14.021Z"
+    "tested_at": "2026-11-03T03:31:30.215Z"
   },
   "trackers": {
     "url": "https://partyvpn.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:23.118Z"
+    "tested_at": "2026-11-03T01:39:46.766Z"
   }
 }

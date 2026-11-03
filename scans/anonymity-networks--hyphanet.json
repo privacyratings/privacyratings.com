@@ -3,12 +3,12 @@
     "repo": "hyphanet/fred",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-10-18T08:53:15.359Z"
+    "checked_at": "2026-11-03T01:39:12.882Z"
   },
-  "scanned_at": "2026-10-18T08:53:15.359Z",
+  "scanned_at": "2026-11-03T01:39:57.817Z",
   "trackers": {
     "url": "https://www.hyphanet.org/",
     "found": [],
-    "tested_at": "2026-10-01T07:00:55.550Z"
+    "tested_at": "2026-11-03T01:39:57.817Z"
   }
 }

@@ -3,12 +3,12 @@
     "repo": "AnySoftKeyboard/AnySoftKeyboard",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-05T11:33:32.579Z"
+    "checked_at": "2026-11-03T01:39:15.866Z"
   },
-  "scanned_at": "2026-10-05T11:33:32.579Z",
+  "scanned_at": "2026-11-03T01:40:03.342Z",
   "trackers": {
     "url": "https://anysoftkeyboard.github.io",
     "found": [],
-    "tested_at": "2026-10-01T06:38:33.258Z"
+    "tested_at": "2026-11-03T01:40:03.342Z"
   }
 }

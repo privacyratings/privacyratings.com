@@ -3,12 +3,12 @@
     "repo": "Kozea/Radicale",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-06T11:19:07.585Z"
+    "checked_at": "2026-11-03T01:39:22.224Z"
   },
-  "scanned_at": "2026-10-06T11:19:07.585Z",
+  "scanned_at": "2026-11-03T01:40:13.953Z",
   "trackers": {
     "url": "https://radicale.org",
     "found": [],
-    "tested_at": "2026-10-01T06:38:39.674Z"
+    "tested_at": "2026-11-03T01:40:13.953Z"
   }
 }

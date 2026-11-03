@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-02T12:30:18.029Z",
+  "scanned_at": "2026-11-03T01:40:02.857Z",
   "trackers": {
     "url": "https://www.lineageos.org",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:00.504Z"
+    "tested_at": "2026-11-03T01:40:02.857Z"
   }
 }

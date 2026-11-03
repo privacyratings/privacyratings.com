@@ -3,9 +3,9 @@
     "repo": "p0deje/Maccy",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-28T10:37:34.811Z"
+    "checked_at": "2026-11-03T01:39:18.234Z"
   },
-  "scanned_at": "2026-10-28T10:37:34.811Z",
+  "scanned_at": "2026-11-03T01:40:06.910Z",
   "trackers": {
     "url": "https://maccy.app",
     "found": [
@@ -15,6 +15,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:01:50.642Z"
+    "tested_at": "2026-11-03T01:40:06.910Z"
   }
 }

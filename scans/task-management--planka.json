@@ -3,12 +3,12 @@
     "repo": "plankanban/planka",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-07T11:07:08.971Z"
+    "checked_at": "2026-11-03T01:39:23.141Z"
   },
-  "scanned_at": "2026-10-07T11:07:08.971Z",
+  "scanned_at": "2026-11-03T01:40:15.782Z",
   "trackers": {
     "url": "https://planka.app",
     "found": [],
-    "tested_at": "2026-10-01T06:38:41.824Z"
+    "tested_at": "2026-11-03T01:40:15.782Z"
   }
 }

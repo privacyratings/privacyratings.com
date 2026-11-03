@@ -3,12 +3,12 @@
     "repo": "forwardemail/mail.forwardemail.net",
     "license": null,
     "archived": false,
-    "checked_at": "2026-10-27T09:51:19.470Z"
+    "checked_at": "2026-11-03T01:38:56.473Z"
   },
-  "scanned_at": "2026-10-27T09:51:19.470Z",
+  "scanned_at": "2026-11-03T01:39:03.221Z",
   "trackers": {
     "url": "https://forwardemail.net/en/download",
     "found": [],
-    "tested_at": "2026-10-01T07:01:48.500Z"
+    "tested_at": "2026-11-03T01:39:03.221Z"
   }
 }

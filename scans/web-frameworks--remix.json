@@ -3,12 +3,12 @@
     "repo": "remix-run/remix",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:32.372Z"
+    "checked_at": "2026-11-03T01:39:32.229Z"
   },
-  "scanned_at": "2026-10-30T10:53:32.372Z",
+  "scanned_at": "2026-11-03T01:40:33.143Z",
   "trackers": {
     "url": "https://remix.run",
     "found": [],
-    "tested_at": "2026-10-01T07:02:06.126Z"
+    "tested_at": "2026-11-03T01:40:33.143Z"
   }
 }

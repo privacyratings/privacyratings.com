@@ -3,12 +3,12 @@
     "repo": "alacritty/alacritty",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-10-20T09:28:23.641Z"
+    "checked_at": "2026-11-03T01:39:29.236Z"
   },
-  "scanned_at": "2026-10-20T09:28:23.641Z",
+  "scanned_at": "2026-11-03T01:40:29.078Z",
   "trackers": {
     "url": "https://alacritty.org",
     "found": [],
-    "tested_at": "2026-10-01T07:01:09.325Z"
+    "tested_at": "2026-11-03T01:40:29.078Z"
   }
 }

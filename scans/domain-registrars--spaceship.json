@@ -13,17 +13,17 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.spaceship.com",
-    "tested_at": "2026-10-28T10:37:33.468Z"
+    "tested_at": "2026-11-03T01:41:06.864Z"
   },
-  "scanned_at": "2026-11-02T12:33:23.486Z",
+  "scanned_at": "2026-11-03T03:50:49.216Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.spaceship.com&hideResults=on",
-    "tested_at": "2026-10-17T08:57:36.153Z"
+    "tested_at": "2026-11-03T03:50:49.216Z"
   },
   "trackers": {
     "error": "HTTP 403",
-    "tested_at": "2026-10-01T06:38:27.629Z"
+    "tested_at": "2026-11-03T01:39:51.575Z"
   }
 }

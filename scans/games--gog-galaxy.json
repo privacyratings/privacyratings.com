@@ -1,11 +1,11 @@
 {
-  "scanned_at": "2026-10-01T07:00:04.243Z",
+  "scanned_at": "2026-11-03T01:41:01.291Z",
   "trackers": {
     "url": "https://www.gog.com/galaxy",
     "found": [
       {
         "name": "Google Tag Manager",
-        "host": "www.googletagmanager.com"
+        "host": "inline code"
       },
       {
         "name": "YouTube embed",
@@ -13,6 +13,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:00:04.243Z"
+    "tested_at": "2026-11-03T01:41:01.291Z"
   }
 }

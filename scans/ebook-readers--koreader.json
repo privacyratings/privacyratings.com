@@ -3,9 +3,9 @@
     "repo": "koreader/koreader",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-08T11:24:51.337Z"
+    "checked_at": "2026-11-03T01:39:25.956Z"
   },
-  "scanned_at": "2026-10-08T11:24:51.337Z",
+  "scanned_at": "2026-11-03T01:40:21.517Z",
   "trackers": {
     "url": "https://koreader.rocks",
     "found": [
@@ -16,6 +16,6 @@
         "analytics": true
       }
     ],
-    "tested_at": "2026-10-01T06:38:48.483Z"
+    "tested_at": "2026-11-03T01:40:21.517Z"
   }
 }

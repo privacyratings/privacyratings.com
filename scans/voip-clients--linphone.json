@@ -3,9 +3,9 @@
     "repo": "BelledonneCommunications/linphone-desktop",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-17T08:36:47.133Z"
+    "checked_at": "2026-11-03T01:39:10.027Z"
   },
-  "scanned_at": "2026-10-17T08:36:47.133Z",
+  "scanned_at": "2026-11-03T01:39:44.218Z",
   "trackers": {
     "url": "https://www.linphone.org",
     "found": [
@@ -25,6 +25,6 @@
         "soft": true
       }
     ],
-    "tested_at": "2026-10-01T07:00:50.190Z"
+    "tested_at": "2026-11-03T01:39:44.218Z"
   }
 }

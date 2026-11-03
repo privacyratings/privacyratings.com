@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=opennic.org",
-    "tested_at": "2026-11-01T11:18:54.556Z"
+    "tested_at": "2026-11-03T01:40:56.233Z"
   },
-  "scanned_at": "2026-11-01T11:18:54.861Z",
+  "scanned_at": "2026-11-03T03:38:54.774Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,
@@ -25,6 +25,6 @@
   "trackers": {
     "url": "https://opennic.org",
     "found": [],
-    "tested_at": "2026-10-01T07:01:23.776Z"
+    "tested_at": "2026-11-03T01:39:49.711Z"
   }
 }

@@ -13,18 +13,18 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
-    "tested_at": "2026-11-01T11:18:52.813Z"
+    "tested_at": "2026-11-03T01:39:14.032Z"
   },
-  "scanned_at": "2026-11-02T12:30:18.027Z",
+  "scanned_at": "2026-11-03T02:15:57.473Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=duckduckgo.com&hideResults=on",
-    "tested_at": "2026-10-23T09:25:17.785Z"
+    "tested_at": "2026-11-03T02:15:57.473Z"
   },
   "trackers": {
     "url": "https://duckduckgo.com",
     "found": [],
-    "tested_at": "2026-10-01T07:01:27.779Z"
+    "tested_at": "2026-11-03T01:39:13.380Z"
   }
 }

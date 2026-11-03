@@ -3,19 +3,12 @@
     "repo": "mastodon/mastodon",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-10-21T09:24:07.470Z"
+    "checked_at": "2026-11-03T01:39:45.575Z"
   },
-  "scanned_at": "2026-10-21T09:24:07.470Z",
+  "scanned_at": "2026-11-03T01:40:52.793Z",
   "trackers": {
     "url": "https://joinmastodon.org",
-    "found": [
-      {
-        "name": "Simple Analytics",
-        "host": "scripts.simpleanalyticscdn.com",
-        "soft": true,
-        "analytics": true
-      }
-    ],
-    "tested_at": "2026-10-01T07:01:12.524Z"
+    "found": [],
+    "tested_at": "2026-11-03T01:40:52.793Z"
   }
 }

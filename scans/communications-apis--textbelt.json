@@ -4,7 +4,7 @@
     "repo": "typpo/textbelt",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-01T07:00:23.550Z"
+    "checked_at": "2026-11-03T01:39:10.124Z"
   },
   "internetnl": {
     "web": {
@@ -19,14 +19,14 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=textbelt.com",
-    "tested_at": "2026-10-24T08:55:20.241Z"
+    "tested_at": "2026-11-03T01:40:44.485Z"
   },
-  "scanned_at": "2026-10-29T11:06:24.248Z",
+  "scanned_at": "2026-11-03T03:28:32.838Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=textbelt.com&hideResults=on",
-    "tested_at": "2026-10-29T11:06:24.248Z"
+    "tested_at": "2026-11-03T03:28:32.838Z"
   },
   "trackers": {
     "url": "https://textbelt.com",

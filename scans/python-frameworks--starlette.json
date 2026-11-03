@@ -3,9 +3,9 @@
     "repo": "Kludex/starlette",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-11-02T12:30:18.773Z"
+    "checked_at": "2026-11-03T01:39:36.658Z"
   },
-  "scanned_at": "2026-11-02T12:30:18.773Z",
+  "scanned_at": "2026-11-03T01:40:37.855Z",
   "trackers": {
     "url": "https://starlette.dev",
     "found": [
@@ -25,6 +25,6 @@
         "host": "www.googletagmanager.com"
       }
     ],
-    "tested_at": "2026-10-01T07:02:13.078Z"
+    "tested_at": "2026-11-03T01:40:37.855Z"
   }
 }

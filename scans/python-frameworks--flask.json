@@ -3,12 +3,12 @@
     "repo": "pallets/flask",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-11-01T11:18:50.157Z"
+    "checked_at": "2026-11-03T01:39:36.154Z"
   },
-  "scanned_at": "2026-11-01T11:18:50.157Z",
+  "scanned_at": "2026-11-03T01:40:37.335Z",
   "trackers": {
     "url": "https://flask.palletsprojects.com/en/stable/",
     "found": [],
-    "tested_at": "2026-10-01T07:02:12.496Z"
+    "tested_at": "2026-11-03T01:40:37.335Z"
   }
 }

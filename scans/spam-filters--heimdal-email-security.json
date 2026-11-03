@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.heimdalsecurity.com",
-    "tested_at": "2026-11-02T12:30:24.461Z"
+    "tested_at": "2026-11-03T01:39:18.783Z"
   },
-  "scanned_at": "2026-11-02T12:30:27.211Z",
+  "scanned_at": "2026-11-03T02:03:46.639Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
@@ -44,6 +44,6 @@
         "host": "dev.visualwebsiteoptimizer.com"
       }
     ],
-    "tested_at": "2026-10-01T07:01:36.965Z"
+    "tested_at": "2026-11-03T01:39:06.242Z"
   }
 }

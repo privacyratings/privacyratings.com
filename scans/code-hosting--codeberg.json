@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=codeberg.org",
-    "tested_at": "2026-10-29T10:56:08.055Z"
+    "tested_at": "2026-11-03T01:47:56.680Z"
   },
-  "scanned_at": "2026-11-02T12:30:19.936Z",
+  "scanned_at": "2026-11-03T04:37:13.892Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=codeberg.org&hideResults=on",
-    "tested_at": "2026-10-20T09:39:17.918Z"
+    "tested_at": "2026-11-03T04:37:13.892Z"
   },
   "trackers": {
     "url": "https://codeberg.org",

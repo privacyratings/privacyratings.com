@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=planner5d.com",
-    "tested_at": "2026-10-26T10:12:20.116Z"
+    "tested_at": "2026-11-03T01:48:06.260Z"
   },
-  "scanned_at": "2026-10-28T10:55:44.626Z",
+  "scanned_at": "2026-11-03T04:46:55.333Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=planner5d.com&hideResults=on",
-    "tested_at": "2026-10-28T10:55:44.626Z"
+    "tested_at": "2026-11-03T04:46:55.333Z"
   },
   "trackers": {
     "url": "https://planner5d.com",

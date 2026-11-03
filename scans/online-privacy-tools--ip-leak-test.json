@@ -13,18 +13,18 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ipleak.net",
-    "tested_at": "2026-10-30T10:53:47.316Z"
+    "tested_at": "2026-11-03T01:40:13.860Z"
   },
-  "scanned_at": "2026-10-30T10:53:48.354Z",
+  "scanned_at": "2026-11-03T02:40:09.910Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=ipleak.net&hideResults=on",
-    "tested_at": "2026-10-21T09:24:50.029Z"
+    "tested_at": "2026-11-03T02:40:09.910Z"
   },
   "trackers": {
     "url": "https://ipleak.net",
     "found": [],
-    "tested_at": "2026-10-01T07:01:20.393Z"
+    "tested_at": "2026-11-03T01:39:30.638Z"
   }
 }

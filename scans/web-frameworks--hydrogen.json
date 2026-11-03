@@ -3,17 +3,12 @@
     "repo": "Shopify/hydrogen",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-10-30T10:53:31.869Z"
+    "checked_at": "2026-11-03T01:39:31.465Z"
   },
-  "scanned_at": "2026-10-30T10:53:31.869Z",
+  "scanned_at": "2026-11-03T01:40:32.485Z",
   "trackers": {
     "url": "https://hydrogen.shopify.dev",
-    "found": [
-      {
-        "name": "Google Tag Manager",
-        "host": "www.googletagmanager.com"
-      }
-    ],
-    "tested_at": "2026-10-01T07:02:05.661Z"
+    "found": [],
+    "tested_at": "2026-11-03T01:40:32.485Z"
   }
 }
