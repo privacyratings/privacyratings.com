@@ -13,9 +13,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.abnormalsecurity.com",
-    "tested_at": "2026-11-03T01:39:15.610Z"
+    "tested_at": "2026-11-04T12:13:20.667Z"
   },
-  "scanned_at": "2026-11-03T01:57:39.811Z",
+  "scanned_at": "2026-11-04T12:13:21.315Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

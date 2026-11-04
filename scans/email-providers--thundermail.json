@@ -86,9 +86,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tb.pro",
-    "tested_at": "2026-11-03T01:39:10.112Z"
+    "tested_at": "2026-11-04T12:13:16.678Z"
   },
-  "scanned_at": "2026-11-03T11:59:37.401Z",
+  "scanned_at": "2026-11-04T12:13:17.114Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

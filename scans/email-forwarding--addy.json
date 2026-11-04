@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-03T01:40:05.214Z",
+    "tested_at": "2026-11-04T12:13:55.827Z",
     "imap": {
       "offered": false
     },
@@ -58,9 +58,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
-    "tested_at": "2026-11-03T01:39:12.946Z"
+    "tested_at": "2026-11-04T12:13:18.497Z"
   },
-  "scanned_at": "2026-11-03T11:58:48.787Z",
+  "scanned_at": "2026-11-04T12:13:55.827Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

@@ -45,7 +45,7 @@
         }
       }
     },
-    "tested_at": "2026-11-03T11:59:26.474Z",
+    "tested_at": "2026-11-04T12:13:49.768Z",
     "imap": {
       "host": "imap.purelymail.com",
       "port": 993,
@@ -106,14 +106,14 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=purelymail.com",
-    "tested_at": "2026-11-03T01:39:08.464Z"
+    "tested_at": "2026-11-04T12:13:14.060Z"
   },
-  "scanned_at": "2026-11-03T12:01:49.221Z",
+  "scanned_at": "2026-11-04T12:15:50.296Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=purelymail.com&hideResults=on",
-    "tested_at": "2026-10-23T09:25:03.819Z"
+    "tested_at": "2026-11-04T12:15:50.296Z"
   },
   "trackers": {
     "url": "https://purelymail.com",

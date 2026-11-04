@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=securitum.com",
     "tested_at": "2026-11-03T01:40:22.344Z"
   },
-  "scanned_at": "2026-11-03T02:51:32.883Z",
+  "scanned_at": "2026-11-04T12:20:42.501Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=securitum.com&hideResults=on",
-    "tested_at": "2026-10-27T09:58:42.249Z"
+    "tested_at": "2026-11-04T12:20:42.501Z"
   },
   "trackers": {
     "url": "https://securitum.com",

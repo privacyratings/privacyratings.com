@@ -57,9 +57,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tuta.com",
-    "tested_at": "2026-11-03T01:39:11.717Z"
+    "tested_at": "2026-11-04T12:13:17.313Z"
   },
-  "scanned_at": "2026-11-03T11:59:37.041Z",
+  "scanned_at": "2026-11-04T12:16:10.011Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tuta.com&hideResults=on",

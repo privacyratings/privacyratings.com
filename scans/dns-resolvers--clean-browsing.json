@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cleanbrowsing.org",
     "tested_at": "2026-11-03T01:40:52.607Z"
   },
-  "scanned_at": "2026-11-03T12:09:52.148Z",
+  "scanned_at": "2026-11-04T12:25:03.387Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=cleanbrowsing.org&hideResults=on",
-    "tested_at": "2026-10-23T09:28:27.554Z"
+    "tested_at": "2026-11-04T12:25:03.387Z"
   },
   "trackers": {
     "url": "https://cleanbrowsing.org",

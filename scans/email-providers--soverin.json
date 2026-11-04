@@ -75,9 +75,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=soverin.com",
-    "tested_at": "2026-11-03T01:39:09.695Z"
+    "tested_at": "2026-11-04T12:13:16.116Z"
   },
-  "scanned_at": "2026-11-03T11:59:34.419Z",
+  "scanned_at": "2026-11-04T12:13:18.004Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=us.ess.barracudanetworks.com",
-    "tested_at": "2026-11-03T01:39:16.831Z"
+    "tested_at": "2026-11-04T12:13:20.984Z"
   },
-  "scanned_at": "2026-11-03T02:12:18.617Z",
+  "scanned_at": "2026-11-04T12:13:21.929Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

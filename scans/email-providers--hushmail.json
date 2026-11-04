@@ -18,7 +18,7 @@
         "submissions": null,
         "submission": {
           "host": "hosted-submission.hushmail.com",
-          "port": 465
+          "port": 587
         },
         "imaps": {
           "host": "hosted-imap.hushmail.com",
@@ -34,7 +34,7 @@
         }
       }
     },
-    "tested_at": "2026-11-03T11:58:56.477Z",
+    "tested_at": "2026-11-04T12:13:19.575Z",
     "imap": {
       "host": "imap.hushmail.com",
       "port": 993,
@@ -76,7 +76,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hushmail.com",
     "tested_at": "2026-11-03T11:58:52.022Z"
   },
-  "scanned_at": "2026-11-03T11:58:57.860Z",
+  "scanned_at": "2026-11-04T12:13:20.720Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

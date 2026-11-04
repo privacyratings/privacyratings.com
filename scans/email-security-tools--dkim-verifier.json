@@ -3,9 +3,9 @@
     "repo": "lieser/dkim_verifier",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:38:57.422Z"
+    "checked_at": "2026-11-04T12:13:09.108Z"
   },
-  "scanned_at": "2026-11-03T11:58:48.698Z",
+  "scanned_at": "2026-11-04T12:13:09.108Z",
   "trackers": {
     "url": "https://addons.thunderbird.net/en-US/thunderbird/addon/dkim-verifier/",
     "found": [

@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mwmbl.org",
     "tested_at": "2026-11-03T01:39:42.679Z"
   },
-  "scanned_at": "2026-11-03T02:22:05.644Z",
+  "scanned_at": "2026-11-04T12:16:31.114Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mwmbl.org&hideResults=on",
-    "tested_at": "2026-10-29T10:57:13.914Z"
+    "tested_at": "2026-11-04T12:16:31.114Z"
   },
   "trackers": {
     "url": "https://mwmbl.org",

@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-03T01:40:05.437Z",
+    "tested_at": "2026-11-04T12:13:55.988Z",
     "imap": {
       "offered": false
     },
@@ -51,9 +51,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
-    "tested_at": "2026-11-03T01:39:14.032Z"
+    "tested_at": "2026-11-04T12:13:19.334Z"
   },
-  "scanned_at": "2026-11-03T01:53:05.817Z",
+  "scanned_at": "2026-11-04T12:13:55.988Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

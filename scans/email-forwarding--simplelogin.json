@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-03T01:40:07.095Z",
+    "tested_at": "2026-11-04T12:14:03.990Z",
     "imap": {
       "offered": false
     },
@@ -58,9 +58,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=simplelogin.io",
-    "tested_at": "2026-11-03T01:39:15.242Z"
+    "tested_at": "2026-11-04T12:13:20.255Z"
   },
-  "scanned_at": "2026-11-03T12:01:14.517Z",
+  "scanned_at": "2026-11-04T12:14:03.990Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

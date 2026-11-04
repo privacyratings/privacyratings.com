@@ -3,9 +3,9 @@
     "repo": "MailScanner/v5",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:38:57.587Z"
+    "checked_at": "2026-11-04T12:13:09.479Z"
   },
-  "scanned_at": "2026-11-03T01:39:05.072Z",
+  "scanned_at": "2026-11-04T12:13:09.479Z",
   "trackers": {
     "url": "https://github.com/MailScanner/v5",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

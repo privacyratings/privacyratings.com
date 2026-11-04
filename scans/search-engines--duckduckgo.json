@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
-    "tested_at": "2026-11-03T01:39:14.032Z"
+    "tested_at": "2026-11-04T12:13:19.334Z"
   },
-  "scanned_at": "2026-11-03T11:58:49.600Z",
+  "scanned_at": "2026-11-04T12:13:22.031Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

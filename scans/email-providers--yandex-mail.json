@@ -39,11 +39,11 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-03T01:40:03.147Z",
+    "tested_at": "2026-11-04T12:13:54.831Z",
     "imap": {
       "host": "imap.yandex.com",
-      "port": 993,
-      "tls": "implicit",
+      "port": 143,
+      "tls": "starttls",
       "capabilities": [
         "IMAP4REV1",
         "CHILDREN",
@@ -100,9 +100,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yandex.com",
-    "tested_at": "2026-11-03T01:39:12.839Z"
+    "tested_at": "2026-11-04T12:13:18.537Z"
   },
-  "scanned_at": "2026-11-03T01:57:38.737Z",
+  "scanned_at": "2026-11-04T12:14:57.704Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

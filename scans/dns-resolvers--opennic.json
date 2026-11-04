@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=opennic.org",
     "tested_at": "2026-11-03T01:40:56.233Z"
   },
-  "scanned_at": "2026-11-03T12:10:52.720Z",
+  "scanned_at": "2026-11-04T12:36:32.201Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=opennic.org&hideResults=on",
-    "tested_at": "2026-10-21T09:46:43.857Z"
+    "tested_at": "2026-11-04T12:36:32.201Z"
   },
   "trackers": {
     "url": "https://opennic.org",

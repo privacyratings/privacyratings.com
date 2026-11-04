@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=trailofbits.com",
     "tested_at": "2026-11-03T01:40:22.600Z"
   },
-  "scanned_at": "2026-11-03T02:51:59.139Z",
+  "scanned_at": "2026-11-04T12:27:44.098Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=trailofbits.com&hideResults=on",
-    "tested_at": "2026-10-27T10:05:29.348Z"
+    "tested_at": "2026-11-04T12:27:44.098Z"
   },
   "trackers": {
     "url": "https://trailofbits.com",

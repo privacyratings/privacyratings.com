@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-03T01:40:03.688Z",
+    "tested_at": "2026-11-04T12:13:54.736Z",
     "imap": {
       "offered": false
     },
@@ -57,9 +57,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.33mail.com",
-    "tested_at": "2026-11-03T01:39:12.732Z"
+    "tested_at": "2026-11-04T12:13:18.205Z"
   },
-  "scanned_at": "2026-11-03T01:55:34.975Z",
+  "scanned_at": "2026-11-04T12:13:54.736Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

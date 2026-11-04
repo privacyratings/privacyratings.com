@@ -103,9 +103,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yahoo.com",
-    "tested_at": "2026-11-03T01:39:11.983Z"
+    "tested_at": "2026-11-04T12:13:17.836Z"
   },
-  "scanned_at": "2026-11-03T11:59:37.986Z",
+  "scanned_at": "2026-11-04T12:13:18.044Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

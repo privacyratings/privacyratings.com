@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.forwardemail.net",
-    "tested_at": "2026-11-03T01:39:15.325Z"
+    "tested_at": "2026-11-04T12:13:20.222Z"
   },
-  "scanned_at": "2026-11-03T11:58:49.935Z",
+  "scanned_at": "2026-11-04T12:13:20.850Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,
