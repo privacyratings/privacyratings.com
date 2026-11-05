@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=security.microsoft.com",
-    "tested_at": "2026-11-03T01:39:22.231Z"
+    "tested_at": "2026-11-05T12:26:02.577Z"
   },
-  "scanned_at": "2026-11-03T12:03:35.323Z",
+  "scanned_at": "2026-11-05T12:26:03.387Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

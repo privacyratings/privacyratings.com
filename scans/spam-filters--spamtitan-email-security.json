@@ -13,9 +13,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=eu1-smtp-ui.titanhq.com",
-    "tested_at": "2026-11-03T01:39:29.710Z"
+    "tested_at": "2026-11-05T12:26:08.917Z"
   },
-  "scanned_at": "2026-11-03T02:18:50.564Z",
+  "scanned_at": "2026-11-05T12:26:11.452Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

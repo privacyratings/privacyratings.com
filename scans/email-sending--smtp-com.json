@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=smtp.com",
-    "tested_at": "2026-11-03T01:39:37.408Z"
+    "tested_at": "2026-11-05T12:26:16.515Z"
   },
-  "scanned_at": "2026-11-03T02:14:18.551Z",
+  "scanned_at": "2026-11-05T12:26:17.897Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

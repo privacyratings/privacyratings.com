@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.heimdalsecurity.com",
-    "tested_at": "2026-11-03T01:39:18.783Z"
+    "tested_at": "2026-11-05T12:25:59.519Z"
   },
-  "scanned_at": "2026-11-03T12:03:25.333Z",
+  "scanned_at": "2026-11-05T12:26:02.395Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

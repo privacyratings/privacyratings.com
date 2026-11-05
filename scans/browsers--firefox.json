@@ -3,9 +3,9 @@
     "repo": "mozilla-firefox/firefox",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:38:59.494Z"
+    "checked_at": "2026-11-05T12:26:00.158Z"
   },
-  "scanned_at": "2026-11-03T01:39:08.978Z",
+  "scanned_at": "2026-11-05T12:26:00.158Z",
   "trackers": {
     "url": "https://www.firefox.com/en-US/",
     "found": [

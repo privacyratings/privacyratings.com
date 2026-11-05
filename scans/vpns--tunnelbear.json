@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.tunnelbear.com",
     "tested_at": "2026-11-03T01:40:51.918Z"
   },
-  "scanned_at": "2026-11-03T03:32:42.202Z",
+  "scanned_at": "2026-11-05T12:27:25.395Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.tunnelbear.com&hideResults=on",
-    "tested_at": "2026-10-30T11:02:00.292Z"
+    "tested_at": "2026-11-05T12:27:25.395Z"
   },
   "trackers": {
     "url": "https://www.tunnelbear.com",

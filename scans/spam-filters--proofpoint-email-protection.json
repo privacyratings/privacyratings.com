@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=admin.proofpoint.com",
-    "tested_at": "2026-11-03T01:39:27.575Z"
+    "tested_at": "2026-11-05T12:26:07.697Z"
   },
-  "scanned_at": "2026-11-03T02:04:02.446Z",
+  "scanned_at": "2026-11-05T12:26:08.453Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,

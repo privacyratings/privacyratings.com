@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.spamhero.com",
-    "tested_at": "2026-11-03T01:39:29.011Z"
+    "tested_at": "2026-11-05T12:26:08.754Z"
   },
-  "scanned_at": "2026-11-03T02:07:22.395Z",
+  "scanned_at": "2026-11-05T12:26:09.371Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

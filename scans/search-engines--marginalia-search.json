@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=marginalia-search.com",
-    "tested_at": "2026-11-03T01:39:40.560Z"
+    "tested_at": "2026-11-05T12:26:18.676Z"
   },
-  "scanned_at": "2026-11-03T02:19:44.738Z",
+  "scanned_at": "2026-11-05T12:26:20.180Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

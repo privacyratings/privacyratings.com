@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.limesurvey.org",
     "tested_at": "2026-11-03T01:47:32.016Z"
   },
-  "scanned_at": "2026-11-03T04:19:54.259Z",
+  "scanned_at": "2026-11-05T12:36:57.801Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

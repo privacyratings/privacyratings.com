@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=login.mimecast.com",
-    "tested_at": "2026-11-03T01:39:23.503Z"
+    "tested_at": "2026-11-05T12:26:03.617Z"
   },
-  "scanned_at": "2026-11-03T02:13:15.147Z",
+  "scanned_at": "2026-11-05T12:26:13.712Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 12,

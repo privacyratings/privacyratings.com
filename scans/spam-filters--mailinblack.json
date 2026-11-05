@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.mailinblack.com",
-    "tested_at": "2026-11-03T01:39:20.631Z"
+    "tested_at": "2026-11-05T12:26:00.619Z"
   },
-  "scanned_at": "2026-11-03T02:00:59.691Z",
+  "scanned_at": "2026-11-05T12:26:10.256Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

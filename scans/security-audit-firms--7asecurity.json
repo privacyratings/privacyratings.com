@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=7asecurity.com",
     "tested_at": "2026-11-03T01:40:16.575Z"
   },
-  "scanned_at": "2026-11-03T02:43:01.913Z",
+  "scanned_at": "2026-11-05T12:27:11.110Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=7asecurity.com&hideResults=on",
-    "tested_at": "2026-11-01T11:21:41.780Z"
+    "tested_at": "2026-11-05T12:27:11.110Z"
   },
   "trackers": {
     "url": "https://7asecurity.com",

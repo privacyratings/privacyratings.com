@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ecosia.org",
-    "tested_at": "2026-11-03T01:39:40.007Z"
+    "tested_at": "2026-11-05T12:26:18.059Z"
   },
-  "scanned_at": "2026-11-04T12:20:47.040Z",
+  "scanned_at": "2026-11-05T12:26:18.233Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

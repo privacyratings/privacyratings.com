@@ -4,7 +4,7 @@
     "repo": "useplunk/plunk",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:38:59.048Z"
+    "checked_at": "2026-11-05T12:25:59.600Z"
   },
   "internetnl": {
     "web": {
@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=useplunk.com",
-    "tested_at": "2026-11-03T01:39:34.975Z"
+    "tested_at": "2026-11-05T12:26:14.384Z"
   },
-  "scanned_at": "2026-11-03T02:17:16.050Z",
+  "scanned_at": "2026-11-05T12:26:24.138Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

@@ -13,14 +13,14 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=loops.so",
-    "tested_at": "2026-11-03T01:39:32.610Z"
+    "tested_at": "2026-11-05T12:26:12.337Z"
   },
-  "scanned_at": "2026-11-04T12:16:10.014Z",
+  "scanned_at": "2026-11-05T12:26:13.059Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=loops.so&hideResults=on",
-    "tested_at": "2026-10-27T09:56:02.087Z"
+    "tested_at": "2026-11-05T12:25:59.974Z"
   },
   "trackers": {
     "url": "https://loops.so",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=redirectdetective.com",
     "tested_at": "2026-11-03T01:40:16.152Z"
   },
-  "scanned_at": "2026-11-04T12:19:10.822Z",
+  "scanned_at": "2026-11-05T12:28:56.210Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=redirectdetective.com&hideResults=on",
-    "tested_at": "2026-10-21T09:27:57.361Z"
+    "tested_at": "2026-11-05T12:28:56.209Z"
   },
   "trackers": {
     "url": "https://redirectdetective.com",

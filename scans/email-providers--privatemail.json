@@ -22,7 +22,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-04T12:13:48.510Z",
+    "tested_at": "2026-11-05T12:26:40.403Z",
     "imap": {
       "host": null,
       "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
@@ -45,7 +45,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privatemail.com",
     "tested_at": "2026-11-04T12:13:13.509Z"
   },
-  "scanned_at": "2026-11-04T12:13:48.510Z",
+  "scanned_at": "2026-11-05T12:26:40.403Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
