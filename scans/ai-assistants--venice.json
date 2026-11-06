@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=venice.ai",
     "tested_at": "2026-11-03T01:47:42.274Z"
   },
-  "scanned_at": "2026-11-05T12:39:17.487Z",
+  "scanned_at": "2026-11-06T12:26:26.286Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=venice.ai&hideResults=on",
-    "tested_at": "2026-11-02T12:36:54.172Z"
+    "tested_at": "2026-11-06T12:26:26.286Z"
   },
   "trackers": {
     "url": "https://venice.ai",

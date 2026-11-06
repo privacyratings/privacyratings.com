@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swisscows.com",
-    "tested_at": "2026-11-03T01:39:45.821Z"
+    "tested_at": "2026-11-06T12:10:47.679Z"
   },
-  "scanned_at": "2026-11-03T02:22:16.416Z",
+  "scanned_at": "2026-11-06T12:10:50.270Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

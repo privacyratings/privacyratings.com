@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.limesurvey.org",
     "tested_at": "2026-11-03T01:47:32.016Z"
   },
-  "scanned_at": "2026-11-05T12:36:57.801Z",
+  "scanned_at": "2026-11-06T12:23:42.538Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=account.limesurvey.org&hideResults=on",
-    "tested_at": "2026-11-02T12:36:52.472Z"
+    "tested_at": "2026-11-06T12:23:42.538Z"
   },
   "trackers": {
     "url": "https://www.limesurvey.org",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=aws.amazon.com",
     "tested_at": "2026-11-03T11:58:48.354Z"
   },
-  "scanned_at": "2026-11-03T11:58:48.615Z",
+  "scanned_at": "2026-11-06T12:10:46.169Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=aws.amazon.com&hideResults=on",
-    "tested_at": "2026-11-03T01:38:57.553Z"
+    "tested_at": "2026-11-06T12:10:46.169Z"
   },
   "trackers": {
     "url": "https://aws.amazon.com/workmail/",

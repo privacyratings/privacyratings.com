@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-05T12:26:11.051Z",
+    "tested_at": "2026-11-06T12:10:55.764Z",
     "imap": {
       "host": "imap.mail.me.com",
       "port": 993,
@@ -85,12 +85,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
     "tested_at": "2026-11-03T11:58:52.109Z"
   },
-  "scanned_at": "2026-11-05T12:26:26.739Z",
+  "scanned_at": "2026-11-06T12:13:42.606Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.icloud.com&hideResults=on",
-    "tested_at": "2026-11-03T01:42:03.058Z"
+    "tested_at": "2026-11-06T12:13:42.606Z"
   },
   "trackers": {
     "url": "https://www.icloud.com/mail",

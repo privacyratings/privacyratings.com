@@ -27,7 +27,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-05T12:26:01.153Z",
+    "tested_at": "2026-11-06T12:10:46.532Z",
     "imap": {
       "offered": false
     },
@@ -48,12 +48,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=astermail.org",
     "tested_at": "2026-11-03T11:58:48.452Z"
   },
-  "scanned_at": "2026-11-05T12:26:01.153Z",
+  "scanned_at": "2026-11-06T12:19:44.097Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=astermail.org&hideResults=on",
-    "tested_at": "2026-11-03T01:49:37.706Z"
+    "tested_at": "2026-11-06T12:19:44.096Z"
   },
   "trackers": {
     "url": "https://astermail.org",

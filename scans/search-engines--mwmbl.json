@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mwmbl.org",
-    "tested_at": "2026-11-03T01:39:42.679Z"
+    "tested_at": "2026-11-06T12:10:45.799Z"
   },
-  "scanned_at": "2026-11-04T12:16:31.114Z",
+  "scanned_at": "2026-11-06T12:10:47.123Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

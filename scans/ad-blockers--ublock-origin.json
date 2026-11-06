@@ -3,9 +3,9 @@
     "repo": "gorhill/uBlock",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:00.358Z"
+    "checked_at": "2026-11-06T12:10:45.923Z"
   },
-  "scanned_at": "2026-11-03T01:39:10.640Z",
+  "scanned_at": "2026-11-06T12:10:45.923Z",
   "trackers": {
     "url": "https://github.com/gorhill/uBlock",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

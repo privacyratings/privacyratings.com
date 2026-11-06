@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=yandex.com",
-    "tested_at": "2026-11-03T01:39:49.293Z"
+    "tested_at": "2026-11-06T12:10:50.584Z"
   },
-  "scanned_at": "2026-11-03T02:22:17.478Z",
+  "scanned_at": "2026-11-06T12:10:53.740Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

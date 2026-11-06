@@ -3,9 +3,9 @@
     "repo": "sblask-webextensions/webextension-skip-redirect",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:01.539Z"
+    "checked_at": "2026-11-06T12:10:47.246Z"
   },
-  "scanned_at": "2026-11-03T01:39:12.960Z",
+  "scanned_at": "2026-11-06T12:10:47.246Z",
   "trackers": {
     "url": "https://github.com/sblask/webextension-skip-redirect",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

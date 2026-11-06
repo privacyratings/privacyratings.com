@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=newpipe.net",
-    "tested_at": "2026-11-03T01:39:52.450Z"
+    "tested_at": "2026-11-06T12:10:54.057Z"
   },
-  "scanned_at": "2026-11-03T12:08:31.423Z",
+  "scanned_at": "2026-11-06T12:10:55.464Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
