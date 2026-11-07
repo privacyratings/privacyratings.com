@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sec-consult.com",
-    "tested_at": "2026-11-03T01:40:21.101Z"
+    "tested_at": "2026-11-07T11:07:35.025Z"
   },
-  "scanned_at": "2026-11-03T12:07:52.389Z",
+  "scanned_at": "2026-11-07T11:07:36.826Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

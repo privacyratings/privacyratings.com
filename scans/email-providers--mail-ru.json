@@ -36,7 +36,7 @@
         }
       }
     },
-    "tested_at": "2026-11-06T12:11:17.470Z",
+    "tested_at": "2026-11-07T11:07:50.228Z",
     "imap": {
       "host": "imap.mail.ru",
       "port": 993,
@@ -91,7 +91,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.ru",
     "tested_at": "2026-11-04T12:13:09.763Z"
   },
-  "scanned_at": "2026-11-06T12:32:33.293Z",
+  "scanned_at": "2026-11-07T11:07:53.323Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,

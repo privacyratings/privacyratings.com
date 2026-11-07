@@ -3,9 +3,9 @@
     "repo": "searxng/searxng",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:02.052Z"
+    "checked_at": "2026-11-07T11:07:19.697Z"
   },
-  "scanned_at": "2026-11-03T01:39:14.482Z",
+  "scanned_at": "2026-11-07T11:07:19.697Z",
   "trackers": {
     "url": "https://docs.searxng.org",
     "found": [],

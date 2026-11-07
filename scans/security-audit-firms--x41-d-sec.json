@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=x41-dsec.de",
-    "tested_at": "2026-11-03T01:40:23.089Z"
+    "tested_at": "2026-11-07T11:07:37.792Z"
   },
-  "scanned_at": "2026-11-03T02:51:20.788Z",
+  "scanned_at": "2026-11-07T11:07:40.254Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

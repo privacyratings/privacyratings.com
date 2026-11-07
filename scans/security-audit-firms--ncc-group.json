@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.nccgroup.com",
-    "tested_at": "2026-11-03T01:40:20.182Z"
+    "tested_at": "2026-11-07T11:07:31.767Z"
   },
-  "scanned_at": "2026-11-03T02:48:22.085Z",
+  "scanned_at": "2026-11-07T11:07:34.298Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

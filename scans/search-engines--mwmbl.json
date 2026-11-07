@@ -4,7 +4,7 @@
     "repo": "mwmbl/mwmbl",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:01.901Z"
+    "checked_at": "2026-11-07T11:07:19.709Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mwmbl.org",
     "tested_at": "2026-11-06T12:10:45.799Z"
   },
-  "scanned_at": "2026-11-06T12:10:47.123Z",
+  "scanned_at": "2026-11-07T11:07:19.709Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

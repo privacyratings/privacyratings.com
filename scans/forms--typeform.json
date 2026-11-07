@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=admin.typeform.com",
     "tested_at": "2026-11-03T01:47:35.226Z"
   },
-  "scanned_at": "2026-11-06T12:24:51.187Z",
+  "scanned_at": "2026-11-07T11:18:59.858Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=admin.typeform.com&hideResults=on",
-    "tested_at": "2026-11-02T12:47:59.696Z"
+    "tested_at": "2026-11-07T11:18:59.858Z"
   },
   "trackers": {
     "url": "https://www.typeform.com",

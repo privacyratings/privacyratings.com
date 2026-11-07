@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.abnormalsecurity.com",
     "tested_at": "2026-11-04T12:13:20.667Z"
   },
-  "scanned_at": "2026-11-04T12:13:21.315Z",
+  "scanned_at": "2026-11-07T11:18:59.677Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=portal.abnormalsecurity.com&hideResults=on",
-    "tested_at": "2026-11-03T01:57:39.811Z"
+    "tested_at": "2026-11-07T11:18:59.677Z"
   },
   "trackers": {
     "url": "https://abnormal.ai/platform/inbound-email-security",

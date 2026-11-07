@@ -85,12 +85,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
     "tested_at": "2026-11-03T11:58:52.109Z"
   },
-  "scanned_at": "2026-11-06T12:11:49.021Z",
+  "scanned_at": "2026-11-07T11:14:13.042Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.icloud.com&hideResults=on",
-    "tested_at": "2026-11-03T01:54:28.748Z"
+    "tested_at": "2026-11-07T11:14:13.042Z"
   },
   "trackers": {
     "url": "https://support.apple.com/en-us/102548",

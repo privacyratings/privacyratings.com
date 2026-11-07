@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=securitum.com",
-    "tested_at": "2026-11-03T01:40:22.344Z"
+    "tested_at": "2026-11-07T11:07:36.772Z"
   },
-  "scanned_at": "2026-11-04T12:20:42.501Z",
+  "scanned_at": "2026-11-07T11:07:38.183Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

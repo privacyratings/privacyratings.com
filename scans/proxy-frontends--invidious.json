@@ -4,7 +4,7 @@
     "repo": "iv-org/invidious",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:02.968Z"
+    "checked_at": "2026-11-07T11:07:20.731Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=invidious.io",
     "tested_at": "2026-11-06T12:10:52.573Z"
   },
-  "scanned_at": "2026-11-06T12:10:54.130Z",
+  "scanned_at": "2026-11-07T11:07:20.731Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

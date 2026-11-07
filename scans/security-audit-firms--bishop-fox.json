@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bishopfox.com",
-    "tested_at": "2026-11-03T01:40:18.112Z"
+    "tested_at": "2026-11-07T11:07:28.571Z"
   },
-  "scanned_at": "2026-11-03T02:51:27.120Z",
+  "scanned_at": "2026-11-07T11:07:28.952Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

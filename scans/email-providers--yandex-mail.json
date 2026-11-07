@@ -102,12 +102,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yandex.com",
     "tested_at": "2026-11-04T12:13:18.537Z"
   },
-  "scanned_at": "2026-11-06T12:11:33.073Z",
+  "scanned_at": "2026-11-07T11:16:48.738Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.yandex.com&hideResults=on",
-    "tested_at": "2026-11-03T01:57:38.737Z"
+    "tested_at": "2026-11-07T11:16:48.737Z"
   },
   "trackers": {
     "url": "https://360.yandex.com/showcaptcha?cc=1&form-fb-hint=2.73&mt=6122572FE016F25BE4DCDAFB205BE87A8791099E9DF71685E6094298E71D1C02325C20839BE43666127E7047EBFB0A3ABE8FA0E51A2EF0CDFB426F3CEE27AA00DE701592A28CD9CE771C3DF9A16D266E7567317F0B4A6D72D1B97FEA43B824829B8C45BBF741009F41F7A02F35F319DAFF4641F35FF39110D1322A71172340738416E6605F4E8C2F&retpath=aHR0cHM6Ly8zNjAueWFuZGV4LmNvbS9tYWls_746322ffdc3908937d0ff4e4a18dd82e&t=2%252F1793669941%252F8bb949d479bc11bfb31328e9f55affeb&u=9690687695575206894&s=7194c9abb9d1c5a89220e8fdf0cdff69",

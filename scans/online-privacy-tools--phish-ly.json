@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=phish.ly",
-    "tested_at": "2026-11-03T01:40:14.661Z"
+    "tested_at": "2026-11-07T11:07:22.791Z"
   },
-  "scanned_at": "2026-11-03T02:36:56.508Z",
+  "scanned_at": "2026-11-07T11:07:23.730Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

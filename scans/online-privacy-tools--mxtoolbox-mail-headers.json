@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mxtoolbox.com",
-    "tested_at": "2026-11-03T01:40:14.012Z"
+    "tested_at": "2026-11-07T11:07:22.722Z"
   },
-  "scanned_at": "2026-11-03T02:48:29.957Z",
+  "scanned_at": "2026-11-07T11:07:23.299Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

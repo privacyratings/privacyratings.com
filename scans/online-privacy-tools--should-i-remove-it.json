@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.shouldiremoveit.com",
-    "tested_at": "2026-11-03T01:40:15.394Z"
+    "tested_at": "2026-11-07T11:07:23.824Z"
   },
-  "scanned_at": "2026-11-06T12:10:46.327Z",
+  "scanned_at": "2026-11-07T11:07:24.268Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,

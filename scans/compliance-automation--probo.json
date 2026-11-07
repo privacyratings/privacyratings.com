@@ -19,9 +19,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=us.probo.com",
-    "tested_at": "2026-11-03T01:40:24.338Z"
+    "tested_at": "2026-11-07T11:07:40.402Z"
   },
-  "scanned_at": "2026-11-03T03:05:53.438Z",
+  "scanned_at": "2026-11-07T11:07:40.825Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

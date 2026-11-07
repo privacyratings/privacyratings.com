@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ipleak.net",
-    "tested_at": "2026-11-03T01:40:13.860Z"
+    "tested_at": "2026-11-07T11:07:21.592Z"
   },
-  "scanned_at": "2026-11-03T02:40:09.910Z",
+  "scanned_at": "2026-11-07T11:07:22.639Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

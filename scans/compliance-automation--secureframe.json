@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.secureframe.com",
-    "tested_at": "2026-11-03T01:40:24.649Z"
+    "tested_at": "2026-11-07T11:07:40.939Z"
   },
-  "scanned_at": "2026-11-04T12:23:07.396Z",
+  "scanned_at": "2026-11-07T11:07:41.621Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

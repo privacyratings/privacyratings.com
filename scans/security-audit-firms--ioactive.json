@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ioactive.com",
-    "tested_at": "2026-11-03T01:40:19.129Z"
+    "tested_at": "2026-11-07T11:07:30.649Z"
   },
-  "scanned_at": "2026-11-03T02:48:11.013Z",
+  "scanned_at": "2026-11-07T11:07:30.933Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,

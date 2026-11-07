@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.quarkslab.com",
-    "tested_at": "2026-11-03T01:40:20.074Z"
+    "tested_at": "2026-11-07T11:07:33.845Z"
   },
-  "scanned_at": "2026-11-03T02:49:08.270Z",
+  "scanned_at": "2026-11-07T11:07:34.424Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,

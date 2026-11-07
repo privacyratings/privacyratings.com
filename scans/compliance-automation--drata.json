@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.drata.com",
-    "tested_at": "2026-11-03T01:40:23.660Z"
+    "tested_at": "2026-11-07T11:07:39.766Z"
   },
-  "scanned_at": "2026-11-06T12:10:46.422Z",
+  "scanned_at": "2026-11-07T11:07:40.006Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

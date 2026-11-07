@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.spamhero.com",
     "tested_at": "2026-11-05T12:26:08.754Z"
   },
-  "scanned_at": "2026-11-05T12:26:09.371Z",
+  "scanned_at": "2026-11-07T11:16:49.602Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.spamhero.com&hideResults=on",
-    "tested_at": "2026-11-03T02:07:22.395Z"
+    "tested_at": "2026-11-07T11:16:49.602Z"
   },
   "trackers": {
     "url": "https://www.spamhero.com",

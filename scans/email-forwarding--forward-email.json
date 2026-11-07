@@ -118,12 +118,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forwardemail.net",
     "tested_at": "2026-11-03T11:58:10.754Z"
   },
-  "scanned_at": "2026-11-06T12:11:34.075Z",
+  "scanned_at": "2026-11-07T11:14:13.052Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=forwardemail.net&hideResults=on",
-    "tested_at": "2026-11-03T01:54:28.304Z"
+    "tested_at": "2026-11-07T11:14:13.052Z"
   },
   "trackers": {
     "url": "https://forwardemail.net/en",

@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=reports.exodus-privacy.eu.org",
-    "tested_at": "2026-11-03T01:40:16.445Z"
+    "tested_at": "2026-11-07T11:07:26.734Z"
   },
-  "scanned_at": "2026-11-03T02:42:30.641Z",
+  "scanned_at": "2026-11-07T11:07:28.480Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

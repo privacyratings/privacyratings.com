@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=admin.proofpoint.com",
     "tested_at": "2026-11-05T12:26:07.697Z"
   },
-  "scanned_at": "2026-11-05T12:26:08.453Z",
+  "scanned_at": "2026-11-07T11:16:49.111Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=admin.proofpoint.com&hideResults=on",
-    "tested_at": "2026-11-03T02:04:02.445Z"
+    "tested_at": "2026-11-07T11:16:49.111Z"
   },
   "trackers": {
     "url": "https://www.proofpoint.com/us/products/email-protection",

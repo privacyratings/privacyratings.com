@@ -13,9 +13,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sitereport.netcraft.com",
-    "tested_at": "2026-11-03T01:40:15.626Z"
+    "tested_at": "2026-11-07T11:07:24.658Z"
   },
-  "scanned_at": "2026-11-03T02:37:29.100Z",
+  "scanned_at": "2026-11-07T11:07:25.903Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

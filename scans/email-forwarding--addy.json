@@ -60,12 +60,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=addy.io",
     "tested_at": "2026-11-04T12:13:18.497Z"
   },
-  "scanned_at": "2026-11-06T12:11:32.473Z",
+  "scanned_at": "2026-11-07T11:15:13.320Z",
   "ssllabs": {
-    "grade": "A-",
+    "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=addy.io&hideResults=on",
-    "tested_at": "2026-11-03T01:52:20.728Z"
+    "tested_at": "2026-11-07T11:15:13.320Z"
   },
   "trackers": {
     "url": "https://addy.io",

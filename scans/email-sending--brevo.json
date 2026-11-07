@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=brevo.com",
     "tested_at": "2026-11-05T12:26:10.341Z"
   },
-  "scanned_at": "2026-11-05T12:26:12.117Z",
+  "scanned_at": "2026-11-07T11:16:49.895Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=brevo.com&hideResults=on",
-    "tested_at": "2026-11-03T02:07:56.367Z"
+    "tested_at": "2026-11-07T11:16:49.895Z"
   },
   "trackers": {
     "url": "https://www.brevo.com",
