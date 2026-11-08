@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-06T12:11:33.109Z",
+    "tested_at": "2026-11-08T11:20:18.964Z",
     "imap": {
       "offered": false
     },
@@ -59,7 +59,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=relay.firefox.com",
     "tested_at": "2026-11-04T12:13:19.630Z"
   },
-  "scanned_at": "2026-11-07T11:14:12.711Z",
+  "scanned_at": "2026-11-08T11:20:18.964Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 8,

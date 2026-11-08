@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.chatwoot.com",
-    "tested_at": "2026-11-03T01:40:34.780Z"
+    "tested_at": "2026-11-08T11:19:43.243Z"
   },
-  "scanned_at": "2026-11-06T12:19:05.833Z",
+  "scanned_at": "2026-11-08T11:19:43.982Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

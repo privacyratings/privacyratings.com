@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.freshworks.com",
-    "tested_at": "2026-11-03T01:40:35.581Z"
+    "tested_at": "2026-11-08T11:19:44.112Z"
   },
-  "scanned_at": "2026-11-03T03:14:48.344Z",
+  "scanned_at": "2026-11-08T11:19:44.297Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

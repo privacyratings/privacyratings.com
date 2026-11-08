@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=yandex.com",
     "tested_at": "2026-11-06T12:10:50.584Z"
   },
-  "scanned_at": "2026-11-06T12:10:53.740Z",
+  "scanned_at": "2026-11-08T11:26:16.734Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=yandex.com&hideResults=on",
-    "tested_at": "2026-11-03T02:22:17.478Z"
+    "tested_at": "2026-11-08T11:26:16.734Z"
   },
   "trackers": {
     "url": "https://yandex.com",

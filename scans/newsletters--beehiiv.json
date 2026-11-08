@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.beehiiv.com",
-    "tested_at": "2026-11-03T01:40:28.199Z"
+    "tested_at": "2026-11-08T11:19:35.795Z"
   },
-  "scanned_at": "2026-11-03T03:05:25.949Z",
+  "scanned_at": "2026-11-08T11:19:36.953Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

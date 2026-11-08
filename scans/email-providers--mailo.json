@@ -21,7 +21,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-07T11:07:53.816Z",
+    "tested_at": "2026-11-08T11:20:06.005Z",
     "imap": {
       "host": "mail.mailo.com",
       "port": 993,
@@ -70,7 +70,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mailo.com",
     "tested_at": "2026-11-04T12:13:11.168Z"
   },
-  "scanned_at": "2026-11-07T11:07:56.043Z",
+  "scanned_at": "2026-11-08T11:20:08.851Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

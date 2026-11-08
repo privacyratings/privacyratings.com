@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=joindeleteme.com",
-    "tested_at": "2026-11-03T01:40:26.262Z"
+    "tested_at": "2026-11-08T11:19:32.895Z"
   },
-  "scanned_at": "2026-11-03T02:59:45.818Z",
+  "scanned_at": "2026-11-08T11:19:33.723Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=marginalia-search.com",
     "tested_at": "2026-11-05T12:26:18.676Z"
   },
-  "scanned_at": "2026-11-07T11:07:19.687Z",
+  "scanned_at": "2026-11-08T11:25:23.363Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=marginalia-search.com&hideResults=on",
-    "tested_at": "2026-11-03T02:19:44.738Z"
+    "tested_at": "2026-11-08T11:25:23.363Z"
   },
   "trackers": {
     "url": "https://marginalia-search.com",

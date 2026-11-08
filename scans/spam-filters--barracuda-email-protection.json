@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=us.ess.barracudanetworks.com",
     "tested_at": "2026-11-04T12:13:20.984Z"
   },
-  "scanned_at": "2026-11-04T12:13:21.929Z",
+  "scanned_at": "2026-11-08T11:19:31.978Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=us.ess.barracudanetworks.com&hideResults=on",
-    "tested_at": "2026-11-03T02:12:18.617Z"
+    "tested_at": "2026-11-08T11:19:31.978Z"
   },
   "trackers": {
     "url": "https://www.barracuda.com/products/email-protection",

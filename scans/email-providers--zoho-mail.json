@@ -35,7 +35,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-06T12:11:30.051Z",
+    "tested_at": "2026-11-08T11:20:15.923Z",
     "imap": {
       "host": "imap.zoho.com",
       "port": 993,
@@ -93,7 +93,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.zoho.com",
     "tested_at": "2026-11-04T12:13:18.125Z"
   },
-  "scanned_at": "2026-11-06T12:11:31.240Z",
+  "scanned_at": "2026-11-08T11:20:16.779Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

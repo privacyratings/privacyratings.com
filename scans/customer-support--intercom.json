@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.intercom.com",
-    "tested_at": "2026-11-03T01:40:35.731Z"
+    "tested_at": "2026-11-08T11:19:45.213Z"
   },
-  "scanned_at": "2026-11-03T03:24:22.979Z",
+  "scanned_at": "2026-11-08T11:19:45.613Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -13,12 +13,12 @@
       "tested_at": "2026-11-02T13:18:16.060Z"
     }
   },
-  "scanned_at": "2026-11-07T11:07:50.416Z",
+  "scanned_at": "2026-11-08T11:22:34.919Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=search.brave.com&hideResults=on",
-    "tested_at": "2026-11-03T02:15:56.463Z"
+    "tested_at": "2026-11-08T11:22:34.919Z"
   },
   "trackers": {
     "url": "https://search.brave.com",

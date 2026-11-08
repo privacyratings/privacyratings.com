@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hushed.com",
-    "tested_at": "2026-11-03T01:40:37.388Z"
+    "tested_at": "2026-11-08T11:19:47.981Z"
   },
-  "scanned_at": "2026-11-03T03:18:03.695Z",
+  "scanned_at": "2026-11-08T11:19:50.842Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

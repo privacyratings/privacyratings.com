@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=substack.com",
-    "tested_at": "2026-11-03T01:40:34.095Z"
+    "tested_at": "2026-11-08T11:19:42.283Z"
   },
-  "scanned_at": "2026-11-07T11:07:20.668Z",
+  "scanned_at": "2026-11-08T11:19:42.990Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

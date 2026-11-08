@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mojeek.com",
     "tested_at": "2026-11-05T12:26:20.271Z"
   },
-  "scanned_at": "2026-11-05T12:26:22.141Z",
+  "scanned_at": "2026-11-08T11:26:20.531Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mojeek.com&hideResults=on",
-    "tested_at": "2026-11-03T02:21:13.046Z"
+    "tested_at": "2026-11-08T11:26:20.531Z"
   },
   "trackers": {
     "url": "https://www.mojeek.com",

@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=easyoptouts.com",
-    "tested_at": "2026-11-03T01:40:26.309Z"
+    "tested_at": "2026-11-08T11:19:33.410Z"
   },
-  "scanned_at": "2026-11-03T03:10:11.604Z",
+  "scanned_at": "2026-11-08T11:19:33.774Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,

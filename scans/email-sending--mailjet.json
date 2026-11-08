@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailjet.com",
     "tested_at": "2026-11-05T12:26:13.615Z"
   },
-  "scanned_at": "2026-11-05T12:26:15.674Z",
+  "scanned_at": "2026-11-08T11:22:33.087Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailjet.com&hideResults=on",
-    "tested_at": "2026-11-03T02:12:19.806Z"
+    "tested_at": "2026-11-08T11:22:33.087Z"
   },
   "trackers": {
     "url": "https://www.mailjet.com",

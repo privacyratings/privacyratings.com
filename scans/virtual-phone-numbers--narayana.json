@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=narayana.im",
-    "tested_at": "2026-11-03T01:40:39.610Z"
+    "tested_at": "2026-11-08T11:19:53.583Z"
   },
-  "scanned_at": "2026-11-03T03:19:25.780Z",
+  "scanned_at": "2026-11-08T11:19:55.461Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

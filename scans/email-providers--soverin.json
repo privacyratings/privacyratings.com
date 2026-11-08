@@ -77,12 +77,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=soverin.com",
     "tested_at": "2026-11-04T12:13:16.116Z"
   },
-  "scanned_at": "2026-11-07T11:10:20.841Z",
+  "scanned_at": "2026-11-08T11:22:42.542Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=soverin.com&hideResults=on",
-    "tested_at": "2026-11-03T01:52:13.885Z"
+    "tested_at": "2026-11-08T11:22:42.542Z"
   },
   "trackers": {
     "url": "https://soverin.com",

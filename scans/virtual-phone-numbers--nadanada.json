@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nadanada.me",
-    "tested_at": "2026-11-03T01:40:38.287Z"
+    "tested_at": "2026-11-08T11:19:51.126Z"
   },
-  "scanned_at": "2026-11-03T03:17:48.674Z",
+  "scanned_at": "2026-11-08T11:19:52.775Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,

@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.burnerapp.com",
-    "tested_at": "2026-11-03T01:40:36.280Z"
+    "tested_at": "2026-11-08T11:19:46.718Z"
   },
-  "scanned_at": "2026-11-07T11:19:58.575Z",
+  "scanned_at": "2026-11-08T11:29:30.423Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.burnerapp.com&hideResults=on",
-    "tested_at": "2026-10-30T10:58:33.768Z"
+    "tested_at": "2026-11-08T11:29:30.423Z"
   },
   "trackers": {
     "url": "https://www.burnerapp.com",

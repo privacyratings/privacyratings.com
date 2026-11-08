@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=resend.com",
     "tested_at": "2026-11-05T12:26:15.807Z"
   },
-  "scanned_at": "2026-11-05T12:26:17.030Z",
+  "scanned_at": "2026-11-08T11:22:33.630Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=resend.com&hideResults=on",
-    "tested_at": "2026-11-03T02:13:32.173Z"
+    "tested_at": "2026-11-08T11:22:33.630Z"
   },
   "trackers": {
     "url": "https://resend.com",

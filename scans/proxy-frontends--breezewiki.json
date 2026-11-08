@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=breezewiki.com",
     "tested_at": "2026-11-06T12:10:50.500Z"
   },
-  "scanned_at": "2026-11-06T12:10:52.053Z",
+  "scanned_at": "2026-11-08T11:27:42.333Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=breezewiki.com&hideResults=on",
-    "tested_at": "2026-11-03T02:22:17.871Z"
+    "tested_at": "2026-11-08T11:27:42.333Z"
   },
   "trackers": {
     "url": "https://breezewiki.com",
