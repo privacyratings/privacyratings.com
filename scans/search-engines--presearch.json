@@ -3,11 +3,11 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/presearch.com/22513205/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/presearch.com/22660278/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
-  "scanned_at": "2026-11-08T11:28:24.549Z",
+  "scanned_at": "2026-11-09T12:57:22.507Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

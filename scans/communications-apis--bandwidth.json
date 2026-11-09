@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/bandwidth.com/22513166/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/bandwidth.com/22659873/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bandwidth.com",
-    "tested_at": "2026-11-03T01:40:41.740Z"
+    "tested_at": "2026-11-09T12:56:52.968Z"
   },
-  "scanned_at": "2026-11-03T03:22:59.631Z",
+  "scanned_at": "2026-11-09T12:56:53.991Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

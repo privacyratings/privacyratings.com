@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 56,
-      "report": "https://batch.internet.nl/site/includesecurity.com/22513507/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/includesecurity.com/22659967/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=includesecurity.com",
     "tested_at": "2026-11-07T11:07:30.077Z"
   },
-  "scanned_at": "2026-11-07T11:07:30.876Z",
+  "scanned_at": "2026-11-09T13:11:30.685Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=includesecurity.com&hideResults=on",
-    "tested_at": "2026-11-03T02:46:12.593Z"
+    "tested_at": "2026-11-09T13:11:30.685Z"
   },
   "trackers": {
     "url": "https://includesecurity.com",

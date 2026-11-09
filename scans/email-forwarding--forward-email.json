@@ -9,13 +9,13 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/forwardemail.net/22513421/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/forwardemail.net/22660250/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
       "score": 100,
-      "report": "https://batch.internet.nl/mail/forwardemail.net/22780139/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "report": "https://batch.internet.nl/mail/forwardemail.net/22855379/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {

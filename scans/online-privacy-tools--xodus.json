@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 87,
-      "report": "https://batch.internet.nl/site/reports.exodus-privacy.eu.org/22513380/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/reports.exodus-privacy.eu.org/22659770/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=reports.exodus-privacy.eu.org",
     "tested_at": "2026-11-07T11:07:26.734Z"
   },
-  "scanned_at": "2026-11-07T11:07:28.480Z",
+  "scanned_at": "2026-11-09T13:09:41.194Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=reports.exodus-privacy.eu.org&hideResults=on",
-    "tested_at": "2026-11-03T02:42:30.640Z"
+    "tested_at": "2026-11-09T13:09:41.193Z"
   },
   "trackers": {
     "url": "https://reports.exodus-privacy.eu.org/en/",

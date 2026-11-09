@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 82,
-      "report": "https://batch.internet.nl/site/www.tunnelbear.com/22513251/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/www.tunnelbear.com/22660165/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.tunnelbear.com",
-    "tested_at": "2026-11-03T01:40:51.918Z"
+    "tested_at": "2026-11-09T12:57:13.816Z"
   },
-  "scanned_at": "2026-11-05T12:27:25.395Z",
+  "scanned_at": "2026-11-09T12:57:14.330Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/silent.link/22513361/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/silent.link/22660063/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=silent.link",
-    "tested_at": "2026-11-03T01:40:40.273Z"
+    "tested_at": "2026-11-09T12:56:51.225Z"
   },
-  "scanned_at": "2026-11-03T03:18:03.859Z",
+  "scanned_at": "2026-11-09T12:56:51.783Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/twilio.com/22513176/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/twilio.com/22660393/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=twilio.com",
-    "tested_at": "2026-11-03T01:40:44.458Z"
+    "tested_at": "2026-11-09T12:56:59.819Z"
   },
-  "scanned_at": "2026-11-04T12:20:47.311Z",
+  "scanned_at": "2026-11-09T12:57:00.802Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 3,

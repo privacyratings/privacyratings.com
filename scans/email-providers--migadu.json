@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/migadu.com/22513546/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/migadu.com/22660020/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
-      "score": 88,
-      "report": "https://batch.internet.nl/mail/migadu.com/22780132/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "score": 84,
+      "report": "https://batch.internet.nl/mail/migadu.com/22855368/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {
@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-08T11:20:03.936Z",
+    "tested_at": "2026-11-09T12:57:46.604Z",
     "imap": {
       "host": "imap.migadu.com",
       "port": 993,
@@ -91,14 +91,14 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=migadu.com",
     "tested_at": "2026-11-03T11:58:52.818Z"
   },
-  "scanned_at": "2026-11-08T11:20:05.653Z",
+  "scanned_at": "2026-11-09T12:58:32.558Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=migadu.com&hideResults=on",
     "tested_at": "2026-10-23T09:25:58.926Z",
     "last_error": "No endpoint could be graded",
-    "last_error_at": "2026-11-08T11:19:32.202Z"
+    "last_error_at": "2026-11-09T12:58:32.558Z"
   },
   "trackers": {
     "url": "https://www.migadu.com/",

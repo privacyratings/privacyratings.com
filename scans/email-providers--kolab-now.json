@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 79,
-      "report": "https://batch.internet.nl/site/kolabnow.com/22513561/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/kolabnow.com/22660465/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
-      "score": 84,
-      "report": "https://batch.internet.nl/mail/kolabnow.com/22780131/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "score": 70,
+      "report": "https://batch.internet.nl/mail/kolabnow.com/22855388/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {
@@ -47,7 +47,7 @@
         }
       }
     },
-    "tested_at": "2026-11-08T11:19:46.678Z",
+    "tested_at": "2026-11-09T12:57:27.491Z",
     "imap": {
       "host": "imap.kolabnow.com",
       "port": 993,
@@ -160,7 +160,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kolabnow.com",
     "tested_at": "2026-11-03T11:58:52.163Z"
   },
-  "scanned_at": "2026-11-08T11:19:50.267Z",
+  "scanned_at": "2026-11-09T12:57:30.416Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

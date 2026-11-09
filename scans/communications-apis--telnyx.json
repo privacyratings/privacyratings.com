@@ -3,19 +3,19 @@
   "internetnl": {
     "web": {
       "score": 96,
-      "report": "https://batch.internet.nl/site/telnyx.com/22513284/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/telnyx.com/22660104/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
-    "grade": "B",
-    "score": 70,
-    "tests_passed": 9,
+    "grade": "B-",
+    "score": 65,
+    "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=telnyx.com",
-    "tested_at": "2026-11-03T01:40:43.737Z"
+    "tested_at": "2026-11-09T12:56:58.153Z"
   },
-  "scanned_at": "2026-11-03T03:29:26.808Z",
+  "scanned_at": "2026-11-09T12:56:58.942Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

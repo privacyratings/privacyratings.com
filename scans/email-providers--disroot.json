@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 86,
-      "report": "https://batch.internet.nl/site/disroot.org/22513400/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/disroot.org/22660228/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
       "score": 88,
-      "report": "https://batch.internet.nl/mail/disroot.org/22780128/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "report": "https://batch.internet.nl/mail/disroot.org/22855373/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {
@@ -42,7 +42,7 @@
         }
       }
     },
-    "tested_at": "2026-11-08T11:19:39.602Z",
+    "tested_at": "2026-11-09T12:57:00.511Z",
     "imap": {
       "host": "disroot.org",
       "port": 993,
@@ -100,7 +100,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=disroot.org",
     "tested_at": "2026-11-03T11:58:49.935Z"
   },
-  "scanned_at": "2026-11-08T11:19:42.385Z",
+  "scanned_at": "2026-11-09T12:57:03.205Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

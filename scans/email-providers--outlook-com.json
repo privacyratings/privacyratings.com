@@ -2,14 +2,14 @@
   "domain": "outlook.live.com",
   "internetnl": {
     "web": {
-      "score": 96,
-      "report": "https://batch.internet.nl/site/outlook.live.com/22513484/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "score": 71,
+      "report": "https://batch.internet.nl/site/outlook.live.com/22659760/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
       "score": 66,
-      "report": "https://batch.internet.nl/mail/outlook.com/22780203/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "report": "https://batch.internet.nl/mail/outlook.com/22855383/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {
@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-08T11:20:07.080Z",
+    "tested_at": "2026-11-09T12:57:52.916Z",
     "imap": {
       "host": "outlook.office365.com",
       "port": 993,
@@ -91,7 +91,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=outlook.live.com",
     "tested_at": "2026-11-04T12:13:12.769Z"
   },
-  "scanned_at": "2026-11-08T11:20:22.289Z",
+  "scanned_at": "2026-11-09T12:58:08.084Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,

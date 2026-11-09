@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 76,
-      "report": "https://batch.internet.nl/site/aws.amazon.com/22513494/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/aws.amazon.com/22660400/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=aws.amazon.com",
-    "tested_at": "2026-11-03T01:40:41.530Z"
+    "tested_at": "2026-11-09T12:56:52.224Z"
   },
-  "scanned_at": "2026-11-03T03:19:34.969Z",
+  "scanned_at": "2026-11-09T12:56:52.559Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

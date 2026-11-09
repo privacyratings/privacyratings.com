@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/nym.com/22513328/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/nym.com/22659725/",
+      "tested_at": "2026-11-09T13:41:38.520Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nym.com",
-    "tested_at": "2026-11-03T01:40:48.474Z"
+    "tested_at": "2026-11-09T12:57:06.888Z"
   },
-  "scanned_at": "2026-11-05T12:28:06.735Z",
+  "scanned_at": "2026-11-09T12:57:10.029Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

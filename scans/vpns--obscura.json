@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/obscura.com/22513543/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/obscura.com/22660048/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=obscura.com",
-    "tested_at": "2026-11-03T01:40:48.837Z"
+    "tested_at": "2026-11-09T12:57:08.546Z"
   },
-  "scanned_at": "2026-11-03T03:29:33.752Z",
+  "scanned_at": "2026-11-09T12:57:09.259Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

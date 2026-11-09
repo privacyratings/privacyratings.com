@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/www.startmail.com/22513481/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/www.startmail.com/22659974/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
       "score": 94,
-      "report": "https://batch.internet.nl/mail/startmail.com/22780215/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "report": "https://batch.internet.nl/mail/startmail.com/22855385/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {
@@ -45,7 +45,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-07T11:08:04.567Z",
+    "tested_at": "2026-11-09T12:58:24.133Z",
     "imap": {
       "host": "imap.startmail.com",
       "port": 993,
@@ -89,7 +89,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startmail.com",
     "tested_at": "2026-11-04T12:13:15.772Z"
   },
-  "scanned_at": "2026-11-07T11:14:12.909Z",
+  "scanned_at": "2026-11-09T12:58:25.449Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

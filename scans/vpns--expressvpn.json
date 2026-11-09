@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/www.expressvpn.com/22513171/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/www.expressvpn.com/22659803/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.expressvpn.com",
-    "tested_at": "2026-11-03T01:40:46.866Z"
+    "tested_at": "2026-11-09T12:57:04.346Z"
   },
-  "scanned_at": "2026-11-03T03:27:03.441Z",
+  "scanned_at": "2026-11-09T12:57:05.051Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

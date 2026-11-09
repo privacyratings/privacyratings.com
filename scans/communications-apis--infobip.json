@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/infobip.com/22513581/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/infobip.com/22660134/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=infobip.com",
-    "tested_at": "2026-11-03T01:40:42.137Z"
+    "tested_at": "2026-11-09T12:56:54.286Z"
   },
-  "scanned_at": "2026-11-03T03:23:55.384Z",
+  "scanned_at": "2026-11-09T12:56:58.010Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

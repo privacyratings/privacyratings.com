@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/textbelt.com/22513253/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/textbelt.com/22660325/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=textbelt.com",
-    "tested_at": "2026-11-03T01:40:44.485Z"
+    "tested_at": "2026-11-09T12:56:59.090Z"
   },
-  "scanned_at": "2026-11-03T03:28:32.838Z",
+  "scanned_at": "2026-11-09T12:56:59.733Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

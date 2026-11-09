@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 48,
-      "report": "https://batch.internet.nl/site/sinch.com/22513574/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/sinch.com/22660326/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sinch.com",
-    "tested_at": "2026-11-03T01:40:43.455Z"
+    "tested_at": "2026-11-09T12:56:58.130Z"
   },
-  "scanned_at": "2026-11-04T12:20:47.182Z",
+  "scanned_at": "2026-11-09T12:57:01.564Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

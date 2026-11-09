@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/search.yahoo.com/22513324/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/search.yahoo.com/22660381/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=search.yahoo.com",
     "tested_at": "2026-11-06T12:10:50.055Z"
   },
-  "scanned_at": "2026-11-06T12:10:50.357Z",
+  "scanned_at": "2026-11-09T12:56:52.405Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=search.yahoo.com&hideResults=on",
-    "tested_at": "2026-11-03T02:34:24.822Z"
+    "tested_at": "2026-11-09T12:56:52.405Z"
   },
   "trackers": {
     "url": "https://search.yahoo.com",

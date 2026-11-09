@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/music.youtube.com/22513218/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/music.youtube.com/22660001/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.youtube.com",
     "tested_at": "2026-10-18T08:53:37.082Z"
   },
-  "scanned_at": "2026-11-08T11:20:26.308Z",
+  "scanned_at": "2026-11-09T12:57:46.868Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 16,

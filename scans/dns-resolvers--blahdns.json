@@ -2,9 +2,9 @@
   "domain": "blahdns.com",
   "internetnl": {
     "web": {
-      "score": 93,
-      "report": "https://batch.internet.nl/site/blahdns.com/22513341/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "score": 95,
+      "report": "https://batch.internet.nl/site/blahdns.com/22660027/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=blahdns.com",
     "tested_at": "2026-11-03T01:40:52.499Z"
   },
-  "scanned_at": "2026-11-08T11:19:33.071Z",
+  "scanned_at": "2026-11-09T12:56:53.173Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

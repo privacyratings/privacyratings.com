@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/clicksend.com/22513298/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/clicksend.com/22659988/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=clicksend.com",
-    "tested_at": "2026-11-03T01:40:42.093Z"
+    "tested_at": "2026-11-09T12:56:54.099Z"
   },
-  "scanned_at": "2026-11-04T12:25:32.894Z",
+  "scanned_at": "2026-11-09T12:56:56.162Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 4,

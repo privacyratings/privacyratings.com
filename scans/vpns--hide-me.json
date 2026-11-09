@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 55,
-      "report": "https://batch.internet.nl/site/hide.me/22513224/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/hide.me/22660285/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hide.me",
-    "tested_at": "2026-11-03T01:40:47.574Z"
+    "tested_at": "2026-11-09T12:57:04.746Z"
   },
-  "scanned_at": "2026-11-03T03:27:52.622Z",
+  "scanned_at": "2026-11-09T12:57:05.908Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

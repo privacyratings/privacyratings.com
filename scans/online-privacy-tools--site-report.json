@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/sitereport.netcraft.com/22513397/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/sitereport.netcraft.com/22659862/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sitereport.netcraft.com",
     "tested_at": "2026-11-07T11:07:24.658Z"
   },
-  "scanned_at": "2026-11-07T11:07:25.903Z",
+  "scanned_at": "2026-11-09T13:06:05.165Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sitereport.netcraft.com&hideResults=on",
-    "tested_at": "2026-11-03T02:37:29.100Z"
+    "tested_at": "2026-11-09T13:06:05.165Z"
   },
   "trackers": {
     "url": "https://sitereport.netcraft.com",

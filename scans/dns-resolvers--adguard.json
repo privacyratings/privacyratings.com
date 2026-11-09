@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/adguard-dns.io/22513198/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/adguard-dns.io/22659887/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=adguard-dns.io",
-    "tested_at": "2026-11-03T01:40:52.260Z"
+    "tested_at": "2026-11-09T12:57:14.528Z"
   },
-  "scanned_at": "2026-11-05T12:29:21.023Z",
+  "scanned_at": "2026-11-09T12:57:16.114Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,

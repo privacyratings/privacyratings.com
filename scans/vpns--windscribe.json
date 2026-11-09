@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 58,
-      "report": "https://batch.internet.nl/site/windscribe.com/22513287/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/windscribe.com/22660082/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=windscribe.com",
-    "tested_at": "2026-11-03T01:40:51.876Z"
+    "tested_at": "2026-11-09T12:57:14.107Z"
   },
-  "scanned_at": "2026-11-03T03:33:49.478Z",
+  "scanned_at": "2026-11-09T12:57:14.555Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

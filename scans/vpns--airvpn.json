@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 68,
-      "report": "https://batch.internet.nl/site/airvpn.org/22513486/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/airvpn.org/22660431/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=airvpn.org",
-    "tested_at": "2026-11-03T01:40:45.644Z"
+    "tested_at": "2026-11-09T12:57:01.765Z"
   },
-  "scanned_at": "2026-11-04T12:25:13.588Z",
+  "scanned_at": "2026-11-09T12:57:03.798Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

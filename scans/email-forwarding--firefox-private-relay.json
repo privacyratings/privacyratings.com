@@ -9,13 +9,13 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/relay.firefox.com/22513314/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/relay.firefox.com/22660320/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
       "score": 67,
-      "report": "https://batch.internet.nl/mail/mozmail.com/22780157/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "report": "https://batch.internet.nl/mail/mozmail.com/22855407/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/www.hardenize.com/22513478/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/www.hardenize.com/22659728/",
+      "tested_at": "2026-11-09T13:41:38.520Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hardenize.com",
     "tested_at": "2026-11-07T11:07:20.623Z"
   },
-  "scanned_at": "2026-11-07T11:07:21.646Z",
+  "scanned_at": "2026-11-09T13:09:39.654Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.hardenize.com&hideResults=on",
-    "tested_at": "2026-11-03T02:35:53.334Z"
+    "tested_at": "2026-11-09T13:09:39.654Z"
   },
   "trackers": {
     "url": "https://www.hardenize.com",

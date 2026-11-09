@@ -3,11 +3,11 @@
   "internetnl": {
     "web": {
       "score": 71,
-      "report": "https://batch.internet.nl/site/gemini.google.com/22513160/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/gemini.google.com/22660375/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
-  "scanned_at": "2026-11-08T11:20:25.699Z",
+  "scanned_at": "2026-11-09T12:57:45.436Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 16,

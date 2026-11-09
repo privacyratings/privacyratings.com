@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/www.icloud.com/22513412/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/www.icloud.com/22659662/",
+      "tested_at": "2026-11-09T13:41:38.520Z"
     },
     "mail": {
       "score": 49,
-      "report": "https://batch.internet.nl/mail/icloud.com/22780167/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "report": "https://batch.internet.nl/mail/icloud.com/22855381/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {
@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-08T11:19:43.337Z",
+    "tested_at": "2026-11-09T12:57:10.181Z",
     "imap": {
       "host": "imap.mail.me.com",
       "port": 993,
@@ -61,8 +61,8 @@
     },
     "smtp": {
       "host": "smtp.mail.me.com",
-      "port": 465,
-      "tls": "implicit",
+      "port": 587,
+      "tls": "starttls",
       "extensions": [
         "PIPELINING",
         "SIZE",
@@ -85,7 +85,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
     "tested_at": "2026-11-03T11:58:52.109Z"
   },
-  "scanned_at": "2026-11-08T11:19:44.388Z",
+  "scanned_at": "2026-11-09T12:57:25.810Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

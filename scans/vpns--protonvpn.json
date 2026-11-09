@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 84,
-      "report": "https://batch.internet.nl/site/protonvpn.com/22513540/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/protonvpn.com/22659753/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=protonvpn.com",
-    "tested_at": "2026-11-03T01:40:50.554Z"
+    "tested_at": "2026-11-09T12:57:11.887Z"
   },
-  "scanned_at": "2026-11-03T03:29:34.127Z",
+  "scanned_at": "2026-11-09T12:57:13.724Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

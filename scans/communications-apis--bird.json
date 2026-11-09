@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 80,
-      "report": "https://batch.internet.nl/site/bird.com/22513163/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/bird.com/22659896/",
+      "tested_at": "2026-11-09T13:41:38.520Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bird.com",
-    "tested_at": "2026-11-03T01:40:41.910Z"
+    "tested_at": "2026-11-09T12:56:53.268Z"
   },
-  "scanned_at": "2026-11-03T03:20:34.680Z",
+  "scanned_at": "2026-11-09T12:56:53.590Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

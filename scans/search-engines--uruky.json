@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/uruky.com/22513364/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/uruky.com/22659848/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=uruky.com",
     "tested_at": "2026-11-06T12:10:48.571Z"
   },
-  "scanned_at": "2026-11-08T11:28:28.538Z",
+  "scanned_at": "2026-11-09T12:56:51.721Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=uruky.com&hideResults=on",
-    "tested_at": "2026-11-03T02:24:30.131Z"
+    "tested_at": "2026-11-09T12:56:51.721Z"
   },
   "trackers": {
     "url": "https://uruky.com",

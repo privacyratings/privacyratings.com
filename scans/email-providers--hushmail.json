@@ -1,5 +1,17 @@
 {
   "domain": "www.hushmail.com",
+  "internetnl": {
+    "mail": {
+      "score": 66,
+      "report": "https://batch.internet.nl/mail/hushmail.com/22855401/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
+    },
+    "web": {
+      "score": 73,
+      "report": "https://batch.internet.nl/site/www.hushmail.com/22660440/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "hushmail.com",
@@ -34,7 +46,7 @@
         }
       }
     },
-    "tested_at": "2026-11-08T11:19:43.317Z",
+    "tested_at": "2026-11-09T12:57:08.397Z",
     "imap": {
       "host": "imap.hushmail.com",
       "port": 993,
@@ -76,7 +88,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hushmail.com",
     "tested_at": "2026-11-03T11:58:52.022Z"
   },
-  "scanned_at": "2026-11-08T11:19:44.585Z",
+  "scanned_at": "2026-11-09T12:57:09.753Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

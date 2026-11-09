@@ -6,6 +6,18 @@
     "archived": false,
     "checked_at": "2026-11-03T11:58:48.283Z"
   },
+  "internetnl": {
+    "mail": {
+      "score": 90,
+      "report": "https://batch.internet.nl/mail/astermail.org/22855412/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
+    },
+    "web": {
+      "score": 95,
+      "report": "https://batch.internet.nl/site/astermail.org/22660213/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "astermail.org",
@@ -27,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-08T11:19:32.964Z",
+    "tested_at": "2026-11-09T12:56:52.745Z",
     "imap": {
       "offered": false
     },
@@ -48,7 +60,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=astermail.org",
     "tested_at": "2026-11-03T11:58:48.452Z"
   },
-  "scanned_at": "2026-11-08T11:19:32.964Z",
+  "scanned_at": "2026-11-09T12:56:52.746Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

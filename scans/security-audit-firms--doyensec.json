@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 61,
-      "report": "https://batch.internet.nl/site/doyensec.com/22513396/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/doyensec.com/22659819/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=doyensec.com",
     "tested_at": "2026-11-07T11:07:29.652Z"
   },
-  "scanned_at": "2026-11-07T11:07:29.916Z",
+  "scanned_at": "2026-11-09T13:08:19.331Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=doyensec.com&hideResults=on",
-    "tested_at": "2026-11-03T02:45:56.243Z"
+    "tested_at": "2026-11-09T13:08:19.331Z"
   },
   "trackers": {
     "url": "https://doyensec.com",

@@ -1,5 +1,17 @@
 {
   "domain": "web.de",
+  "internetnl": {
+    "mail": {
+      "score": 82,
+      "report": "https://batch.internet.nl/mail/web.de/22855367/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
+    },
+    "web": {
+      "score": 86,
+      "report": "https://batch.internet.nl/site/web.de/22660415/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "web.de",

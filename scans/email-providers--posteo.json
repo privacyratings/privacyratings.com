@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/posteo.de/22513185/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/posteo.de/22660247/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
-      "score": 24,
-      "report": "https://batch.internet.nl/mail/posteo.de/22780200/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "score": 79,
+      "report": "https://batch.internet.nl/mail/posteo.de/22855380/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {
@@ -45,7 +45,7 @@
         }
       }
     },
-    "tested_at": "2026-11-07T11:07:58.349Z",
+    "tested_at": "2026-11-09T12:58:12.333Z",
     "imap": {
       "host": "posteo.de",
       "port": 993,
@@ -103,7 +103,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=posteo.de",
     "tested_at": "2026-11-04T12:13:13.542Z"
   },
-  "scanned_at": "2026-11-07T11:07:59.783Z",
+  "scanned_at": "2026-11-09T12:58:14.219Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

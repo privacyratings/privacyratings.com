@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/phish.ly/22513416/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/phish.ly/22659882/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=phish.ly",
     "tested_at": "2026-11-07T11:07:22.791Z"
   },
-  "scanned_at": "2026-11-07T11:07:23.730Z",
+  "scanned_at": "2026-11-09T13:06:44.903Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=phish.ly&hideResults=on",
-    "tested_at": "2026-11-03T02:36:56.508Z"
+    "tested_at": "2026-11-09T13:06:44.903Z"
   },
   "trackers": {
     "url": "https://phish.ly",

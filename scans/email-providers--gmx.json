@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 86,
-      "report": "https://batch.internet.nl/site/www.gmx.com/22513599/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/www.gmx.com/22659905/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
-      "score": 74,
-      "report": "https://batch.internet.nl/mail/gmx.com/22780149/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "score": 82,
+      "report": "https://batch.internet.nl/mail/gmx.com/22855377/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {
@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-08T11:19:40.543Z",
+    "tested_at": "2026-11-09T12:57:04.860Z",
     "imap": {
       "host": "imap.gmx.com",
       "port": 993,
@@ -94,7 +94,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gmx.com",
     "tested_at": "2026-11-03T11:58:51.238Z"
   },
-  "scanned_at": "2026-11-08T11:19:42.523Z",
+  "scanned_at": "2026-11-09T12:57:07.093Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

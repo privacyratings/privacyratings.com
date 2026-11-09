@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/www.ovpn.com/22513580/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/www.ovpn.com/22659822/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovpn.com",
-    "tested_at": "2026-11-03T01:40:49.501Z"
+    "tested_at": "2026-11-09T12:57:09.665Z"
   },
-  "scanned_at": "2026-11-03T03:30:03.766Z",
+  "scanned_at": "2026-11-09T12:57:12.052Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

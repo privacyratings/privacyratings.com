@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/www.fastmail.com/22513344/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/www.fastmail.com/22660515/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     },
     "mail": {
       "score": 51,
-      "report": "https://batch.internet.nl/mail/fastmail.com/22780308/",
-      "tested_at": "2026-11-02T13:18:16.447Z"
+      "report": "https://batch.internet.nl/mail/fastmail.com/22855413/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
     }
   },
   "mail": {
@@ -43,7 +43,7 @@
         }
       }
     },
-    "tested_at": "2026-11-08T11:19:37.013Z",
+    "tested_at": "2026-11-09T12:56:56.561Z",
     "imap": {
       "host": "imap.fastmail.com",
       "port": 993,
@@ -110,7 +110,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.fastmail.com",
     "tested_at": "2026-11-03T11:58:50.746Z"
   },
-  "scanned_at": "2026-11-08T11:19:37.933Z",
+  "scanned_at": "2026-11-09T12:56:57.437Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -1,5 +1,17 @@
 {
   "domain": "mail.ru",
+  "internetnl": {
+    "mail": {
+      "score": 66,
+      "report": "https://batch.internet.nl/mail/mail.ru/22855370/",
+      "tested_at": "2026-11-09T13:31:36.242Z"
+    },
+    "web": {
+      "score": 70,
+      "report": "https://batch.internet.nl/site/mail.ru/22660126/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
+    }
+  },
   "mail": {
     "dns": {
       "domain": "mail.ru",
@@ -20,7 +32,7 @@
         },
         "submission": {
           "host": "smtp.mail.ru",
-          "port": 25
+          "port": 587
         },
         "imaps": {
           "host": "imap.mail.ru",
@@ -36,7 +48,7 @@
         }
       }
     },
-    "tested_at": "2026-11-08T11:19:58.516Z",
+    "tested_at": "2026-11-09T12:57:40.965Z",
     "imap": {
       "host": "imap.mail.ru",
       "port": 993,
@@ -91,7 +103,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.ru",
     "tested_at": "2026-11-04T12:13:09.763Z"
   },
-  "scanned_at": "2026-11-08T11:20:02.536Z",
+  "scanned_at": "2026-11-09T12:57:45.039Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,

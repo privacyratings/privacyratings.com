@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/signalwire.com/22513539/",
-      "tested_at": "2026-11-02T13:18:16.059Z"
+      "report": "https://batch.internet.nl/site/signalwire.com/22660324/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=signalwire.com",
-    "tested_at": "2026-11-03T01:40:43.348Z"
+    "tested_at": "2026-11-09T12:56:57.028Z"
   },
-  "scanned_at": "2026-11-03T03:23:51.943Z",
+  "scanned_at": "2026-11-09T12:56:58.057Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

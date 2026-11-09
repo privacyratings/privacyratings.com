@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/www.assured.se/22513415/",
-      "tested_at": "2026-11-02T13:18:16.060Z"
+      "report": "https://batch.internet.nl/site/www.assured.se/22660025/",
+      "tested_at": "2026-11-09T13:41:38.521Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.assured.se",
     "tested_at": "2026-11-07T11:07:27.744Z"
   },
-  "scanned_at": "2026-11-07T11:07:29.434Z",
+  "scanned_at": "2026-11-09T13:09:55.670Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.assured.se&hideResults=on",
-    "tested_at": "2026-11-03T02:42:26.706Z"
+    "tested_at": "2026-11-09T13:09:55.670Z"
   },
   "trackers": {
     "url": "https://www.assured.se",
