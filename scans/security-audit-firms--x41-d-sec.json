@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=x41-dsec.de",
     "tested_at": "2026-11-07T11:07:37.792Z"
   },
-  "scanned_at": "2026-11-07T11:07:40.254Z",
+  "scanned_at": "2026-11-10T12:47:40.258Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=x41-dsec.de&hideResults=on",
-    "tested_at": "2026-11-03T02:51:20.788Z"
+    "tested_at": "2026-11-10T12:47:40.258Z"
   },
   "trackers": {
     "url": "https://x41-dsec.de",

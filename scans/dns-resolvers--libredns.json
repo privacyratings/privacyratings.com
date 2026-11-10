@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=libredns.gr",
-    "tested_at": "2026-11-03T01:40:54.126Z"
+    "tested_at": "2026-11-10T12:43:22.380Z"
   },
-  "scanned_at": "2026-11-03T03:37:37.211Z",
+  "scanned_at": "2026-11-10T12:43:23.818Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

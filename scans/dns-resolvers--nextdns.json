@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nextdns.io",
-    "tested_at": "2026-11-03T01:40:55.375Z"
+    "tested_at": "2026-11-10T12:43:23.963Z"
   },
-  "scanned_at": "2026-11-03T03:35:38.155Z",
+  "scanned_at": "2026-11-10T12:43:24.400Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

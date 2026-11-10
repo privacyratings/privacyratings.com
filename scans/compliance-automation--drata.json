@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.drata.com",
     "tested_at": "2026-11-07T11:07:39.766Z"
   },
-  "scanned_at": "2026-11-09T12:56:52.505Z",
+  "scanned_at": "2026-11-10T12:46:55.323Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.drata.com&hideResults=on",
-    "tested_at": "2026-11-03T02:57:20.738Z"
+    "tested_at": "2026-11-10T12:46:55.323Z"
   },
   "trackers": {
     "url": "https://drata.com",

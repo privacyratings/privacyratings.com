@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=joker.com",
-    "tested_at": "2026-11-03T01:41:04.746Z"
+    "tested_at": "2026-11-10T12:43:39.772Z"
   },
-  "scanned_at": "2026-11-03T03:46:32.858Z",
+  "scanned_at": "2026-11-10T12:43:41.795Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

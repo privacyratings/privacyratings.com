@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=one.one.one.one",
-    "tested_at": "2026-11-03T01:40:53.264Z"
+    "tested_at": "2026-11-10T12:43:15.415Z"
   },
-  "scanned_at": "2026-11-03T03:32:43.595Z",
+  "scanned_at": "2026-11-10T12:43:15.607Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

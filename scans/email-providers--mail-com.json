@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-09T12:57:32.047Z",
+    "tested_at": "2026-11-10T12:43:34.601Z",
     "imap": {
       "host": "imap.mail.com",
       "port": 993,
@@ -94,7 +94,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mail.com",
     "tested_at": "2026-11-04T12:13:09.460Z"
   },
-  "scanned_at": "2026-11-09T12:57:32.543Z",
+  "scanned_at": "2026-11-10T12:43:34.851Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

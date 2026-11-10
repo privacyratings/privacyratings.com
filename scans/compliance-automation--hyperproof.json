@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hyperproof.app",
     "tested_at": "2026-11-07T11:07:40.302Z"
   },
-  "scanned_at": "2026-11-07T11:07:40.606Z",
+  "scanned_at": "2026-11-10T12:47:50.784Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hyperproof.app&hideResults=on",
-    "tested_at": "2026-11-03T02:52:24.466Z"
+    "tested_at": "2026-11-10T12:47:50.784Z"
   },
   "trackers": {
     "url": "https://hyperproof.io",

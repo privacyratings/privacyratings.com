@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hubspot.com",
     "tested_at": "2026-11-08T11:19:37.712Z"
   },
-  "scanned_at": "2026-11-08T11:19:39.261Z",
+  "scanned_at": "2026-11-10T12:59:09.446Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hubspot.com&hideResults=on",
-    "tested_at": "2026-11-03T03:05:54.698Z"
+    "tested_at": "2026-11-10T12:59:09.446Z"
   },
   "trackers": {
     "url": "https://www.hubspot.com",

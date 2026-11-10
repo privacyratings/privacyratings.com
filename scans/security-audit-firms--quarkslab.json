@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.quarkslab.com",
     "tested_at": "2026-11-07T11:07:33.845Z"
   },
-  "scanned_at": "2026-11-07T11:07:34.424Z",
+  "scanned_at": "2026-11-10T12:47:10.670Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.quarkslab.com&hideResults=on",
-    "tested_at": "2026-11-03T02:49:08.270Z"
+    "tested_at": "2026-11-10T12:47:10.670Z"
   },
   "trackers": {
     "url": "https://www.quarkslab.com",

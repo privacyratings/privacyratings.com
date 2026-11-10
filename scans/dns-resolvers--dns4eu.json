@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.joindns4.eu",
-    "tested_at": "2026-11-03T01:40:54.039Z"
+    "tested_at": "2026-11-10T12:43:19.340Z"
   },
-  "scanned_at": "2026-11-05T12:31:17.958Z",
+  "scanned_at": "2026-11-10T12:43:20.137Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

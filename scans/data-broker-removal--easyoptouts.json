@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=easyoptouts.com",
     "tested_at": "2026-11-08T11:19:33.410Z"
   },
-  "scanned_at": "2026-11-08T11:19:33.774Z",
+  "scanned_at": "2026-11-10T13:05:20.302Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=easyoptouts.com&hideResults=on",
-    "tested_at": "2026-11-03T03:10:11.604Z"
+    "tested_at": "2026-11-10T13:05:20.302Z"
   },
   "trackers": {
     "url": "https://easyoptouts.com",

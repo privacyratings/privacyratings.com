@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.digitale-gesellschaft.ch",
-    "tested_at": "2026-11-03T01:40:53.907Z"
+    "tested_at": "2026-11-10T12:43:16.520Z"
   },
-  "scanned_at": "2026-11-03T03:34:52.212Z",
+  "scanned_at": "2026-11-10T12:43:22.031Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

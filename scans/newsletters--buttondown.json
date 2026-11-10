@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=buttondown.com",
     "tested_at": "2026-11-08T11:19:37.084Z"
   },
-  "scanned_at": "2026-11-08T11:19:37.625Z",
+  "scanned_at": "2026-11-10T13:00:35.070Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=buttondown.com&hideResults=on",
-    "tested_at": "2026-11-03T03:09:15.328Z"
+    "tested_at": "2026-11-10T13:00:35.070Z"
   },
   "trackers": {
     "url": "https://buttondown.com",

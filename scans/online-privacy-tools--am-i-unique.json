@@ -4,7 +4,7 @@
     "repo": "DIVERSIFY-project/amiunique",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:06.301Z"
+    "checked_at": "2026-11-10T12:43:13.595Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=amiunique.org",
     "tested_at": "2026-11-06T12:11:07.546Z"
   },
-  "scanned_at": "2026-11-06T12:11:09.861Z",
+  "scanned_at": "2026-11-10T12:43:13.595Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

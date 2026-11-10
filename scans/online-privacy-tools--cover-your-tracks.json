@@ -4,7 +4,7 @@
     "repo": "EFForg/cover-your-tracks",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:06.395Z"
+    "checked_at": "2026-11-10T12:43:13.643Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=coveryourtracks.eff.org",
     "tested_at": "2026-11-07T11:07:19.780Z"
   },
-  "scanned_at": "2026-11-09T13:02:57.833Z",
+  "scanned_at": "2026-11-10T12:43:13.643Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
