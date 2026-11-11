@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=silent.link",
     "tested_at": "2026-11-09T12:56:51.225Z"
   },
-  "scanned_at": "2026-11-09T12:56:51.783Z",
+  "scanned_at": "2026-11-11T12:01:04.638Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=silent.link&hideResults=on",
-    "tested_at": "2026-11-03T03:18:03.859Z"
+    "tested_at": "2026-11-11T12:01:04.638Z"
   },
   "trackers": {
     "url": "https://silent.link",

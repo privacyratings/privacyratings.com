@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mozilla.org",
     "tested_at": "2026-11-09T12:57:06.011Z"
   },
-  "scanned_at": "2026-11-09T12:57:06.343Z",
+  "scanned_at": "2026-11-11T12:05:53.320Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.mozilla.org&hideResults=on",
-    "tested_at": "2026-11-03T03:27:53.797Z"
+    "tested_at": "2026-11-11T12:05:53.320Z"
   },
   "trackers": {
     "url": "https://www.mozilla.org/en-US/products/vpn/",

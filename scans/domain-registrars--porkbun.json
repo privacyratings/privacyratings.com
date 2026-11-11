@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=porkbun.com",
-    "tested_at": "2026-11-03T01:41:06.369Z"
+    "tested_at": "2026-11-11T11:54:55.803Z"
   },
-  "scanned_at": "2026-11-03T03:45:57.989Z",
+  "scanned_at": "2026-11-11T11:54:56.156Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 6,

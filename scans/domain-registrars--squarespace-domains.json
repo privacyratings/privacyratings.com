@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=domains.squarespace.com",
-    "tested_at": "2026-11-03T01:41:06.864Z"
+    "tested_at": "2026-11-11T11:54:56.859Z"
   },
-  "scanned_at": "2026-11-03T03:50:52.982Z",
+  "scanned_at": "2026-11-11T11:54:57.856Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

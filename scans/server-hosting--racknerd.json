@@ -13,9 +13,9 @@
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.racknerd.com",
-    "tested_at": "2026-11-03T01:41:15.127Z"
+    "tested_at": "2026-11-11T11:55:09.944Z"
   },
-  "scanned_at": "2026-11-03T12:17:34.549Z",
+  "scanned_at": "2026-11-11T11:55:10.585Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

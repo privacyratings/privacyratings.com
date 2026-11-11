@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.customercontrolpanel.de",
-    "tested_at": "2026-11-03T01:41:13.713Z"
+    "tested_at": "2026-11-11T11:55:06.719Z"
   },
-  "scanned_at": "2026-11-05T12:36:08.456Z",
+  "scanned_at": "2026-11-11T11:55:08.856Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 2,

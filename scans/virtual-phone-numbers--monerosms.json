@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=monerosms.com",
     "tested_at": "2026-11-08T11:19:51.051Z"
   },
-  "scanned_at": "2026-11-08T11:19:51.541Z",
+  "scanned_at": "2026-11-11T11:59:47.004Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=monerosms.com&hideResults=on",
-    "tested_at": "2026-11-03T03:18:35.952Z"
+    "tested_at": "2026-11-11T11:59:47.004Z"
   },
   "trackers": {
     "url": "https://monerosms.com",

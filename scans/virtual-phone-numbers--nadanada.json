@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nadanada.me",
     "tested_at": "2026-11-08T11:19:51.126Z"
   },
-  "scanned_at": "2026-11-08T11:19:52.775Z",
+  "scanned_at": "2026-11-11T12:08:50.039Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=nadanada.me&hideResults=on",
-    "tested_at": "2026-11-03T03:17:48.674Z"
+    "tested_at": "2026-11-11T12:08:50.039Z"
   },
   "trackers": {
     "url": "https://nadanada.me",

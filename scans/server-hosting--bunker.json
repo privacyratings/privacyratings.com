@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getbunker.net",
-    "tested_at": "2026-11-03T01:41:07.736Z"
+    "tested_at": "2026-11-11T11:54:58.639Z"
   },
-  "scanned_at": "2026-11-06T12:25:25.569Z",
+  "scanned_at": "2026-11-11T11:55:00.515Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,

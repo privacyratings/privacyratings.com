@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=fly.io",
-    "tested_at": "2026-11-03T01:47:08.983Z"
+    "tested_at": "2026-11-11T11:55:10.774Z"
   },
-  "scanned_at": "2026-11-04T12:27:28.655Z",
+  "scanned_at": "2026-11-11T11:55:11.196Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

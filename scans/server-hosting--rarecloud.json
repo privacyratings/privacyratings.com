@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rarecloud.io",
-    "tested_at": "2026-11-03T01:41:15.597Z"
+    "tested_at": "2026-11-11T11:55:10.785Z"
   },
-  "scanned_at": "2026-11-03T03:59:25.539Z",
+  "scanned_at": "2026-11-11T11:55:12.401Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

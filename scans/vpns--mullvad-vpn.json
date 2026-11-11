@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mullvad.net",
     "tested_at": "2026-11-09T12:57:06.229Z"
   },
-  "scanned_at": "2026-11-09T12:57:08.403Z",
+  "scanned_at": "2026-11-11T12:07:14.017Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mullvad.net&hideResults=on",
-    "tested_at": "2026-11-03T03:30:42.711Z"
+    "tested_at": "2026-11-11T12:07:14.016Z"
   },
   "trackers": {
     "url": "https://mullvad.net/en",

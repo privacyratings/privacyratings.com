@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-09T12:58:22.002Z",
+    "tested_at": "2026-11-11T11:55:50.289Z",
     "imap": {
       "host": "mail.runbox.com",
       "port": 993,
@@ -93,7 +93,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=runbox.com",
     "tested_at": "2026-11-04T12:13:15.307Z"
   },
-  "scanned_at": "2026-11-09T12:58:25.796Z",
+  "scanned_at": "2026-11-11T11:55:54.307Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=runbox.com&hideResults=on",

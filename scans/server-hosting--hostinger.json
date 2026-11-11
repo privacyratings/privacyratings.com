@@ -13,9 +13,9 @@
     "tests_passed": 6,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hostinger.com",
-    "tested_at": "2026-11-03T01:41:10.827Z"
+    "tested_at": "2026-11-11T11:55:05.200Z"
   },
-  "scanned_at": "2026-11-03T03:57:53.177Z",
+  "scanned_at": "2026-11-11T11:55:05.514Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

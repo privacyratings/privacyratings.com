@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=narayana.im",
     "tested_at": "2026-11-08T11:19:53.583Z"
   },
-  "scanned_at": "2026-11-08T11:19:55.461Z",
+  "scanned_at": "2026-11-11T12:00:15.669Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=narayana.im&hideResults=on",
-    "tested_at": "2026-11-03T03:19:25.780Z"
+    "tested_at": "2026-11-11T12:00:15.669Z"
   },
   "trackers": {
     "url": "https://narayana.im",

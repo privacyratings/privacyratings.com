@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.netlify.com",
-    "tested_at": "2026-11-03T01:47:13.403Z"
+    "tested_at": "2026-11-11T11:55:13.076Z"
   },
-  "scanned_at": "2026-11-03T03:59:25.936Z",
+  "scanned_at": "2026-11-11T11:55:13.539Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

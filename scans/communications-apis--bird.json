@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bird.com",
     "tested_at": "2026-11-09T12:56:53.268Z"
   },
-  "scanned_at": "2026-11-09T12:56:53.590Z",
+  "scanned_at": "2026-11-11T12:01:04.866Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bird.com&hideResults=on",
-    "tested_at": "2026-11-03T03:20:34.680Z"
+    "tested_at": "2026-11-11T12:01:04.866Z"
   },
   "trackers": {
     "url": "https://bird.com",

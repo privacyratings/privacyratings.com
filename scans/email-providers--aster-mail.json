@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-10T12:43:14.594Z",
+    "tested_at": "2026-11-11T11:54:56.785Z",
     "imap": {
       "offered": false
     },
@@ -60,7 +60,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=astermail.org",
     "tested_at": "2026-11-03T11:58:48.452Z"
   },
-  "scanned_at": "2026-11-10T12:43:14.594Z",
+  "scanned_at": "2026-11-11T11:54:56.785Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

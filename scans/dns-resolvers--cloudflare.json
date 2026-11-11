@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=one.one.one.one",
     "tested_at": "2026-11-10T12:43:15.415Z"
   },
-  "scanned_at": "2026-11-10T12:43:15.607Z",
+  "scanned_at": "2026-11-11T12:09:08.978Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=one.one.one.one&hideResults=on",
-    "tested_at": "2026-11-03T03:32:43.595Z"
+    "tested_at": "2026-11-11T12:09:08.978Z"
   },
   "trackers": {
     "url": "https://one.one.one.one",

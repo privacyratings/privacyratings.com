@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.infomaniak.com",
-    "tested_at": "2026-11-03T01:41:11.455Z"
+    "tested_at": "2026-11-11T11:55:05.557Z"
   },
-  "scanned_at": "2026-11-03T03:56:13.609Z",
+  "scanned_at": "2026-11-11T11:55:08.469Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

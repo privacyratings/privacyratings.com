@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=nordvpn.com",
     "tested_at": "2026-11-09T12:57:06.426Z"
   },
-  "scanned_at": "2026-11-09T12:57:06.619Z",
+  "scanned_at": "2026-11-11T12:09:07.383Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=nordvpn.com&hideResults=on",
-    "tested_at": "2026-11-03T03:28:18.551Z"
+    "tested_at": "2026-11-11T12:09:07.383Z"
   },
   "trackers": {
     "error": "HTTP 403",

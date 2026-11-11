@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=riseup.net",
     "tested_at": "2026-11-09T12:57:12.254Z"
   },
-  "scanned_at": "2026-11-09T12:57:13.137Z",
+  "scanned_at": "2026-11-11T12:11:58.415Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=riseup.net&hideResults=on",
-    "tested_at": "2026-11-03T03:29:36.916Z"
+    "tested_at": "2026-11-11T12:11:58.415Z"
   },
   "trackers": {
     "url": "https://riseup.net/en/vpn",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=pikasim.com",
     "tested_at": "2026-11-08T11:19:53.223Z"
   },
-  "scanned_at": "2026-11-08T11:19:54.925Z",
+  "scanned_at": "2026-11-11T12:02:06.551Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=pikasim.com&hideResults=on",
-    "tested_at": "2026-11-03T03:22:12.890Z"
+    "tested_at": "2026-11-11T12:02:06.551Z"
   },
   "trackers": {
     "url": "https://pikasim.com",

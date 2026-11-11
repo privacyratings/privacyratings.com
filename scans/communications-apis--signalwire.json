@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=signalwire.com",
     "tested_at": "2026-11-09T12:56:57.028Z"
   },
-  "scanned_at": "2026-11-09T12:56:58.057Z",
+  "scanned_at": "2026-11-11T12:02:43.518Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=signalwire.com&hideResults=on",
-    "tested_at": "2026-11-03T03:23:51.943Z"
+    "tested_at": "2026-11-11T12:02:43.518Z"
   },
   "trackers": {
     "url": "https://signalwire.com",
