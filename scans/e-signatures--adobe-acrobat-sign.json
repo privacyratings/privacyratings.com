@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.adobesign.com",
-    "tested_at": "2026-11-03T01:47:24.224Z"
+    "tested_at": "2026-11-12T12:48:57.585Z"
   },
-  "scanned_at": "2026-11-05T12:33:26.936Z",
+  "scanned_at": "2026-11-12T12:48:59.538Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,

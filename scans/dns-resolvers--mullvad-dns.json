@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mullvad.net",
     "tested_at": "2026-11-09T12:57:06.229Z"
   },
-  "scanned_at": "2026-11-09T12:57:14.665Z",
+  "scanned_at": "2026-11-12T12:56:36.432Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mullvad.net&hideResults=on",
-    "tested_at": "2026-11-03T03:35:35.735Z"
+    "tested_at": "2026-11-12T12:56:36.432Z"
   },
   "trackers": {
     "url": "https://mullvad.net/en/help/dns-over-https-and-dns-over-tls",

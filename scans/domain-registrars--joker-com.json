@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=joker.com",
     "tested_at": "2026-11-10T12:43:39.772Z"
   },
-  "scanned_at": "2026-11-10T12:43:41.795Z",
+  "scanned_at": "2026-11-12T13:02:39.260Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=joker.com&hideResults=on",
-    "tested_at": "2026-11-03T03:46:32.858Z"
+    "tested_at": "2026-11-12T13:02:39.260Z"
   },
   "trackers": {
     "url": "https://joker.com",

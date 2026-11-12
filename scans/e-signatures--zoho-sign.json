@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sign.zoho.com",
-    "tested_at": "2026-11-03T01:47:26.965Z"
+    "tested_at": "2026-11-12T12:49:01.894Z"
   },
-  "scanned_at": "2026-11-04T12:31:41.210Z",
+  "scanned_at": "2026-11-12T12:49:02.087Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

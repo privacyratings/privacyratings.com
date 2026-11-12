@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.mural.co",
-    "tested_at": "2026-11-03T01:47:18.695Z"
+    "tested_at": "2026-11-12T12:48:43.849Z"
   },
-  "scanned_at": "2026-11-03T04:02:28.106Z",
+  "scanned_at": "2026-11-12T12:48:44.639Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

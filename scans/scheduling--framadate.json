@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=framadate.org",
-    "tested_at": "2026-11-03T01:47:21.037Z"
+    "tested_at": "2026-11-12T12:48:50.228Z"
   },
-  "scanned_at": "2026-11-04T12:30:55.308Z",
+  "scanned_at": "2026-11-12T12:48:52.857Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

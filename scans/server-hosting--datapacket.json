@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.datapacket.com",
     "tested_at": "2026-11-11T11:55:01.083Z"
   },
-  "scanned_at": "2026-11-11T11:55:02.149Z",
+  "scanned_at": "2026-11-12T13:06:49.188Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.datapacket.com&hideResults=on",
-    "tested_at": "2026-11-03T03:51:39.289Z"
+    "tested_at": "2026-11-12T13:06:49.188Z"
   },
   "trackers": {
     "url": "https://www.datapacket.com",

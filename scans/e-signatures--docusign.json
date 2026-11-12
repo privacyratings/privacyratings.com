@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=apps.docusign.com",
-    "tested_at": "2026-11-03T01:47:25.500Z"
+    "tested_at": "2026-11-12T12:48:59.573Z"
   },
-  "scanned_at": "2026-11-03T04:10:09.803Z",
+  "scanned_at": "2026-11-12T12:49:00.134Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,

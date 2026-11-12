@@ -3,9 +3,9 @@
     "repo": "baresip/baresip",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:09.911Z"
+    "checked_at": "2026-11-12T12:48:45.140Z"
   },
-  "scanned_at": "2026-11-03T01:39:43.444Z",
+  "scanned_at": "2026-11-12T12:48:45.140Z",
   "trackers": {
     "url": "https://github.com/baresip/baresip",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

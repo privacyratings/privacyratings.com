@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-11T11:55:32.329Z",
+    "tested_at": "2026-11-12T12:49:24.822Z",
     "imap": {
       "host": "mail.mailo.com",
       "port": 993,
@@ -61,16 +61,7 @@
     },
     "smtp": {
       "host": "mail.mailo.com",
-      "port": 465,
-      "tls": "implicit",
-      "extensions": [
-        "PIPELINING",
-        "VRFY",
-        "STARTTLS",
-        "SIZE",
-        "AUTH",
-        "HELP"
-      ]
+      "error": "timeout"
     }
   },
   "mail_domain": "mailo.com",
@@ -82,7 +73,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mailo.com",
     "tested_at": "2026-11-04T12:13:11.168Z"
   },
-  "scanned_at": "2026-11-11T11:55:36.160Z",
+  "scanned_at": "2026-11-12T12:50:04.121Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

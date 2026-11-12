@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bookings.cloud.microsoft",
-    "tested_at": "2026-11-03T01:47:21.002Z"
+    "tested_at": "2026-11-12T12:48:50.318Z"
   },
-  "scanned_at": "2026-11-03T04:06:36.387Z",
+  "scanned_at": "2026-11-12T12:48:50.816Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 16,

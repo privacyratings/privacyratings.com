@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rallly.co",
-    "tested_at": "2026-11-03T01:47:21.329Z"
+    "tested_at": "2026-11-12T12:48:51.081Z"
   },
-  "scanned_at": "2026-11-03T04:07:23.985Z",
+  "scanned_at": "2026-11-12T12:48:51.524Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.hetzner.com",
     "tested_at": "2026-11-10T12:43:33.677Z"
   },
-  "scanned_at": "2026-11-10T12:43:35.220Z",
+  "scanned_at": "2026-11-12T12:59:43.364Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=console.hetzner.com&hideResults=on",
-    "tested_at": "2026-11-03T03:38:55.141Z"
+    "tested_at": "2026-11-12T12:59:43.364Z"
   },
   "trackers": {
     "url": "https://www.hetzner.com/dns/",

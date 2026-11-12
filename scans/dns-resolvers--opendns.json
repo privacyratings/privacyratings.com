@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.opendns.com",
     "tested_at": "2026-11-10T12:43:24.467Z"
   },
-  "scanned_at": "2026-11-10T12:43:25.253Z",
+  "scanned_at": "2026-11-12T12:54:56.269Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.opendns.com&hideResults=on",
-    "tested_at": "2026-11-03T03:37:08.238Z"
+    "tested_at": "2026-11-12T12:54:56.269Z"
   },
   "trackers": {
     "url": "https://www.opendns.com",

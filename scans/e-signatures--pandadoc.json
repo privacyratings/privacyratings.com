@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.pandadoc.com",
-    "tested_at": "2026-11-03T01:47:26.046Z"
+    "tested_at": "2026-11-12T12:49:00.335Z"
   },
-  "scanned_at": "2026-11-04T12:30:00.476Z",
+  "scanned_at": "2026-11-12T12:49:00.791Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

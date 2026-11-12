@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=substack.com",
     "tested_at": "2026-11-08T11:19:42.283Z"
   },
-  "scanned_at": "2026-11-11T11:58:01.613Z",
+  "scanned_at": "2026-11-12T12:54:40.565Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=substack.com&hideResults=on",
-    "tested_at": "2026-11-03T03:15:20.928Z"
+    "tested_at": "2026-11-12T12:54:40.565Z"
   },
   "trackers": {
     "url": "https://substack.com",

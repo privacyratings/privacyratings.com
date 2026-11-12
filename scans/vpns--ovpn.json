@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovpn.com",
     "tested_at": "2026-11-09T12:57:09.665Z"
   },
-  "scanned_at": "2026-11-11T12:10:19.930Z",
+  "scanned_at": "2026-11-12T12:50:39.985Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.ovpn.com&hideResults=on",
-    "tested_at": "2026-11-03T03:30:03.766Z"
+    "tested_at": "2026-11-12T12:50:39.985Z"
   },
   "trackers": {
     "url": "https://www.ovpn.com",

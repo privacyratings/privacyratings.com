@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.namesilo.com",
     "tested_at": "2026-11-10T12:43:41.754Z"
   },
-  "scanned_at": "2026-11-10T12:43:41.985Z",
+  "scanned_at": "2026-11-12T13:05:23.504Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.namesilo.com&hideResults=on",
-    "tested_at": "2026-11-03T03:47:54.621Z"
+    "tested_at": "2026-11-12T13:05:23.503Z"
   },
   "trackers": {
     "error": "HTTP 403",

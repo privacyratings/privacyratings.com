@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=codeberg.org",
     "tested_at": "2026-11-03T01:47:56.680Z"
   },
-  "scanned_at": "2026-11-11T11:54:57.207Z",
+  "scanned_at": "2026-11-12T12:48:45.799Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

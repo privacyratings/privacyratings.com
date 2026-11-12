@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-11T11:54:58.099Z",
+    "tested_at": "2026-11-12T12:48:46.581Z",
     "imap": {
       "host": "imap.mail.att.net",
       "port": 993,
@@ -103,7 +103,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=more.att.com",
     "tested_at": "2026-11-03T11:58:48.775Z"
   },
-  "scanned_at": "2026-11-11T11:54:59.081Z",
+  "scanned_at": "2026-11-12T12:48:47.492Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 3,
