@@ -9,13 +9,13 @@
   },
   "observatory": {
     "grade": "B",
-    "score": 70,
-    "tests_passed": 9,
+    "score": 75,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wisprflow.ai",
-    "tested_at": "2026-11-03T01:47:38.162Z"
+    "tested_at": "2026-11-13T12:17:13.363Z"
   },
-  "scanned_at": "2026-11-03T04:24:34.156Z",
+  "scanned_at": "2026-11-13T12:17:14.034Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

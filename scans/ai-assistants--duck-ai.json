@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duck.ai",
-    "tested_at": "2026-11-03T01:47:39.095Z"
+    "tested_at": "2026-11-13T12:17:14.521Z"
   },
-  "scanned_at": "2026-11-03T04:26:16.389Z",
+  "scanned_at": "2026-11-13T12:17:14.702Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

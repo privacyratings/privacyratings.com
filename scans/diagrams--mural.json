@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.mural.co",
     "tested_at": "2026-11-12T12:48:43.849Z"
   },
-  "scanned_at": "2026-11-12T12:48:44.639Z",
+  "scanned_at": "2026-11-13T12:27:27.331Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.mural.co&hideResults=on",
-    "tested_at": "2026-11-03T04:02:28.106Z"
+    "tested_at": "2026-11-13T12:27:27.331Z"
   },
   "trackers": {
     "url": "https://www.mural.co",

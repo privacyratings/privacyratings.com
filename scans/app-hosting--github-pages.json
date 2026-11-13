@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=github.com",
     "tested_at": "2026-11-11T11:55:11.234Z"
   },
-  "scanned_at": "2026-11-11T11:55:12.221Z",
+  "scanned_at": "2026-11-13T12:23:06.041Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=github.com&hideResults=on",
-    "tested_at": "2026-11-03T03:59:19.284Z"
+    "tested_at": "2026-11-13T12:23:06.041Z"
   },
   "trackers": {
     "url": "https://pages.github.com",

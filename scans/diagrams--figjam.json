@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.figma.com",
     "tested_at": "2026-11-11T11:55:15.674Z"
   },
-  "scanned_at": "2026-11-11T11:55:16.594Z",
+  "scanned_at": "2026-11-13T12:25:56.895Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.figma.com&hideResults=on",
-    "tested_at": "2026-11-03T04:01:17.676Z"
+    "tested_at": "2026-11-13T12:25:56.895Z"
   },
   "trackers": {
     "url": "https://www.figma.com/figjam/",

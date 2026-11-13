@@ -51,7 +51,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-11T11:55:51.334Z",
+    "tested_at": "2026-11-13T12:17:54.408Z",
     "imap": {
       "host": "mail.thundermail.com",
       "port": 993,
@@ -100,7 +100,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tb.pro",
     "tested_at": "2026-11-04T12:13:16.678Z"
   },
-  "scanned_at": "2026-11-11T11:55:52.831Z",
+  "scanned_at": "2026-11-13T12:17:55.703Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

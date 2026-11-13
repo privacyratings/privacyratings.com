@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.godaddy.com",
     "tested_at": "2026-11-10T12:43:36.020Z"
   },
-  "scanned_at": "2026-11-12T13:01:26.553Z",
+  "scanned_at": "2026-11-13T12:19:34.839Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.godaddy.com&hideResults=on",
-    "tested_at": "2026-11-03T03:42:00.984Z"
+    "tested_at": "2026-11-13T12:19:34.839Z"
   },
   "trackers": {
     "error": "HTTP 403",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=domains.squarespace.com",
     "tested_at": "2026-11-11T11:54:56.859Z"
   },
-  "scanned_at": "2026-11-12T13:05:28.837Z",
+  "scanned_at": "2026-11-13T12:19:49.910Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=domains.squarespace.com&hideResults=on",
-    "tested_at": "2026-11-03T03:50:52.982Z"
+    "tested_at": "2026-11-13T12:19:49.910Z"
   },
   "trackers": {
     "url": "https://domains.squarespace.com",

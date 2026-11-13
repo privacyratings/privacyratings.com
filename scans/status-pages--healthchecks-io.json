@@ -3,9 +3,9 @@
     "repo": "healthchecks/healthchecks",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:11.694Z"
+    "checked_at": "2026-11-13T12:16:55.333Z"
   },
-  "scanned_at": "2026-11-03T01:39:55.630Z",
+  "scanned_at": "2026-11-13T12:16:55.333Z",
   "trackers": {
     "url": "https://healthchecks.io",
     "found": [],

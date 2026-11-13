@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
     "tested_at": "2026-11-04T12:13:19.334Z"
   },
-  "scanned_at": "2026-11-12T12:48:43.202Z",
+  "scanned_at": "2026-11-13T12:16:52.480Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

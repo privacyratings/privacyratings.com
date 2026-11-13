@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=id.atlassian.com",
     "tested_at": "2026-11-11T11:55:15.449Z"
   },
-  "scanned_at": "2026-11-11T11:55:15.595Z",
+  "scanned_at": "2026-11-13T12:25:56.547Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=id.atlassian.com&hideResults=on",
-    "tested_at": "2026-11-03T04:01:01.305Z"
+    "tested_at": "2026-11-13T12:25:56.547Z"
   },
   "trackers": {
     "url": "https://www.atlassian.com/software/confluence",

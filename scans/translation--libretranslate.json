@@ -19,9 +19,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=libretranslate.com",
-    "tested_at": "2026-11-03T01:47:36.686Z"
+    "tested_at": "2026-11-13T12:17:09.619Z"
   },
-  "scanned_at": "2026-11-03T04:26:59.949Z",
+  "scanned_at": "2026-11-13T12:17:12.311Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

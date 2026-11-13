@@ -8,14 +8,14 @@
     }
   },
   "observatory": {
-    "grade": "C+",
-    "score": 60,
-    "tests_passed": 10,
+    "grade": "B+",
+    "score": 80,
+    "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=claude.ai",
-    "tested_at": "2026-11-03T01:47:38.929Z"
+    "tested_at": "2026-11-13T12:17:14.095Z"
   },
-  "scanned_at": "2026-11-03T04:24:35.584Z",
+  "scanned_at": "2026-11-13T12:17:14.325Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

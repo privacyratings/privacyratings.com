@@ -4,7 +4,7 @@
     "repo": "desec-io/desec-stack",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:11.257Z"
+    "checked_at": "2026-11-13T12:16:54.515Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=desec.io",
     "tested_at": "2026-11-10T12:43:31.869Z"
   },
-  "scanned_at": "2026-11-12T12:59:17.584Z",
+  "scanned_at": "2026-11-13T12:16:54.515Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=substack.com",
     "tested_at": "2026-11-08T11:19:42.283Z"
   },
-  "scanned_at": "2026-11-12T12:54:40.565Z",
+  "scanned_at": "2026-11-13T12:16:54.653Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

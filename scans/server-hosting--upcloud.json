@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hub.upcloud.com",
     "tested_at": "2026-11-03T11:58:57.009Z"
   },
-  "scanned_at": "2026-11-12T12:48:45.177Z",
+  "scanned_at": "2026-11-13T12:30:17.169Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hub.upcloud.com&hideResults=on",
-    "tested_at": "2026-11-03T04:03:44.498Z"
+    "tested_at": "2026-11-13T12:30:17.169Z"
   },
   "trackers": {
     "url": "https://upcloud.com",

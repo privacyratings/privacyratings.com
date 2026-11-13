@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.scaleway.com",
     "tested_at": "2026-11-03T11:58:55.894Z"
   },
-  "scanned_at": "2026-11-03T11:58:57.334Z",
+  "scanned_at": "2026-11-13T12:22:50.438Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=console.scaleway.com&hideResults=on",
-    "tested_at": "2026-11-03T03:57:04.809Z"
+    "tested_at": "2026-11-13T12:22:50.438Z"
   },
   "trackers": {
     "url": "https://www.scaleway.com/en/",

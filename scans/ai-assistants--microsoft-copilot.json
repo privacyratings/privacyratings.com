@@ -9,13 +9,13 @@
   },
   "observatory": {
     "grade": "A+",
-    "score": 110,
+    "score": 115,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=copilot.microsoft.com",
-    "tested_at": "2026-11-03T01:47:39.594Z"
+    "tested_at": "2026-11-13T12:17:17.424Z"
   },
-  "scanned_at": "2026-11-03T04:24:44.003Z",
+  "scanned_at": "2026-11-13T12:17:17.835Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

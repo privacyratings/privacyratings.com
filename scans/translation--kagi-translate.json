@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=translate.kagi.com",
-    "tested_at": "2026-11-03T01:47:36.607Z"
+    "tested_at": "2026-11-13T12:17:09.112Z"
   },
-  "scanned_at": "2026-11-03T04:24:12.776Z",
+  "scanned_at": "2026-11-13T12:17:09.792Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

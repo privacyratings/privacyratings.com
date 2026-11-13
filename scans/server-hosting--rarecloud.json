@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rarecloud.io",
     "tested_at": "2026-11-11T11:55:10.785Z"
   },
-  "scanned_at": "2026-11-11T11:55:12.401Z",
+  "scanned_at": "2026-11-13T12:25:26.407Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=rarecloud.io&hideResults=on",
-    "tested_at": "2026-11-03T03:59:25.539Z"
+    "tested_at": "2026-11-13T12:25:26.407Z"
   },
   "trackers": {
     "url": "https://rarecloud.io",

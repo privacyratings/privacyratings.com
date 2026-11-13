@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.linode.com",
     "tested_at": "2026-11-11T11:55:05.580Z"
   },
-  "scanned_at": "2026-11-11T11:55:06.270Z",
+  "scanned_at": "2026-11-13T12:19:54.657Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.linode.com&hideResults=on",
-    "tested_at": "2026-11-03T03:57:09.666Z"
+    "tested_at": "2026-11-13T12:19:54.657Z"
   },
   "trackers": {
     "error": "HTTP 403",

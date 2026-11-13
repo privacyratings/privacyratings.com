@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.jotform.com",
-    "tested_at": "2026-11-03T01:47:30.942Z"
+    "tested_at": "2026-11-13T12:17:01.740Z"
   },
-  "scanned_at": "2026-11-03T04:16:50.012Z",
+  "scanned_at": "2026-11-13T12:17:03.005Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

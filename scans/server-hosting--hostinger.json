@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hostinger.com",
     "tested_at": "2026-11-11T11:55:05.200Z"
   },
-  "scanned_at": "2026-11-11T11:55:05.514Z",
+  "scanned_at": "2026-11-13T12:19:54.527Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.hostinger.com&hideResults=on",
-    "tested_at": "2026-11-03T03:57:53.177Z"
+    "tested_at": "2026-11-13T12:19:54.527Z"
   },
   "trackers": {
     "url": "https://www.hostinger.com",

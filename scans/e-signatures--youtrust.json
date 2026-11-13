@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=yousign.app",
-    "tested_at": "2026-11-03T01:47:27.231Z"
+    "tested_at": "2026-11-13T12:16:54.094Z"
   },
-  "scanned_at": "2026-11-03T04:14:21.830Z",
+  "scanned_at": "2026-11-13T12:17:03.760Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,

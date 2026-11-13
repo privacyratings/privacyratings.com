@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lucid.app",
     "tested_at": "2026-11-11T11:55:16.536Z"
   },
-  "scanned_at": "2026-11-11T11:55:17.499Z",
+  "scanned_at": "2026-11-13T12:30:52.806Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=lucid.app&hideResults=on",
-    "tested_at": "2026-11-03T04:05:12.610Z"
+    "tested_at": "2026-11-13T12:30:52.806Z"
   },
   "trackers": {
     "error": "HTTP 403",
