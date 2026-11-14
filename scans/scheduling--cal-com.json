@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.cal.com",
     "tested_at": "2026-11-12T12:48:46.889Z"
   },
-  "scanned_at": "2026-11-12T12:48:48.511Z",
+  "scanned_at": "2026-11-14T11:38:17.536Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.cal.com&hideResults=on",
-    "tested_at": "2026-11-03T04:07:05.372Z"
+    "tested_at": "2026-11-14T11:38:17.536Z"
   },
   "trackers": {
     "url": "https://cal.com",

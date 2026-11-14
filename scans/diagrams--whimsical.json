@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=whimsical.com",
     "tested_at": "2026-11-12T12:48:45.469Z"
   },
-  "scanned_at": "2026-11-13T12:30:27.637Z",
+  "scanned_at": "2026-11-14T11:40:15.041Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=whimsical.com&hideResults=on",
-    "tested_at": "2026-11-03T04:02:35.754Z"
+    "tested_at": "2026-11-14T11:40:15.040Z"
   },
   "trackers": {
     "url": "https://whimsical.com",

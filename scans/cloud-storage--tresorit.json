@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tresorit.com",
-    "tested_at": "2026-11-03T01:47:54.553Z"
+    "tested_at": "2026-11-14T11:33:36.838Z"
   },
-  "scanned_at": "2026-11-03T04:31:51.771Z",
+  "scanned_at": "2026-11-14T11:33:37.118Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

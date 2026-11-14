@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=workplace.zoho.com",
     "tested_at": "2026-11-12T12:48:57.330Z"
   },
-  "scanned_at": "2026-11-12T12:48:57.505Z",
+  "scanned_at": "2026-11-14T11:43:03.902Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=workplace.zoho.com&hideResults=on",
-    "tested_at": "2026-11-03T04:11:26.125Z"
+    "tested_at": "2026-11-14T11:43:03.901Z"
   },
   "trackers": {
     "url": "https://www.zoho.com/workplace/",

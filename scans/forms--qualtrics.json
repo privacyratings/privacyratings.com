@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=login.qualtrics.com",
     "tested_at": "2026-11-13T12:17:06.296Z"
   },
-  "scanned_at": "2026-11-13T12:17:07.164Z",
+  "scanned_at": "2026-11-14T11:50:58.574Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=login.qualtrics.com&hideResults=on",
-    "tested_at": "2026-11-03T04:20:38.477Z"
+    "tested_at": "2026-11-14T11:50:58.574Z"
   },
   "trackers": {
     "url": "https://www.qualtrics.com",

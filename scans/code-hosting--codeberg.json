@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=codeberg.org",
-    "tested_at": "2026-11-03T01:47:56.680Z"
+    "tested_at": "2026-11-14T11:33:37.761Z"
   },
-  "scanned_at": "2026-11-13T12:16:55.622Z",
+  "scanned_at": "2026-11-14T11:33:39.585Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sourcehut.org",
-    "tested_at": "2026-11-03T01:47:58.166Z"
+    "tested_at": "2026-11-14T11:33:39.828Z"
   },
-  "scanned_at": "2026-11-03T04:33:35.638Z",
+  "scanned_at": "2026-11-14T11:33:41.279Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

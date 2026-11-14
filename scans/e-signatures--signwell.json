@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.signwell.com",
     "tested_at": "2026-11-12T12:49:01.359Z"
   },
-  "scanned_at": "2026-11-12T12:49:01.827Z",
+  "scanned_at": "2026-11-14T11:50:12.915Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.signwell.com&hideResults=on",
-    "tested_at": "2026-11-03T04:17:44.190Z"
+    "tested_at": "2026-11-14T11:50:12.915Z"
   },
   "trackers": {
     "url": "https://www.signwell.com",

@@ -14,14 +14,14 @@
     }
   },
   "observatory": {
-    "grade": "D",
-    "score": 30,
-    "tests_passed": 8,
+    "grade": "C",
+    "score": 50,
+    "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=koofr.eu",
-    "tested_at": "2026-11-03T01:47:49.428Z"
+    "tested_at": "2026-11-14T11:33:24.477Z"
   },
-  "scanned_at": "2026-11-03T04:30:29.406Z",
+  "scanned_at": "2026-11-14T11:33:25.958Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

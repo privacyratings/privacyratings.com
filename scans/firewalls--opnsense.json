@@ -3,9 +3,9 @@
     "repo": "opnsense/core",
     "license": "BSD-2-Clause",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:12.612Z"
+    "checked_at": "2026-11-14T11:33:06.245Z"
   },
-  "scanned_at": "2026-11-03T01:39:57.215Z",
+  "scanned_at": "2026-11-14T11:33:06.245Z",
   "trackers": {
     "url": "https://opnsense.org",
     "found": [

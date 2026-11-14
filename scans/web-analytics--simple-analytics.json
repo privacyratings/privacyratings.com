@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.simpleanalytics.com",
-    "tested_at": "2026-11-03T01:48:01.796Z"
+    "tested_at": "2026-11-14T11:33:42.108Z"
   },
-  "scanned_at": "2026-11-03T04:37:55.068Z",
+  "scanned_at": "2026-11-14T11:33:44.312Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

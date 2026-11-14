@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.goatcounter.com",
-    "tested_at": "2026-11-03T01:47:58.618Z"
+    "tested_at": "2026-11-14T11:33:40.075Z"
   },
-  "scanned_at": "2026-11-03T04:39:12.111Z",
+  "scanned_at": "2026-11-14T11:33:41.640Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

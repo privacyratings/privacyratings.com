@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=crab.fit",
     "tested_at": "2026-11-12T12:48:48.625Z"
   },
-  "scanned_at": "2026-11-12T12:48:49.813Z",
+  "scanned_at": "2026-11-14T11:38:30.303Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

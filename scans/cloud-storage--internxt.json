@@ -19,9 +19,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=internxt.com",
-    "tested_at": "2026-11-03T01:47:46.845Z"
+    "tested_at": "2026-11-14T11:33:16.799Z"
   },
-  "scanned_at": "2026-11-03T04:30:59.903Z",
+  "scanned_at": "2026-11-14T11:33:23.953Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

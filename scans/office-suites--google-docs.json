@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.google.com",
     "tested_at": "2026-11-12T12:48:54.980Z"
   },
-  "scanned_at": "2026-11-12T12:48:55.507Z",
+  "scanned_at": "2026-11-14T11:40:04.750Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=docs.google.com&hideResults=on",
-    "tested_at": "2026-11-03T04:08:34.383Z"
+    "tested_at": "2026-11-14T11:40:04.749Z"
   },
   "trackers": {
     "url": "https://accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S104416510:1793670018389204",

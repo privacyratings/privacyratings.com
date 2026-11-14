@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=docs.google.com",
     "tested_at": "2026-11-12T12:48:54.980Z"
   },
-  "scanned_at": "2026-11-12T12:49:02.938Z",
+  "scanned_at": "2026-11-14T11:46:15.297Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=docs.google.com&hideResults=on",
-    "tested_at": "2026-11-03T04:15:31.253Z"
+    "tested_at": "2026-11-14T11:46:15.297Z"
   },
   "trackers": {
     "url": "https://workspace.google.com/products/forms/",

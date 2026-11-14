@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cognitoforms.com",
     "tested_at": "2026-11-12T12:49:02.005Z"
   },
-  "scanned_at": "2026-11-12T12:49:02.846Z",
+  "scanned_at": "2026-11-14T11:46:14.807Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.cognitoforms.com&hideResults=on",
-    "tested_at": "2026-11-03T04:15:30.461Z"
+    "tested_at": "2026-11-14T11:46:14.807Z"
   },
   "trackers": {
     "url": "https://www.cognitoforms.com",

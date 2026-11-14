@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=posthog.com",
-    "tested_at": "2026-11-03T01:48:01.111Z"
+    "tested_at": "2026-11-14T11:33:41.719Z"
   },
-  "scanned_at": "2026-11-03T04:37:54.781Z",
+  "scanned_at": "2026-11-14T11:33:42.175Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

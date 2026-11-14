@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=usefathom.com",
-    "tested_at": "2026-11-03T01:47:58.553Z"
+    "tested_at": "2026-11-14T11:33:39.926Z"
   },
-  "scanned_at": "2026-11-03T04:34:39.534Z",
+  "scanned_at": "2026-11-14T11:33:40.200Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
