@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=paperform.co",
     "tested_at": "2026-11-13T12:17:05.380Z"
   },
-  "scanned_at": "2026-11-13T12:17:06.054Z",
+  "scanned_at": "2026-11-15T12:05:11.856Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

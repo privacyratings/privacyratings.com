@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.dropbox.com",
     "tested_at": "2026-11-14T11:33:05.443Z"
   },
-  "scanned_at": "2026-11-14T11:33:06.736Z",
+  "scanned_at": "2026-11-15T12:09:52.455Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.dropbox.com&hideResults=on",
-    "tested_at": "2026-11-03T04:26:18.423Z"
+    "tested_at": "2026-11-15T12:09:52.455Z"
   },
   "trackers": {
     "url": "https://www.dropbox.com",

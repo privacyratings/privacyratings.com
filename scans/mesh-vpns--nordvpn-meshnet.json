@@ -3,9 +3,9 @@
     "repo": "NordSecurity/libtelio",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:14.529Z"
+    "checked_at": "2026-11-15T11:59:11.543Z"
   },
-  "scanned_at": "2026-11-03T01:39:14.529Z",
+  "scanned_at": "2026-11-15T11:59:11.543Z",
   "trackers": {
     "error": "HTTP 403",
     "tested_at": "2026-10-01T07:02:25.584Z"

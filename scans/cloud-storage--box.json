@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.box.com",
     "tested_at": "2026-11-13T12:17:21.870Z"
   },
-  "scanned_at": "2026-11-13T12:17:22.315Z",
+  "scanned_at": "2026-11-15T12:06:36.715Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.box.com&hideResults=on",
-    "tested_at": "2026-11-03T04:27:45.760Z"
+    "tested_at": "2026-11-15T12:06:36.715Z"
   },
   "trackers": {
     "url": "https://www.box.com",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tresorit.com",
     "tested_at": "2026-11-14T11:33:36.838Z"
   },
-  "scanned_at": "2026-11-14T11:33:37.118Z",
+  "scanned_at": "2026-11-15T12:11:13.571Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tresorit.com&hideResults=on",
-    "tested_at": "2026-11-03T04:31:51.770Z"
+    "tested_at": "2026-11-15T12:11:13.571Z"
   },
   "trackers": {
     "url": "https://tresorit.com",

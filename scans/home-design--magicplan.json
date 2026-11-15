@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cloud.magicplan.app",
-    "tested_at": "2026-11-03T01:48:05.251Z"
+    "tested_at": "2026-11-15T11:59:18.227Z"
   },
-  "scanned_at": "2026-11-03T04:47:10.436Z",
+  "scanned_at": "2026-11-15T11:59:19.978Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 3,

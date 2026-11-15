@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=assistant.kagi.com",
     "tested_at": "2026-11-13T12:17:15.103Z"
   },
-  "scanned_at": "2026-11-13T12:17:15.299Z",
+  "scanned_at": "2026-11-15T12:09:27.257Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=assistant.kagi.com&hideResults=on",
-    "tested_at": "2026-11-03T04:24:39.156Z"
+    "tested_at": "2026-11-15T12:09:27.256Z"
   },
   "trackers": {
     "url": "https://assistant.kagi.com",

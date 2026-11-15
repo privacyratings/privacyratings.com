@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.opensignlabs.com",
     "tested_at": "2026-11-12T12:49:00.291Z"
   },
-  "scanned_at": "2026-11-14T11:46:11.582Z",
+  "scanned_at": "2026-11-15T12:03:38.076Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.opensignlabs.com&hideResults=on",
-    "tested_at": "2026-11-03T04:15:04.003Z"
+    "tested_at": "2026-11-15T12:03:38.076Z"
   },
   "trackers": {
     "url": "https://www.opensignlabs.com",

@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=aquavoice.com",
     "tested_at": "2026-11-13T12:17:10.703Z"
   },
-  "scanned_at": "2026-11-13T12:17:11.283Z",
+  "scanned_at": "2026-11-15T12:05:58.717Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

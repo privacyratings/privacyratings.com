@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=onedrive.live.com",
     "tested_at": "2026-11-14T11:33:27.920Z"
   },
-  "scanned_at": "2026-11-14T11:33:31.700Z",
+  "scanned_at": "2026-11-15T12:13:03.310Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=onedrive.live.com&hideResults=on",
-    "tested_at": "2026-11-03T04:31:51.353Z"
+    "tested_at": "2026-11-15T12:13:03.310Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wisprflow.ai",
     "tested_at": "2026-11-13T12:17:13.363Z"
   },
-  "scanned_at": "2026-11-13T12:17:14.034Z",
+  "scanned_at": "2026-11-15T12:06:46.114Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=wisprflow.ai&hideResults=on",
-    "tested_at": "2026-11-03T04:24:34.155Z"
+    "tested_at": "2026-11-15T12:06:46.113Z"
   },
   "trackers": {
     "url": "https://wisprflow.ai",

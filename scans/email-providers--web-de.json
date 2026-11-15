@@ -93,9 +93,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=web.de",
-    "tested_at": "2026-11-03T11:57:56.297Z"
+    "tested_at": "2026-11-15T11:59:10.254Z"
   },
-  "scanned_at": "2026-11-14T11:33:47.947Z",
+  "scanned_at": "2026-11-15T11:59:12.278Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

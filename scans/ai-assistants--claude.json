@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=claude.ai",
     "tested_at": "2026-11-13T12:17:14.095Z"
   },
-  "scanned_at": "2026-11-13T12:17:14.325Z",
+  "scanned_at": "2026-11-15T12:05:14.566Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=claude.ai&hideResults=on",
-    "tested_at": "2026-11-03T04:24:35.584Z"
+    "tested_at": "2026-11-15T12:05:14.566Z"
   },
   "trackers": {
     "url": "https://claude.ai/login",

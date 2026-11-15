@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=open.spotify.com",
-    "tested_at": "2026-11-03T01:48:11.975Z"
+    "tested_at": "2026-11-15T11:59:37.184Z"
   },
-  "scanned_at": "2026-11-03T04:47:12.462Z",
+  "scanned_at": "2026-11-15T11:59:37.591Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

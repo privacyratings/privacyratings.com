@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=translate.kagi.com",
     "tested_at": "2026-11-13T12:17:09.112Z"
   },
-  "scanned_at": "2026-11-13T12:17:09.792Z",
+  "scanned_at": "2026-11-15T12:06:30.911Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=translate.kagi.com&hideResults=on",
-    "tested_at": "2026-11-03T04:24:12.776Z"
+    "tested_at": "2026-11-15T12:06:30.911Z"
   },
   "trackers": {
     "url": "https://translate.kagi.com",

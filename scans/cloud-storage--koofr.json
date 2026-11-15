@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=koofr.eu",
     "tested_at": "2026-11-14T11:33:24.477Z"
   },
-  "scanned_at": "2026-11-14T11:33:25.958Z",
+  "scanned_at": "2026-11-15T12:09:31.783Z",
   "ssllabs": {
-    "grade": "A",
+    "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=koofr.eu&hideResults=on",
-    "tested_at": "2026-11-03T04:30:29.406Z"
+    "tested_at": "2026-11-15T12:09:31.783Z"
   },
   "trackers": {
     "url": "https://koofr.eu",

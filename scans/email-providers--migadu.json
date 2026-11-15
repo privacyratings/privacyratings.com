@@ -20,7 +20,7 @@
         "mx.migadu.com"
       ],
       "spf": true,
-      "dmarc": null,
+      "dmarc": "quarantine",
       "tls_rpt": false,
       "mta_sts": null,
       "dane": "none",
@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-14T11:33:41.328Z",
+    "tested_at": "2026-11-15T11:59:40.607Z",
     "imap": {
       "host": "imap.migadu.com",
       "port": 993,
@@ -91,14 +91,14 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=migadu.com",
     "tested_at": "2026-11-03T11:58:52.818Z"
   },
-  "scanned_at": "2026-11-14T11:34:10.587Z",
+  "scanned_at": "2026-11-15T12:01:58.385Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=migadu.com&hideResults=on",
     "tested_at": "2026-10-23T09:25:58.926Z",
     "last_error": "No endpoint could be graded",
-    "last_error_at": "2026-11-14T11:34:10.587Z"
+    "last_error_at": "2026-11-15T12:01:58.385Z"
   },
   "trackers": {
     "url": "https://www.migadu.com/",

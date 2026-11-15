@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=medium.com",
-    "tested_at": "2026-11-03T01:48:13.613Z"
+    "tested_at": "2026-11-15T11:59:43.016Z"
   },
-  "scanned_at": "2026-11-03T04:48:36.049Z",
+  "scanned_at": "2026-11-15T11:59:43.308Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

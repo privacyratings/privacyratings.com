@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
     "tested_at": "2026-11-14T11:33:11.656Z"
   },
-  "scanned_at": "2026-11-14T11:33:11.970Z",
+  "scanned_at": "2026-11-15T12:09:02.693Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.icloud.com&hideResults=on",
-    "tested_at": "2026-11-03T04:27:05.169Z"
+    "tested_at": "2026-11-15T12:09:02.693Z"
   },
   "trackers": {
     "url": "https://www.icloud.com/iclouddrive",

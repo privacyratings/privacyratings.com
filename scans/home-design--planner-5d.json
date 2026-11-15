@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=planner5d.com",
-    "tested_at": "2026-11-03T01:48:06.260Z"
+    "tested_at": "2026-11-15T11:59:20.058Z"
   },
-  "scanned_at": "2026-11-03T04:46:55.333Z",
+  "scanned_at": "2026-11-15T11:59:23.392Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

@@ -42,7 +42,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-13T12:17:49.611Z",
+    "tested_at": "2026-11-15T11:59:49.488Z",
     "imap": {
       "host": "imap.soverin.net",
       "port": 993,
@@ -89,7 +89,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=soverin.com",
     "tested_at": "2026-11-04T12:13:16.116Z"
   },
-  "scanned_at": "2026-11-13T12:17:50.919Z",
+  "scanned_at": "2026-11-15T11:59:50.464Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

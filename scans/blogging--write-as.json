@@ -19,9 +19,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=write.as",
-    "tested_at": "2026-11-03T01:48:15.579Z"
+    "tested_at": "2026-11-15T11:59:45.422Z"
   },
-  "scanned_at": "2026-11-03T04:52:54.935Z",
+  "scanned_at": "2026-11-15T11:59:46.036Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

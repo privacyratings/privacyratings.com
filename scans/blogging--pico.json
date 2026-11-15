@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=pico.sh",
-    "tested_at": "2026-11-03T01:48:14.609Z"
+    "tested_at": "2026-11-15T11:59:44.065Z"
   },
-  "scanned_at": "2026-11-03T04:52:06.445Z",
+  "scanned_at": "2026-11-15T11:59:44.720Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

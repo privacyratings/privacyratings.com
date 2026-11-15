@@ -9,13 +9,13 @@
   },
   "observatory": {
     "grade": "C",
-    "score": 50,
-    "tests_passed": 8,
+    "score": 55,
+    "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privacy.com",
-    "tested_at": "2026-11-03T01:48:09.775Z"
+    "tested_at": "2026-11-15T11:59:29.179Z"
   },
-  "scanned_at": "2026-11-03T04:47:25.201Z",
+  "scanned_at": "2026-11-15T11:59:30.109Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

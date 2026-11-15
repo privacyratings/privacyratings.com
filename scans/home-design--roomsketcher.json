@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.roomsketcher.com",
-    "tested_at": "2026-11-03T01:48:06.763Z"
+    "tested_at": "2026-11-15T11:59:23.501Z"
   },
-  "scanned_at": "2026-11-05T12:52:46.514Z",
+  "scanned_at": "2026-11-15T11:59:24.898Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 12,

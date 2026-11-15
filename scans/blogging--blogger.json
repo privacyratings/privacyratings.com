@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.blogger.com",
-    "tested_at": "2026-11-03T01:48:12.677Z"
+    "tested_at": "2026-11-15T11:59:42.743Z"
   },
-  "scanned_at": "2026-11-03T04:48:02.049Z",
+  "scanned_at": "2026-11-15T11:59:42.960Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

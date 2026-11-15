@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hub.upcloud.com",
     "tested_at": "2026-11-03T11:58:57.009Z"
   },
-  "scanned_at": "2026-11-14T11:33:06.112Z",
+  "scanned_at": "2026-11-15T11:59:10.193Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

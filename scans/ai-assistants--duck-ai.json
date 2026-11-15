@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duck.ai",
     "tested_at": "2026-11-13T12:17:14.521Z"
   },
-  "scanned_at": "2026-11-13T12:17:14.702Z",
+  "scanned_at": "2026-11-15T12:05:15.140Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=duck.ai&hideResults=on",
-    "tested_at": "2026-11-03T04:26:16.389Z"
+    "tested_at": "2026-11-15T12:05:15.140Z"
   },
   "trackers": {
     "url": "https://duck.ai",

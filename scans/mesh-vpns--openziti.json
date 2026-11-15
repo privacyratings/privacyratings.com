@@ -3,9 +3,9 @@
     "repo": "openziti/ziti",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:14.590Z"
+    "checked_at": "2026-11-15T11:59:11.561Z"
   },
-  "scanned_at": "2026-11-03T01:39:14.590Z",
+  "scanned_at": "2026-11-15T11:59:11.561Z",
   "trackers": {
     "url": "https://netfoundry.io/docs/openziti/",
     "found": [

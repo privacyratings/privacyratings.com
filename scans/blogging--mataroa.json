@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mataroa.blog",
-    "tested_at": "2026-11-03T01:48:13.199Z"
+    "tested_at": "2026-11-15T11:59:43.207Z"
   },
-  "scanned_at": "2026-11-03T04:48:34.759Z",
+  "scanned_at": "2026-11-15T11:59:44.771Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

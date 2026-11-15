@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
     "tested_at": "2026-11-12T12:48:55.582Z"
   },
-  "scanned_at": "2026-11-14T11:43:07.264Z",
+  "scanned_at": "2026-11-15T11:59:11.672Z",
   "ssllabs": {
-    "grade": "A+",
+    "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=m365.cloud.microsoft&hideResults=on",
-    "tested_at": "2026-11-03T04:08:36.718Z"
+    "tested_at": "2026-11-15T11:59:11.672Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/microsoft-365",

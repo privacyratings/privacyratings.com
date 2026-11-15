@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=drive.proton.me",
     "tested_at": "2026-11-14T11:33:35.154Z"
   },
-  "scanned_at": "2026-11-14T11:33:36.780Z",
+  "scanned_at": "2026-11-15T12:11:12.514Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=drive.proton.me&hideResults=on",
-    "tested_at": "2026-11-03T04:32:29.199Z"
+    "tested_at": "2026-11-15T12:11:12.514Z"
   },
   "trackers": {
     "url": "https://proton.me/drive",
