@@ -3,9 +3,9 @@
     "repo": "wazuh/wazuh",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:39:15.809Z"
+    "checked_at": "2026-11-16T12:50:04.662Z"
   },
-  "scanned_at": "2026-11-03T01:40:02.258Z",
+  "scanned_at": "2026-11-16T12:50:04.662Z",
   "trackers": {
     "url": "https://wazuh.com",
     "found": [

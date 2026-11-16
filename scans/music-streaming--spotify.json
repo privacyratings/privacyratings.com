@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=open.spotify.com",
     "tested_at": "2026-11-15T11:59:37.184Z"
   },
-  "scanned_at": "2026-11-15T11:59:37.591Z",
+  "scanned_at": "2026-11-16T13:02:15.042Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=open.spotify.com&hideResults=on",
-    "tested_at": "2026-11-03T04:47:12.462Z"
+    "tested_at": "2026-11-16T13:02:15.042Z"
   },
   "trackers": {
     "url": "https://open.spotify.com",

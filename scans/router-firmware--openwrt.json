@@ -3,9 +3,9 @@
     "repo": "openwrt/openwrt",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:39:15.219Z"
+    "checked_at": "2026-11-16T12:50:03.360Z"
   },
-  "scanned_at": "2026-11-03T01:40:01.723Z",
+  "scanned_at": "2026-11-16T12:50:03.360Z",
   "trackers": {
     "url": "https://openwrt.org",
     "found": [],

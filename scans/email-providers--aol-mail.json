@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-15T11:59:10.218Z",
+    "tested_at": "2026-11-16T12:50:04.455Z",
     "imap": {
       "host": "imap.aol.com",
       "port": 993,
@@ -92,14 +92,14 @@
   },
   "mail_domain": "aol.com",
   "observatory": {
-    "grade": "B",
-    "score": 70,
+    "grade": "C",
+    "score": 55,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.aol.com",
-    "tested_at": "2026-11-03T11:58:48.774Z"
+    "tested_at": "2026-11-16T12:50:00.598Z"
   },
-  "scanned_at": "2026-11-15T11:59:10.984Z",
+  "scanned_at": "2026-11-16T12:50:06.389Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

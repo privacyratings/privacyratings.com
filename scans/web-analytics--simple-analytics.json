@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.simpleanalytics.com",
     "tested_at": "2026-11-14T11:33:42.108Z"
   },
-  "scanned_at": "2026-11-14T11:33:44.312Z",
+  "scanned_at": "2026-11-16T12:57:41.461Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.simpleanalytics.com&hideResults=on",
-    "tested_at": "2026-11-03T04:37:55.067Z"
+    "tested_at": "2026-11-16T12:57:41.461Z"
   },
   "trackers": {
     "url": "https://www.simpleanalytics.com",

@@ -3,9 +3,9 @@
     "repo": "nmap/nmap",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:39:15.401Z"
+    "checked_at": "2026-11-16T12:50:03.358Z"
   },
-  "scanned_at": "2026-11-03T01:40:01.840Z",
+  "scanned_at": "2026-11-16T12:50:03.358Z",
   "trackers": {
     "url": "https://nmap.org",
     "found": [

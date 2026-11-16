@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.apple.com",
     "tested_at": "2026-11-15T11:59:31.342Z"
   },
-  "scanned_at": "2026-11-15T11:59:31.931Z",
+  "scanned_at": "2026-11-16T13:02:12.686Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=music.apple.com&hideResults=on",
-    "tested_at": "2026-11-03T04:46:59.066Z"
+    "tested_at": "2026-11-16T13:02:12.686Z"
   },
   "trackers": {
     "url": "https://www.apple.com/apple-music/",

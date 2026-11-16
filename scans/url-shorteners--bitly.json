@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitly.com",
     "tested_at": "2026-11-14T11:33:43.760Z"
   },
-  "scanned_at": "2026-11-14T11:33:44.123Z",
+  "scanned_at": "2026-11-16T13:00:06.989Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bitly.com&hideResults=on",
-    "tested_at": "2026-11-03T04:41:48.382Z"
+    "tested_at": "2026-11-16T13:00:06.988Z"
   },
   "trackers": {
     "url": "https://bitly.com",

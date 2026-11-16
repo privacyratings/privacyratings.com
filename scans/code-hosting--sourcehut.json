@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sourcehut.org",
     "tested_at": "2026-11-14T11:33:39.828Z"
   },
-  "scanned_at": "2026-11-14T11:33:41.279Z",
+  "scanned_at": "2026-11-16T12:55:46.110Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sourcehut.org&hideResults=on",
-    "tested_at": "2026-11-03T04:33:35.638Z"
+    "tested_at": "2026-11-16T12:55:46.110Z"
   },
   "trackers": {
     "url": "https://sourcehut.org",

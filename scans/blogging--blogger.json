@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.blogger.com",
     "tested_at": "2026-11-15T11:59:42.743Z"
   },
-  "scanned_at": "2026-11-15T11:59:42.960Z",
+  "scanned_at": "2026-11-16T13:05:53.142Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.blogger.com&hideResults=on",
-    "tested_at": "2026-11-03T04:48:02.048Z"
+    "tested_at": "2026-11-16T13:05:53.142Z"
   },
   "trackers": {
     "url": "https://www.blogger.com/about/?bpli=1",

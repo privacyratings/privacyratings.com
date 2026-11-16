@@ -3,9 +3,9 @@
     "repo": "tailscale/tailscale",
     "license": "BSD-3-Clause",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:14.686Z"
+    "checked_at": "2026-11-16T12:50:00.855Z"
   },
-  "scanned_at": "2026-11-03T01:40:00.422Z",
+  "scanned_at": "2026-11-16T12:50:00.855Z",
   "trackers": {
     "url": "https://tailscale.com",
     "found": [],

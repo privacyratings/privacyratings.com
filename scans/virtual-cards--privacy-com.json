@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privacy.com",
     "tested_at": "2026-11-15T11:59:29.179Z"
   },
-  "scanned_at": "2026-11-15T11:59:30.109Z",
+  "scanned_at": "2026-11-16T13:02:04.694Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=privacy.com&hideResults=on",
-    "tested_at": "2026-11-03T04:47:25.201Z"
+    "tested_at": "2026-11-16T13:02:04.694Z"
   },
   "trackers": {
     "url": "https://www.privacy.com",

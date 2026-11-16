@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=codeberg.org",
     "tested_at": "2026-11-14T11:33:37.761Z"
   },
-  "scanned_at": "2026-11-15T11:59:10.613Z",
+  "scanned_at": "2026-11-16T12:54:50.498Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=codeberg.org&hideResults=on",
-    "tested_at": "2026-11-03T04:37:13.892Z"
+    "tested_at": "2026-11-16T12:54:50.498Z"
   },
   "trackers": {
     "url": "https://codeberg.org",

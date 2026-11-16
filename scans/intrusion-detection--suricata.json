@@ -3,9 +3,9 @@
     "repo": "OISF/suricata",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:15.731Z"
+    "checked_at": "2026-11-16T12:50:04.613Z"
   },
-  "scanned_at": "2026-11-03T01:40:02.195Z",
+  "scanned_at": "2026-11-16T12:50:04.613Z",
   "trackers": {
     "url": "https://suricata.io",
     "found": [

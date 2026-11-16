@@ -1,11 +1,11 @@
 {
   "github": {
-    "repo": "RMerl/asuswrt-merlin.ng",
+    "repo": "Asuswrt-Merlin/asuswrt-merlin.ng",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:39:15.054Z"
+    "checked_at": "2026-11-16T12:50:02.523Z"
   },
-  "scanned_at": "2026-11-03T01:40:01.006Z",
+  "scanned_at": "2026-11-16T12:50:02.523Z",
   "trackers": {
     "url": "https://www.asuswrt-merlin.net",
     "found": [

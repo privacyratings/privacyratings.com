@@ -3,9 +3,9 @@
     "repo": "apache/guacamole-server",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:14.856Z"
+    "checked_at": "2026-11-16T12:50:00.858Z"
   },
-  "scanned_at": "2026-11-03T01:40:00.411Z",
+  "scanned_at": "2026-11-16T12:50:00.858Z",
   "trackers": {
     "url": "https://guacamole.apache.org",
     "found": [],

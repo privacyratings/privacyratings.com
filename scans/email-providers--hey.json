@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-15T11:59:16.190Z",
+    "tested_at": "2026-11-16T12:50:13.984Z",
     "imap": {
       "offered": false
     },
@@ -47,13 +47,13 @@
   "mail_domain": "hey.com",
   "observatory": {
     "grade": "A+",
-    "score": 130,
+    "score": 125,
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.hey.com",
-    "tested_at": "2026-11-03T11:58:51.639Z"
+    "tested_at": "2026-11-16T12:50:05.732Z"
   },
-  "scanned_at": "2026-11-15T11:59:16.190Z",
+  "scanned_at": "2026-11-16T12:50:13.984Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

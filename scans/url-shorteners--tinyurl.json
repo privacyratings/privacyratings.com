@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tinyurl.com",
     "tested_at": "2026-11-15T11:59:13.408Z"
   },
-  "scanned_at": "2026-11-15T11:59:13.724Z",
+  "scanned_at": "2026-11-16T13:01:03.753Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
