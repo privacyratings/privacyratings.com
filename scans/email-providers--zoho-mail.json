@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/mail.zoho.com/22659721/",
-      "tested_at": "2026-11-09T13:41:38.520Z"
+      "report": "https://batch.internet.nl/site/mail.zoho.com/22858353/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     },
     "mail": {
       "score": 67,
-      "report": "https://batch.internet.nl/mail/zohomail.com/22855375/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "report": "https://batch.internet.nl/mail/zohomail.com/22978125/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     }
   },
   "mail": {
@@ -91,14 +91,14 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.zoho.com",
-    "tested_at": "2026-11-04T12:13:18.125Z"
+    "tested_at": "2026-11-17T13:31:43.173Z"
   },
-  "scanned_at": "2026-11-16T12:50:53.495Z",
+  "scanned_at": "2026-11-17T13:35:03.604Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.zoho.com&hideResults=on",
-    "tested_at": "2026-11-03T12:02:10.097Z"
+    "tested_at": "2026-11-17T13:35:03.604Z"
   },
   "trackers": {
     "url": "https://www.zoho.com/mail/",

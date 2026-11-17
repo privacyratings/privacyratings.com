@@ -3,9 +3,9 @@
     "repo": "balena-io/etcher",
     "license": "Apache-2.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:16.536Z"
+    "checked_at": "2026-11-17T13:31:39.230Z"
   },
-  "scanned_at": "2026-11-03T01:40:05.461Z",
+  "scanned_at": "2026-11-17T13:31:39.230Z",
   "trackers": {
     "url": "https://etcher.balena.io",
     "found": [

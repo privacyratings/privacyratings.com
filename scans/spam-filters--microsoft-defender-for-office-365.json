@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/security.microsoft.com/22660420/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/security.microsoft.com/22858023/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=security.microsoft.com",
     "tested_at": "2026-11-05T12:26:02.577Z"
   },
-  "scanned_at": "2026-11-05T12:26:03.387Z",
+  "scanned_at": "2026-11-17T13:34:35.527Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=security.microsoft.com&hideResults=on",
-    "tested_at": "2026-11-03T12:03:35.323Z"
+    "tested_at": "2026-11-17T13:34:35.527Z"
   },
   "trackers": {
     "url": "https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-office-365",

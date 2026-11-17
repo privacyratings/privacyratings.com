@@ -66,6 +66,22 @@
       "request_id": "69a10922453b419f82c03775acdaf70e",
       "status": "done",
       "finished_at": "2026-11-09T13:31:36.259Z"
+    },
+    {
+      "kind": "web",
+      "submitted_at": "2026-11-17T13:51:39.874Z",
+      "domains": 444,
+      "request_id": "19aa09cce7b644df82d03c8bfa9617ab",
+      "status": "done",
+      "finished_at": "2026-11-17T14:21:51.876Z"
+    },
+    {
+      "kind": "mail",
+      "submitted_at": "2026-11-17T13:51:40.920Z",
+      "domains": 48,
+      "request_id": "2b9e637fb4d0499ba1e8af6d8aef8a82",
+      "status": "done",
+      "finished_at": "2026-11-17T14:21:52.408Z"
     }
   ]
 }

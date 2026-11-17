@@ -3,9 +3,9 @@
     "repo": "raspberrypi/rpi-imager",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:39:16.839Z"
+    "checked_at": "2026-11-17T13:31:39.680Z"
   },
-  "scanned_at": "2026-11-03T01:40:05.644Z",
+  "scanned_at": "2026-11-17T13:31:39.680Z",
   "trackers": {
     "error": "HTTP 403",
     "tested_at": "2026-11-03T01:40:05.643Z"

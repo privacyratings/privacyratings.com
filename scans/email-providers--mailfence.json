@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/mailfence.com/22659732/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/mailfence.com/22857954/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     },
     "mail": {
-      "score": 40,
-      "report": "https://batch.internet.nl/mail/mailfence.com/22855398/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "score": 30,
+      "report": "https://batch.internet.nl/mail/mailfence.com/22978157/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     }
   },
   "mail": {
@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-16T12:50:38.939Z",
+    "tested_at": "2026-11-17T13:32:15.044Z",
     "imap": {
       "host": "imap.mailfence.com",
       "port": 993,
@@ -88,7 +88,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailfence.com",
     "tested_at": "2026-11-16T12:50:09.217Z"
   },
-  "scanned_at": "2026-11-16T12:50:40.927Z",
+  "scanned_at": "2026-11-17T13:32:17.674Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

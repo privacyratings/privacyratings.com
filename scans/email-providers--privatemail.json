@@ -3,13 +3,13 @@
   "internetnl": {
     "mail": {
       "score": 69,
-      "report": "https://batch.internet.nl/mail/privatemail.com/22855405/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "report": "https://batch.internet.nl/mail/privatemail.com/22978161/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     },
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/privatemail.com/22660000/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/privatemail.com/22858480/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     }
   },
   "mail": {
@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-16T12:50:43.389Z",
+    "tested_at": "2026-11-17T13:32:19.882Z",
     "imap": {
       "host": null,
       "error": "No server found (set a host in the rating file or publish RFC 6186 SRV records)"
@@ -55,9 +55,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=privatemail.com",
-    "tested_at": "2026-11-04T12:13:13.509Z"
+    "tested_at": "2026-11-17T13:31:38.663Z"
   },
-  "scanned_at": "2026-11-16T12:50:43.389Z",
+  "scanned_at": "2026-11-17T13:32:19.882Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

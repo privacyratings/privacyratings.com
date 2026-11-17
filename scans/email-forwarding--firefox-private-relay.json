@@ -9,13 +9,13 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/relay.firefox.com/22660320/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/relay.firefox.com/22857855/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     },
     "mail": {
-      "score": 67,
-      "report": "https://batch.internet.nl/mail/mozmail.com/22855407/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "score": 64,
+      "report": "https://batch.internet.nl/mail/mozmail.com/22978138/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     }
   },
   "mail": {
@@ -57,9 +57,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=relay.firefox.com",
-    "tested_at": "2026-11-04T12:13:19.630Z"
+    "tested_at": "2026-11-17T13:31:44.458Z"
   },
-  "scanned_at": "2026-11-16T12:50:52.891Z",
+  "scanned_at": "2026-11-17T13:31:44.809Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 8,

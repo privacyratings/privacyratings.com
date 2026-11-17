@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/leastauthority.com/22659971/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/leastauthority.com/22857790/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=leastauthority.com",
     "tested_at": "2026-11-07T11:07:31.090Z"
   },
-  "scanned_at": "2026-11-07T11:07:33.416Z",
+  "scanned_at": "2026-11-17T13:39:23.639Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=leastauthority.com&hideResults=on",
-    "tested_at": "2026-11-03T12:06:26.474Z"
+    "tested_at": "2026-11-17T13:39:23.639Z"
   },
   "trackers": {
     "url": "https://leastauthority.com",

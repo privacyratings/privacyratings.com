@@ -3,13 +3,13 @@
   "internetnl": {
     "mail": {
       "score": 59,
-      "report": "https://batch.internet.nl/mail/mailo.com/22855366/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "report": "https://batch.internet.nl/mail/mailo.com/22978134/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     },
     "web": {
       "score": 51,
-      "report": "https://batch.internet.nl/site/www.mailo.com/22660203/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/www.mailo.com/22858328/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "mail": {
@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-16T12:50:40.820Z",
+    "tested_at": "2026-11-17T13:32:15.503Z",
     "imap": {
       "host": "mail.mailo.com",
       "port": 993,
@@ -80,9 +80,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mailo.com",
-    "tested_at": "2026-11-04T12:13:11.168Z"
+    "tested_at": "2026-11-17T13:31:39.129Z"
   },
-  "scanned_at": "2026-11-16T12:50:43.175Z",
+  "scanned_at": "2026-11-17T13:32:17.799Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -2,9 +2,9 @@
   "domain": "customerportal.darktrace.com",
   "internetnl": {
     "web": {
-      "score": 81,
-      "report": "https://batch.internet.nl/site/customerportal.darktrace.com/22660452/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "score": 72,
+      "report": "https://batch.internet.nl/site/customerportal.darktrace.com/22857986/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=customerportal.darktrace.com",
-    "tested_at": "2026-11-04T12:13:21.965Z"
+    "tested_at": "2026-11-17T13:31:45.613Z"
   },
-  "scanned_at": "2026-11-05T12:26:00.320Z",
+  "scanned_at": "2026-11-17T13:31:48.691Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

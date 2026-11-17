@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/tidal.com/22659750/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/tidal.com/22857735/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidal.com",
     "tested_at": "2026-11-15T11:59:37.673Z"
   },
-  "scanned_at": "2026-11-15T11:59:38.166Z",
+  "scanned_at": "2026-11-17T13:49:57.332Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tidal.com&hideResults=on",
-    "tested_at": "2026-11-03T04:52:33.438Z"
+    "tested_at": "2026-11-17T13:49:57.332Z"
   },
   "trackers": {
     "error": "HTTP 403",

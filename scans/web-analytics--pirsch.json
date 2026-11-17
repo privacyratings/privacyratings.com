@@ -8,9 +8,9 @@
   },
   "internetnl": {
     "web": {
-      "score": 78,
-      "report": "https://batch.internet.nl/site/pirsch.io/22659841/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "score": 41,
+      "report": "https://batch.internet.nl/site/pirsch.io/22857821/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=pirsch.io",
     "tested_at": "2026-11-14T11:33:41.535Z"
   },
-  "scanned_at": "2026-11-16T12:58:02.518Z",
+  "scanned_at": "2026-11-17T13:43:44.436Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/medium.com/22660088/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/medium.com/22858041/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=medium.com",
     "tested_at": "2026-11-15T11:59:43.016Z"
   },
-  "scanned_at": "2026-11-15T11:59:43.308Z",
+  "scanned_at": "2026-11-17T13:45:37.799Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=medium.com&hideResults=on",
-    "tested_at": "2026-11-03T04:48:36.049Z"
+    "tested_at": "2026-11-17T13:45:37.799Z"
   },
   "trackers": {
     "url": "https://medium.com",

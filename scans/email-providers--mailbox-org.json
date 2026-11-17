@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 95,
-      "report": "https://batch.internet.nl/site/mailbox.org/22660242/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/mailbox.org/22858445/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     },
     "mail": {
       "score": 78,
-      "report": "https://batch.internet.nl/mail/mailbox.org/22855406/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "report": "https://batch.internet.nl/mail/mailbox.org/22978128/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     }
   },
   "mail": {
@@ -37,7 +37,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-16T12:50:35.748Z",
+    "tested_at": "2026-11-17T13:32:07.403Z",
     "imap": {
       "host": "imap.mailbox.org",
       "port": 993,
@@ -98,12 +98,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailbox.org",
     "tested_at": "2026-11-16T12:50:08.924Z"
   },
-  "scanned_at": "2026-11-16T12:50:37.353Z",
+  "scanned_at": "2026-11-17T13:32:10.438Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mailbox.org&hideResults=on",
-    "tested_at": "2026-11-03T11:58:49.032Z"
+    "tested_at": "2026-11-17T13:31:40.247Z"
   },
   "trackers": {
     "url": "https://mailbox.org/en/",

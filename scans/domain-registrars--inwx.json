@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 95,
-      "report": "https://batch.internet.nl/site/www.inwx.com/22660233/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/www.inwx.com/22858447/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.inwx.com",
     "tested_at": "2026-11-10T12:43:38.427Z"
   },
-  "scanned_at": "2026-11-10T12:43:41.243Z",
+  "scanned_at": "2026-11-17T13:43:49.822Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.inwx.com&hideResults=on",
-    "tested_at": "2026-11-03T12:12:42.906Z"
+    "tested_at": "2026-11-17T13:43:49.822Z"
   },
   "trackers": {
     "url": "https://www.inwx.com/en",

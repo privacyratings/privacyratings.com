@@ -2,14 +2,14 @@
   "domain": "www.mail.com",
   "internetnl": {
     "web": {
-      "score": 86,
-      "report": "https://batch.internet.nl/site/www.mail.com/22660451/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "score": 61,
+      "report": "https://batch.internet.nl/site/www.mail.com/22858471/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     },
     "mail": {
-      "score": 82,
-      "report": "https://batch.internet.nl/mail/mail.com/22855384/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "score": 62,
+      "report": "https://batch.internet.nl/mail/mail.com/22978154/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     }
   },
   "mail": {
@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-16T12:50:33.832Z",
+    "tested_at": "2026-11-17T13:32:04.290Z",
     "imap": {
       "host": "imap.mail.com",
       "port": 993,
@@ -94,12 +94,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.mail.com",
     "tested_at": "2026-11-16T12:50:06.800Z"
   },
-  "scanned_at": "2026-11-16T12:50:34.632Z",
+  "scanned_at": "2026-11-17T13:32:44.313Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.mail.com&hideResults=on",
-    "tested_at": "2026-11-03T12:01:14.410Z"
+    "tested_at": "2026-11-17T13:32:44.313Z"
   },
   "trackers": {
     "url": "https://www.mail.com",

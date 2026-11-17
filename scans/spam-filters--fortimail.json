@@ -3,19 +3,19 @@
   "internetnl": {
     "web": {
       "score": 22,
-      "report": "https://batch.internet.nl/site/www.fortimailcloud.com/22659783/",
-      "tested_at": "2026-11-09T13:41:38.520Z"
+      "report": "https://batch.internet.nl/site/www.fortimailcloud.com/22857750/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
-    "grade": "B+",
-    "score": 80,
+    "grade": "B",
+    "score": 75,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.fortimailcloud.com",
-    "tested_at": "2026-11-05T12:25:59.822Z"
+    "tested_at": "2026-11-17T13:31:49.483Z"
   },
-  "scanned_at": "2026-11-07T11:16:58.252Z",
+  "scanned_at": "2026-11-17T13:31:49.638Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

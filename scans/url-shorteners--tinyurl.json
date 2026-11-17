@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 71,
-      "report": "https://batch.internet.nl/site/tinyurl.com/22659990/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/tinyurl.com/22857951/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tinyurl.com",
     "tested_at": "2026-11-15T11:59:13.408Z"
   },
-  "scanned_at": "2026-11-16T13:01:03.753Z",
+  "scanned_at": "2026-11-17T13:49:12.577Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tinyurl.com&hideResults=on",
-    "tested_at": "2026-11-03T04:40:42.852Z"
+    "tested_at": "2026-11-17T13:49:12.577Z"
   },
   "trackers": {
     "url": "https://tinyurl.com",

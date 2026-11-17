@@ -2,14 +2,14 @@
   "domain": "web.de",
   "internetnl": {
     "mail": {
-      "score": 82,
-      "report": "https://batch.internet.nl/mail/web.de/22855367/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "score": 62,
+      "report": "https://batch.internet.nl/mail/web.de/22978140/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     },
     "web": {
       "score": 86,
-      "report": "https://batch.internet.nl/site/web.de/22660415/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/web.de/22857801/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "mail": {

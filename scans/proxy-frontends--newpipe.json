@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 95,
-      "report": "https://batch.internet.nl/site/newpipe.net/22660472/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/newpipe.net/22857990/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=newpipe.net",
     "tested_at": "2026-11-06T12:10:54.057Z"
   },
-  "scanned_at": "2026-11-07T11:07:20.862Z",
+  "scanned_at": "2026-11-17T13:38:52.442Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=newpipe.net&hideResults=on",
-    "tested_at": "2026-11-03T12:08:31.423Z"
+    "tested_at": "2026-11-17T13:38:52.442Z"
   },
   "trackers": {
     "url": "https://newpipe.net",

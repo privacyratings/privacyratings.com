@@ -3,13 +3,13 @@
   "internetnl": {
     "mail": {
       "score": 100,
-      "report": "https://batch.internet.nl/mail/soverin.nl/22855386/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "report": "https://batch.internet.nl/mail/soverin.nl/22978126/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     },
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/soverin.com/22660220/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/soverin.com/22857728/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "mail": {
@@ -42,7 +42,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-15T11:59:49.488Z",
+    "tested_at": "2026-11-17T13:32:32.080Z",
     "imap": {
       "host": "imap.soverin.net",
       "port": 993,
@@ -87,9 +87,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=soverin.com",
-    "tested_at": "2026-11-04T12:13:16.116Z"
+    "tested_at": "2026-11-17T13:31:41.230Z"
   },
-  "scanned_at": "2026-11-15T11:59:50.464Z",
+  "scanned_at": "2026-11-17T13:32:33.677Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

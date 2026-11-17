@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 57,
-      "report": "https://batch.internet.nl/site/app.improvmx.com/22659755/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/app.improvmx.com/22857788/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.improvmx.com",
-    "tested_at": "2026-11-04T12:13:19.796Z"
+    "tested_at": "2026-11-17T13:31:44.624Z"
   },
-  "scanned_at": "2026-11-07T11:14:13.192Z",
+  "scanned_at": "2026-11-17T13:31:44.938Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

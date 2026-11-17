@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 80,
-      "report": "https://batch.internet.nl/site/swetrix.com/22659778/",
-      "tested_at": "2026-11-09T13:41:38.520Z"
+      "report": "https://batch.internet.nl/site/swetrix.com/22858113/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swetrix.com",
     "tested_at": "2026-11-14T11:33:42.548Z"
   },
-  "scanned_at": "2026-11-14T11:33:44.367Z",
+  "scanned_at": "2026-11-17T13:45:35.937Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

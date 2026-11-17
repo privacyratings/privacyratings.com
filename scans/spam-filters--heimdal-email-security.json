@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 84,
-      "report": "https://batch.internet.nl/site/dashboard.heimdalsecurity.com/22660287/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/dashboard.heimdalsecurity.com/22858330/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -13,14 +13,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.heimdalsecurity.com",
-    "tested_at": "2026-11-05T12:25:59.519Z"
+    "tested_at": "2026-11-17T13:31:49.707Z"
   },
-  "scanned_at": "2026-11-05T12:26:02.395Z",
+  "scanned_at": "2026-11-17T13:34:01.535Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dashboard.heimdalsecurity.com&hideResults=on",
-    "tested_at": "2026-11-03T12:03:25.333Z"
+    "tested_at": "2026-11-17T13:34:01.535Z"
   },
   "trackers": {
     "url": "https://heimdalsecurity.com/enterprise-security/products/email-security",

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/telegra.ph/22659856/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/telegra.ph/22858022/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=telegra.ph",
     "tested_at": "2026-11-15T11:59:44.905Z"
   },
-  "scanned_at": "2026-11-15T11:59:46.250Z",
+  "scanned_at": "2026-11-17T13:46:52.495Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=telegra.ph&hideResults=on",
-    "tested_at": "2026-11-03T04:50:33.540Z"
+    "tested_at": "2026-11-17T13:46:52.495Z"
   },
   "trackers": {
     "url": "https://telegra.ph",

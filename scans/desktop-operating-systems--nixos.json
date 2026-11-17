@@ -3,9 +3,9 @@
     "repo": "NixOS/nixpkgs",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:16.241Z"
+    "checked_at": "2026-11-17T13:31:38.722Z"
   },
-  "scanned_at": "2026-11-03T01:40:04.761Z",
+  "scanned_at": "2026-11-17T13:31:38.722Z",
   "trackers": {
     "url": "https://nixos.org",
     "found": [],

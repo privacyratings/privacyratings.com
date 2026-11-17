@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/app.sketchup.com/22660477/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/app.sketchup.com/22858165/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.sketchup.com",
     "tested_at": "2026-11-15T11:59:25.011Z"
   },
-  "scanned_at": "2026-11-15T11:59:25.830Z",
+  "scanned_at": "2026-11-17T13:48:30.971Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.sketchup.com&hideResults=on",
-    "tested_at": "2026-11-03T04:48:33.674Z"
+    "tested_at": "2026-11-17T13:48:30.970Z"
   },
   "trackers": {
     "url": "https://sketchup.trimble.com/en",

@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/mataroa.blog/22660110/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/mataroa.blog/22858177/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mataroa.blog",
     "tested_at": "2026-11-15T11:59:43.207Z"
   },
-  "scanned_at": "2026-11-15T11:59:44.771Z",
+  "scanned_at": "2026-11-17T13:45:36.750Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mataroa.blog&hideResults=on",
-    "tested_at": "2026-11-03T04:48:34.759Z"
+    "tested_at": "2026-11-17T13:45:36.750Z"
   },
   "trackers": {
     "url": "https://mataroa.blog",

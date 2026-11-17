@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 93,
-      "report": "https://batch.internet.nl/site/dash.cloudflare.com/22660497/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/dash.cloudflare.com/22858157/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dash.cloudflare.com",
-    "tested_at": "2026-11-04T12:13:19.024Z"
+    "tested_at": "2026-11-17T13:31:44.233Z"
   },
-  "scanned_at": "2026-11-07T11:14:12.457Z",
+  "scanned_at": "2026-11-17T13:31:44.399Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

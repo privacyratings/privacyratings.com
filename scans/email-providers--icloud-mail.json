@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/www.icloud.com/22659662/",
-      "tested_at": "2026-11-09T13:41:38.520Z"
+      "report": "https://batch.internet.nl/site/www.icloud.com/22858251/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     },
     "mail": {
       "score": 49,
-      "report": "https://batch.internet.nl/mail/icloud.com/22855381/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "report": "https://batch.internet.nl/mail/icloud.com/22978120/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     }
   },
   "mail": {
@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-16T12:50:15.781Z",
+    "tested_at": "2026-11-17T13:31:50.041Z",
     "imap": {
       "host": "imap.mail.me.com",
       "port": 993,
@@ -85,7 +85,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.icloud.com",
     "tested_at": "2026-11-16T12:50:05.788Z"
   },
-  "scanned_at": "2026-11-16T12:50:31.077Z",
+  "scanned_at": "2026-11-17T13:32:05.375Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

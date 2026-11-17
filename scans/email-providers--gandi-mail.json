@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/webmail.gandi.net/22659744/",
-      "tested_at": "2026-11-09T13:41:38.520Z"
+      "report": "https://batch.internet.nl/site/webmail.gandi.net/22858402/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     },
     "mail": {
       "score": 70,
-      "report": "https://batch.internet.nl/mail/gandi.net/22855395/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "report": "https://batch.internet.nl/mail/gandi.net/22978160/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     }
   },
   "mail": {
@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-16T12:50:11.513Z",
+    "tested_at": "2026-11-17T13:31:46.480Z",
     "imap": {
       "host": "mail.gandi.net",
       "port": 993,
@@ -91,7 +91,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=webmail.gandi.net",
     "tested_at": "2026-11-16T12:50:03.934Z"
   },
-  "scanned_at": "2026-11-16T12:50:13.040Z",
+  "scanned_at": "2026-11-17T13:31:49.228Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

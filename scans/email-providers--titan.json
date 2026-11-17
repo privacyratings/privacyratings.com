@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/app.titan.email/22659989/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/app.titan.email/22857958/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     },
     "mail": {
-      "score": 63,
-      "report": "https://batch.internet.nl/mail/titan.email/22855408/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "score": 60,
+      "report": "https://batch.internet.nl/mail/titan.email/22978149/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     }
   },
   "mail": {
@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-15T11:59:52.876Z",
+    "tested_at": "2026-11-17T13:32:36.145Z",
     "imap": {
       "host": "imap.titan.email",
       "port": 993,
@@ -88,9 +88,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.titan.email",
-    "tested_at": "2026-11-04T12:13:17.226Z"
+    "tested_at": "2026-11-17T13:31:42.509Z"
   },
-  "scanned_at": "2026-11-15T11:59:52.924Z",
+  "scanned_at": "2026-11-17T13:32:37.294Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

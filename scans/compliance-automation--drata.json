@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 95,
-      "report": "https://batch.internet.nl/site/app.drata.com/22659840/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/app.drata.com/22857932/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.drata.com",
     "tested_at": "2026-11-07T11:07:39.766Z"
   },
-  "scanned_at": "2026-11-16T12:50:02.046Z",
+  "scanned_at": "2026-11-17T13:31:38.734Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

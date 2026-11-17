@@ -9,13 +9,13 @@
   "internetnl": {
     "mail": {
       "score": 72,
-      "report": "https://batch.internet.nl/mail/thundermail.com/22855392/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "report": "https://batch.internet.nl/mail/thundermail.com/22978151/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     },
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/tb.pro/22660125/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/tb.pro/22858478/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     }
   },
   "mail": {
@@ -51,7 +51,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-15T11:59:52.407Z",
+    "tested_at": "2026-11-17T13:32:36.125Z",
     "imap": {
       "host": "mail.thundermail.com",
       "port": 993,
@@ -98,9 +98,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tb.pro",
-    "tested_at": "2026-11-04T12:13:16.678Z"
+    "tested_at": "2026-11-17T13:31:42.421Z"
   },
-  "scanned_at": "2026-11-15T11:59:53.340Z",
+  "scanned_at": "2026-11-17T13:32:37.563Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

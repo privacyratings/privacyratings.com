@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/clarity.microsoft.com/22659789/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/clarity.microsoft.com/22857947/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=clarity.microsoft.com",
     "tested_at": "2026-11-14T11:33:40.780Z"
   },
-  "scanned_at": "2026-11-14T11:33:41.092Z",
+  "scanned_at": "2026-11-17T13:43:07.347Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=clarity.microsoft.com&hideResults=on",
-    "tested_at": "2026-11-03T12:15:23.126Z"
+    "tested_at": "2026-11-17T13:43:07.347Z"
   },
   "trackers": {
     "url": "https://clarity.microsoft.com",

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 52,
-      "report": "https://batch.internet.nl/site/sec-consult.com/22659888/",
-      "tested_at": "2026-11-09T13:41:38.520Z"
+      "report": "https://batch.internet.nl/site/sec-consult.com/22857757/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sec-consult.com",
     "tested_at": "2026-11-07T11:07:35.025Z"
   },
-  "scanned_at": "2026-11-07T11:07:36.826Z",
+  "scanned_at": "2026-11-17T13:39:31.740Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=sec-consult.com&hideResults=on",
-    "tested_at": "2026-11-03T12:07:52.389Z"
+    "tested_at": "2026-11-17T13:39:31.740Z"
   },
   "trackers": {
     "url": "https://sec-consult.com",

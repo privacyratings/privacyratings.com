@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/amiunique.org/22660454/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/amiunique.org/22858479/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=amiunique.org",
     "tested_at": "2026-11-06T12:11:07.546Z"
   },
-  "scanned_at": "2026-11-10T12:43:13.595Z",
+  "scanned_at": "2026-11-17T13:37:24.168Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=amiunique.org&hideResults=on",
-    "tested_at": "2026-11-03T12:06:51.651Z"
+    "tested_at": "2026-11-17T13:37:24.167Z"
   },
   "trackers": {
     "url": "https://amiunique.org",

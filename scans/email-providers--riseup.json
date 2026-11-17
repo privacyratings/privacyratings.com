@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/riseup.net/22660081/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/riseup.net/22858339/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     },
     "mail": {
-      "score": 61,
-      "report": "https://batch.internet.nl/mail/riseup.net/22855409/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "score": 48,
+      "report": "https://batch.internet.nl/mail/riseup.net/22978119/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     }
   },
   "mail": {
@@ -48,7 +48,7 @@
         }
       }
     },
-    "tested_at": "2026-11-15T11:59:45.296Z",
+    "tested_at": "2026-11-17T13:32:27.878Z",
     "imap": {
       "host": "mail.riseup.net",
       "port": 993,
@@ -104,9 +104,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=riseup.net",
-    "tested_at": "2026-11-04T12:13:14.153Z"
+    "tested_at": "2026-11-17T13:31:39.600Z"
   },
-  "scanned_at": "2026-11-15T11:59:46.589Z",
+  "scanned_at": "2026-11-17T13:32:28.124Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

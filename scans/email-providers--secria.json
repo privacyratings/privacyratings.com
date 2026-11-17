@@ -2,14 +2,14 @@
   "domain": "secria.me",
   "internetnl": {
     "mail": {
-      "score": 88,
-      "report": "https://batch.internet.nl/mail/secria.me/22855393/",
-      "tested_at": "2026-11-09T13:31:36.242Z"
+      "score": 80,
+      "report": "https://batch.internet.nl/mail/secria.me/22978155/",
+      "tested_at": "2026-11-17T14:21:52.403Z"
     },
     "web": {
       "score": 86,
-      "report": "https://batch.internet.nl/site/secria.me/22660002/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/secria.me/22857859/",
+      "tested_at": "2026-11-17T14:21:51.831Z"
     }
   },
   "mail": {
@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-15T11:59:47.038Z",
+    "tested_at": "2026-11-17T13:32:28.897Z",
     "imap": {
       "offered": false
     },
@@ -51,9 +51,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secria.me",
-    "tested_at": "2026-11-04T12:13:14.826Z"
+    "tested_at": "2026-11-17T13:31:40.276Z"
   },
-  "scanned_at": "2026-11-15T11:59:47.038Z",
+  "scanned_at": "2026-11-17T13:32:28.897Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

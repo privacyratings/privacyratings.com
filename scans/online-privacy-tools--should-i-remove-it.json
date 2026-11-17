@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/www.shouldiremoveit.com/22659676/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/www.shouldiremoveit.com/22858240/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.shouldiremoveit.com",
     "tested_at": "2026-11-07T11:07:23.824Z"
   },
-  "scanned_at": "2026-11-16T12:50:01.558Z",
+  "scanned_at": "2026-11-17T13:31:38.636Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

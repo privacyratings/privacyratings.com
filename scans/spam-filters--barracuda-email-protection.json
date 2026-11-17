@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 57,
-      "report": "https://batch.internet.nl/site/us.ess.barracudanetworks.com/22660435/",
-      "tested_at": "2026-11-09T13:41:38.521Z"
+      "report": "https://batch.internet.nl/site/us.ess.barracudanetworks.com/22858401/",
+      "tested_at": "2026-11-17T14:21:51.832Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=us.ess.barracudanetworks.com",
-    "tested_at": "2026-11-04T12:13:20.984Z"
+    "tested_at": "2026-11-17T13:31:45.203Z"
   },
-  "scanned_at": "2026-11-08T11:19:31.978Z",
+  "scanned_at": "2026-11-17T13:31:45.964Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
