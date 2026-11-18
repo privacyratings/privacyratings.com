@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mailjet.com",
-    "tested_at": "2026-11-05T12:26:13.615Z"
+    "tested_at": "2026-11-18T13:08:30.891Z"
   },
-  "scanned_at": "2026-11-08T11:22:33.087Z",
+  "scanned_at": "2026-11-18T13:08:32.553Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

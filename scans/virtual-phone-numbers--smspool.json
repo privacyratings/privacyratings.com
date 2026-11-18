@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.smspool.net",
     "tested_at": "2026-11-09T12:56:51.312Z"
   },
-  "scanned_at": "2026-11-17T13:40:35.921Z",
+  "scanned_at": "2026-11-18T13:17:59.524Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.smspool.net&hideResults=on",
-    "tested_at": "2026-11-03T12:10:57.193Z"
+    "tested_at": "2026-11-18T13:17:59.524Z"
   },
   "trackers": {
     "error": "HTTP 403",

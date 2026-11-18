@@ -3,9 +3,9 @@
     "repo": "hardentools/hardentools",
     "license": "GPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:18.766Z"
+    "checked_at": "2026-11-18T13:08:24.204Z"
   },
-  "scanned_at": "2026-11-03T01:40:07.630Z",
+  "scanned_at": "2026-11-18T13:08:24.204Z",
   "trackers": {
     "url": "https://github.com/hardentools/hardentools",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

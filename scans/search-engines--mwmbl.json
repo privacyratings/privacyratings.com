@@ -19,14 +19,14 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mwmbl.org",
-    "tested_at": "2026-11-06T12:10:45.799Z"
+    "tested_at": "2026-11-18T13:08:36.956Z"
   },
-  "scanned_at": "2026-11-07T11:07:19.709Z",
+  "scanned_at": "2026-11-18T13:08:38.289Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mwmbl.org&hideResults=on",
-    "tested_at": "2026-11-04T12:16:31.114Z"
+    "tested_at": "2026-11-18T13:08:22.663Z"
   },
   "trackers": {
     "url": "https://mwmbl.org",

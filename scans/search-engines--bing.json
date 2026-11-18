@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.bing.com",
-    "tested_at": "2026-11-05T12:26:17.811Z"
+    "tested_at": "2026-11-18T13:08:33.839Z"
   },
-  "scanned_at": "2026-11-08T11:22:34.475Z",
+  "scanned_at": "2026-11-18T13:08:34.183Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 11,

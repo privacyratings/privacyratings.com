@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=securemail.management",
-    "tested_at": "2026-11-05T12:26:05.587Z"
+    "tested_at": "2026-11-18T13:08:22.350Z"
   },
-  "scanned_at": "2026-11-17T13:31:38.490Z",
+  "scanned_at": "2026-11-18T13:08:22.859Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

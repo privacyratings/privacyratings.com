@@ -33,50 +33,18 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-17T13:31:39.142Z",
+    "tested_at": "2026-11-18T13:08:23.051Z",
     "imap": {
       "host": "imap.secureserver.net",
-      "port": 993,
-      "tls": "implicit",
-      "capabilities": [
-        "IMAP4REV1",
-        "UNSELECT",
-        "ID",
-        "CHILDREN",
-        "NAMESPACE",
-        "IDLE",
-        "UIDPLUS",
-        "AUTH=PLAIN"
-      ]
+      "error": "timeout"
     },
     "pop3": {
       "host": "pop.secureserver.net",
-      "port": 995,
-      "tls": "implicit",
-      "capa": true,
-      "capabilities": [
-        "CAPA",
-        "TOP",
-        "UIDL",
-        "RESP-CODES",
-        "PIPELINING",
-        "AUTH-RESP-CODE",
-        "USER",
-        "SASL"
-      ]
+      "error": "timeout"
     },
     "smtp": {
       "host": "smtpout.secureserver.net",
-      "port": 465,
-      "tls": "implicit",
-      "extensions": [
-        "HELP",
-        "AUTH",
-        "SIZE",
-        "PIPELINING",
-        "8BITMIME",
-        "OK"
-      ]
+      "error": "timeout"
     }
   },
   "mail_domain": "123-reg.co.uk",
@@ -88,7 +56,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.123-reg.co.uk",
     "tested_at": "2026-11-16T12:50:00.553Z"
   },
-  "scanned_at": "2026-11-17T13:31:39.996Z",
+  "scanned_at": "2026-11-18T13:09:53.062Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

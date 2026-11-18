@@ -13,9 +13,9 @@
     "tests_passed": 7,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sendgrid.com",
-    "tested_at": "2026-11-05T12:26:15.928Z"
+    "tested_at": "2026-11-18T13:08:32.771Z"
   },
-  "scanned_at": "2026-11-09T12:56:52.281Z",
+  "scanned_at": "2026-11-18T13:08:33.500Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 8,

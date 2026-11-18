@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.pandadoc.com",
     "tested_at": "2026-11-12T12:49:00.335Z"
   },
-  "scanned_at": "2026-11-12T12:49:00.791Z",
+  "scanned_at": "2026-11-18T13:21:15.255Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.pandadoc.com&hideResults=on",
-    "tested_at": "2026-11-04T12:30:00.476Z"
+    "tested_at": "2026-11-18T13:21:15.255Z"
   },
   "trackers": {
     "error": "HTTP 429",

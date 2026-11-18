@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cloud.vadesecure.com",
-    "tested_at": "2026-11-05T12:26:10.295Z"
+    "tested_at": "2026-11-18T13:08:26.198Z"
   },
-  "scanned_at": "2026-11-08T11:21:28.578Z",
+  "scanned_at": "2026-11-18T13:08:27.711Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

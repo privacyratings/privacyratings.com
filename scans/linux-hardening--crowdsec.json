@@ -3,9 +3,9 @@
     "repo": "crowdsecurity/crowdsec",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:18.284Z"
+    "checked_at": "2026-11-18T13:08:23.592Z"
   },
-  "scanned_at": "2026-11-03T01:40:07.230Z",
+  "scanned_at": "2026-11-18T13:08:23.592Z",
   "trackers": {
     "url": "https://www.crowdsec.net",
     "found": [

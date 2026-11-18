@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-16T12:50:52.746Z",
+    "tested_at": "2026-11-18T13:09:42.900Z",
     "imap": {
       "offered": false
     },
@@ -53,7 +53,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
     "tested_at": "2026-11-17T13:31:44.357Z"
   },
-  "scanned_at": "2026-11-17T13:31:44.564Z",
+  "scanned_at": "2026-11-18T13:09:42.900Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=fly.io",
     "tested_at": "2026-11-11T11:55:10.774Z"
   },
-  "scanned_at": "2026-11-11T11:55:11.196Z",
+  "scanned_at": "2026-11-18T13:20:35.900Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=fly.io&hideResults=on",
-    "tested_at": "2026-11-04T12:27:28.655Z"
+    "tested_at": "2026-11-18T13:20:35.900Z"
   },
   "trackers": {
     "url": "https://fly.io",

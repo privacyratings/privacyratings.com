@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=twilio.com",
     "tested_at": "2026-11-09T12:56:59.819Z"
   },
-  "scanned_at": "2026-11-09T12:57:00.802Z",
+  "scanned_at": "2026-11-18T13:15:59.662Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 3,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=twilio.com&hideResults=on",
-    "tested_at": "2026-11-04T12:20:47.311Z"
+    "tested_at": "2026-11-18T13:15:59.662Z"
   },
   "trackers": {
     "url": "https://www.twilio.com/en-us",

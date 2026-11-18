@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=brevo.com",
-    "tested_at": "2026-11-05T12:26:10.341Z"
+    "tested_at": "2026-11-18T13:08:26.894Z"
   },
-  "scanned_at": "2026-11-07T11:16:49.895Z",
+  "scanned_at": "2026-11-18T13:08:29.042Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,

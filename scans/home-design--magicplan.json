@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cloud.magicplan.app",
     "tested_at": "2026-11-15T11:59:18.227Z"
   },
-  "scanned_at": "2026-11-17T13:46:09.732Z",
+  "scanned_at": "2026-11-18T13:25:20.586Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 3,

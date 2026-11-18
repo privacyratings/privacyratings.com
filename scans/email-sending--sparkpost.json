@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=sparkpost.com",
-    "tested_at": "2026-11-05T12:26:17.139Z"
+    "tested_at": "2026-11-18T13:08:33.562Z"
   },
-  "scanned_at": "2026-11-08T11:22:34.218Z",
+  "scanned_at": "2026-11-18T13:08:34.526Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

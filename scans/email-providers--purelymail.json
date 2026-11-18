@@ -108,12 +108,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=purelymail.com",
     "tested_at": "2026-11-17T13:31:39.275Z"
   },
-  "scanned_at": "2026-11-17T13:32:27.225Z",
+  "scanned_at": "2026-11-18T13:10:03.099Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=purelymail.com&hideResults=on",
-    "tested_at": "2026-11-04T12:15:50.296Z"
+    "tested_at": "2026-11-18T13:10:03.099Z"
   },
   "trackers": {
     "url": "https://purelymail.com",
