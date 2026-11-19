@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.exifremove.com",
-    "tested_at": "2026-11-07T11:07:20.549Z"
+    "tested_at": "2026-11-19T13:18:48.051Z"
   },
-  "scanned_at": "2026-11-10T12:44:39.102Z",
+  "scanned_at": "2026-11-19T13:18:48.468Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

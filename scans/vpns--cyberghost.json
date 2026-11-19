@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cyberghostvpn.com",
     "tested_at": "2026-11-09T12:57:03.892Z"
   },
-  "scanned_at": "2026-11-09T12:57:04.507Z",
+  "scanned_at": "2026-11-19T13:21:23.718Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.cyberghostvpn.com&hideResults=on",
-    "tested_at": "2026-11-05T12:27:11.252Z"
+    "tested_at": "2026-11-19T13:21:23.718Z"
   },
   "trackers": {
     "url": "https://www.cyberghostvpn.com",

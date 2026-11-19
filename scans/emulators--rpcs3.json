@@ -3,9 +3,9 @@
     "repo": "RPCS3/rpcs3",
     "license": "GPL-2.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:19.789Z"
+    "checked_at": "2026-11-19T13:18:24.372Z"
   },
-  "scanned_at": "2026-11-03T01:40:09.990Z",
+  "scanned_at": "2026-11-19T13:18:24.372Z",
   "trackers": {
     "error": "HTTP 403",
     "tested_at": "2026-11-03T01:40:09.990Z"

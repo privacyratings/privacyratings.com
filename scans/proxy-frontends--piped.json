@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=piped.video",
-    "tested_at": "2026-11-06T12:10:54.343Z"
+    "tested_at": "2026-11-19T13:18:29.687Z"
   },
-  "scanned_at": "2026-11-08T11:26:19.180Z",
+  "scanned_at": "2026-11-19T13:18:29.970Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

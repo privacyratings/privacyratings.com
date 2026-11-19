@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=forms.zoho.com",
     "tested_at": "2026-11-13T12:17:08.332Z"
   },
-  "scanned_at": "2026-11-13T12:17:08.924Z",
+  "scanned_at": "2026-11-19T13:30:24.344Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=forms.zoho.com&hideResults=on",
-    "tested_at": "2026-11-05T12:36:17.131Z"
+    "tested_at": "2026-11-19T13:30:24.344Z"
   },
   "trackers": {
     "url": "https://www.zoho.com/forms/",

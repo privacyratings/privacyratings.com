@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ecosia.org",
     "tested_at": "2026-11-18T13:08:34.275Z"
   },
-  "scanned_at": "2026-11-18T13:15:49.193Z",
+  "scanned_at": "2026-11-19T13:18:22.326Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

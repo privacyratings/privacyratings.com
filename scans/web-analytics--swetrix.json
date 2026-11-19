@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swetrix.com",
     "tested_at": "2026-11-14T11:33:42.548Z"
   },
-  "scanned_at": "2026-11-18T13:25:20.347Z",
+  "scanned_at": "2026-11-19T13:33:24.682Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

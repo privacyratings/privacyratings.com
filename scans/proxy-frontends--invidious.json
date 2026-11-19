@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=invidious.io",
-    "tested_at": "2026-11-06T12:10:52.573Z"
+    "tested_at": "2026-11-19T13:18:27.986Z"
   },
-  "scanned_at": "2026-11-09T13:00:02.825Z",
+  "scanned_at": "2026-11-19T13:18:29.532Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

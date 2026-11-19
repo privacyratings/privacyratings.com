@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.getoutline.com",
     "tested_at": "2026-11-11T11:55:15.707Z"
   },
-  "scanned_at": "2026-11-18T13:22:20.311Z",
+  "scanned_at": "2026-11-19T13:31:24.082Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

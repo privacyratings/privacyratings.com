@@ -13,9 +13,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hardenize.com",
-    "tested_at": "2026-11-07T11:07:20.623Z"
+    "tested_at": "2026-11-19T13:18:48.573Z"
   },
-  "scanned_at": "2026-11-09T13:09:39.654Z",
+  "scanned_at": "2026-11-19T13:18:49.473Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
