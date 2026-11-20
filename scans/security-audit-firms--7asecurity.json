@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=7asecurity.com",
-    "tested_at": "2026-11-07T11:07:26.035Z"
+    "tested_at": "2026-11-20T12:59:29.537Z"
   },
-  "scanned_at": "2026-11-19T13:22:23.299Z",
+  "scanned_at": "2026-11-20T12:59:31.020Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

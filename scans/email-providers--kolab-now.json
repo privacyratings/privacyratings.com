@@ -47,7 +47,7 @@
         }
       }
     },
-    "tested_at": "2026-11-19T13:18:49.414Z",
+    "tested_at": "2026-11-20T12:59:37.842Z",
     "imap": {
       "host": "imap.kolabnow.com",
       "port": 993,
@@ -160,12 +160,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kolabnow.com",
     "tested_at": "2026-11-16T12:50:06.297Z"
   },
-  "scanned_at": "2026-11-19T13:18:53.373Z",
+  "scanned_at": "2026-11-20T13:05:42.412Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kolabnow.com&hideResults=on",
-    "tested_at": "2026-11-06T12:16:57.891Z"
+    "tested_at": "2026-11-20T13:05:42.412Z"
   },
   "trackers": {
     "url": "https://kolabnow.com",

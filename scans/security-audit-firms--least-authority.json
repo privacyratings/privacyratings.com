@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=leastauthority.com",
-    "tested_at": "2026-11-07T11:07:31.090Z"
+    "tested_at": "2026-11-20T12:59:34.543Z"
   },
-  "scanned_at": "2026-11-17T13:39:23.639Z",
+  "scanned_at": "2026-11-20T12:59:37.134Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

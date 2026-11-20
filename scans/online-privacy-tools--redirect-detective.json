@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=redirectdetective.com",
-    "tested_at": "2026-11-07T11:07:24.016Z"
+    "tested_at": "2026-11-20T12:59:23.682Z"
   },
-  "scanned_at": "2026-11-19T13:21:13.167Z",
+  "scanned_at": "2026-11-20T12:59:25.213Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

@@ -4,7 +4,7 @@
     "repo": "outline/outline",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:39:21.378Z"
+    "checked_at": "2026-11-20T12:59:21.539Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.getoutline.com",
     "tested_at": "2026-11-11T11:55:15.707Z"
   },
-  "scanned_at": "2026-11-19T13:31:24.082Z",
+  "scanned_at": "2026-11-20T13:09:27.629Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

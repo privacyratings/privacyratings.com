@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.sprinto.com",
-    "tested_at": "2026-11-08T11:19:31.502Z"
+    "tested_at": "2026-11-20T12:59:44.698Z"
   },
-  "scanned_at": "2026-11-10T12:52:56.711Z",
+  "scanned_at": "2026-11-20T12:59:45.041Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -18,10 +18,10 @@
       "dnssec": false,
       "mx": [
         "alt3.gmail-smtp-in.l.google.com",
+        "gmail-smtp-in.l.google.com",
         "alt1.gmail-smtp-in.l.google.com",
         "alt4.gmail-smtp-in.l.google.com",
-        "alt2.gmail-smtp-in.l.google.com",
-        "gmail-smtp-in.l.google.com"
+        "alt2.gmail-smtp-in.l.google.com"
       ],
       "spf": true,
       "dmarc": "none",
@@ -46,7 +46,7 @@
         }
       }
     },
-    "tested_at": "2026-11-19T13:18:32.379Z",
+    "tested_at": "2026-11-20T12:59:24.721Z",
     "imap": {
       "host": "imap.gmail.com",
       "port": 993,
@@ -110,12 +110,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.google.com",
     "tested_at": "2026-11-16T12:50:04.659Z"
   },
-  "scanned_at": "2026-11-19T13:18:32.974Z",
+  "scanned_at": "2026-11-20T12:59:24.855Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.google.com&hideResults=on",
-    "tested_at": "2026-11-06T12:10:47.098Z"
+    "tested_at": "2026-11-20T12:59:20.650Z"
   },
   "trackers": {
     "url": "https://accounts.google.com/v3/signin/identifier?continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1760809946:1793669936596746",

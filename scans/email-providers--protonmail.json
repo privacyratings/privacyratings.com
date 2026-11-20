@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-19T13:19:13.004Z",
+    "tested_at": "2026-11-20T12:59:57.788Z",
     "imap": {
       "offered": false
     },
@@ -60,12 +60,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=proton.me",
     "tested_at": "2026-11-17T13:30:51.779Z"
   },
-  "scanned_at": "2026-11-19T13:19:13.005Z",
+  "scanned_at": "2026-11-20T13:03:47.235Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=proton.me&hideResults=on",
-    "tested_at": "2026-11-06T12:17:09.956Z"
+    "tested_at": "2026-11-20T13:03:47.235Z"
   },
   "trackers": {
     "url": "https://proton.me/mail",

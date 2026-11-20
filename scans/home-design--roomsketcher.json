@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.roomsketcher.com",
     "tested_at": "2026-11-15T11:59:23.501Z"
   },
-  "scanned_at": "2026-11-15T11:59:24.898Z",
+  "scanned_at": "2026-11-20T13:24:36.526Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.roomsketcher.com&hideResults=on",
-    "tested_at": "2026-11-05T12:52:46.514Z"
+    "tested_at": "2026-11-20T13:24:36.526Z"
   },
   "trackers": {
     "url": "https://www.roomsketcher.com",

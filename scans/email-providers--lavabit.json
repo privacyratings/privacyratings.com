@@ -51,7 +51,7 @@
         }
       }
     },
-    "tested_at": "2026-11-19T13:18:53.995Z",
+    "tested_at": "2026-11-20T12:59:42.082Z",
     "imap": {
       "host": "lavabit.com",
       "port": 993,
@@ -102,12 +102,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lavabit.com",
     "tested_at": "2026-11-16T12:50:06.736Z"
   },
-  "scanned_at": "2026-11-19T13:18:56.854Z",
+  "scanned_at": "2026-11-20T13:03:46.491Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=lavabit.com&hideResults=on",
-    "tested_at": "2026-11-06T12:13:47.226Z"
+    "tested_at": "2026-11-20T13:03:46.491Z"
   },
   "trackers": {
     "url": "https://lavabit.com",

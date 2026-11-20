@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.radicallyopensecurity.com",
-    "tested_at": "2026-11-07T11:07:34.517Z"
+    "tested_at": "2026-11-20T12:59:37.845Z"
   },
-  "scanned_at": "2026-11-10T12:49:10.777Z",
+  "scanned_at": "2026-11-20T12:59:40.106Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

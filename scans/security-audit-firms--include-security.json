@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=includesecurity.com",
-    "tested_at": "2026-11-07T11:07:30.077Z"
+    "tested_at": "2026-11-20T12:59:33.248Z"
   },
-  "scanned_at": "2026-11-09T13:11:30.685Z",
+  "scanned_at": "2026-11-20T12:59:34.134Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
