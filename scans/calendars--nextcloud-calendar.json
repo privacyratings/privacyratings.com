@@ -3,9 +3,9 @@
     "repo": "nextcloud/calendar",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:22.142Z"
+    "checked_at": "2026-11-21T12:43:17.414Z"
   },
-  "scanned_at": "2026-11-03T01:40:21.268Z",
+  "scanned_at": "2026-11-21T12:43:17.414Z",
   "trackers": {
     "url": "https://apps.nextcloud.com/apps/calendar",
     "found": [],

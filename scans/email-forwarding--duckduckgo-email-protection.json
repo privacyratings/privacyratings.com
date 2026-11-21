@@ -53,12 +53,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=duckduckgo.com",
     "tested_at": "2026-11-17T13:31:44.357Z"
   },
-  "scanned_at": "2026-11-20T13:00:05.330Z",
+  "scanned_at": "2026-11-21T12:48:49.142Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=duckduckgo.com&hideResults=on",
-    "tested_at": "2026-11-07T11:14:12.568Z"
+    "tested_at": "2026-11-21T12:48:49.142Z"
   },
   "trackers": {
     "url": "https://duckduckgo.com/email/",

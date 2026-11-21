@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-20T12:59:57.788Z",
+    "tested_at": "2026-11-21T12:44:02.072Z",
     "imap": {
       "offered": false
     },
@@ -60,7 +60,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=proton.me",
     "tested_at": "2026-11-17T13:30:51.779Z"
   },
-  "scanned_at": "2026-11-20T13:03:47.235Z",
+  "scanned_at": "2026-11-21T12:44:02.072Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

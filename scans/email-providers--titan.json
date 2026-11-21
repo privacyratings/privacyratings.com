@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-19T13:19:27.193Z",
+    "tested_at": "2026-11-21T12:44:15.276Z",
     "imap": {
       "host": "imap.titan.email",
       "port": 993,
@@ -90,12 +90,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.titan.email",
     "tested_at": "2026-11-17T13:31:42.509Z"
   },
-  "scanned_at": "2026-11-19T13:19:28.118Z",
+  "scanned_at": "2026-11-21T12:50:23.906Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.titan.email&hideResults=on",
-    "tested_at": "2026-11-07T11:15:02.202Z"
+    "tested_at": "2026-11-21T12:50:23.906Z"
   },
   "trackers": {
     "url": "https://titan.email",

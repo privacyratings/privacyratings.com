@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=securemail.management",
     "tested_at": "2026-11-18T13:08:22.350Z"
   },
-  "scanned_at": "2026-11-20T12:59:19.853Z",
+  "scanned_at": "2026-11-21T12:50:30.955Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=securemail.management&hideResults=on",
-    "tested_at": "2026-11-07T11:16:39.466Z"
+    "tested_at": "2026-11-21T12:50:30.955Z"
   },
   "trackers": {
     "url": "https://www.n-able.com/products/mail-assure",

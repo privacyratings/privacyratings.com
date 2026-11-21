@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-19T13:19:28.884Z",
+    "tested_at": "2026-11-21T12:44:17.851Z",
     "imap": {
       "offered": false
     },
@@ -59,7 +59,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tuta.com",
     "tested_at": "2026-11-17T13:30:51.930Z"
   },
-  "scanned_at": "2026-11-19T13:19:28.884Z",
+  "scanned_at": "2026-11-21T12:44:17.851Z",
   "ssllabs": {
     "error": "No endpoint could be graded",
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=tuta.com&hideResults=on",

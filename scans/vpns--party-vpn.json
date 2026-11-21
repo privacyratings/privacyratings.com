@@ -15,14 +15,14 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=partyvpn.com",
     "tested_at": "2026-11-09T12:57:10.192Z"
   },
-  "scanned_at": "2026-11-20T13:08:25.366Z",
+  "scanned_at": "2026-11-21T12:52:26.026Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=partyvpn.com&hideResults=on",
     "tested_at": "2026-11-03T03:31:30.215Z",
     "last_error": "No endpoint could be graded",
-    "last_error_at": "2026-11-19T13:23:33.175Z"
+    "last_error_at": "2026-11-21T12:52:26.026Z"
   },
   "trackers": {
     "url": "https://partyvpn.com",

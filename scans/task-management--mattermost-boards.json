@@ -3,9 +3,9 @@
     "repo": "mattermost/mattermost-plugin-boards",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:39:22.845Z"
+    "checked_at": "2026-11-21T12:43:18.207Z"
   },
-  "scanned_at": "2026-11-03T01:39:22.845Z",
+  "scanned_at": "2026-11-21T12:43:18.207Z",
   "trackers": {
     "url": "https://github.com/mattermost/mattermost-plugin-boards",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

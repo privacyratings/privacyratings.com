@@ -9,13 +9,13 @@
   },
   "observatory": {
     "grade": "B",
-    "score": 70,
-    "tests_passed": 9,
+    "score": 75,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.burnerapp.com",
-    "tested_at": "2026-11-08T11:19:46.718Z"
+    "tested_at": "2026-11-21T12:43:26.379Z"
   },
-  "scanned_at": "2026-11-08T11:29:30.423Z",
+  "scanned_at": "2026-11-21T12:43:27.025Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

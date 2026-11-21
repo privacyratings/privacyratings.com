@@ -32,7 +32,7 @@
         },
         "submission": {
           "host": "smtp.mail.ru",
-          "port": 587
+          "port": 25
         },
         "imaps": {
           "host": "imap.mail.ru",
@@ -48,7 +48,7 @@
         }
       }
     },
-    "tested_at": "2026-11-20T12:59:49.688Z",
+    "tested_at": "2026-11-21T12:43:50.573Z",
     "imap": {
       "host": "imap.mail.ru",
       "port": 993,
@@ -103,12 +103,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.ru",
     "tested_at": "2026-11-16T12:50:08.623Z"
   },
-  "scanned_at": "2026-11-20T12:59:52.992Z",
+  "scanned_at": "2026-11-21T13:02:34.762Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=mail.ru&hideResults=on",
-    "tested_at": "2026-11-06T12:32:33.293Z"
+    "tested_at": "2026-11-21T13:02:34.762Z"
   },
   "trackers": {
     "url": "https://account.mail.ru/login?autologin_exp=v22&autologin_project=home&errorCode=11300&errorText=invalid+user&page=https%3A%2F%2Fmail.ru%2F%3Fautologin%3D1793669937&state=493161a316ae47a5ad4950b1b5024522",

@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=swetrix.com",
     "tested_at": "2026-11-14T11:33:42.548Z"
   },
-  "scanned_at": "2026-11-20T13:11:26.071Z",
+  "scanned_at": "2026-11-21T13:01:30.889Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=swetrix.com&hideResults=on",
-    "tested_at": "2026-11-03T12:17:49.879Z"
+    "tested_at": "2026-11-21T13:01:30.889Z"
   },
   "trackers": {
     "url": "https://swetrix.com",

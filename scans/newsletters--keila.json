@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.keila.io",
-    "tested_at": "2026-11-08T11:19:38.952Z"
+    "tested_at": "2026-11-21T12:43:22.473Z"
   },
-  "scanned_at": "2026-11-12T12:48:44.594Z",
+  "scanned_at": "2026-11-21T12:43:24.366Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

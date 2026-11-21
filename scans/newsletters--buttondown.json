@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=buttondown.com",
-    "tested_at": "2026-11-08T11:19:37.084Z"
+    "tested_at": "2026-11-21T12:43:20.758Z"
   },
-  "scanned_at": "2026-11-10T13:00:35.070Z",
+  "scanned_at": "2026-11-21T12:43:21.280Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

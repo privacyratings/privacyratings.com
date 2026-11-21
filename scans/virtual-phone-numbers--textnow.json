@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.textnow.com",
-    "tested_at": "2026-11-09T12:56:52.188Z"
+    "tested_at": "2026-11-21T12:43:35.225Z"
   },
-  "scanned_at": "2026-11-15T11:59:10.264Z",
+  "scanned_at": "2026-11-21T12:43:35.733Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

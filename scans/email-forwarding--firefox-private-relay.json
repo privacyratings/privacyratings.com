@@ -59,12 +59,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=relay.firefox.com",
     "tested_at": "2026-11-17T13:31:44.458Z"
   },
-  "scanned_at": "2026-11-20T13:00:05.242Z",
+  "scanned_at": "2026-11-21T12:55:21.620Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 8,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=relay.firefox.com&hideResults=on",
-    "tested_at": "2026-11-07T11:14:12.710Z"
+    "tested_at": "2026-11-21T12:55:21.619Z"
   },
   "trackers": {
     "url": "https://relay.firefox.com",
