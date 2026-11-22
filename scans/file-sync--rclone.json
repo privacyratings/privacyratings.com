@@ -3,9 +3,9 @@
     "repo": "rclone/rclone",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:23.914Z"
+    "checked_at": "2026-11-22T12:38:55.521Z"
   },
-  "scanned_at": "2026-11-03T01:40:17.299Z",
+  "scanned_at": "2026-11-22T12:38:55.521Z",
   "trackers": {
     "url": "https://rclone.org",
     "found": [],

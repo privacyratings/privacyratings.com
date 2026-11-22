@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=plivo.com",
-    "tested_at": "2026-11-09T12:56:56.333Z"
+    "tested_at": "2026-11-22T12:38:57.163Z"
   },
-  "scanned_at": "2026-11-18T13:15:49.254Z",
+  "scanned_at": "2026-11-22T12:38:57.498Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

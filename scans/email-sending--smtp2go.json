@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=smtp2go.com",
     "tested_at": "2026-11-18T13:08:33.067Z"
   },
-  "scanned_at": "2026-11-18T13:08:33.807Z",
+  "scanned_at": "2026-11-22T12:43:06.807Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=smtp2go.com&hideResults=on",
-    "tested_at": "2026-11-08T11:22:34.084Z"
+    "tested_at": "2026-11-22T12:43:06.807Z"
   },
   "trackers": {
     "url": "https://www.smtp2go.com",

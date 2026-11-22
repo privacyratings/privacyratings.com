@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.shouldiremoveit.com",
     "tested_at": "2026-11-20T12:59:25.337Z"
   },
-  "scanned_at": "2026-11-21T12:43:17.071Z",
+  "scanned_at": "2026-11-22T12:38:55.557Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
