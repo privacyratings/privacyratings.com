@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-22T12:39:06.477Z",
+    "tested_at": "2026-11-23T14:45:55.988Z",
     "imap": {
       "offered": false
     },
@@ -53,7 +53,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.hey.com",
     "tested_at": "2026-11-16T12:50:05.732Z"
   },
-  "scanned_at": "2026-11-22T12:39:06.478Z",
+  "scanned_at": "2026-11-23T14:45:55.988Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

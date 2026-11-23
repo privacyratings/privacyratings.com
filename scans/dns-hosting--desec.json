@@ -15,13 +15,13 @@
   },
   "observatory": {
     "grade": "A+",
-    "score": 105,
-    "tests_passed": 11,
+    "score": 115,
+    "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=desec.io",
-    "tested_at": "2026-11-10T12:43:31.869Z"
+    "tested_at": "2026-11-23T14:45:59.920Z"
   },
-  "scanned_at": "2026-11-13T12:16:54.515Z",
+  "scanned_at": "2026-11-23T14:46:01.368Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

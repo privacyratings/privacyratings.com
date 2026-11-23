@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.namecheap.com",
-    "tested_at": "2026-11-10T12:43:41.363Z"
+    "tested_at": "2026-11-23T14:46:08.524Z"
   },
-  "scanned_at": "2026-11-12T13:00:57.224Z",
+  "scanned_at": "2026-11-23T14:46:08.683Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

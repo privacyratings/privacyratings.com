@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startpage.com",
     "tested_at": "2026-11-18T13:08:42.085Z"
   },
-  "scanned_at": "2026-11-18T13:08:42.296Z",
+  "scanned_at": "2026-11-23T14:45:45.851Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.startpage.com&hideResults=on",
-    "tested_at": "2026-11-08T11:26:19.017Z"
+    "tested_at": "2026-11-23T14:45:45.850Z"
   },
   "trackers": {
     "url": "https://www.startpage.com",

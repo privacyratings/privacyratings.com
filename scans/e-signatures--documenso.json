@@ -4,7 +4,7 @@
     "repo": "documenso/documenso",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:25.503Z"
+    "checked_at": "2026-11-23T14:45:44.417Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.documenso.com",
     "tested_at": "2026-11-12T12:48:57.947Z"
   },
-  "scanned_at": "2026-11-22T12:47:23.423Z",
+  "scanned_at": "2026-11-23T14:45:44.417Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 12,

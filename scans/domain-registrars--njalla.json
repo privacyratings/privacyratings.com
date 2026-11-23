@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=njal.la",
-    "tested_at": "2026-11-10T12:43:42.121Z"
+    "tested_at": "2026-11-23T14:46:09.200Z"
   },
-  "scanned_at": "2026-11-20T13:05:43.230Z",
+  "scanned_at": "2026-11-23T14:46:10.741Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

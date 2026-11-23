@@ -21,12 +21,14 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=invidious.io",
     "tested_at": "2026-11-19T13:18:27.986Z"
   },
-  "scanned_at": "2026-11-19T13:18:29.532Z",
+  "scanned_at": "2026-11-23T14:48:50.196Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=invidious.io&hideResults=on",
-    "tested_at": "2026-11-09T13:00:02.825Z"
+    "tested_at": "2026-11-09T13:00:02.825Z",
+    "last_error": "No endpoint could be graded",
+    "last_error_at": "2026-11-23T14:48:50.196Z"
   },
   "trackers": {
     "url": "https://invidious.io",

@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=blog.uncensoreddns.org",
-    "tested_at": "2026-11-10T12:43:28.087Z"
+    "tested_at": "2026-11-23T14:45:56.611Z"
   },
-  "scanned_at": "2026-11-22T12:48:03.134Z",
+  "scanned_at": "2026-11-23T14:45:58.837Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

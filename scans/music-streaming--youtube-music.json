@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.youtube.com",
     "tested_at": "2026-10-18T08:53:37.082Z"
   },
-  "scanned_at": "2026-11-22T12:39:56.170Z",
+  "scanned_at": "2026-11-23T14:46:43.990Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 16,

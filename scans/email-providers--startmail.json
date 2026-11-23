@@ -45,7 +45,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-21T12:44:13.180Z",
+    "tested_at": "2026-11-23T14:46:46.250Z",
     "imap": {
       "host": "imap.startmail.com",
       "port": 993,
@@ -89,7 +89,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.startmail.com",
     "tested_at": "2026-11-17T13:31:40.945Z"
   },
-  "scanned_at": "2026-11-21T12:49:44.645Z",
+  "scanned_at": "2026-11-23T14:46:47.794Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

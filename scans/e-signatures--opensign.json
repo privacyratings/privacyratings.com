@@ -4,7 +4,7 @@
     "repo": "OpenSignLabs/OpenSign",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:39:25.504Z"
+    "checked_at": "2026-11-23T14:45:44.582Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.opensignlabs.com",
     "tested_at": "2026-11-12T12:49:00.291Z"
   },
-  "scanned_at": "2026-11-15T12:03:38.076Z",
+  "scanned_at": "2026-11-23T14:45:44.582Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=switch.egress.com",
     "tested_at": "2026-11-17T13:31:46.175Z"
   },
-  "scanned_at": "2026-11-22T12:41:55.486Z",
+  "scanned_at": "2026-11-23T14:49:09.108Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=switch.egress.com&hideResults=on",
-    "tested_at": "2026-11-07T11:18:14.102Z"
+    "tested_at": "2026-11-23T14:49:09.108Z"
   },
   "trackers": {
     "url": "https://www.egress.com",
