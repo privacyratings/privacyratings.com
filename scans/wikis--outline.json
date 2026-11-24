@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/app.getoutline.com/22857946/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/app.getoutline.com/23093926/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.getoutline.com",
-    "tested_at": "2026-11-11T11:55:15.707Z"
+    "tested_at": "2026-11-24T14:56:04.579Z"
   },
-  "scanned_at": "2026-11-21T13:00:27.157Z",
+  "scanned_at": "2026-11-24T14:56:05.311Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

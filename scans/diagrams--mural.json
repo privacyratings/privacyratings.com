@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/app.mural.co/22857840/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/app.mural.co/23093901/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.mural.co",
-    "tested_at": "2026-11-12T12:48:43.849Z"
+    "tested_at": "2026-11-24T14:56:05.998Z"
   },
-  "scanned_at": "2026-11-13T12:27:27.331Z",
+  "scanned_at": "2026-11-24T14:56:06.830Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

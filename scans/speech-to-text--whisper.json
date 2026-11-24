@@ -3,9 +3,9 @@
     "repo": "openai/whisper",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:26.909Z"
+    "checked_at": "2026-11-24T14:55:34.272Z"
   },
-  "scanned_at": "2026-11-03T01:39:26.909Z",
+  "scanned_at": "2026-11-24T14:55:34.272Z",
   "trackers": {
     "url": "https://github.com/openai/whisper",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

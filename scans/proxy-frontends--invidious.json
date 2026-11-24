@@ -8,9 +8,9 @@
   },
   "internetnl": {
     "web": {
-      "score": 87,
-      "report": "https://batch.internet.nl/site/invidious.io/22857772/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "score": 36,
+      "report": "https://batch.internet.nl/site/invidious.io/23094076/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=invidious.io",
     "tested_at": "2026-11-19T13:18:27.986Z"
   },
-  "scanned_at": "2026-11-23T14:48:50.196Z",
+  "scanned_at": "2026-11-24T14:58:39.774Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

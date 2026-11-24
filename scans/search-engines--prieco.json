@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 100,
-      "report": "https://batch.internet.nl/site/prieco.net/22857817/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/prieco.net/23093904/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=prieco.net",
     "tested_at": "2026-11-18T13:08:38.645Z"
   },
-  "scanned_at": "2026-11-23T14:45:43.146Z",
+  "scanned_at": "2026-11-24T14:55:32.586Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

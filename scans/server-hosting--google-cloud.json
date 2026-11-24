@@ -3,19 +3,19 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/console.cloud.google.com/22857920/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/console.cloud.google.com/23093936/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
-    "grade": "B",
-    "score": 70,
-    "tests_passed": 9,
+    "grade": "A+",
+    "score": 110,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.cloud.google.com",
-    "tested_at": "2026-11-11T11:55:02.658Z"
+    "tested_at": "2026-11-24T14:55:41.214Z"
   },
-  "scanned_at": "2026-11-13T12:19:54.538Z",
+  "scanned_at": "2026-11-24T14:55:41.637Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,

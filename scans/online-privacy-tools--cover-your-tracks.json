@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 50,
-      "report": "https://batch.internet.nl/site/coveryourtracks.eff.org/22858368/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "report": "https://batch.internet.nl/site/coveryourtracks.eff.org/23093671/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=coveryourtracks.eff.org",
     "tested_at": "2026-11-19T13:18:47.499Z"
   },
-  "scanned_at": "2026-11-19T13:18:47.887Z",
+  "scanned_at": "2026-11-24T14:59:22.047Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=coveryourtracks.eff.org&hideResults=on",
-    "tested_at": "2026-11-09T13:02:57.833Z"
+    "tested_at": "2026-11-24T14:59:22.047Z"
   },
   "trackers": {
     "url": "https://coveryourtracks.eff.org",

@@ -2,14 +2,14 @@
   "domain": "web.de",
   "internetnl": {
     "mail": {
-      "score": 62,
-      "report": "https://batch.internet.nl/mail/web.de/22978140/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "score": 74,
+      "report": "https://batch.internet.nl/mail/web.de/23151605/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     },
     "web": {
       "score": 86,
-      "report": "https://batch.internet.nl/site/web.de/22857801/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/web.de/23093725/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "mail": {
@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-22T12:39:56.468Z",
+    "tested_at": "2026-11-24T14:56:25.955Z",
     "imap": {
       "host": "imap.web.de",
       "port": 993,
@@ -95,7 +95,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=web.de",
     "tested_at": "2026-11-15T11:59:10.254Z"
   },
-  "scanned_at": "2026-11-22T12:39:59.271Z",
+  "scanned_at": "2026-11-24T14:56:28.183Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

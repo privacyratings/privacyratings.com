@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 61,
-      "report": "https://batch.internet.nl/site/rarecloud.io/22857857/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/rarecloud.io/23093744/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rarecloud.io",
-    "tested_at": "2026-11-11T11:55:10.785Z"
+    "tested_at": "2026-11-24T14:55:55.049Z"
   },
-  "scanned_at": "2026-11-13T12:25:26.407Z",
+  "scanned_at": "2026-11-24T14:55:56.710Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 70,
-      "report": "https://batch.internet.nl/site/mail.google.com/22857777/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/mail.google.com/23093660/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     },
     "mail": {
       "score": 74,
-      "report": "https://batch.internet.nl/mail/gmail.com/22978162/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "report": "https://batch.internet.nl/mail/gmail.com/23151640/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     }
   },
   "mail": {
@@ -17,10 +17,10 @@
       "domain": "gmail.com",
       "dnssec": false,
       "mx": [
+        "alt2.gmail-smtp-in.l.google.com",
         "alt3.gmail-smtp-in.l.google.com",
         "gmail-smtp-in.l.google.com",
         "alt1.gmail-smtp-in.l.google.com",
-        "alt2.gmail-smtp-in.l.google.com",
         "alt4.gmail-smtp-in.l.google.com"
       ],
       "spf": true,
@@ -46,7 +46,7 @@
         }
       }
     },
-    "tested_at": "2026-11-23T14:45:50.662Z",
+    "tested_at": "2026-11-24T14:55:39.793Z",
     "imap": {
       "host": "imap.gmail.com",
       "port": 993,
@@ -110,7 +110,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.google.com",
     "tested_at": "2026-11-16T12:50:04.659Z"
   },
-  "scanned_at": "2026-11-23T14:45:50.900Z",
+  "scanned_at": "2026-11-24T14:55:40.196Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 8,

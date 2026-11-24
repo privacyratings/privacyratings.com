@@ -82,6 +82,22 @@
       "request_id": "2b9e637fb4d0499ba1e8af6d8aef8a82",
       "status": "done",
       "finished_at": "2026-11-17T14:21:52.408Z"
+    },
+    {
+      "kind": "web",
+      "submitted_at": "2026-11-24T15:18:13.075Z",
+      "domains": 444,
+      "request_id": "70934b8074304b1185ec461b6f5c4ab8",
+      "status": "done",
+      "finished_at": "2026-11-24T15:33:17.397Z"
+    },
+    {
+      "kind": "mail",
+      "submitted_at": "2026-11-24T15:18:13.526Z",
+      "domains": 48,
+      "request_id": "ee2ad5b797914b99a6ae76002d8f3add",
+      "status": "done",
+      "finished_at": "2026-11-24T15:33:17.691Z"
     }
   ]
 }

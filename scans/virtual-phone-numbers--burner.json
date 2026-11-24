@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 76,
-      "report": "https://batch.internet.nl/site/www.burnerapp.com/22858255/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "report": "https://batch.internet.nl/site/www.burnerapp.com/23093923/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.burnerapp.com",
     "tested_at": "2026-11-21T12:43:26.379Z"
   },
-  "scanned_at": "2026-11-23T14:55:25.890Z",
+  "scanned_at": "2026-11-24T15:14:37.411Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.burnerapp.com&hideResults=on",
-    "tested_at": "2026-11-08T11:29:30.423Z"
+    "tested_at": "2026-11-24T15:14:37.411Z"
   },
   "trackers": {
     "url": "https://www.burnerapp.com",

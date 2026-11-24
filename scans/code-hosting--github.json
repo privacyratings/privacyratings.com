@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/github.com/22858056/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/github.com/23093894/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=github.com",
-    "tested_at": "2026-11-11T11:55:11.234Z"
+    "tested_at": "2026-11-24T14:55:57.405Z"
   },
-  "scanned_at": "2026-11-16T12:53:04.702Z",
+  "scanned_at": "2026-11-24T14:56:07.312Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

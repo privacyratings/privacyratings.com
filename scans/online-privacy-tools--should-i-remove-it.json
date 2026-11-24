@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/www.shouldiremoveit.com/22858240/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "report": "https://batch.internet.nl/site/www.shouldiremoveit.com/23093820/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.shouldiremoveit.com",
     "tested_at": "2026-11-20T12:59:25.337Z"
   },
-  "scanned_at": "2026-11-23T14:45:44.269Z",
+  "scanned_at": "2026-11-24T15:08:53.630Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.shouldiremoveit.com&hideResults=on",
-    "tested_at": "2026-11-09T13:06:04.828Z"
+    "tested_at": "2026-11-24T15:08:53.630Z"
   },
   "trackers": {
     "url": "https://www.shouldiremoveit.com",

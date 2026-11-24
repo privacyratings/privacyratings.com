@@ -4,13 +4,13 @@
     "repo": "heyform/heyform",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:25.737Z"
+    "checked_at": "2026-11-24T14:55:32.817Z"
   },
   "internetnl": {
     "web": {
-      "score": 73,
-      "report": "https://batch.internet.nl/site/my.heyform.net/22858366/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "score": 72,
+      "report": "https://batch.internet.nl/site/my.heyform.net/23093971/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=my.heyform.net",
     "tested_at": "2026-11-13T12:17:00.244Z"
   },
-  "scanned_at": "2026-11-17T13:45:15.353Z",
+  "scanned_at": "2026-11-24T14:55:32.817Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

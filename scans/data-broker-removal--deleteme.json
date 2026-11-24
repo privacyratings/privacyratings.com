@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 48,
-      "report": "https://batch.internet.nl/site/joindeleteme.com/22858014/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/joindeleteme.com/23093968/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=joindeleteme.com",
     "tested_at": "2026-11-21T12:43:16.793Z"
   },
-  "scanned_at": "2026-11-21T12:43:17.906Z",
+  "scanned_at": "2026-11-24T15:12:19.817Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=joindeleteme.com&hideResults=on",
-    "tested_at": "2026-11-10T12:50:51.336Z"
+    "tested_at": "2026-11-24T15:12:19.816Z"
   },
   "trackers": {
     "url": "https://joindeleteme.com",

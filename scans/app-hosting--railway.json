@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/railway.com/22858012/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/railway.com/23094024/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=railway.com",
-    "tested_at": "2026-11-11T11:55:14.339Z"
+    "tested_at": "2026-11-24T14:56:02.659Z"
   },
-  "scanned_at": "2026-11-13T12:26:16.559Z",
+  "scanned_at": "2026-11-24T14:56:03.248Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

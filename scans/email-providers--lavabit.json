@@ -8,14 +8,14 @@
   },
   "internetnl": {
     "mail": {
-      "score": 71,
-      "report": "https://batch.internet.nl/mail/lavabit.com/22978148/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "score": 67,
+      "report": "https://batch.internet.nl/mail/lavabit.com/23151612/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     },
     "web": {
       "score": 68,
-      "report": "https://batch.internet.nl/site/lavabit.com/22858085/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/lavabit.com/23093719/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "mail": {
@@ -51,7 +51,7 @@
         }
       }
     },
-    "tested_at": "2026-11-23T14:46:13.657Z",
+    "tested_at": "2026-11-24T14:56:02.129Z",
     "imap": {
       "host": "lavabit.com",
       "port": 993,
@@ -102,7 +102,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lavabit.com",
     "tested_at": "2026-11-16T12:50:06.736Z"
   },
-  "scanned_at": "2026-11-23T14:46:17.176Z",
+  "scanned_at": "2026-11-24T14:56:04.761Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

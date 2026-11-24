@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/more.att.com/22857942/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/more.att.com/23093980/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     },
     "mail": {
-      "score": 34,
-      "report": "https://batch.internet.nl/mail/att.net/22978137/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "score": 49,
+      "report": "https://batch.internet.nl/mail/att.net/23151627/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     }
   },
   "mail": {
@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-23T14:45:46.206Z",
+    "tested_at": "2026-11-24T14:55:34.957Z",
     "imap": {
       "host": "imap.mail.att.net",
       "port": 993,
@@ -103,7 +103,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=more.att.com",
     "tested_at": "2026-11-16T12:50:02.079Z"
   },
-  "scanned_at": "2026-11-23T14:45:46.905Z",
+  "scanned_at": "2026-11-24T14:55:36.045Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 6,

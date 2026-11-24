@@ -3,9 +3,9 @@
     "repo": "ggml-org/whisper.cpp",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:26.746Z"
+    "checked_at": "2026-11-24T14:55:34.353Z"
   },
-  "scanned_at": "2026-11-03T01:39:26.746Z",
+  "scanned_at": "2026-11-24T14:55:34.353Z",
   "trackers": {
     "url": "https://github.com/ggml-org/whisper.cpp",
     "skipped": "The website is a code host or app store page, not a site run by the project.",

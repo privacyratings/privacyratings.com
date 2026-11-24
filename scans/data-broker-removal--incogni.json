@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/incogni.com/22857796/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/incogni.com/23093689/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=incogni.com",
     "tested_at": "2026-11-21T12:43:17.661Z"
   },
-  "scanned_at": "2026-11-21T12:43:18.495Z",
+  "scanned_at": "2026-11-24T15:12:20.627Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=incogni.com&hideResults=on",
-    "tested_at": "2026-11-10T12:52:12.399Z"
+    "tested_at": "2026-11-24T15:12:20.627Z"
   },
   "trackers": {
     "url": "https://incogni.com",

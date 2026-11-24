@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 76,
-      "report": "https://batch.internet.nl/site/portal.exoscale.com/22857919/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/portal.exoscale.com/23093915/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=portal.exoscale.com",
-    "tested_at": "2026-11-11T11:55:02.811Z"
+    "tested_at": "2026-11-24T14:55:38.435Z"
   },
-  "scanned_at": "2026-11-19T13:29:09.270Z",
+  "scanned_at": "2026-11-24T14:55:41.116Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

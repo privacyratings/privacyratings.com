@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/whimsical.com/22858020/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/whimsical.com/23093870/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=whimsical.com",
-    "tested_at": "2026-11-12T12:48:45.469Z"
+    "tested_at": "2026-11-24T14:56:06.877Z"
   },
-  "scanned_at": "2026-11-14T11:40:15.041Z",
+  "scanned_at": "2026-11-24T14:56:07.510Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

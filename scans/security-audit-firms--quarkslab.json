@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 57,
-      "report": "https://batch.internet.nl/site/www.quarkslab.com/22858421/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "report": "https://batch.internet.nl/site/www.quarkslab.com/23093752/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.quarkslab.com",
     "tested_at": "2026-11-20T12:59:37.523Z"
   },
-  "scanned_at": "2026-11-20T12:59:38.071Z",
+  "scanned_at": "2026-11-24T15:10:48.880Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.quarkslab.com&hideResults=on",
-    "tested_at": "2026-11-10T12:47:10.670Z"
+    "tested_at": "2026-11-24T15:10:48.880Z"
   },
   "trackers": {
     "url": "https://www.quarkslab.com",

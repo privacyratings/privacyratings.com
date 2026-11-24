@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 70,
-      "report": "https://batch.internet.nl/site/dartnode.com/22858148/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/dartnode.com/23093783/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dartnode.com",
-    "tested_at": "2026-11-11T11:55:00.649Z"
+    "tested_at": "2026-11-24T14:55:35.537Z"
   },
-  "scanned_at": "2026-11-20T13:14:10.505Z",
+  "scanned_at": "2026-11-24T14:55:36.149Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

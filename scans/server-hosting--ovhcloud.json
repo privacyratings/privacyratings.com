@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/www.ovhcloud.com/22858147/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "report": "https://batch.internet.nl/site/www.ovhcloud.com/23093732/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.ovhcloud.com",
-    "tested_at": "2026-11-11T11:55:09.033Z"
+    "tested_at": "2026-11-24T14:55:53.659Z"
   },
-  "scanned_at": "2026-11-13T12:22:56.022Z",
+  "scanned_at": "2026-11-24T14:55:54.440Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

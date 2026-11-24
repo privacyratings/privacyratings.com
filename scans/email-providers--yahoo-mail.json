@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 51,
-      "report": "https://batch.internet.nl/site/mail.yahoo.com/22858192/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "report": "https://batch.internet.nl/site/mail.yahoo.com/23093641/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     },
     "mail": {
-      "score": 30,
-      "report": "https://batch.internet.nl/mail/yahoo.com/22978124/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "score": 26,
+      "report": "https://batch.internet.nl/mail/yahoo.com/23151629/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     }
   },
   "mail": {

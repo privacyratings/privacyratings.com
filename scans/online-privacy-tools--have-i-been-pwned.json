@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 93,
-      "report": "https://batch.internet.nl/site/haveibeenpwned.com/22858112/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/haveibeenpwned.com/23093864/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=haveibeenpwned.com",
     "tested_at": "2026-11-20T12:59:19.854Z"
   },
-  "scanned_at": "2026-11-23T14:45:41.882Z",
+  "scanned_at": "2026-11-24T15:06:58.208Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=haveibeenpwned.com&hideResults=on",
-    "tested_at": "2026-11-09T13:03:29.304Z"
+    "tested_at": "2026-11-24T15:06:58.208Z"
   },
   "trackers": {
     "url": "https://haveibeenpwned.com",

@@ -3,13 +3,13 @@
   "internetnl": {
     "web": {
       "score": 75,
-      "report": "https://batch.internet.nl/site/mail.yandex.com/22857734/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/mail.yandex.com/23093699/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     },
     "mail": {
       "score": 74,
-      "report": "https://batch.internet.nl/mail/yandex.com/22978135/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "report": "https://batch.internet.nl/mail/yandex.com/23151613/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     }
   },
   "mail": {
@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-22T12:40:04.186Z",
+    "tested_at": "2026-11-24T14:56:29.765Z",
     "imap": {
       "host": "imap.yandex.com",
       "port": 993,
@@ -102,7 +102,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.yandex.com",
     "tested_at": "2026-11-17T13:31:43.664Z"
   },
-  "scanned_at": "2026-11-22T12:40:08.559Z",
+  "scanned_at": "2026-11-24T14:56:33.214Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 2,

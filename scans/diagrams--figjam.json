@@ -2,9 +2,9 @@
   "domain": "www.figma.com",
   "internetnl": {
     "web": {
-      "score": 55,
-      "report": "https://batch.internet.nl/site/www.figma.com/22858008/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "score": 66,
+      "report": "https://batch.internet.nl/site/www.figma.com/23093928/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.figma.com",
-    "tested_at": "2026-11-11T11:55:15.674Z"
+    "tested_at": "2026-11-24T14:56:04.700Z"
   },
-  "scanned_at": "2026-11-13T12:25:56.895Z",
+  "scanned_at": "2026-11-24T14:56:05.523Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

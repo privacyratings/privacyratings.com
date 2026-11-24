@@ -9,13 +9,13 @@
   "internetnl": {
     "mail": {
       "score": 90,
-      "report": "https://batch.internet.nl/mail/astermail.org/22978139/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "report": "https://batch.internet.nl/mail/astermail.org/23151615/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     },
     "web": {
       "score": 95,
-      "report": "https://batch.internet.nl/site/astermail.org/22857923/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/astermail.org/23093940/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "mail": {
@@ -28,7 +28,7 @@
       "spf": true,
       "dmarc": "reject",
       "tls_rpt": true,
-      "mta_sts": "invalid",
+      "mta_sts": "enforce",
       "dane": "all",
       "bimi": true,
       "srv": {
@@ -39,7 +39,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-23T14:45:44.617Z",
+    "tested_at": "2026-11-24T14:55:33.314Z",
     "imap": {
       "offered": false
     },
@@ -60,7 +60,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=astermail.org",
     "tested_at": "2026-11-16T12:50:00.602Z"
   },
-  "scanned_at": "2026-11-23T14:45:44.617Z",
+  "scanned_at": "2026-11-24T14:55:33.314Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

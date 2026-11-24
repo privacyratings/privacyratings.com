@@ -8,14 +8,14 @@
   },
   "internetnl": {
     "web": {
-      "score": 98,
-      "report": "https://batch.internet.nl/site/ksuite.infomaniak.com/22857955/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "score": 73,
+      "report": "https://batch.internet.nl/site/ksuite.infomaniak.com/23093976/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     },
     "mail": {
       "score": 89,
-      "report": "https://batch.internet.nl/mail/ik.me/22978158/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "report": "https://batch.internet.nl/mail/ik.me/23151608/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     }
   },
   "mail": {
@@ -54,7 +54,7 @@
         }
       }
     },
-    "tested_at": "2026-11-23T14:46:00.802Z",
+    "tested_at": "2026-11-24T14:55:48.521Z",
     "imap": {
       "host": "mail.infomaniak.com",
       "port": 993,
@@ -108,7 +108,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ksuite.infomaniak.com",
     "tested_at": "2026-11-16T12:50:06.694Z"
   },
-  "scanned_at": "2026-11-23T14:46:04.326Z",
+  "scanned_at": "2026-11-24T14:55:51.251Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

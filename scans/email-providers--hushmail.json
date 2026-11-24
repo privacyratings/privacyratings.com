@@ -3,13 +3,13 @@
   "internetnl": {
     "mail": {
       "score": 66,
-      "report": "https://batch.internet.nl/mail/hushmail.com/22978132/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "report": "https://batch.internet.nl/mail/hushmail.com/23151620/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     },
     "web": {
-      "score": 78,
-      "report": "https://batch.internet.nl/site/www.hushmail.com/22858163/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "score": 73,
+      "report": "https://batch.internet.nl/site/www.hushmail.com/23093741/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "mail": {
@@ -30,7 +30,7 @@
         "submissions": null,
         "submission": {
           "host": "hosted-submission.hushmail.com",
-          "port": 587
+          "port": 465
         },
         "imaps": {
           "host": "hosted-imap.hushmail.com",
@@ -46,7 +46,7 @@
         }
       }
     },
-    "tested_at": "2026-11-23T14:45:56.530Z",
+    "tested_at": "2026-11-24T14:55:44.053Z",
     "imap": {
       "host": "imap.hushmail.com",
       "port": 993,
@@ -88,7 +88,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hushmail.com",
     "tested_at": "2026-11-16T12:50:05.764Z"
   },
-  "scanned_at": "2026-11-23T14:45:56.889Z",
+  "scanned_at": "2026-11-24T14:55:45.392Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

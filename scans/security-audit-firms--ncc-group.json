@@ -2,9 +2,9 @@
   "domain": "www.nccgroup.com",
   "internetnl": {
     "web": {
-      "score": 78,
-      "report": "https://batch.internet.nl/site/www.nccgroup.com/22858230/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "score": 70,
+      "report": "https://batch.internet.nl/site/www.nccgroup.com/23093653/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.nccgroup.com",
     "tested_at": "2026-11-20T12:59:35.126Z"
   },
-  "scanned_at": "2026-11-20T12:59:37.606Z",
+  "scanned_at": "2026-11-24T15:11:56.954Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

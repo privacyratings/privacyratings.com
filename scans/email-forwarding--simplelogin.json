@@ -8,14 +8,14 @@
   },
   "internetnl": {
     "web": {
-      "score": 82,
-      "report": "https://batch.internet.nl/site/simplelogin.io/22857802/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "score": 74,
+      "report": "https://batch.internet.nl/site/simplelogin.io/23093771/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     },
     "mail": {
       "score": 90,
-      "report": "https://batch.internet.nl/mail/simplelogin.io/22978122/",
-      "tested_at": "2026-11-17T14:21:52.403Z"
+      "report": "https://batch.internet.nl/mail/simplelogin.io/23151598/",
+      "tested_at": "2026-11-24T15:33:17.678Z"
     }
   },
   "mail": {
@@ -40,7 +40,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-22T12:40:09.141Z",
+    "tested_at": "2026-11-24T14:56:34.030Z",
     "imap": {
       "offered": false
     },
@@ -60,7 +60,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=simplelogin.io",
     "tested_at": "2026-11-17T13:30:52.103Z"
   },
-  "scanned_at": "2026-11-22T12:40:09.142Z",
+  "scanned_at": "2026-11-24T14:56:34.030Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

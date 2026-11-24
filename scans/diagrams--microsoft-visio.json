@@ -2,20 +2,20 @@
   "domain": "m365.cloud.microsoft",
   "internetnl": {
     "web": {
-      "score": 76,
-      "report": "https://batch.internet.nl/site/m365.cloud.microsoft/22857956/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "score": 71,
+      "report": "https://batch.internet.nl/site/m365.cloud.microsoft/23093757/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
     "grade": "A+",
-    "score": 110,
+    "score": 115,
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=m365.cloud.microsoft",
-    "tested_at": "2026-11-11T11:55:16.638Z"
+    "tested_at": "2026-11-24T14:56:05.408Z"
   },
-  "scanned_at": "2026-11-13T12:26:16.655Z",
+  "scanned_at": "2026-11-24T14:56:05.843Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -3,19 +3,19 @@
   "internetnl": {
     "web": {
       "score": 59,
-      "report": "https://batch.internet.nl/site/dashboard.render.com/22858179/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/dashboard.render.com/23094020/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
-    "grade": "D-",
-    "score": 25,
+    "grade": "B",
+    "score": 70,
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.render.com",
-    "tested_at": "2026-11-11T11:55:15.054Z"
+    "tested_at": "2026-11-24T14:56:03.455Z"
   },
-  "scanned_at": "2026-11-14T11:34:42.522Z",
+  "scanned_at": "2026-11-24T14:56:03.787Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

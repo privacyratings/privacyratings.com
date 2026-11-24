@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 72,
-      "report": "https://batch.internet.nl/site/contabo.com/22858443/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "report": "https://batch.internet.nl/site/contabo.com/23093693/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=contabo.com",
-    "tested_at": "2026-11-11T11:55:00.422Z"
+    "tested_at": "2026-11-24T14:55:34.710Z"
   },
-  "scanned_at": "2026-11-12T13:11:10.286Z",
+  "scanned_at": "2026-11-24T14:55:35.388Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

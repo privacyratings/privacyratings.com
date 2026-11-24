@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 78,
-      "report": "https://batch.internet.nl/site/www.hetzner.com/22858043/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/www.hetzner.com/23093824/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.hetzner.com",
-    "tested_at": "2026-11-11T11:55:03.551Z"
+    "tested_at": "2026-11-24T14:55:41.997Z"
   },
-  "scanned_at": "2026-11-13T12:22:50.191Z",
+  "scanned_at": "2026-11-24T14:55:43.634Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

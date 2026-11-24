@@ -9,8 +9,8 @@
   "internetnl": {
     "web": {
       "score": 64,
-      "report": "https://batch.internet.nl/site/getbunker.net/22858064/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/getbunker.net/23093846/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=getbunker.net",
-    "tested_at": "2026-11-11T11:54:58.639Z"
+    "tested_at": "2026-11-24T14:55:32.706Z"
   },
-  "scanned_at": "2026-11-21T12:56:59.431Z",
+  "scanned_at": "2026-11-24T14:55:34.574Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 3,

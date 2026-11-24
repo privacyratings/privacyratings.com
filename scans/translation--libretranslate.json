@@ -4,13 +4,13 @@
     "repo": "LibreTranslate/LibreTranslate",
     "license": "AGPL-3.0",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:26.369Z"
+    "checked_at": "2026-11-24T14:55:33.847Z"
   },
   "internetnl": {
     "web": {
       "score": 73,
-      "report": "https://batch.internet.nl/site/libretranslate.com/22857918/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/libretranslate.com/23094027/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=libretranslate.com",
     "tested_at": "2026-11-13T12:17:09.619Z"
   },
-  "scanned_at": "2026-11-15T12:02:55.778Z",
+  "scanned_at": "2026-11-24T14:55:33.847Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,

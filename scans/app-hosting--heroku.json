@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 80,
-      "report": "https://batch.internet.nl/site/dashboard.heroku.com/22858280/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/dashboard.heroku.com/23094012/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.heroku.com",
-    "tested_at": "2026-11-11T11:55:12.336Z"
+    "tested_at": "2026-11-24T14:55:58.041Z"
   },
-  "scanned_at": "2026-11-13T12:37:19.933Z",
+  "scanned_at": "2026-11-24T14:55:58.492Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

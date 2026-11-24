@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 78,
-      "report": "https://batch.internet.nl/site/app.vanta.com/22858135/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/app.vanta.com/23093855/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.vanta.com",
     "tested_at": "2026-11-21T12:43:16.777Z"
   },
-  "scanned_at": "2026-11-21T12:43:17.080Z",
+  "scanned_at": "2026-11-24T15:12:18.445Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.vanta.com&hideResults=on",
-    "tested_at": "2026-11-10T12:53:52.213Z"
+    "tested_at": "2026-11-24T15:12:18.445Z"
   },
   "trackers": {
     "url": "https://www.vanta.com",

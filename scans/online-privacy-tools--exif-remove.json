@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 61,
-      "report": "https://batch.internet.nl/site/www.exifremove.com/22858275/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "report": "https://batch.internet.nl/site/www.exifremove.com/23093748/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.exifremove.com",
     "tested_at": "2026-11-19T13:18:48.051Z"
   },
-  "scanned_at": "2026-11-19T13:18:48.468Z",
+  "scanned_at": "2026-11-24T14:59:44.733Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.exifremove.com&hideResults=on",
-    "tested_at": "2026-11-10T12:44:39.101Z"
+    "tested_at": "2026-11-24T14:59:44.733Z"
   },
   "trackers": {
     "url": "https://www.exifremove.com",

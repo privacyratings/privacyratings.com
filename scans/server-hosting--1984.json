@@ -2,9 +2,9 @@
   "domain": "1984.hosting",
   "internetnl": {
     "web": {
-      "score": 64,
-      "report": "https://batch.internet.nl/site/1984.hosting/22858415/",
-      "tested_at": "2026-11-17T14:21:51.832Z"
+      "score": 41,
+      "report": "https://batch.internet.nl/site/1984.hosting/23093796/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=1984.hosting",
     "tested_at": "2026-11-11T11:54:58.472Z"
   },
-  "scanned_at": "2026-11-12T13:04:41.265Z",
+  "scanned_at": "2026-11-24T14:56:32.574Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

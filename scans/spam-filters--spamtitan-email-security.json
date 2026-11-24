@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 62,
-      "report": "https://batch.internet.nl/site/eu1-smtp-ui.titanhq.com/22858000/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/eu1-smtp-ui.titanhq.com/23093963/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=eu1-smtp-ui.titanhq.com",
     "tested_at": "2026-11-18T13:08:24.433Z"
   },
-  "scanned_at": "2026-11-18T13:08:26.845Z",
+  "scanned_at": "2026-11-24T15:07:45.517Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=eu1-smtp-ui.titanhq.com&hideResults=on",
-    "tested_at": "2026-11-09T13:08:19.221Z"
+    "tested_at": "2026-11-24T15:07:45.517Z"
   },
   "trackers": {
     "url": "https://www.titanhq.com/email-protection/",

@@ -3,8 +3,8 @@
   "internetnl": {
     "web": {
       "score": 66,
-      "report": "https://batch.internet.nl/site/app.sprinto.com/22858193/",
-      "tested_at": "2026-11-17T14:21:51.831Z"
+      "report": "https://batch.internet.nl/site/app.sprinto.com/23093966/",
+      "tested_at": "2026-11-24T15:33:17.285Z"
     }
   },
   "observatory": {
@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.sprinto.com",
     "tested_at": "2026-11-20T12:59:44.698Z"
   },
-  "scanned_at": "2026-11-20T12:59:45.041Z",
+  "scanned_at": "2026-11-24T15:18:13.071Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.sprinto.com&hideResults=on",
-    "tested_at": "2026-11-10T12:52:56.711Z"
+    "tested_at": "2026-11-24T15:18:13.071Z"
   },
   "trackers": {
     "error": "HTTP 403",
