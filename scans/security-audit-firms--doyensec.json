@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=doyensec.com",
     "tested_at": "2026-11-20T12:59:32.854Z"
   },
-  "scanned_at": "2026-11-24T15:10:21.243Z",
+  "scanned_at": "2026-11-25T14:32:20.042Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=doyensec.com&hideResults=on",
-    "tested_at": "2026-11-09T13:08:19.331Z"
+    "tested_at": "2026-11-25T14:32:20.042Z"
   },
   "trackers": {
     "url": "https://doyensec.com",

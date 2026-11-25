@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.youcanbook.me",
-    "tested_at": "2026-11-12T12:48:53.295Z"
+    "tested_at": "2026-11-25T14:29:28.856Z"
   },
-  "scanned_at": "2026-11-16T13:10:55.794Z",
+  "scanned_at": "2026-11-25T14:29:29.102Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

@@ -4,7 +4,7 @@
     "repo": "internxt/drive-desktop",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:27.420Z"
+    "checked_at": "2026-11-25T14:29:15.165Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=internxt.com",
     "tested_at": "2026-11-14T11:33:16.799Z"
   },
-  "scanned_at": "2026-11-16T12:54:41.168Z",
+  "scanned_at": "2026-11-25T14:29:15.165Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

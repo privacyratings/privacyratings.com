@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.hellosign.com",
-    "tested_at": "2026-11-12T12:48:59.673Z"
+    "tested_at": "2026-11-25T14:29:40.045Z"
   },
-  "scanned_at": "2026-11-14T11:44:10.659Z",
+  "scanned_at": "2026-11-25T14:29:41.038Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.freshworks.com",
     "tested_at": "2026-11-21T12:43:25.223Z"
   },
-  "scanned_at": "2026-11-21T12:43:25.372Z",
+  "scanned_at": "2026-11-25T14:39:50.568Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

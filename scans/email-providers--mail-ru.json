@@ -32,7 +32,7 @@
         },
         "submission": {
           "host": "smtp.mail.ru",
-          "port": 25
+          "port": 587
         },
         "imaps": {
           "host": "imap.mail.ru",
@@ -48,7 +48,7 @@
         }
       }
     },
-    "tested_at": "2026-11-24T14:56:06.223Z",
+    "tested_at": "2026-11-25T14:29:51.430Z",
     "imap": {
       "host": "imap.mail.ru",
       "port": 993,
@@ -103,7 +103,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mail.ru",
     "tested_at": "2026-11-16T12:50:08.623Z"
   },
-  "scanned_at": "2026-11-24T14:56:09.781Z",
+  "scanned_at": "2026-11-25T14:29:55.834Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 6,

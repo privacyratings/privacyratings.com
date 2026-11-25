@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.docuseal.com",
-    "tested_at": "2026-11-12T12:48:59.074Z"
+    "tested_at": "2026-11-25T14:29:38.728Z"
   },
-  "scanned_at": "2026-11-23T14:45:44.538Z",
+  "scanned_at": "2026-11-25T14:29:39.093Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,

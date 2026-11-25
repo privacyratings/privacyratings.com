@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.cognitoforms.com",
-    "tested_at": "2026-11-12T12:49:02.005Z"
+    "tested_at": "2026-11-25T14:29:45.546Z"
   },
-  "scanned_at": "2026-11-14T11:46:14.807Z",
+  "scanned_at": "2026-11-25T14:29:46.441Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

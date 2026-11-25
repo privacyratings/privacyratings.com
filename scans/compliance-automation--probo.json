@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=us.probo.com",
     "tested_at": "2026-11-20T12:59:43.197Z"
   },
-  "scanned_at": "2026-11-20T12:59:43.509Z",
+  "scanned_at": "2026-11-25T14:32:20.174Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=us.probo.com&hideResults=on",
-    "tested_at": "2026-11-10T13:01:24.923Z"
+    "tested_at": "2026-11-25T14:32:20.173Z"
   },
   "trackers": {
     "url": "https://www.probo.com",

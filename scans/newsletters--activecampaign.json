@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=activecampaign.com",
     "tested_at": "2026-11-21T12:43:19.364Z"
   },
-  "scanned_at": "2026-11-21T12:43:20.901Z",
+  "scanned_at": "2026-11-25T14:33:50.300Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=activecampaign.com&hideResults=on",
-    "tested_at": "2026-11-10T12:54:22.565Z"
+    "tested_at": "2026-11-25T14:33:50.300Z"
   },
   "trackers": {
     "url": "https://www.activecampaign.com",

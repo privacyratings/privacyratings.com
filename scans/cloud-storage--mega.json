@@ -4,7 +4,7 @@
     "repo": "meganz/android",
     "license": null,
     "archived": false,
-    "checked_at": "2026-11-03T01:39:27.597Z"
+    "checked_at": "2026-11-25T14:29:15.176Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=mega.nz",
     "tested_at": "2026-11-14T11:33:26.424Z"
   },
-  "scanned_at": "2026-11-21T13:07:29.001Z",
+  "scanned_at": "2026-11-25T14:29:15.176Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

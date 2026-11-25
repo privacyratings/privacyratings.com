@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.kanary.com",
     "tested_at": "2026-11-21T12:43:17.977Z"
   },
-  "scanned_at": "2026-11-21T12:43:18.437Z",
+  "scanned_at": "2026-11-25T14:37:35.370Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.kanary.com&hideResults=on",
-    "tested_at": "2026-11-10T12:56:23.724Z"
+    "tested_at": "2026-11-25T14:37:35.370Z"
   },
   "trackers": {
     "url": "https://www.kanary.com",

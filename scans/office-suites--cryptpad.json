@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=cryptpad.org",
-    "tested_at": "2026-11-12T12:48:55.204Z"
+    "tested_at": "2026-11-25T14:29:30.438Z"
   },
-  "scanned_at": "2026-11-23T14:45:42.705Z",
+  "scanned_at": "2026-11-25T14:29:32.340Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

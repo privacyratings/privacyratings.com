@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.beehiiv.com",
     "tested_at": "2026-11-21T12:43:19.426Z"
   },
-  "scanned_at": "2026-11-21T12:43:20.699Z",
+  "scanned_at": "2026-11-25T14:36:50.417Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

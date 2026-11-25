@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=framaforms.org",
-    "tested_at": "2026-11-13T12:16:56.929Z"
+    "tested_at": "2026-11-25T14:29:46.882Z"
   },
-  "scanned_at": "2026-11-14T11:51:03.398Z",
+  "scanned_at": "2026-11-25T14:29:48.969Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

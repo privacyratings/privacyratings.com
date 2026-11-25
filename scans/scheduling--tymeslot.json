@@ -19,9 +19,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tymeslot.app",
-    "tested_at": "2026-11-12T12:48:53.024Z"
+    "tested_at": "2026-11-25T14:29:26.898Z"
   },
-  "scanned_at": "2026-11-21T12:43:17.878Z",
+  "scanned_at": "2026-11-25T14:29:28.732Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

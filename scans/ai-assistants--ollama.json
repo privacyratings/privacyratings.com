@@ -3,9 +3,9 @@
     "repo": "ollama/ollama",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:27.214Z"
+    "checked_at": "2026-11-25T14:29:14.822Z"
   },
-  "scanned_at": "2026-11-03T01:40:22.890Z",
+  "scanned_at": "2026-11-25T14:29:14.822Z",
   "trackers": {
     "url": "https://ollama.com",
     "found": [],

@@ -45,7 +45,7 @@
         }
       }
     },
-    "tested_at": "2026-11-24T14:56:20.025Z",
+    "tested_at": "2026-11-25T14:30:07.016Z",
     "imap": {
       "host": "posteo.de",
       "port": 993,
@@ -103,7 +103,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=posteo.de",
     "tested_at": "2026-11-17T13:30:51.832Z"
   },
-  "scanned_at": "2026-11-24T14:56:21.813Z",
+  "scanned_at": "2026-11-25T14:30:09.292Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

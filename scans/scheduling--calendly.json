@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=calendly.com",
-    "tested_at": "2026-11-12T12:48:48.016Z"
+    "tested_at": "2026-11-25T14:29:17.019Z"
   },
-  "scanned_at": "2026-11-14T11:35:24.688Z",
+  "scanned_at": "2026-11-25T14:29:17.720Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

@@ -4,7 +4,7 @@
     "repo": "koofr/vault",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:27.473Z"
+    "checked_at": "2026-11-25T14:29:15.103Z"
   },
   "internetnl": {
     "web": {
@@ -21,7 +21,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=koofr.eu",
     "tested_at": "2026-11-14T11:33:24.477Z"
   },
-  "scanned_at": "2026-11-15T12:09:31.783Z",
+  "scanned_at": "2026-11-25T14:29:15.103Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

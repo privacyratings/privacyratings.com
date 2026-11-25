@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=login.thoropass.com",
     "tested_at": "2026-11-20T12:59:46.420Z"
   },
-  "scanned_at": "2026-11-20T12:59:46.572Z",
+  "scanned_at": "2026-11-25T14:32:55.008Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=login.thoropass.com&hideResults=on",
-    "tested_at": "2026-11-10T13:03:09.035Z"
+    "tested_at": "2026-11-25T14:32:55.008Z"
   },
   "trackers": {
     "url": "https://www.thoropass.com",

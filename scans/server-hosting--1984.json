@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=1984.hosting",
     "tested_at": "2026-11-11T11:54:58.472Z"
   },
-  "scanned_at": "2026-11-24T14:56:32.574Z",
+  "scanned_at": "2026-11-25T14:30:19.581Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

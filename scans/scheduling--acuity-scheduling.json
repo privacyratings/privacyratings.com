@@ -8,14 +8,14 @@
     }
   },
   "observatory": {
-    "grade": "B+",
-    "score": 80,
-    "tests_passed": 11,
+    "grade": "B",
+    "score": 75,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=secure.acuityscheduling.com",
-    "tested_at": "2026-11-12T12:48:46.339Z"
+    "tested_at": "2026-11-25T14:29:14.588Z"
   },
-  "scanned_at": "2026-11-13T12:30:22.332Z",
+  "scanned_at": "2026-11-25T14:29:15.035Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
