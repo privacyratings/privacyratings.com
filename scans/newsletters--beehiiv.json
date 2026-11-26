@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.beehiiv.com",
     "tested_at": "2026-11-21T12:43:19.426Z"
   },
-  "scanned_at": "2026-11-25T14:36:50.417Z",
+  "scanned_at": "2026-11-26T14:02:20.200Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.beehiiv.com&hideResults=on",
-    "tested_at": "2026-11-10T12:59:08.893Z"
+    "tested_at": "2026-11-26T14:02:20.200Z"
   },
   "trackers": {
     "url": "https://www.beehiiv.com",

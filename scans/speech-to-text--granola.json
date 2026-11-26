@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.granola.ai",
-    "tested_at": "2026-11-13T12:17:12.148Z"
+    "tested_at": "2026-11-26T13:57:37.541Z"
   },
-  "scanned_at": "2026-11-15T12:05:56.252Z",
+  "scanned_at": "2026-11-26T13:57:38.188Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

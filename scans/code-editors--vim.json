@@ -3,9 +3,9 @@
     "repo": "vim/vim",
     "license": "Vim",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:29.013Z"
+    "checked_at": "2026-11-26T13:57:20.207Z"
   },
-  "scanned_at": "2026-11-03T01:40:29.094Z",
+  "scanned_at": "2026-11-26T13:57:20.207Z",
   "trackers": {
     "url": "https://www.vim.org",
     "found": [

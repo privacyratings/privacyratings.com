@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=filen.io",
-    "tested_at": "2026-11-14T11:33:07.131Z"
+    "tested_at": "2026-11-26T13:57:54.936Z"
   },
-  "scanned_at": "2026-11-25T14:29:14.820Z",
+  "scanned_at": "2026-11-26T13:57:56.914Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 8,

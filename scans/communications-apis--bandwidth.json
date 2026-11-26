@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bandwidth.com",
     "tested_at": "2026-11-22T12:38:54.984Z"
   },
-  "scanned_at": "2026-11-22T12:38:56.422Z",
+  "scanned_at": "2026-11-26T14:07:25.741Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=bandwidth.com&hideResults=on",
-    "tested_at": "2026-11-11T12:02:47.451Z"
+    "tested_at": "2026-11-26T14:07:25.740Z"
   },
   "trackers": {
     "url": "https://www.bandwidth.com",

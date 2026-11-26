@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.fireflies.ai",
-    "tested_at": "2026-11-13T12:17:11.390Z"
+    "tested_at": "2026-11-26T13:57:36.875Z"
   },
-  "scanned_at": "2026-11-20T13:08:25.716Z",
+  "scanned_at": "2026-11-26T13:57:37.419Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

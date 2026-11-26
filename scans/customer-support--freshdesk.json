@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.freshworks.com",
     "tested_at": "2026-11-21T12:43:25.223Z"
   },
-  "scanned_at": "2026-11-25T14:39:50.568Z",
+  "scanned_at": "2026-11-26T14:00:36.300Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.freshworks.com&hideResults=on",
-    "tested_at": "2026-11-10T13:03:06.067Z"
+    "tested_at": "2026-11-26T14:00:36.300Z"
   },
   "trackers": {
     "url": "https://www.freshworks.com/freshdesk/",

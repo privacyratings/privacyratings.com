@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.perplexity.ai",
-    "tested_at": "2026-11-13T12:17:20.852Z"
+    "tested_at": "2026-11-26T13:57:52.930Z"
   },
-  "scanned_at": "2026-11-21T12:55:30.956Z",
+  "scanned_at": "2026-11-26T13:57:53.068Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

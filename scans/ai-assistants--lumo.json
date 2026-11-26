@@ -19,9 +19,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=lumo.proton.me",
-    "tested_at": "2026-11-13T12:17:15.480Z"
+    "tested_at": "2026-11-26T13:57:51.253Z"
   },
-  "scanned_at": "2026-11-24T14:55:35.106Z",
+  "scanned_at": "2026-11-26T13:57:52.828Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

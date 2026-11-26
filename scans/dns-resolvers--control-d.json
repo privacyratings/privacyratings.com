@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=controld.com",
     "tested_at": "2026-11-23T14:45:42.582Z"
   },
-  "scanned_at": "2026-11-23T14:45:42.726Z",
+  "scanned_at": "2026-11-26T14:14:29.306Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=controld.com&hideResults=on",
-    "tested_at": "2026-11-11T12:12:26.308Z"
+    "tested_at": "2026-11-26T14:14:29.306Z"
   },
   "trackers": {
     "url": "https://controld.com",

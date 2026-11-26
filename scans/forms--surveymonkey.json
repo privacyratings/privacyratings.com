@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.surveymonkey.com",
-    "tested_at": "2026-11-13T12:17:06.752Z"
+    "tested_at": "2026-11-26T13:57:28.703Z"
   },
-  "scanned_at": "2026-11-14T11:48:20.035Z",
+  "scanned_at": "2026-11-26T13:57:29.048Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

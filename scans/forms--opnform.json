@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=opnform.com",
-    "tested_at": "2026-11-13T12:17:04.695Z"
+    "tested_at": "2026-11-26T13:57:24.973Z"
   },
-  "scanned_at": "2026-11-24T14:55:32.785Z",
+  "scanned_at": "2026-11-26T13:57:26.725Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

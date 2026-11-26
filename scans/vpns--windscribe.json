@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=windscribe.com",
     "tested_at": "2026-11-22T12:39:19.060Z"
   },
-  "scanned_at": "2026-11-22T12:39:19.443Z",
+  "scanned_at": "2026-11-26T14:12:37.527Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=windscribe.com&hideResults=on",
-    "tested_at": "2026-11-12T12:53:51.127Z"
+    "tested_at": "2026-11-26T14:12:37.527Z"
   },
   "trackers": {
     "url": "https://windscribe.com",

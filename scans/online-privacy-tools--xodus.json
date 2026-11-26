@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=reports.exodus-privacy.eu.org",
     "tested_at": "2026-11-20T12:59:29.048Z"
   },
-  "scanned_at": "2026-11-25T14:32:15.256Z",
+  "scanned_at": "2026-11-26T14:00:06.601Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=reports.exodus-privacy.eu.org&hideResults=on",
-    "tested_at": "2026-11-09T13:09:41.193Z"
+    "tested_at": "2026-11-26T14:00:06.601Z"
   },
   "trackers": {
     "url": "https://reports.exodus-privacy.eu.org/en/",

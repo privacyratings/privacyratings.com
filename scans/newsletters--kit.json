@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=kit.com",
     "tested_at": "2026-11-21T12:43:22.949Z"
   },
-  "scanned_at": "2026-11-25T14:38:15.510Z",
+  "scanned_at": "2026-11-26T14:05:42.162Z",
   "ssllabs": {
-    "grade": "A",
+    "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=kit.com&hideResults=on",
-    "tested_at": "2026-11-10T13:06:32.340Z"
+    "tested_at": "2026-11-26T14:05:42.162Z"
   },
   "trackers": {
     "error": "HTTP 403",

@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=hide.me",
     "tested_at": "2026-11-22T12:39:09.563Z"
   },
-  "scanned_at": "2026-11-22T12:39:10.892Z",
+  "scanned_at": "2026-11-26T14:07:27.003Z",
   "ssllabs": {
-    "grade": "A",
-    "endpoints": 4,
+    "grade": "A+",
+    "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=hide.me&hideResults=on",
-    "tested_at": "2026-11-11T12:02:58.469Z"
+    "tested_at": "2026-11-26T14:07:27.003Z"
   },
   "trackers": {
     "url": "https://hide.me/en/",
