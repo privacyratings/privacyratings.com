@@ -19,9 +19,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=drive.proton.me",
-    "tested_at": "2026-11-14T11:33:35.154Z"
+    "tested_at": "2026-11-27T13:56:34.495Z"
   },
-  "scanned_at": "2026-11-25T14:29:15.379Z",
+  "scanned_at": "2026-11-27T13:56:36.158Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

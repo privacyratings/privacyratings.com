@@ -19,9 +19,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=koofr.eu",
-    "tested_at": "2026-11-14T11:33:24.477Z"
+    "tested_at": "2026-11-27T13:56:29.503Z"
   },
-  "scanned_at": "2026-11-25T14:29:15.103Z",
+  "scanned_at": "2026-11-27T13:56:30.943Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

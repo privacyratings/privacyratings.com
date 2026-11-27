@@ -19,9 +19,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=pirsch.io",
-    "tested_at": "2026-11-14T11:33:41.535Z"
+    "tested_at": "2026-11-27T13:56:41.157Z"
   },
-  "scanned_at": "2026-11-18T13:25:11.113Z",
+  "scanned_at": "2026-11-27T13:56:42.748Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 2,

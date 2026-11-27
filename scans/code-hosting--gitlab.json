@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=gitlab.com",
-    "tested_at": "2026-11-14T11:33:37.995Z"
+    "tested_at": "2026-11-27T13:56:37.909Z"
   },
-  "scanned_at": "2026-11-16T12:53:05.433Z",
+  "scanned_at": "2026-11-27T13:56:38.313Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

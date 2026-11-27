@@ -3,9 +3,9 @@
     "repo": "fastify/fastify",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:30.101Z"
+    "checked_at": "2026-11-27T13:55:56.074Z"
   },
-  "scanned_at": "2026-11-03T01:40:29.820Z",
+  "scanned_at": "2026-11-27T13:55:56.074Z",
   "trackers": {
     "url": "https://fastify.dev",
     "found": [],

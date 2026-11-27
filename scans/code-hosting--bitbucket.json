@@ -9,13 +9,13 @@
   },
   "observatory": {
     "grade": "B",
-    "score": 70,
-    "tests_passed": 9,
+    "score": 75,
+    "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bitbucket.org",
-    "tested_at": "2026-11-14T11:33:37.329Z"
+    "tested_at": "2026-11-27T13:56:36.642Z"
   },
-  "scanned_at": "2026-11-15T12:15:48.273Z",
+  "scanned_at": "2026-11-27T13:56:37.877Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

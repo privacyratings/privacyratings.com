@@ -3,9 +3,9 @@
     "repo": "restify/node-restify",
     "license": "MIT",
     "archived": false,
-    "checked_at": "2026-11-03T01:39:30.722Z"
+    "checked_at": "2026-11-27T13:55:56.835Z"
   },
-  "scanned_at": "2026-11-03T01:40:30.753Z",
+  "scanned_at": "2026-11-27T13:55:56.835Z",
   "trackers": {
     "url": "https://restify.com",
     "found": [

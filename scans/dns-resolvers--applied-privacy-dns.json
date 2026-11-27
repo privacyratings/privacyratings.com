@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=applied-privacy.net",
     "tested_at": "2026-11-22T12:39:19.582Z"
   },
-  "scanned_at": "2026-11-22T12:39:21.062Z",
+  "scanned_at": "2026-11-27T14:01:48.230Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=applied-privacy.net&hideResults=on",
-    "tested_at": "2026-11-12T12:55:25.982Z"
+    "tested_at": "2026-11-27T14:01:48.230Z"
   },
   "trackers": {
     "url": "https://applied-privacy.net/services/dns/",

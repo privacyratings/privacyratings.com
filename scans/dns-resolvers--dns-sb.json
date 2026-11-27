@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dns.sb",
     "tested_at": "2026-11-23T14:45:44.650Z"
   },
-  "scanned_at": "2026-11-23T14:45:44.887Z",
+  "scanned_at": "2026-11-27T14:01:09.012Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dns.sb&hideResults=on",
-    "tested_at": "2026-11-12T12:55:22.944Z"
+    "tested_at": "2026-11-27T14:01:09.012Z"
   },
   "trackers": {
     "url": "https://dns.sb",

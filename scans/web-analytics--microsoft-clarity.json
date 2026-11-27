@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=clarity.microsoft.com",
-    "tested_at": "2026-11-14T11:33:40.780Z"
+    "tested_at": "2026-11-27T13:56:40.586Z"
   },
-  "scanned_at": "2026-11-17T13:43:07.347Z",
+  "scanned_at": "2026-11-27T13:56:40.950Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,

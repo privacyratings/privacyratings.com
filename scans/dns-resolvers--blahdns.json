@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=blahdns.com",
     "tested_at": "2026-11-22T12:39:20.955Z"
   },
-  "scanned_at": "2026-11-26T14:09:32.923Z",
+  "scanned_at": "2026-11-27T13:55:57.160Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

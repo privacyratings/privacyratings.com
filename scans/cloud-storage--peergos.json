@@ -19,9 +19,9 @@
     "tests_passed": 12,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=peergos.org",
-    "tested_at": "2026-11-14T11:33:33.552Z"
+    "tested_at": "2026-11-27T13:56:33.189Z"
   },
-  "scanned_at": "2026-11-25T14:29:15.183Z",
+  "scanned_at": "2026-11-27T13:56:34.475Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

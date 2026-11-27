@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=console.cloud.google.com",
     "tested_at": "2026-11-24T14:55:41.214Z"
   },
-  "scanned_at": "2026-11-24T14:55:41.637Z",
+  "scanned_at": "2026-11-27T14:09:50.570Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 10,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=console.cloud.google.com&hideResults=on",
-    "tested_at": "2026-11-13T12:19:54.538Z"
+    "tested_at": "2026-11-27T14:09:50.570Z"
   },
   "trackers": {
     "url": "https://cloud.google.com",

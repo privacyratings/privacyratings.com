@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=contabo.com",
     "tested_at": "2026-11-24T14:55:34.710Z"
   },
-  "scanned_at": "2026-11-24T14:55:35.388Z",
+  "scanned_at": "2026-11-27T14:09:45.360Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=contabo.com&hideResults=on",
-    "tested_at": "2026-11-12T13:11:10.286Z"
+    "tested_at": "2026-11-27T14:09:45.360Z"
   },
   "trackers": {
     "error": "HTTP 403",

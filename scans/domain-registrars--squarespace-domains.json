@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=domains.squarespace.com",
     "tested_at": "2026-11-23T14:46:11.587Z"
   },
-  "scanned_at": "2026-11-23T14:46:12.573Z",
+  "scanned_at": "2026-11-27T14:11:20.366Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

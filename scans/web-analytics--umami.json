@@ -19,9 +19,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=umami.is",
-    "tested_at": "2026-11-14T11:33:43.244Z"
+    "tested_at": "2026-11-27T13:56:43.340Z"
   },
-  "scanned_at": "2026-11-19T13:40:24.832Z",
+  "scanned_at": "2026-11-27T13:56:43.653Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

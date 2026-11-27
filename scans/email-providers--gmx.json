@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-26T13:57:34.347Z",
+    "tested_at": "2026-11-27T13:56:06.577Z",
     "imap": {
       "host": "imap.gmx.com",
       "port": 993,
@@ -94,7 +94,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.gmx.com",
     "tested_at": "2026-11-16T12:50:04.827Z"
   },
-  "scanned_at": "2026-11-26T13:57:36.927Z",
+  "scanned_at": "2026-11-27T13:56:09.310Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
