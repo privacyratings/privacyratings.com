@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=bandcamp.com",
-    "tested_at": "2026-11-15T11:59:31.984Z"
+    "tested_at": "2026-11-28T13:07:28.845Z"
   },
-  "scanned_at": "2026-11-16T13:02:13.497Z",
+  "scanned_at": "2026-11-28T13:07:29.169Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

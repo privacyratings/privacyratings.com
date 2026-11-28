@@ -14,14 +14,14 @@
     }
   },
   "observatory": {
-    "grade": "B",
-    "score": 70,
+    "grade": "A+",
+    "score": 105,
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=account.ghost.org",
-    "tested_at": "2026-11-15T11:59:42.673Z"
+    "tested_at": "2026-11-28T13:07:31.955Z"
   },
-  "scanned_at": "2026-11-18T13:31:07.372Z",
+  "scanned_at": "2026-11-28T13:07:32.166Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

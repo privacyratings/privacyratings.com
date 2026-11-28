@@ -13,9 +13,9 @@
     "tests_passed": 11,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=ironvest.com",
-    "tested_at": "2026-11-15T11:59:25.934Z"
+    "tested_at": "2026-11-28T13:07:26.759Z"
   },
-  "scanned_at": "2026-11-19T13:38:19.652Z",
+  "scanned_at": "2026-11-28T13:07:27.859Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,

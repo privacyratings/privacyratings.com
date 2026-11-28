@@ -13,9 +13,9 @@
     "tests_passed": 8,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=tidal.com",
-    "tested_at": "2026-11-15T11:59:37.673Z"
+    "tested_at": "2026-11-28T13:07:31.031Z"
   },
-  "scanned_at": "2026-11-17T13:49:57.332Z",
+  "scanned_at": "2026-11-28T13:07:31.687Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

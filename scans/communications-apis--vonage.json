@@ -15,7 +15,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=vonage.com",
     "tested_at": "2026-11-22T12:39:03.995Z"
   },
-  "scanned_at": "2026-11-27T13:55:57.158Z",
+  "scanned_at": "2026-11-28T13:06:51.964Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 1,

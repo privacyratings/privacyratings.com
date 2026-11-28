@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.sketchup.com",
-    "tested_at": "2026-11-15T11:59:25.011Z"
+    "tested_at": "2026-11-28T13:07:25.817Z"
   },
-  "scanned_at": "2026-11-17T13:48:30.971Z",
+  "scanned_at": "2026-11-28T13:07:26.717Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,

@@ -21,12 +21,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=rallly.co",
     "tested_at": "2026-11-25T14:29:24.606Z"
   },
-  "scanned_at": "2026-11-25T14:29:25.190Z",
+  "scanned_at": "2026-11-28T13:19:43.960Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 1,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=rallly.co&hideResults=on",
-    "tested_at": "2026-11-14T11:37:55.930Z"
+    "tested_at": "2026-11-28T13:19:43.960Z"
   },
   "trackers": {
     "url": "https://rallly.co",

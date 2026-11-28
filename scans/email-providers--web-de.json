@@ -34,7 +34,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-26T13:58:16.208Z",
+    "tested_at": "2026-11-28T13:07:34.513Z",
     "imap": {
       "host": "imap.web.de",
       "port": 993,
@@ -93,9 +93,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=web.de",
-    "tested_at": "2026-11-15T11:59:10.254Z"
+    "tested_at": "2026-11-28T13:06:50.787Z"
   },
-  "scanned_at": "2026-11-26T13:58:18.554Z",
+  "scanned_at": "2026-11-28T13:07:36.974Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

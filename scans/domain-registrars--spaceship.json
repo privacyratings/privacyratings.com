@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.spaceship.com",
     "tested_at": "2026-11-23T14:46:11.343Z"
   },
-  "scanned_at": "2026-11-23T14:46:11.518Z",
+  "scanned_at": "2026-11-28T13:13:45.195Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.spaceship.com&hideResults=on",
-    "tested_at": "2026-11-13T12:22:45.672Z"
+    "tested_at": "2026-11-28T13:13:45.195Z"
   },
   "trackers": {
     "error": "HTTP 403",

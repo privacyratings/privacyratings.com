@@ -33,7 +33,7 @@
         "pop3s": null
       }
     },
-    "tested_at": "2026-11-27T13:55:58.336Z",
+    "tested_at": "2026-11-28T13:06:53.149Z",
     "imap": {
       "offered": false
     },
@@ -53,7 +53,7 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=atomicmail.io",
     "tested_at": "2026-11-16T12:50:02.402Z"
   },
-  "scanned_at": "2026-11-27T13:55:58.336Z",
+  "scanned_at": "2026-11-28T13:06:53.149Z",
   "ssllabs": {
     "grade": "A-",
     "endpoints": 4,

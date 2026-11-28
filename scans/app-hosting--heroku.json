@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=dashboard.heroku.com",
     "tested_at": "2026-11-24T14:55:58.041Z"
   },
-  "scanned_at": "2026-11-24T14:55:58.492Z",
+  "scanned_at": "2026-11-28T13:17:18.342Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 12,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=dashboard.heroku.com&hideResults=on",
-    "tested_at": "2026-11-13T12:37:19.933Z"
+    "tested_at": "2026-11-28T13:17:18.342Z"
   },
   "trackers": {
     "url": "https://www.heroku.com",

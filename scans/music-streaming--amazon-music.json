@@ -13,9 +13,9 @@
     "tests_passed": 9,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.amazon.com",
-    "tested_at": "2026-11-15T11:59:30.844Z"
+    "tested_at": "2026-11-28T13:07:28.317Z"
   },
-  "scanned_at": "2026-11-16T13:02:11.312Z",
+  "scanned_at": "2026-11-28T13:07:28.684Z",
   "ssllabs": {
     "grade": "B",
     "endpoints": 9,

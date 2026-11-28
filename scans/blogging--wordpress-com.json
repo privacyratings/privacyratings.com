@@ -19,9 +19,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=wordpress.com",
-    "tested_at": "2026-11-15T11:59:44.846Z"
+    "tested_at": "2026-11-28T13:07:35.635Z"
   },
-  "scanned_at": "2026-11-17T13:46:52.615Z",
+  "scanned_at": "2026-11-28T13:07:36.033Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,

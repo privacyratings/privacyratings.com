@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=app.luadns.com",
     "tested_at": "2026-11-23T14:46:02.278Z"
   },
-  "scanned_at": "2026-11-23T14:46:03.116Z",
+  "scanned_at": "2026-11-28T13:11:12.543Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 2,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=app.luadns.com&hideResults=on",
-    "tested_at": "2026-11-14T11:35:15.231Z"
+    "tested_at": "2026-11-28T13:11:12.543Z"
   },
   "trackers": {
     "url": "https://www.luadns.com",

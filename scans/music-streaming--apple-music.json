@@ -13,9 +13,9 @@
     "tests_passed": 10,
     "tests_quantity": 12,
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=music.apple.com",
-    "tested_at": "2026-11-15T11:59:31.342Z"
+    "tested_at": "2026-11-28T13:07:28.823Z"
   },
-  "scanned_at": "2026-11-16T13:02:12.686Z",
+  "scanned_at": "2026-11-28T13:07:29.669Z",
   "ssllabs": {
     "grade": "A+",
     "endpoints": 6,

@@ -15,12 +15,12 @@
     "report": "https://developer.mozilla.org/en-US/observatory/analyze?host=www.vultr.com",
     "tested_at": "2026-11-16T12:50:15.774Z"
   },
-  "scanned_at": "2026-11-16T12:50:15.975Z",
+  "scanned_at": "2026-11-28T13:18:40.530Z",
   "ssllabs": {
     "grade": "A",
     "endpoints": 4,
     "report": "https://www.ssllabs.com/ssltest/analyze.html?d=www.vultr.com&hideResults=on",
-    "tested_at": "2026-11-14T11:36:20.294Z"
+    "tested_at": "2026-11-28T13:18:40.530Z"
   },
   "trackers": {
     "error": "HTTP 403",
